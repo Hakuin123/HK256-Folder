@@ -7,12 +7,12 @@
 - [搞机工具箱](https://jamcz.com/gjgjx)
 - [鸿蒙工具箱](https://pan.lanzoux.com/u/氢氧化苯)
 - [投屏控制器（64位）](https://jamcz.com/wirecast)
-- MiFlash2020-3-14-0（含注意事项）
+- [MiFlash2020-3-14-0](https://xiaomirom.com/download-xiaomi-flash-tool-miflash)（含注意事项）
 - ADBDriverInstaller.exe
 
 ## ｜收藏吃灰｜
 - [钉钉内网穿透（全平台）](https://github.com/open-dingtalk/dingtalk-pierced-client)
-- Ghelper-v2.6.2.crx
+- [Ghelper-v2.6.2.crx](https://ghelper.net)
 - USB速率表.xlsx
 - [保密文件夹1.0.exe](https://jamcz.com/sfolder)
 
@@ -27,7 +27,7 @@
 - [跳过动态更新时的TPM检查](https://github.com/AveYo/MediaCreationTool.bat/blob/main/bypass11/Skip_TPM_Check_on_Dynamic_Update.cmd)
 
 ## ｜网盘工具｜
-- [伪PanDownload](https://www.lanzou.com/iecFO07cx3ij)
+- [伪PanDownload](https://www.lanzoux.com/iecFO07cx3ij)
 - 阿里云盘变本地硬盘
 - 百度网盘迁移阿里网盘工具
 
@@ -43,16 +43,16 @@
 - [图吧工具箱](http://www.tbtool.cn/)
 - [360驱动大师](http://dm.weishi.360.cn/home.html)（[吾爱破解-单文件版](https://www.52pojie.cn/thread-1650151-1-1.html)）
 - [Geek Uninstaller](https://geekuninstaller.com)
-- [Windows 常用蓝屏代码说明](https://consumer.huawei.com/cn/support/content/zh-cn15760035)（原帖已失效）
+- [Windows 常用蓝屏代码说明.mhtml](https://consumer.huawei.com/cn/support/content/zh-cn15760035)（[原帖](https://consumer.huawei.com/cn/support/content/zh-cn00696456)已失效）
 - Windows管理工具（控制面板提取）
 - [计算机蓝屏怎么办？ _ 华为官网](https://consumer.huawei.com/cn/support/content/zh-cn1580183)
 
 ## ｜系统改造｜
 - [DiskGenius](https://www.diskgenius.cn)
-- [Dism++](https://hub.fastgit.xyz/Chuyu-Team/Dism-Multi-language)
-- [HEU_KMS_Activator](https://hub.fastgit.xyz/zbezj/HEU_KMS_Activator)
-- [LTSC-Add-MicrosoftStore](https://hub.fastgit.xyz/kkkgo/LTSC-Add-MicrosoftStore)（为Win10 Ent LTSC增加应用商店）
-- [NSudo - 系统管理工具包](https://nsudo.m2team.org/zh-hans/)（[GitHub链接](https://hub.fastgit.xyz/M2Team/NSudo)）
+- [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)
+- [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)
+- [LTSC-Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore)（为Win10 Ent LTSC增加应用商店）
+- [NSudo - 系统管理工具包](https://nsudo.m2team.org/zh-hans/)（[GitHub链接](https://github.com/M2Team/NSudo)）
 
 ## ｜下载外挂｜
 - 迅雷PC精简版
