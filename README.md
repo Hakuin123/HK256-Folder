@@ -8,20 +8,20 @@
 - [鸿蒙工具箱](https://pan.lanzoux.com/u/氢氧化苯)
 - [投屏控制器（64位）](https://jamcz.com/wirecast)
 - [MiFlash2020-3-14-0](https://xiaomirom.com/download-xiaomi-flash-tool-miflash)（含注意事项）
-- ADBDriverInstaller.exe
+- [ADBDriverInstaller.exe](http://adbdriver.com)
 
 ## ｜收藏吃灰｜
 - [钉钉内网穿透（全平台）](https://github.com/open-dingtalk/dingtalk-pierced-client)
 - [Ghelper-v2.6.2.crx](https://ghelper.net)
-- USB速率表.xlsx
-- [保密文件夹1.0.exe](https://jamcz.com/sfolder)
+- [USB速率表.xlsx](https://www.jamcz.com/tutorial/usbspeed/)
+- [保密文件夹1.0.exe](https://www.jamcz.com/sfolder)
 
 ## ｜玩转Win11｜
 - [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat)
 - [ViVeTool_GUI](https://github.com/PeterStrick/ViVeTool-GUI)
 - WSA子系统安装教程&资源
-- [WSA子系统助手_V1.0](https://jamcz.com/subassist)
-- AppraiserRes.dll
+- [WSA子系统助手_V1.0](https://www.jamcz.com/subassist)
+- AppraiserRes.dll（Win10 LTSC提取，偷梁换柱win11的iso文件）
 - [OfflineInsiderEnroll【汉化by白隐Hakuin】](https://github.com/Hakuin123/offlineinsiderenroll-zh-hans)
 - [解除微软账户和本地账户绑定【by白隐Hakuin】](https://github.com/Hakuin123/Unbind-MS-Acct-From-LocalAcct)
 - [跳过动态更新时的TPM检查](https://github.com/AveYo/MediaCreationTool.bat/blob/main/bypass11/Skip_TPM_Check_on_Dynamic_Update.cmd)
@@ -35,16 +35,16 @@
 - [360系统急救箱](https://weishi.360.cn/jijiuxiang)
   - 360compkill32
   - 360compkill64
-  - SuperKillerWinPE32
-  - SuperKillerWinPE64
+  - [SuperKillerWinPE32](https://down.360safe.com/SuperKillerWinPE.zip)
+  - [SuperKillerWinPE64](https://down.360safe.com/SuperKillerWinPE64.zip)
 - [Mem Reduct](https://www.henrypp.org/product/memreduct)
 - [SoftCnKiller2.70](https://free.lanzoux.com/b0cpu1guf)
-- 屏蔽flash广告方法（FF新推荐）
+- [屏蔽flash广告方法（FF新推荐）](https://free.lanzoux.com/iazw2yd)
 - [图吧工具箱](http://www.tbtool.cn/)
 - [360驱动大师](http://dm.weishi.360.cn/home.html)（[吾爱破解-单文件版](https://www.52pojie.cn/thread-1650151-1-1.html)）
 - [Geek Uninstaller](https://geekuninstaller.com)
 - [Windows 常用蓝屏代码说明.mhtml](https://consumer.huawei.com/cn/support/content/zh-cn15760035)（[原帖](https://consumer.huawei.com/cn/support/content/zh-cn00696456)已失效）
-- Windows管理工具（控制面板提取）
+- [Windows管理工具](Control Panel\System and Security\Administrative Tools)（控制面板提取）
 - [计算机蓝屏怎么办？ _ 华为官网](https://consumer.huawei.com/cn/support/content/zh-cn1580183)
 
 ## ｜系统改造｜
@@ -67,8 +67,8 @@
     - MEMZ.exe
   - 42.zip
   - MEMZ.exe
-- 冰点密码查看器
-- ToDesk_Setup.exe
+- [冰点密码查看器](https://www.52pojie.cn/thread-1177299-1-1.html)
+- [ToDesk_Setup.exe](https://www.todesk.com/download.html)（[未降画质旧版](https://dl.todesk.com/irrigation/ToDesk_4.2.9.exe)）
 - VMware15 密钥生成器.exe
 - 滑动以关闭电脑.bat
 - 拖堂终结者3.0.xml
