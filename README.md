@@ -5,7 +5,10 @@
 
 全部公开资源来源于网络或由我们原创，我们尽可能标注了其出处。
 
-免责声明：白熊文件夹仅做归档，与资源提供方无关。所有资源仅供学习交流，严禁用于商业用途。
+```
+免责声明：白熊文件夹仅做归档，与资源提供方无关。
+所有资源仅供学习交流，严禁用于商业用途。
+```
 
 ---
 
@@ -52,13 +55,13 @@
 - [Windows 常用蓝屏代码说明.mhtml](https://consumer.huawei.com/cn/support/content/zh-cn15760035)（[原帖](https://consumer.huawei.com/cn/support/content/zh-cn00696456)已失效）
 - [Windows管理工具](Control Panel\System and Security\Administrative Tools)（控制面板提取）
 - [计算机蓝屏怎么办？ _ 华为官网](https://consumer.huawei.com/cn/support/content/zh-cn1580183)
-
+-
 ## ｜系统改造｜
-- [DiskGenius](https://www.diskgenius.cn)
-- [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)
-- [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)
-- [LTSC-Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore)（为Win10 Ent LTSC增加应用商店）
-- [NSudo - 系统管理工具包](https://nsudo.m2team.org/zh-hans/)（[GitHub链接](https://github.com/M2Team/NSudo)）
+- [DiskGenius](https://www.diskgenius.cn) - 数据恢复及分区管理软件
+- [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) - 强大的Windows系统优化工具
+- [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - KMS激活工具
+- [LTSC-Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) - 为Win10 Ent LTSC增加应用商店
+- [NSudo](https://nsudo.m2team.org/zh-hans/) - 系统管理工具包（[GitHub链接](https://github.com/M2Team/NSudo)）
 
 ## ｜下载外挂｜
 - 迅雷PC精简版
@@ -71,7 +74,7 @@
     - 42.zip
     - HEU_KMS_Activator_v25.0.0.exe
     - MEMZ.exe
-  - 42.zip
+  - [42.zip](https://unforgettable.dk) - 压缩包炸弹示例文件（解压密码：42）
   - MEMZ.exe
 - [冰点密码查看器](https://www.52pojie.cn/thread-1177299-1-1.html)
 - [ToDesk_Setup.exe](https://www.todesk.com/download.html)（[未降画质旧版](https://dl.todesk.com/irrigation/ToDesk_4.2.9.exe)）
