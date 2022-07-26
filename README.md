@@ -8,6 +8,7 @@
 ```
 免责声明：白熊文件夹仅做归档，与资源提供方无关。
 所有资源仅供学习交流，严禁用于商业用途。
+请遵循相应资源的版权许可证（如有）。
 ```
 
 ---
@@ -53,7 +54,7 @@
 - [360驱动大师](http://dm.weishi.360.cn/home.html)（[吾爱破解-单文件版](https://www.52pojie.cn/thread-1650151-1-1.html)）
 - [Geek Uninstaller](https://geekuninstaller.com)
 - [Windows 常用蓝屏代码说明.mhtml](https://consumer.huawei.com/cn/support/content/zh-cn15760035)（[原帖](https://consumer.huawei.com/cn/support/content/zh-cn00696456)已失效）
-- [Windows管理工具](Control Panel\System and Security\Administrative Tools)（控制面板提取）
+- [Windows管理工具](https://docs.microsoft.com/zh-cn/windows/client-management/administrative-tools-in-windows-10) - 控制面板提取（Control Panel\System and Security\Administrative Tools）
 - [计算机蓝屏怎么办？ _ 华为官网](https://consumer.huawei.com/cn/support/content/zh-cn1580183)
 -
 ## ｜系统改造｜
@@ -77,7 +78,7 @@
   - [42.zip](https://unforgettable.dk) - 压缩包炸弹示例文件（解压密码：42）
   - MEMZ.exe
 - [冰点密码查看器](https://www.52pojie.cn/thread-1177299-1-1.html)
-- [ToDesk_Setup.exe](https://www.todesk.com/download.html)（[未降画质旧版](https://dl.todesk.com/irrigation/ToDesk_4.2.9.exe)）
+- [ToDesk_Setup.exe](https://www.todesk.com/download.html)（[未降画质旧版](https://dl.todesk.com/irrigation/ToDesk_4.2.9.exe)） - 远程控制软件
 - VMware15 密钥生成器.exe
 - 滑动以关闭电脑.bat
 - 拖堂终结者3.0.xml
