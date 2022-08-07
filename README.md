@@ -16,7 +16,7 @@
 ## ｜安卓搞事｜
 - [搞机工具箱](https://jamcz.com/gjgjx)
 - [鸿蒙工具箱](https://pan.lanzoux.com/u/氢氧化苯)
-- [投屏控制器（64位）](https://jamcz.com/wirecast)
+- [投屏控制器](https://jamcz.com/wirecast)
 - [MiFlash2020-3-14-0](https://xiaomirom.com/download-xiaomi-flash-tool-miflash)（含注意事项）
 - [ADBDriverInstaller.exe](http://adbdriver.com)
 
@@ -56,7 +56,7 @@
 - [Windows 常用蓝屏代码说明.mhtml](https://consumer.huawei.com/cn/support/content/zh-cn15760035)（[原帖](https://consumer.huawei.com/cn/support/content/zh-cn00696456)已失效）
 - [Windows管理工具](https://docs.microsoft.com/zh-cn/windows/client-management/administrative-tools-in-windows-10) - 控制面板提取（Control Panel\System and Security\Administrative Tools）
 - [计算机蓝屏怎么办？ _ 华为官网](https://consumer.huawei.com/cn/support/content/zh-cn1580183)
--
+
 ## ｜系统改造｜
 - [DiskGenius](https://www.diskgenius.cn) - 数据恢复及分区管理软件
 - [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) - 强大的Windows系统优化工具
