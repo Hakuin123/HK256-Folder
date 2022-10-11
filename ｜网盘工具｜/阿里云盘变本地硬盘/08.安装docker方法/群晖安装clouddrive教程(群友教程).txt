@@ -1,0 +1,20 @@
+群晖使用教程，在ssh下开启root账户权限执行，
+
+1、开启MountFlags
+#mkdir -p /etc/systemd/system/docker.service.d/
+#cat <<EOF > /etc/systemd/system/docker.service.d/clear_mount_propagation_flags.conf
+[Service]
+MountFlags=shared
+EOF
+
+2、开启share类型挂载
+sudo mount --make-shared /volume1 
+#黄色部分替换为你需要的，注意不能带后续目录
+
+3、安装docker容器
+sudo docker run --name clouddrive -v /volume1/OD/clouddrive:/CloudNAS:shared -v /volume1/docker/clouddrive/config:/Config -p 9798:9798/tcp --privileged --device /dev/fuse:/dev/fuse -d cloudnas/clouddrive
+#黄色部分可替换，但是一定要和第2步的主路径一致
+#df -h 查看是否挂载成功
+#更新容器的方法，进群晖docker界面停止容器，然后删除容器，再执行一次第三步的代码，即可。
+
+访问http://<ip>:9798

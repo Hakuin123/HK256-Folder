@@ -1,0 +1,276 @@
+{
+  "Version": 1000,
+  "WindowTop": 50,
+  "WindowLeft": 50,
+  "WindowWidth": 1525,
+  "WindowHeight": 860,
+  "IsWindowMaximized": false,
+  "IsMonitoringExpanded": true,
+  "EnabledTemperatureSensors": [
+    {
+      "DeviceName": "CPU [#0]: Intel Celeron G1840: DTS",
+      "Name": "Core 0",
+      "LocationIndex": 0
+    },
+    {
+      "DeviceName": "CPU [#0]: Intel Celeron G1840: DTS",
+      "Name": "CPU Package",
+      "LocationIndex": 0
+    },
+    {
+      "DeviceName": "Intel Celeron G1840",
+      "Name": "CPU Package",
+      "LocationIndex": 0
+    }
+  ],
+  "EnabledVoltageSensors": [
+    {
+      "DeviceName": "Intel Celeron G1840",
+      "Name": "Core 0 VID",
+      "LocationIndex": 0
+    },
+    {
+      "DeviceName": "LENOVO  (Nuvoton NCT6779D)",
+      "Name": "+3.3V (3VCC)",
+      "LocationIndex": 0
+    }
+  ],
+  "EnabledFanSensors": [
+    {
+      "DeviceName": "LENOVO  (Nuvoton NCT6779D)",
+      "Name": "SYSFANIN",
+      "LocationIndex": 1
+    },
+    {
+      "DeviceName": "LENOVO  (Nuvoton NCT6779D)",
+      "Name": "CPUFANIN0",
+      "LocationIndex": 2
+    }
+  ],
+  "EnabledPowerSensors": [
+    {
+      "DeviceName": "Intel Celeron G1840",
+      "Name": "CPU Package Power",
+      "LocationIndex": 0
+    }
+  ],
+  "EnabledCurrentSensors": [],
+  "EnabledFrequencySensors": [
+    {
+      "DeviceName": "Intel Celeron G1840",
+      "Name": "Core 0 Clock",
+      "LocationIndex": 0
+    }
+  ],
+  "EnabledUsageSensors": [
+    {
+      "DeviceName": "System",
+      "Name": "Physical Memory Load",
+      "LocationIndex": 0
+    },
+    {
+      "DeviceName": "Intel Celeron G1840",
+      "Name": "Total CPU Usage",
+      "LocationIndex": 0
+    }
+  ],
+  "EnabledOtherSensors": [],
+  "MonitoringUpdateInterval": 2,
+  "MonitoringUpdateIntervalUnit": "Seconds",
+  "GraphUpdateInterval": 2,
+  "GraphUpdateIntervalUnit": "Seconds",
+  "TemperatureAlertValue": 90,
+  "IsTemperatureAlertValueEnabled": false,
+  "Language": "Auto",
+  "MonitoringTableSize": "*",
+  "MonitoringGraphSize": "*",
+  "Monitoring": true,
+  "TestingGraphSize": "*",
+  "TestingTableSize": "*",
+  "SelectedMonitoringIndex": 0,
+  "SelectedArea": 0,
+  "CheckForUpdates": "Stable",
+  "SaveReportPath": "C:\\Users\\Administrator.SC-202012260133\\Documents",
+  "SaveScreenshotPath": "C:\\Users\\Administrator.SC-202012260133\\Documents",
+  "MotherboardName": "LENOVO ",
+  "SelectedComponentUsage": "系统",
+  "TestingAreaDisplayMode": "TableAndGraph",
+  "TestingAreaSensorClass": "Temperature",
+  "TestingAreaTableConfig": {
+    "SensorGroup": "DeviceType",
+    "SortDescription": {
+      "Direction": 0,
+      "IsSealed": false
+    },
+    "EnabledSensorFilter": "All",
+    "DeviceTypeFilters": [
+      "Cpu",
+      "Gpu",
+      "Motherboard",
+      "Storage",
+      "Memory",
+      "Other"
+    ]
+  },
+  "MonitoringAreaSensorClass": "Temperature",
+  "MonitoringAreaDisplayMode": "TableAndGraph",
+  "MonitoringAreaTableConfig": {
+    "SensorGroup": "DeviceType",
+    "SortDescription": {
+      "Direction": 0,
+      "IsSealed": false
+    },
+    "EnabledSensorFilter": "All",
+    "DeviceTypeFilters": [
+      "Cpu",
+      "Gpu",
+      "Motherboard",
+      "Storage",
+      "Memory",
+      "Other"
+    ]
+  },
+  "RenderMode": 1,
+  "StopOnError": false,
+  "SelectedBenchmark": "CpuBenchmark",
+  "MonitoringEcEnable": true,
+  "MonitoringSmBusEnable": true,
+  "MonitoringGpuI2CEnable": false,
+  "MonitoringDriveScanEnable": false,
+  "MonitoringCsmiSasEnable": false,
+  "MonitoringImeEnable": false,
+  "MonitoringCorsairAsetekEnable": false,
+  "MonitoringDebugModeEnable": false,
+  "AllowOcbaseUpload": true,
+  "Skin": 0,
+  "LicenseExpirationWarningLastDisplay": 999,
+  "SchedulePeriod": {
+    "Duration": "00:30:00",
+    "Version": "800",
+    "IsInfinite": true,
+    "TestType": "CpuOcct",
+    "CpuOcctConfig": {
+      "DataSet": "Large",
+      "OcctInstructionSet": "Auto",
+      "LoadType": "Variable",
+      "Mode": "Normal",
+      "Threads": "Auto",
+      "FixedThreadCount": 2,
+      "StartAtCycle": 1,
+      "AdvancedThreadConfig": {
+        "ThreadSettingsThreads": "Physical",
+        "CycleActiveCore": "Disabled",
+        "SwapActiveCore": "Disabled",
+        "CycleActiveCoreInterval": 3,
+        "CycleActiveCoreIntervalUnit": "Seconds",
+        "SwapActiveCoreInterval": 5,
+        "SwapActiveCoreIntervalUnit": "Seconds",
+        "CoreActive": [
+          0,
+          1
+        ]
+      }
+    },
+    "CpuLinpackConfig": {
+      "Version": "v2019",
+      "Threads": "PhysicalAndVirtual",
+      "Memory": 2048
+    },
+    "MemoryConfig": {
+      "MemoryInPercent": 80,
+      "MemoryMemUnit": "Percent",
+      "Threads": "Auto",
+      "FixedThreadCount": 2,
+      "InstructionSet": "Auto"
+    },
+    "Gpu3dConfig": {
+      "Mode": "ErrorDetection",
+      "UsageLimit": 100,
+      "ShaderComplexity": 3,
+      "GpuIndexes": [],
+      "TestAllGpus": false
+    },
+    "VramConfig": {
+      "GpuIndex": 0,
+      "MemoryInMiB": 0,
+      "MemoryInPercent": 80,
+      "MemoryMemUnit": "Percent"
+    },
+    "PowerSupplyConfig": {
+      "CpuOcctInstructionSet": "Auto",
+      "GpuIndexes": []
+    },
+    "CpuBenchmarkConfig": {
+      "Run": 0,
+      "Threads": "Single",
+      "InstructionSet": "Sse"
+    },
+    "MemoryBenchmarkConfig": {
+      "Run": 0,
+      "BenchmarkType": "Read"
+    }
+  },
+  "BenchSchedulePeriod": {
+    "Duration": "00:30:00",
+    "Version": "800",
+    "IsInfinite": true,
+    "TestType": "CpuBenchmark",
+    "CpuOcctConfig": {
+      "DataSet": "Large",
+      "OcctInstructionSet": "Auto",
+      "LoadType": "Variable",
+      "Mode": "Normal",
+      "Threads": "Auto",
+      "FixedThreadCount": 0,
+      "StartAtCycle": 1,
+      "AdvancedThreadConfig": {
+        "ThreadSettingsThreads": "Physical",
+        "CycleActiveCore": "Disabled",
+        "SwapActiveCore": "Disabled",
+        "CycleActiveCoreInterval": 3,
+        "CycleActiveCoreIntervalUnit": "Seconds",
+        "SwapActiveCoreInterval": 5,
+        "SwapActiveCoreIntervalUnit": "Seconds",
+        "CoreActive": []
+      }
+    },
+    "CpuLinpackConfig": {
+      "Version": "v2019",
+      "Threads": "PhysicalAndVirtual",
+      "Memory": 2048
+    },
+    "MemoryConfig": {
+      "MemoryInPercent": 80,
+      "MemoryMemUnit": "Percent",
+      "Threads": "Auto",
+      "FixedThreadCount": 0,
+      "InstructionSet": "Auto"
+    },
+    "Gpu3dConfig": {
+      "Mode": "ErrorDetection",
+      "UsageLimit": 100,
+      "ShaderComplexity": 3,
+      "GpuIndexes": [],
+      "TestAllGpus": false
+    },
+    "VramConfig": {
+      "GpuIndex": 0,
+      "MemoryInMiB": 0,
+      "MemoryInPercent": 80,
+      "MemoryMemUnit": "Percent"
+    },
+    "PowerSupplyConfig": {
+      "CpuOcctInstructionSet": "Auto",
+      "GpuIndexes": []
+    },
+    "CpuBenchmarkConfig": {
+      "Run": 0,
+      "Threads": "Single",
+      "InstructionSet": "Sse"
+    },
+    "MemoryBenchmarkConfig": {
+      "Run": 0,
+      "BenchmarkType": "Read"
+    }
+  }
+}

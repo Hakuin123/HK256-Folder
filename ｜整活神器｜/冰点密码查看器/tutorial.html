@@ -1,0 +1,146 @@
+<html>
+<head>
+  <title>Meltdown :: Deep Freeze Password Recovery</title>
+  <meta charset='UTF-8' />
+  <link href='tutorial_files/main.css' rel='stylesheet' type="text/css" />
+</head>
+
+<body>
+  <div id='main'>
+    <div id='heading'>
+      <div class='inner'>
+        <h1>Meltdown: Deep Freeze Password Recovery</h1>
+      </div>
+    </div>
+
+    <div class='subpage' id='content'>
+      <h2 id='introduction'>Introduction</h2>
+
+      <p>This tool exploits several design flaws in Faronics DeepFreeze products and allows user gain access to
+      DeepFreeze configuration interface on client machine. Full source code for v1.0 is provided, feel free to 
+      use it and abuse it in any way you like.<br /></p>
+
+      <h2 id='what_is_deepfreeze'>What is DeepFreeze</h2>
+
+      <div class='faqs'>
+        Faronics Deep Freeze helps eliminate workstation damage and downtime by making computer configurations
+        indestructible. Once Faronics Deep Freeze is installed on a workstation, any changes made to the computer -
+        regardless of whether they are accidental or malicious - are never permanent.<br />
+        <div id='src'>
+          Source: <a href="http://www.faronics.com/">Faronics website</a>
+        </div>
+      </div>
+
+      <h2 id='using_meltdown'>Using Meltdown</h2>
+
+      <p>Just run it! It's that simple. Meltdown will automatically detect if DeepFreeze is installed, which version it
+      is and whether it is Standard or Enterprise edition.</p>
+
+      <h3 id='standard_edition'>Standard Edition</h3>
+
+      <p>When Meltdown detects DeepFreeze Standard Edition, it will automatically determine and show DeepFreeze
+      password.<br />
+      <img src="tutorial_files/meltdown_std.png" /><br /></p>
+
+      <strong>Recovering passwords for Deep Freeze Standard 8.x is not supported.</strong><br />The security issue Meltdown was 
+      using has been fixed by Faronics.<br />      
+
+      <h3 id='enterprise_edition'>Enterprise Edition</h3>
+
+      <p>When Meltdown detects a recent DeepFreeze Enterprise Edition, it will try to automatically generate the correct 
+      password for you. As simple as that:<br />
+      <img src="tutorial_files/meltdown17.png" /><br /></p>
+
+      <p>In case you are running an old version of DeepFreeze Enterprise (older than 7.20), the process isn't fully
+      automatic. First, Meltdown will try to locate <code>dfc.exe</code> which is installed in SYSTEM32 folder. 
+      Then it will extract "Customization Code Hash" - 32bit integer that uniquely identifies Deep Freeze deployment.</p>
+
+      <div class='faqs'>
+        The Customization Code is a unique identifier that encrypts the Configuration Administrator, the Enterprise
+        Console, the computer installation files, the One Time Password Generation System, and Deep Freeze Command Line
+        Control.<br />
+        <div id='src'>
+          Source: <a href="http://www.faronics.com/assets/DFE_Manual.pdf">Faronics Deep Freeze Enterprise Manual</a>
+        </div>
+      </div>
+      Once Customization Code Hash is recovered, Meltdown will be able to generate One Time Passwords. To do that:
+
+      <ol>
+        <li>Open DeepFreeze Client:
+
+          <div class='faqs'>
+            If the Deep Freeze icon is shown in the System Tray, hold down the SHIFT key and double-click the Deep
+            Freeze icon. If the Deep Freeze is running in Stealth Mode and if the Deep Freeze icon is not displayed,
+            the keyboard shortcut CTRL+ALT+SHIFT+F6 must be used to access the logon dialog.
+            <div id='src'>
+              Source: <a href="http://www.faronics.com/assets/DFE_Manual.pdf">Faronics Deep Freeze Enterprise Manual</a>
+            </div>
+          </div>
+        </li>
+
+        <li>Write down OTP Token:<br />
+        <img src="tutorial_files/otp_token.png" /><br />
+        </li>
+
+        <li>Enter OTP Token in Meltdown and press Generate. Meltdown will generate password for you:<br />
+        <img src="tutorial_files/meltdown_ent.png" /><br /></li>
+      </ol>
+
+      <h2 id='system_requirements'>System Requirements</h2>
+
+      <p>I tried to make it as compatible as possible with different systems and keep it user-friendly at the same
+      time. Unfortunately, compatibility requires some sacrifices..</p>
+
+      <ul class='compact'>
+        <li>Tested: Deep Freeze Standard/Enterprise 6.00..8.31 on 32bit WinXP, 32bit Win7, 64bit Win7</li>
+
+        <li>Partially tested : Deep Freeze Standard Server/Enterprise Server 7.10..7.60 on 32bit Win2003, 64bit
+        Win2008</li>
+
+        <li>Limited testing on Windows 8, 8.1, 10</li>
+      </ul>
+      <strong>Recovering passwords for Deep Freeze Standard 8.x is not supported.</strong> The security issue Meltdown 
+      was using has been fixed by Faronics.<br />      
+      Recovering permanent passwords for Enterprise edition is not supported (as it would require recovering 
+      Customization Code Hash anyway). Use the provided One Time Password generator instead.<br />
+      Some older versions of DeepFreeze (7.00..7.20) check process name. Meltdown executable <b>must</b> be named
+      <code>MeltdownDFC.exe</code> to work properly on those systems.<br />
+
+
+      <h2 id='whats_new'>What's New?</h2>
+      <p>v1.7 - Fix confusing error message for DeepFreeze Standard 8.x. Automatic password generation for DeepFreeze Enterprise 7.20+<br />
+      v1.6 - Support for Deep Freeze Enterprise 8.31<br />
+      v1.5 - Support for Deep Freeze Enterprise 8.11-8.22<br />
+      v1.3 - Fixed issues with 64bit OS<br />
+      v1.2 - Fixed bug when Windows is not installed on drive C:\<br />
+      v1.1 - Added support for DF Enterprise v5.x. Fixed Standard/Enterprise version detection for v6.x<br />
+      v1.0 - Initial version.<br />
+      <p>
+
+
+      <h2 id='credits'>Credits</h2>I would like to thank previous researchers who published their findings:
+
+      <ul class='compact'>
+        <li><a href=
+        "http://web.archive.org/web/20121215215911/http://usuarios.arnet.com.ar/fliamarconato/pages/emanual.html">Deep
+        Freeze Unfreezer by Emiliano Scavuzzo</a></li>
+
+        <li><a href="http://bbs.pediy.com/archive/index.php?t-46153.html">Description of DF password encryption
+        algorithm by Figo</a></li>
+
+        <li><a href="http://www.at4re.com/download.php?view.8">Anti Deep Freeze by AT4RE</a></li>
+
+        <li><a href="http://forum.tuts4you.com/topic/26161-moddedmagic-deep-freeze-console-mdfc/">Modded/Magic Deep
+        Freeze Console by cynent</a></li>
+      </ul>
+      And a big &laquo;Thank you!&raquo; to people who sent me bug reports. Without you, bugs would never get fixed!
+    </div><!--end content-->
+  </div><!--end main-->
+
+  <div id='footer'>
+    <p class='part-1'>(c) 2013-2016, kao &lt;kao.was.here@gmail.com&gt;</p>
+
+    <p class='part-2'>Feel free to use this information any way you like but give credit where credit is due.</p>
+  </div>
+</body>
+</html>

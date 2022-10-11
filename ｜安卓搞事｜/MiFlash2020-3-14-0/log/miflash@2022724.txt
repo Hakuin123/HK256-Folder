@@ -1,0 +1,21 @@
+[17:45:35]:open RegistryKey Software\XiaoMi\MiFlash\
+[17:45:35]:create RegistryKey Software\XiaoMi\MiFlash\
+[17:46:00]:install driver I:\白熊文件夹\｜安卓搞事｜\MiFlash2020-3-14-0\Source\ThirdParty\Google\Driver\android_winusb.inf to C:\Windows\INF\oem39.inf,result True,GetLastWin32Error 
+[17:46:04]:set RegistryKey value:android_winusb.inf--oem39.inf
+[17:46:05]:mkdir "C:\Users\Administrator\.android"
+[17:46:05]:output:子目录或文件 C:\Users\Administrator\.android 已经存在。
+
+[17:46:06]: echo 0x2717 >>"C:\Users\Administrator\.android\adb_usb.ini"
+[17:46:06]:output:
+[17:46:06]:open RegistryKey Software\XiaoMi\MiFlash\
+[17:46:28]:install driver I:\白熊文件夹\｜安卓搞事｜\MiFlash2020-3-14-0\Source\ThirdParty\Nvidia\Driver\NvidiaUsb.inf to C:\Windows\INF\oem40.inf,result True,GetLastWin32Error 
+[17:46:28]:set RegistryKey value:NvidiaUsb.inf--oem40.inf
+[17:46:28]:open RegistryKey Software\XiaoMi\MiFlash\
+[17:47:03]:install driver I:\白熊文件夹\｜安卓搞事｜\MiFlash2020-3-14-0\Source\ThirdParty\Microsoft\Driver\tetherxp.inf to C:\Windows\INF\oem41.inf,result True,GetLastWin32Error 
+[17:47:03]:set RegistryKey value:tetherxp.inf--oem41.inf
+[17:47:03]:open RegistryKey Software\XiaoMi\MiFlash\
+[17:47:38]:install driver I:\白熊文件夹\｜安卓搞事｜\MiFlash2020-3-14-0\Source\ThirdParty\Microsoft\Driver\wpdmtphw.inf to C:\Windows\INF\oem42.inf,result True,GetLastWin32Error 
+[17:47:38]:set RegistryKey value:wpdmtphw.inf--oem42.inf
+[17:47:38]:open RegistryKey Software\XiaoMi\MiFlash\
+[17:48:07]:install driver I:\白熊文件夹\｜安卓搞事｜\MiFlash2020-3-14-0\Source\ThirdParty\Qualcomm\Driver\qcser.inf to C:\Windows\INF\oem43.inf,result True,GetLastWin32Error 
+[17:48:07]:set RegistryKey value:qcser.inf--oem43.inf

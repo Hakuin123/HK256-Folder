@@ -1,0 +1,763 @@
+
+ 软件名称：HEU KMS Activator 
+ 软件类型：绿色软件/免费软件
+ 软件语言：简体中文/繁体中文/英文
+ 软件版本：25.0.0
+ 运行环境：Windows XP及以上
+ 作者网站：www.heu8.com(未开放)
+ 作    者：知彼而知己
+ 更新时间：2022-07-18
+ 微信公众号: heu168
+ 备用公众号：heu168yyds
+
+更新日志：
+[2022.07.18] v25.0.0 更新说明：
+   1.优化激活信息备份还原功能。
+   2.优化KMS激活。
+   3.增加Windows11版本转换功能。
+   4.修复更换密钥后，系统版本显示错误的bug。
+
+   文件: HEU_KMS_Activator_v25.0.0.exe
+   SHA1: 54572C45E9025AAA57BD78656F76BEB842EC6180 
+
+[2022.07.05] v24.6.5 更新说明：
+   1.修复英文版启动报错的bug。
+   2.修复数字激活卡OOBE的bug。
+   3.查看密钥功能显示密钥后5位。
+   4.取消KMS38激活需要联网的要求。
+
+   文件: HEU_KMS_Activator_v24.6.5.exe
+   SHA1: E32A0ABE79376A7C687CAEF18F2E88ED33E2E25E
+
+[2022.06.27] v24.6.4 更新说明：
+   1.新增Windows11 IoTEnterpriseS的KMS激活。
+   2.可自定义软件同目录下配置文件Set.ini。
+     — 修改激活日志生成目录(自定义路径)：
+         [LogInst]
+         log="D:\Log"
+     — 修改临时文件释放目录(自定义路径)：
+         [Tempfolder]
+         temp="C:\Windows"
+   3.自动跳过EnterpriseG/EnterpriseG(N)的400年激活。
+   4.对部分激活错误代码，提供参考建议。
+     
+   文件: HEU_KMS_Activator_v24.6.4.exe
+   SHA1: 057EDEA51B8356AB20A87EF2133C6204EB561AF6
+
+[2022.05.25] v24.6.3 更新说明：
+   1.解决最新的Office“盗版受害者”弹窗问题。
+     
+   文件: HEU_KMS_Activator_v24.6.3.exe
+   SHA1: E2C39784CFEC75654D74F232CB6738D4400AF8D9
+
+[2022.05.16] v24.6.2 更新说明：
+   1.修复Office C2R Retail转VL的bug。
+   2.修复"Office永久激活"显示组件错误问题。
+   3.修复Microsoft 365订阅激活跳过失败的bug。
+   4.更新内置的Office完全移除工具。
+     
+   文件: HEU_KMS_Activator_v24.6.2.exe
+   SHA1: B9405FB46CCDF1EC226FC34D6A4B76CFE1F590E5
+
+[2022.01.17] v24.6.1 更新说明：
+   1.修复ARM64架构下激活失败的Bug。
+   2.修复Office UWP激活后仍有盗版提示的弹窗。
+   
+   文件: HEU_KMS_Activator_v24.6.1.exe
+   SHA1: 6375D61442698AA57FFD56DA26CE09661504AC8C
+
+[2021.12.27] v24.6.0 更新说明：
+   1.修复激活Office 2013时报错的bug。
+   2.修复跳过Office 2021 VL版永久激活失败的bug。
+   
+   文件: HEU_KMS_Activator_v24.6.0.exe
+   SHA1: 00506E7AE8F1C84BC24EE7F4E053D9F2393626D6
+
+[2021.11.19] v24.5.0 更新说明：
+   1.修复CloudE版本激活失败的问题。
+   2.新增Win10 IoT Enterprise 2021 LTSC数字权利/KMS38激活。
+   3.新增Win10 Enterprise 2021 LTSC数字权利(安装IoT Enterprise密钥)激活。
+   4.更新Office完全卸载工具OfficeScrubber7。
+
+   文件: HEU_KMS_Activator_v24.5.0.exe
+   SHA1: 6BF4698E7ED0AAE750D1B0E38E40D5EA99C78B71
+
+[2021.11.15] v24.4.1RP 更新说明：
+   1.激活失败时增加错误代码。
+   2.修复"激活Office2021"提示非VL版的显示错误问题。
+   3.修复Windows11中显示成Windows10的Bug。
+   4.修复某些情况下KMS38激活失败的Bug。
+   5.添加Office官方卸载工具(其他页面"Remove_Office")。
+   6.优化代码，提高执行的效率。
+
+   文件: HEU_KMS_Activator_v24.4.1RP.exe
+   SHA1: 1DB04A58C13CF49F651A8C514BDE2200FF0E58CA
+
+[2021.10.25] v24.4.1Beta 更新说明：
+   1.Win11 22483砍掉了WMIC，修复KMS激活失败的问题。
+
+   文件: HEU_KMS_Activator_v24.4.1Beta.exe
+   SHA1: 7BD9114B8CABA8AE15B7C06A0944BFABE48359AD
+
+
+[2021.10.11] v24.4.0更新说明：
+   1.支持Windows Server 2022 OEM激活。
+   2.修复VisioPro2021 RTM版激活后显示Preview的bug。
+   
+   文件: HEU_KMS_Activator_v24.4.0.exe
+   SHA1: EFB8D398AEFF96DDB1C8D60AFC353B3B248EE299
+
+
+[2021.09.16] v24.3.0更新说明：
+   1.修复Win11中Office C2R转VL的bug。
+   2.增加重建Tokens功能（激活错误代码0xC004E015、0xC004F017时使用）。
+   
+   文件: HEU_KMS_Activator_v24.3.0.exe
+   SHA1: F868D0A9D27D27DADF742B278045BB347FD589F5
+
+[2021.08.30] v24.2.0更新说明：
+   1.支持Windows Server 2022 KMS激活。
+   2.支持Office 2021。
+   2.修复Office转VL的bug。
+
+   文件: HEU_KMS_Activator_v24.2.0.exe
+   SHA1: 6D35E1C1281D90D6005A686A3E0A241F0CEB90D7
+
+[2021.07.24] v24.1.0更新说明：
+   1.修复32位系统报错的bug。
+   2.修复启动时报错的bug。
+
+   文件: HEU_KMS_Activator_v24.1.0.exe
+   SHA1: FF270C26E2898C891D0FD08C47E887A36D304741
+
+[2021.07.14] v24.0.0更新说明：
+   1.主页面UI修改为圆角。
+   2.修复UEFI+MBR下判断启动模式错误的bug。
+   3.优化"Office非正版横幅/弹窗修复"功能（无需更改通道）。
+
+   文件: HEU_KMS_Activator_v24.0.0.exe
+   SHA1: CB5F00464CB5DC81300ED4379FFA145BC4224C44
+
+[2021.06.06] v23.1.0更新说明：
+   1.英文翻译修正。
+   2.增强"Office非正版横幅/弹窗修复"功能。
+   3.修复一些微小bug。
+   
+   文件: HEU_KMS_Activator_v23.1.0.exe
+   SHA1: BB9A2B689591ACCF5C7322819A301DBA69632E43
+
+[2021.04.28] v23.0.0更新说明：
+   1.新UI设计，智能激活新增自定义设置。
+   2.增加Office UWP版本自动转VL功能。
+   3.增加"修复Office非正版提示横幅"功能(其他页面"Fix_Banner")。
+   4.修复某些系统中文字无法显示的bug。
+   5.提高智能激活的速度。
+   6.Office 转VL版时，如果检测到Mondo证书是手动安装的，将不再自动清除。
+   
+   文件: HEU_KMS_Activator_v23.0.0.exe
+   SHA1: 8A1701A2A9CB891155EC41B8D0EBED8D7F7FE7DF 
+
+[2021.03.31] v22.3.0更新说明：
+   1.修复Office HomeBusiness/HomeStudent转VL版时出现多个证书的bug。
+   2.支持激活Office UWP版本。
+   3.集成Office完全卸载工具Office Scrubber以及微软官方卸载工具。
+   4."其他页面"中新增"安装确认ID"、"查看安装ID"功能。
+
+   文件: HEU_KMS_Activator_v22.3.0.exe
+   SHA1: AB7426EFB34B85614427C62A7752D15E6A23FC29 
+
+[2021.03.20] v22.2.0更新说明：
+   1.修复OEM激活时OEM ID识别错误的bug。
+   2.修复OEM激活Server 2012 R2/2016/2019的bug，增加模式7。
+   3.修复生成$OEM$文件夹的错误。
+   4.修复系统部署阶段使用数字权利激活失败的bug。
+   5.优化"智能激活"功能。
+   6.KMS激活支持ARM64。
+   7.增加静默参数/kd1 /kd2用于KMS激活模式的设置。
+
+   文件: HEU_KMS_Activator_v22.2.0.exe
+   SHA1: C76A604059FCCF197F730578961AC1B1F52D6494
+
+[2021.02.07] v22.1.0更新说明：
+   1.修复"激活Office"按钮激活Office 2021 Preview成功但显示错误的问题。
+   2.新增Windows Server 2022 Preview KMS/KMS38激活。
+   3.生成日志修改为手动点击右上角"设置-日志"按钮。
+
+   文件: HEU_KMS_Activator_v22.1.0.exe
+   SHA1: FEBF52E535F5BDCFCC8B587EA768051B0245BA9F
+
+[2021.02.03] v22.0.0更新说明：
+   1.修复Office 203~2019 C2R 转VL的bug。
+   2.修复智能激活Win7企业版失败的bug。
+   3.修复激活信息备份还原出错的bug。
+   4.修复v21部分环境下激活失败的bug。
+   5.自动续订模式分为模式1/模式2。
+   6.Vista/XP系统下增加自动续订模式1。
+   7.转化VL版、永久激活的Office增加提示。
+   8.修改静默参数/? /kwi /kof /ren /unr /dig /k38 /oem /lok /reb /nologo
+   9.日志默认保留在目录C:\Windows\HEU22_Debug.txt
+  
+   文件: HEU_KMS_Activator_v22.0.0.exe
+   SHA1: 7D6E8F00857849E3F3E4A89B5431D399BA743D8C
+
+[2021.01.24] v21.0.0更新说明：
+   1.优化内存占用高的问题。
+   2.智能激活功能中OEM激活仅保留"硬激活"。
+   3.修复系统WMIC失效时激活失败的问题。
+   4.修复"智能激活"无法激活Office 2021 Preview的问题。
+   5.修复部分环境下启动慢的问题。
+   6.增强"查看密钥"功能。
+   7.增强Office(C2R/MSI版)转换VL版的功能。
+   8.提高Office安装目录的识别速度。
+   9.优化数字权利激活,并增加ARM64支持。
+   10.增加静默参数 "/reboot" 重启计算机。
+
+   文件: HEU_KMS_Activator_v21.0.0.exe
+   SHA1: 3C54BCEAC2D31D1EA67DFCB18364C53FAE227939
+
+
+[2020.12.17] v20.0.0更新说明：
+   1.采用全新的UI设计。
+   2.优化KMS服务器。
+   3.修复旧版中"查看密钥"功能错误的bug。
+
+   文件: HEU_KMS_Activator_v20.0.0.exe
+   SHA1:203A41698EAA8CF04EE77275A14C1AA0DF186D16
+
+
+[2020.11.22] v19.6.4（“迷你”版）更新说明：
+   1.恢复【高级】中Windows10版本转化功能。
+   2.优化OEM激活、智能激活。
+   3.修复繁体中文/英文中智能激活无法安装续期的bug。
+   4.增加LTSC 2019数字权利激活。
+
+   文件: HEU_KMS_Activator_v19.6.4.exe
+   SHA1: 01C1F0DEBF7C81562C9CA48994793AE94B251117
+
+[2020.07.21] v19.6.3（“迷你”版）更新说明：
+   1.修复智能激活时KMS38失败的bug。
+   2.修复使用参数/oem时安装OEM证书错误的bug。
+   3.修复Office365HomePrem安装VL证书的bug。
+   4.修复"查看MS Office激活状态"的bug。
+   5.修复点击某些按钮后，自动续订模式失效的问题。
+   6.修复静默参数"/lock"报错的bug。
+   7.删除【高级】中Windows10版本转化功能。
+   8.增加查看OA3主板密钥功能，见【高级】中下拉菜单ViewKey。
+
+   文件: HEU_KMS_Activator_v19.6.3.exe
+   SHA1: 8E77E77EEB66130BF8B34B9E4E46A37E4FBD3D9D
+
+[2020.06.06] v19.6.2（“迷你”版）更新说明：
+   1.自动在本工具同目录下生成日志heukms-debug.txt，便于调试。
+   2.优化UEFI环境下OEM激活。
+   3."简体中文/繁体中文/English"三种语言界面切换，根据系统语言自动识别。
+
+   文件: HEU_KMS_Activator_v19.6.2.exe
+   SHA1: 6AC885FD76735FFE78AD0A2FFDDACCDD1A102F6C
+
+[2020.05.10] v19.6.1（“迷你”版）更新说明：
+   1.删除KMS备用模式3，修复OEM备用模式6无法选择的问题。
+   2.在Legacy/UEFI BIOS环境中，全面支持Windows 7/Server 2008(R2)/2012(R2)/2016/2019 OEM激活。
+   3.优化程序，更换图标，解决少部分杀毒软件误报问题。
+   
+   文件: HEU_KMS_Activator_v19.6.1.exe
+   SHA1: E62C021539D65C85042C4D9A2AAE5273A0BB22E0
+
+[2019.9.25] v19.6.0（“迷你”版）更新说明：
+   1.增加Vista/Win7/Server 2008 (R2)/2012 (R2) OEM激活(支持Legacy/UEFI BIOS)。 
+   2.“永久使用Windows+Office”按钮，智能判断激活方式，依次是数字权利/KMS38/OEM/KMS。
+   3.增加KMS/OEM备用模式（左下角Logo）。
+   4.Office Retail自动转VL后，下次激活时不再安装VL证书。
+   5.增加Win10 IoT Enterprise数字许可证激活。
+   6.KMS38激活后，自动添加保护，以免失效。
+   7.Win7以上系统增加任务栏进度显示，窗体置顶。
+   8.增加静默参数/lock /oem。
+   
+   文件: HEU_KMS_Activator_v19.6.0.exe
+   SHA1: C8DA3112AEC96C69874B08A34E9ADB7245BABDE3
+
+[2019.8.19] v19.5.1（“迷你”版）更新说明：
+   1.优化激活信息备份还原工具。
+   
+   文件: HEU_KMS_Activator_v19.5.1.exe
+   SHA1: 358EAD5466FD6F67545CD77D87D541235449558F
+
+[2019.8.17] v19.5.0（“迷你”版）更新说明：
+   1.跳过已KMS38激活的Windows 10。
+   2.增加“添加/解除 KMS38激活保护”功能(详见【高级】菜单)。
+   3.去除Windows XP下激活Office时弹出防火墙的提示。
+   4.修复Windows XP下自动续期任务计划无法删除的问题。
+   5.修复LTSC 2019/Server Standard KMS38激活识别错误问题。
+   6.程序优化。
+   
+   文件: HEU_KMS_Activator_v19.5.0.exe
+   SHA1: 3509FFC9194B6D5F4F67C6FAF261F78F991BA466
+
+[2019.7.30] v19.4.0（“迷你”版）更新说明：
+   1.解决Office2016/2019 Retail版更改默认安装路径转换VL版失败问题。
+   2.自动续期功能调整为"自动续订"、"任务计划"两种模式。
+   3.解决KMS38激活失败需重置并重启后激活才生效的问题。
+   4.Office自动转化为VL版时自动跳过已永久激活的Office Retail版。
+   5.增加Office 2019/2016 Home/Personal版的激活(自动转化为Standard版)。
+   6.增加可在线激活的KMS服务器地址(详见【附加】菜单)。
+   7.按钮调整，静默参数调整。
+   8.软件启动时显示logo，使用静默参数时可选择是否显示logo。
+
+   文件: HEU_KMS_Activator_v19.4.0.exe
+   SHA1: 79330D4E92DF545DCD716A17449CD5380583220C
+
+[2019.6.23] v19.3.0（“迷你”版）更新说明：
+   1.修复Win7系统下任务计划报错的bug。
+   2.修复Office 2010/2013 C2R版本识别错误的bug。
+   3.修复某些情况下点击按钮无效，需重启软件的bug。
+   4.点击“安装/卸载续期任务计划”时，增加提示说明。
+
+   文件: HEU_KMS_Activator_v19.3.0.exe
+   SHA1: 6CE79DD57C7B5B99C19ED7A1D6E156A23707052E
+
+[2019.6.9] v19.2.0（“迷你”版）更新说明：
+   1.优化自动续期的设置。(如果过了计划开始时间，立即启动任务)
+   2.修改静默参数。(详见【简介】菜单或使用参数“/?”查看)
+   3.增加密钥安装、卸载功能。(【高级】菜单中间的下拉菜单WinKey/OffKey/DelWKey/DelOKey)
+   4.增加Windows10许可证安装/重建功能。(【高级】菜单中间的下拉菜单Licence/Rebuild)
+   5.增加“Office 365自动安装Mondo许可证并激活”功能。
+   6.增加“生成$OEM$文件夹”功能。(【高级】菜单中间的下拉菜单OEM)
+   7.增加LTSB 2015(数字)，LTSB 2016(数字/KMS38)，LTSC 2019(KMS38)的激活。
+
+   文件: HEU_KMS_Activator_v19.2.0.exe
+   SHA1:15333E458A7B6F494DBF3DDE51825DB55556851B 
+
+[2019.5.2] v19.1.0（“迷你”版）更新说明：
+   1.修复“检查Office激活状态”按钮提示错误问题。
+   2.修复自动续期失败的bug。
+   3.修复某些版本提示“Office2019Preview已过期”的bug。
+   4.增加Office 2010/2013 单个组件的VL证书。
+   5.在【高级】菜单中增加Win10 数字许可证激活(感谢原创作者@s1ave777)。
+   6.在【附加】菜单中增加KMS计算机端口输入框。
+
+   文件: HEU_KMS_Activator_v19.1.0.exe
+   SHA1: 2DB58430779EF10A661B97284BC41BF53575A280
+
+[2019.4.5] v19.0.0（“迷你”版）更新说明：
+   1.新增Office 2019的激活功能，自动将Retail版并转化为VL版。
+   2.新增Office 2016 Click To Run版本激活功能。
+   3.修复Windows 10 14393及以上版本识别GVLK错误问题。
+   4.新增Office VL证书手动选择安装、清除功能。
+   5.自动续期功能由"Windows服务"修改为"Windows任务计划"。
+   6.激活信息备份/还原功能，修改为窗口手动操作。
+   7.修复在x64系统中Office 2010转VL版失败问题。
+   8.优化激活程序，执行速度更快捷。
+   9.取消繁体中文和英文，并修改主程序图标。
+   
+   文件: HEU_KMS_Activator_v19.0.0.exe
+   SHA1: 125EF34870CC2B0F72488A0A902DD2C1FE16D206
+
+[2016.6.14] v11.2.0（“迷你”版）更新说明：
+   1.修复Office2016零售版证书安装识别错误问题。
+
+   文件: HEU_KMS_Activator_v11.2.0.exe
+   SHA1: 47BDE7AB37BADEBD731C3F8579BB3BB15B773163
+
+[2016.6.6] v11.1.0（“迷你”版）更新说明：
+   1.修复Office 2016 VOL版识别错误。
+   2.修复激活信息备份出现空文件夹问题。
+
+   文件: HEU_KMS_Activator_v11.1.0.exe
+   SHA1: 84C2958686051947F4BAAF2CCA8CCA9C2D382FFE
+
+[2016.6.5] v11.0.0（“迷你”版）更新说明：
+   1.增加对Office 2016 RTM版的激活。
+   2.修复v10.0版本自动续期问题。
+   3.取消“一键激活(ALL)并自动续期”按钮。
+
+   文件: HEU_KMS_Activator_v11.0.0.exe
+   SHA1: B7E2D90212D7BCAC50FBCD967E2108EFBF20E09A
+
+[2015.7.11] v10.0.0（“迷你”版）更新说明：
+   1.增加对Windows 10 RTM版的支持。
+
+   文件: HEU_KMS_Activator_v10.0.0.exe
+   SHA1: 6334D3438186A114299F68EDBD819BF9DF1F2766 
+
+[2014.10.23] v7.8.8（“迷你”版）更新说明：
+   1.修复自动续期失败问题。
+
+   文件: HEU_KMS_Activator_v7.8.8.exe
+   SHA1: C029A8C3564BB37DB28662EA2D825428FD37CD05
+
+[2014.10.13] v7.8.7（“迷你”版）更新说明：
+   1.修复由于更改Windows密钥导致续期失败的问题。
+   2.增加对Windows 10 Technical Preview的支持。
+
+   文件: HEU_KMS_Activator_v7.8.7.exe
+   SHA1: 482AE77A3125ECC7537DF9926317570005C9CA4B
+
+
+[2014.4.29] v7.8.6（“迷你”版）更新说明：
+   1.去除“默认主页设置”的复选框。
+   2.集成以往激活率较高版本的优势。
+   3.自动续期采用：Windows服务+任务计划，提高成功率。
+   4.修改静默参数为：/s、/i、/u，详见“教程”标签。
+
+   文件: HEU_KMS_Activator_v7.8.6.exe
+   SHA1: 241696DED7AA624E2271EAA5706180BCA52F8495
+
+[2014.4.14] v7.8.5（“迷你”版）更新说明：
+   1.修复繁体界面字体问题。
+   2.修复Office 2010判断激活错误。
+   3.修复Office 2010在Win8.1激活失败问题。
+   4.取消退出程序时的弹窗。
+
+   文件: HEU_KMS_Activator_v7.8.5.exe
+   SHA1: 663BE3A2155417AE36359A35FCCF6244C1943372
+
+[2014.3.6] v7.8.4（“迷你”版）更新说明：
+   1.增加激活信息备份还原功能(左下角图标)。
+   2.修复安装续期服务出现的路径错误问题。
+   3.修改图标。
+
+   文件: HEU_KMS_Activator_v7.8.4.exe
+   SHA1: 9E99744439DD7ABC1CB8C69ABC84EE36AB0F4885
+
+[2014.1.28] v7.8.3（“迷你”版）更新说明：
+   1.修复静默参数错误问题。
+   2.修复自动续期服务问题。
+   3.修复某些情况下激活失败问题。
+   4.自动识别“简中/繁中/英文”，其他语言系统默认为英文。
+
+   文件: HEU_KMS_Activator_v7.8.3.exe
+   SHA1: 8D5C58F340CA5435ED645C379A79A6A88632B15F
+
+[2014.1.18] v7.8.2（“迷你”版）更新说明：
+   1.修复部分机器激活时出现0xC004F074的错误。
+
+   文件: HEU_KMS_Activator_CH_v7.8.2.exe
+   SHA1: E127BEB1E1BB8F75A20B9F6E05B70B8003AE04BF
+
+[2014.1.10] v7.8.1（“迷你”版）更新说明：
+   1.修复若干已知BUG。
+
+   文件: HEU_KMS_Activator_CH_v7.8.1.exe
+   SHA1: 0615ABAFAEA8B84ED5B987967EB38CCAFE24E84D
+
+[2013.12.29] v7.8（“迷你”版）更新说明：
+   1.修复若干已知BUG。
+   2.调整按钮、提高执行效率。
+   3.取消"激活续期服务"自动关闭。
+
+   文件: HEU_KMS_Activator_CH_v7.8.exe
+   SHA1: 07960E59AF501B71FA6B83D020D0CF2981C221D3 
+
+[2013.12.18] v7.7（“迷你”版）更新说明：
+   1.修复若干已知BUG。
+   2.修改图标、调整界面布局。
+   3.HEU_KMS_Renewal服务替换任务计划。
+   4.续期服务开机运行，完毕后自动关闭。
+   5.所有按钮均会跳过已经永久激活的版本。
+
+   文件: HEU_KMS_Activator_CH_v7.7.exe
+   SHA1: 54B307E02046FD919FCFD91812B5EA7C078C3342
+
+[2013.12.13] v7.7Beta2（“迷你”版）更新说明：
+   1.修复KMS随机ePID问题。
+   2.附加选项按钮调整。
+   3.激活后自动清空KMS设置。
+   4.修复几处BUG。
+   5.更新说明文档。
+
+   文件: HEU_KMS_Activator_CH_v7.7_Beta2.exe
+   SHA1: 7E6C754C0F581811397786D55A4FA1D747F2AA0D
+
+[2013.12.11] v7.7Beta（“迷你”版）更新说明：
+   1.修改绝大部分代码，提高执行效率。
+   2.激活Win8.1采用"SppExtComObjHook"。
+   3.“附加选项”中的“执行激活命令”修改为自动识别。
+
+   文件: HEU_KMS_Activator_CH_v7.7_Beta.exe
+   SHA1: 7F13A71BBA9A3AFC9F2B8D1BED20E42E8BF1E53F
+
+[2013.11.29] v7.6（“迷你”版）更新说明：
+   1.修复Windows XP下 Visio 2010识别错误的BUG。
+   2.静默激活时自动跳过已经永久激活的版本。
+   3.自动将Office的Retail版转化为VOL版。
+   4.添加“一键激活”按钮（Windows+Office并续期）。
+   5.增加静默参数/task /detask。
+   6.修改主页面右下角图标。
+   7.★v7.6b版激活Win8.1不安装虚拟网卡。
+
+   文件: HEU_KMS_Activator_CH_v7.6a.exe
+   SHA1: E43078887BC8D4FF2102CAAEA0D486D79F1FA7B2
+ 
+   文件: HEU_KMS_Activator_CH_v7.6b.exe
+   SHA1: 3BB93C7DFCCD1581BFFBFE4F51C5CCD7B15A1EE1 
+
+[2013.11.24] v7.5（“迷你”版）更新说明：
+   1.修复安装Office 2013 GVLK密钥的BUG。
+   2.修复Visio 2010版本识别错误的BUG。
+   3.修复防火墙BUG。
+   4.修复按钮错误的提示信息。
+   5.将自动续期服务添加到计划任务。
+   6.修改主程序的图标。
+   7.加快静默激活的速度。
+
+   文件: HEU_KMS_Activator_CH_v7.5.exe
+   SHA1: A2424BCB05C28811A3C0934AB6A6719CB6330917  
+
+[2013.11.18] v7.4（“迷你”版）更新说明：
+   1.Win8.1中去掉激活过程中确认的步骤。 
+   2.更改高级选项的按钮。
+   3.修改防火墙规则。
+   4.修复逻辑错误。
+   5.修复静默激活失败的BUG。
+   6.加快激活速度。
+
+   文件: HEU_KMS_Activator_CH_v7.4.exe
+   SHA1: 7F81F4349B60C12C1C78C23EBBC8020B77114AD7
+
+[2013.11.14] v7.3（“迷你”版）更新说明：
+   1.修复某些情况下虚拟网卡卸载失败的问题。
+   2.修复某些情况下自动续期失败的问题。
+   3.修改防火墙规则。
+   4.修复安装GVLK密钥判断失败的问题。
+
+   文件: HEU_KMS_Activator_CH_v7.3.exe
+   SHA1: 2E604521D2DCDCA043F66D7716CE4E5C7ADDD702
+
+[2013.11.12] v7.2（“迷你”版）更新说明：
+   1.修复运行软件时提示“缺少MSVCR110.Dll”的问题。
+   2.添加支持Win8.1的“自动续期”服务。
+   3.修改防火墙规则。
+   4.静默参数/p修改为/i和/u。
+
+   文件: HEU_KMS_Activator_CH_v7.2.exe
+   SHA1: 538C4639E897B8783F585ECECE29661CD6FEBA5E 
+
+[2013.11.11] v7.1（“迷你”版）更新说明：
+   1.静默参数/w、/o 支持激活Win8.1/Ser 2012R2。
+   2.修复激活时某些情况下报错的问题。
+
+   文件: HEU_KMS_Activator_CH_v7.1.exe
+   SHA1: 595626176B99D451DB7FE71104D6EABC8E6B223C 
+
+[2013.11.10] v7.0（“迷你”版）更新说明：
+   1.支持Windows 8.1/Server 2012 R2正式版（无需联网）。
+
+   文件: HEU_KMS_Activator_CH_v7.0.exe
+   SHA1: ED0AA46C17D35D10F47275F9D8F1C4D7410AC5AC
+
+
+[2013.10.26] v6.4（“迷你”版）更新说明：
+    1.支持Windows 8.1/Server 2012 R2正式版（联网）。
+    2.修改代码,加快激活速度。
+    3.修复几处BUG。
+      
+   文件: HEU_KMS_Activator_CH_v6.4.exe
+   SHA1: E914AF4EBB34728290444CE4FEC3E3B6A3CDA1EE
+
+[2013.8.2] v6.3（“迷你”版）更新说明：
+    1.增加支持的VOL版。
+    2.修复几处BUG。
+    3.增加软件更新选项。
+    
+   文件: HEU_KMS_Activator_CH_v6.3.exe
+   SHA1: 6A9B982E28296E770DBFDD1D7B5601E79B810668
+
+[2013.7.28] v6.2（“迷你”版）更新说明：
+    1.修正在XP下激活Office报错的问题。
+    2.修正无法识别v6.1及以下版本安装的“永久服务”。
+    3.更换一些图标。
+    4.增加“重启永久服务(HEU_KMS_Service)”按钮。
+    5.修正高版本和低版本软件不兼容的问题。
+    
+   文件: HEU_KMS_Activator_CH_v6.2.exe
+   SHA1: 0D6DE2822D123F0117FCD33B0F377EE2F4B361AD
+
+[2013.7.8] v6.1（“迷你”版）更新说明：
+    1.增加Windows 8.1、Server 2012 R2预览版的支持。
+    2.修正v6.0卸载低版本“永久服务”的问题。
+    3.更换软件图标。
+    4.v6.1分a、b两版，功能完全相同。a版关闭时自动弹出赞助说明。
+    
+   文件: HEU_KMS_Activator_CH_v6.1a.exe
+   SHA1: 45BED8FA9E0DE59BD252F71950CFB70510F03927
+   文件: HEU_KMS_Activator_CH_v6.1b.exe
+   SHA1: A2317FF276E46B5DB55DA741800A37A551DF5248
+
+[2013.6.30] v6.0（“迷你”版）更新说明：
+    1.全面调整软件界面，进行分类。
+    2.增加对Windows8.1 Preview的支持。
+    3.将“永久”服务的名称修改为“HEU_KMS_Service”。
+    
+   文件: HEU_KMS_Activator_CH_v6.0.exe
+   SHA1: 56AFA839EEDB750FEE3C5569F73A7D68EE8E1A12
+
+[2013.6.2] v5.0（“迷你”版）更新说明：
+    1.修复安装Office密钥时提示错误问题。
+    2.更换KMS Server Emulator并调整界面。
+    3.执行某项操作时，其他按钮变为“灰色”。
+    
+   文件: HEU_KMS_Activator_CH_v5.0.exe
+   SHA1: 46FAD8D313B9D00E5D2E1E59720CEAAD1D67DBD8
+
+
+[2013.5.27] v4.3（“迷你”版）更新说明：
+    1.修复检测不到Office的BUG。
+    2.软件运行窗口居中显示，解决低分辨率下窗口显示不全的问题。 
+    
+   文件: HEU_KMS_Activator_CH_v4.3.exe
+   SHA1: 5061CE4A7317F370166ACEB27F55F64D98C69A4E
+
+ 
+[2013.5.26] v4.2（“迷你”版）更新说明：
+    1.在"Windows密钥"、"Office密钥"、"清空KMS"按钮执行前添加提示。
+    2.修复"Office密钥"、"Office Retail转化为VL"按钮识别错误的问题。
+    
+   文件: HEU_KMS_Activator_CH_v4.2.exe
+   SHA1: 014DA1B9320A6F85E5E7FB366517A89B277DE501
+
+[2013.5.20] v4.1（“迷你”版）更新说明：
+    1.修复某些情况下需要手动设置服务器名称才能激活的Bug。
+    2.修复某些情况下需要手动安装Office密钥才能激活的Bug。
+    3."一键激活Windows+Office"选项自动跳过已经永久激活的版本。
+    4."一键永久激活Windows+Office"选项自动跳过已经永久激活的版本。
+    
+   文件: HEU_KMS_Activator_CH_v4.1.exe
+   SHA1: E2D982F4F7504EF0572D2096AE9554EEA9D1E17F
+
+[2013.5.19] v4.0（“迷你”版）更新说明：
+    1.在"安装/卸载 永久服务、重置Windows、重置Office"操作前，添加提示。
+    2.备用选项:若使用默认服务器地址127.0.0.2，自动启用本地服务器。
+    3.在将Office转化为VOL版后，自动卸载零售版密钥。
+    4."Office密钥":在NT6系统中，自动判断版本并安装GVLK密钥。
+
+   文件: HEU_KMS_Activator_CH_v4.0.exe
+   SHA1: D62C13F8982A765962B848706725727C6899141A
+
+[2013.4.9] v3.3（“迷你”版）更新说明：
+    1.采用随机ePID，保证日后能通过正版验证。
+    2.分为中文版、英文版两个版本。
+
+   文件: HEU_KMS_Activator_CH_v3.3.exe
+   SHA1: E6C4111B8D93CA5BF610D3EC4A20D64197BD3667
+
+[2013.3.29] v3.2（“迷你”版）更新说明：
+    1.修正了一些BUG。
+    2.修正了防火墙规则。
+
+   文件: HEU_KMS_Activator_v3.2.exe
+   SHA1: 1BF41A2F4BEE6E8B681B96F168A0A5CCDD8B5740
+
+[2013.3.23] v3.1（“迷你”版）更新说明：
+    1.更新KMSEmulator。
+    2.修正“清空KMS”按钮的BUG。
+    3.修正“查看Windows激活状态”按钮的BUG。
+    4.恢复功能：鼠标停留到“按钮”上，将显示简要使用说明。
+
+   文件: HEU_KMS_Activator_v3.1.exe
+   SHA1: 859E6D425AE7B5D0AD2EB5C3651BAECE1B9258DF
+
+[2013.3.22] v3.0（“迷你”版）更新说明：
+    1.更换大部分代码，并增加进度条。
+    2.取消“中/英文菜单”切换，只保留中文菜单。
+    3.更改界面、精简体积、提高启动速度。
+    4.修正“同时安装Office14/15”只能激活Office15的问题。
+
+   文件: HEU_KMS_Activator_v3.0.exe
+   SHA1: 5569B6466CC7E68A43AA9A9C2168C8EBE398D9EA
+
+[2013.3.14] v2.6（“迷你”版）更新说明：
+    1.修正若干BUG。
+
+   文件: HEU_KMS_Activator_v2.6.exe
+   SHA1: 57397792DADE3FD85BC6C4F8F48B892BFD88A32A
+
+[2013.3.14] v2.5（“迷你”版）更新说明：
+    1.修正若干BUG。
+
+   文件: HEU_KMS_Activator_v2.5.exe
+   SHA1: D363E15D08AA47587AF9CEEF66CDDD875EEB98FF
+
+[2013.3.12] v2.4（“迷你”版）更新说明：
+    1.修正因卸载Office不彻底，开机后报错的问题。
+    2.去掉鼠标移动到按钮时的声音效果，保留点击按钮时的声音效果。
+    3.增加“一键永久激活Windows+Office”按钮，只需一键，永葆激活！
+    4.修改静默激活参数（可混用）为：/w /o /p /?，参数/? 查看详细说明。
+
+   文件: HEU_KMS_Activator_v2.4.exe
+   SHA1: A80C2FB92F6AE68F4B97D6E0192FC0A3F90C42C2
+
+[2013.2.26] v2.3（“迷你”版）更新说明：
+    1.修正了某些情况下识别路径错误的问题。
+    2.“修复错误并退出本程序”按钮可以修复某些情况下"永久激活"无效的问题。
+    3.添加静默参数/allsilent /winsilent /officesilent /permanentsilent，参数/? 查看说明。
+
+   文件: HEU_KMS_Activator_v2.3.exe
+   SHA1: 81B894A7DEAAE2F3221A446B9C7C66C68F26AE1C
+
+[2013.2.25] v2.2（“迷你”版）更新说明：
+    1.修正了一些BUG以及卸载（"永久"激活）不干净的情况。
+    2.增加对Widnows XP系统下Office2010激活的支持。
+    3.增加“一键激活”选项:激活Windows+Offcie。
+    4.增加“阅读说明”按钮，帮助新手快速入门。
+    5.更新“使用教程（详细图文）”（左下角“Document”按纽）。
+
+   文件: HEU_KMS_Activator_v2.2.exe
+   SHA1: 9D9080F0F68D4E082541A85D304C42825A857150
+
+[2013.2.18] v2.1（“迷你”版）更新说明：
+    1.添加“永久”激活选项:开机自动加载“ZbezjService”服务并激活，永保180天。
+     （注意:不要清空KMS信息（127.0.0.3）,不要更换密钥！）
+    2.继续添加支持激活的版本（Windows Server 2008/2012和Office 独立组件）。
+    3.更新“使用教程（详细图文）”（左下角“Document”按纽）。
+
+   文件: HEU_KMS_Activator_v2.1.exe
+   SHA1: 992A18B3E7D0A18AA97ADAF19A35E32155F93713
+
+[2013.2.16] v2.0（“迷你”版）更新说明：
+    1.更换“KMS服务器”，大幅度提高了激活速度和减小了体积。
+    2.修改了大部分代码，并删除了“激活Windows+Office”按钮。
+    3.大幅度增加支持激活的版本:几乎所有的VOL版（Windows/Office/Server）。
+
+   文件: HEU_KMS_Activator_v2.0.exe
+   SHA1: C21AF103F342BE5F46D825CD339F81386B2FA2F0
+
+[2013.2.14] v1.3版更新说明：
+    1.将“KMS GUI ELDI”更新到16.00版本（KMSnanov25）。
+    2.修正了某些“检查激活信息弹窗”的小问题。
+    3.增加“使用图文教程”按钮（左下角）。
+
+   文件:HEU_KMS_Activator_v1.3.exe
+   SHA1: BED613DA6EFC3539F6454F51B313E3EC1173519D
+
+[2013.2.6] v1.2版更新说明：
+   1.增加联网激活的选项（前提是必须有开放的KMS服务器）。
+   2.点击标题“HEU KMS Activator”实现“中/英文菜单”切换。
+   3.鼠标停留到“按钮”上，将显示简要使用说明。
+   4.增加启动屏幕动画（按ESC键可以取消）。
+
+   文件:HEU_KMS_Activator_v1.2.exe
+   SHA1: 422F664C511619AE84A7B6F1D99DF6CFA267AD97
+
+[2013.1.31] v1.1版更新说明：
+   1.修正了Windows8 32位系统中“重置Office”出错的问题。
+   2.修正了Office 2013 Retail转化为VOL版出错的问题。
+   3.新增加了Office 2010/2013 Standard VOL版的转化。
+   4.KMS服务器更新为“LaFinalNano19”。
+   5.增加“中/英文菜单”切换功能，体积略有减少。
+
+   文件: HEU_KMS_Activator_v1.1.exe
+   SHA1: 430FF61EFA0E21F942FD46DB6706DD792B086F45
+
+[2013.1.27] v1.0版：
+
+   文件: HEU_KMS_Activator.exe
+   SHA1: 308098FB34251AA34E9E23A427DD9E2F791F3263
+
+免责声明：此软件仅作学习交流使用，支持购买正版软件！
+===================================================
+根据2013年1月30日《计算机软件保护条例》的第十七条规定：
+为了学习和研究软件内含的设计思想和原理，通过安装、显示、传输或者
+存储软件等方式使用软件的，可以不经软件著作权人许可，不向其支付报酬。
+===================================================
+
+

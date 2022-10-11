@@ -1,0 +1,935 @@
+
+>>[2022-09-30 19:24:35] HEU KMS Activator 25.0.0 激活Windows=1 激活Office=1 数字/KMS38=1 OEM激活=1 Office自动转VL=1 在线KMS服务器=1 KMS自动续期=1 生成日志=1 
+【CLICK Smart_Btn......】
+ Act Option = 1 OS Arch = X64 Build Number = 22000 EditionId = ProfessionalWorkstation
+[WinMgmt]服务正常
+[SPPSVC]服务正常
+
+>>[2022-09-30 19:24:41] _CheckWindowsLicensestatus LS = 0
+>>[2022-09-30 19:24:53] _CheckWindowsInfo_Digital Windows SKUID = 161
+>>[2022-09-30 19:24:55] _Define_Windows_Edition_KMS38 = ProfessionalWorkstation
+>>[2022-09-30 19:24:55] _CheckWindowsInfo  ID = 2de67392-b7a7-462a-b1ca-108dd189f588
+3f1afc82-f8ac-4f6c-8005-1d233e606eee
+73111121-5638-40f6-bc11-f1d7b0d64300
+82bbc092-bc50-4e16-8e18-b74fc486aec3
+ca7df2e3-5ea0-47b8-9ac1-b1be4d8edd69
+e0c42288-980c-4788-a014-c080d2e1926e
+e4db50ea-bda1-4566-b047-0ca50abc6f07
+ec868e65-fadf-4759-b23e-93fe37f2cc29
+
+>>[2022-09-30 19:24:55] _CheckWindowsInfo  ID = Windows(R), Professional edition
+Windows(R), ProfessionalEducation edition
+Windows(R), Enterprise edition
+Windows(R), ProfessionalWorkstation edition
+Windows(R), CloudEdition edition
+Windows(R), Education edition
+Windows(R), ServerRdsh edition
+Windows(R), ServerRdsh edition
+
+>>[2022-09-30 19:24:56] _CheckWindowsInfo  WindowsVL = 1 Build 22000
+>>[2022-09-30 19:24:56] _CheckWindowsInfo WindowsEdition = Professional
+>>[2022-09-30 19:24:56] _CheckWindowsInfo WindowsEditionWMI = ProfessionalWorkstation
+>>[2022-09-30 19:24:56] _CheckWindowsInfo WindowsEdition = ProfessionalWorkstation
+>>[2022-09-30 19:24:56] _CheckWindowsInfo WindowsGVLK = NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
+>>[2022-09-30 19:24:56] _Define_Windows_Key_KMS38(Edition) = ProfessionalWorkstation
+>>[2022-09-30 19:24:56] _Define_Windows_Key_KMS38 = NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
+>>[2022-09-30 19:24:56] _DigitalActivate ARM = 0
+>>[2022-09-30 19:24:56] ClipSVC START_TYPE: Demand
+>>[2022-09-30 19:24:57] wlidsvc START_TYPE: Demand
+>>[2022-09-30 19:24:57] sppsvc START_TYPE: Delayed-Auto
+>>[2022-09-30 19:24:57] wuauserv START_TYPE: Demand
+>>[2022-09-30 19:24:58] ClipSVC STATE: Running
+>>[2022-09-30 19:24:58] wlidsvc STATE: Running
+>>[2022-09-30 19:24:58] sppsvc STATE: Running
+>>[2022-09-30 19:24:59] wuauserv STATE: Running
+>>[2022-09-30 19:24:59] ClipSVC config start = Auto 
+>>[2022-09-30 19:25:00] 
+>>[2022-09-30 19:25:00] ReArmApp ErrorCode = 0x00000000
+>>[2022-09-30 19:25:00] ReArmsku ErrorCode = 0
+
+>>[2022-09-30 19:25:02] RefreshLicenseStatus Windows ErrorCode = 0x00000000
+>>[2022-09-30 19:25:04] 
+>>[2022-09-30 19:25:04] _DigitalActivate InstallWindowsKey ErrorCode = 0
+
+>>[2022-09-30 19:25:05] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f Del = 0
+>>[2022-09-30 19:25:05] HKU64\S-1-5-20\Software\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f Del = 0
+>>[2022-09-30 19:25:05] KeyManagementServiceName Del = 0
+>>[2022-09-30 19:25:05] KeyManagementServicePort Del = 0
+>>[2022-09-30 19:25:05] _DigitalActivate IDList: 
+82bbc092-bc50-4e16-8e18-b74fc486aec3
+>>[2022-09-30 19:25:05] 
+>>[2022-09-30 19:25:05] KeyManagementServiceName 127.0.0.2 Add = 1
+>>[2022-09-30 19:25:05] KeyManagementServicePort 1688 Add = 1
+>>[2022-09-30 19:25:05] _DigitalActivate Copy gatherosstate.exe = 1
+>>[2022-09-30 19:25:05] _DigitalActivate Copy slc.dll = 1
+>>[2022-09-30 19:25:05] _DigitalActivate Add WIN7RTM,Channel,Kernel-ProductInfo,Security-SPP-GenuineLocalStatus = 1,1,1,1
+>>[2022-09-30 19:25:09] _DigitalActivate GenuineTicket.xml = 1
+>>[2022-09-30 19:25:09] _DigitalActivate Copy GenuineTicket.xml = 1  C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket\GenuineTicket.xml
+>>[2022-09-30 19:25:09] Done.
+Converted license Microsoft.Windows.161.X21-43628_8wekyb3d8bbwe and stored at C:\ProgramData\Microsoft\Windows\ClipSvc\Install\Migration\94b04a83-db9e-4d48-87ad-6078fc6cd696.xml.
+Successfully converted 1 licenses from genuine authorization tickets on disk.
+Done.
+
+>>[2022-09-30 19:25:16] Activating Windows(R), ProfessionalWorkstation edition (82bbc092-bc50-4e16-8e18-b74fc486aec3) ...
+Error: 0xC004F074 The Software Licensing Service reported that the computer could not be activated. No Key Management Service (KMS) could be contacted. Please see the Application Event Log for additional information.
+
+Windows(R), ProfessionalWorkstation edition:
+    Volume activation will expire 2038/1/19 11:12:16
+
+
+>>[2022-09-30 19:25:20] _KMS38Protect IDList: 
+82bbc092-bc50-4e16-8e18-b74fc486aec3
+>>[2022-09-30 19:25:20] _KMS38Protect TakeOwnerShip = 1(Reg =1,0,1,1)
+>>[2022-09-30 19:25:20] 卸载自动续期......
+>>[2022-09-30 19:25:20] 
+没有与指定标准相匹配的规则。
+
+
+>>[2022-09-30 19:25:20] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2022-09-30 19:25:20] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sppsvc.exe Del = 0
+>>[2022-09-30 19:25:21] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Del = 0
+>>[2022-09-30 19:25:21] 已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2022-09-30 19:25:21] 
+没有与指定标准相匹配的规则。
+
+
+>>[2022-09-30 19:25:21] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2022-09-30 19:25:21] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2022-09-30 19:25:32] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2022-09-30 19:25:38] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2022-09-30 19:25:38] Check Renewal = 0
+>>[2022-09-30 19:25:38] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2022-09-30 19:25:38] Del NoGenTicket = 0
+>>[2022-09-30 19:25:38] 已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2022-09-30 19:25:38] _DelSECOPatcher Del SECOPatcher.dll = 0
+>>[2022-09-30 19:25:38] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 19:25:38] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 19:25:39] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 19:25:39] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 19:25:39] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 19:25:39] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 19:25:39] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 19:25:39] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 19:25:39] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 19:25:39] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 19:25:40] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 19:25:40] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 19:25:40] _CleanKmsReg 1,1,0,0,0,1,0,0,1,1
+>>[2022-09-30 19:25:40] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 19:25:40] _CleanKmsReg 1,2,0,0,0,0,0,0,0,0
+>>[2022-09-30 19:25:40] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 19:25:40] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 19:25:40] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 19:25:41] _CleanKmsReg 1,1,0,0,0,1,0,0,1,1
+>>[2022-09-30 19:25:41] Del = 0  C:\WINDOWS\System32\HEUKMSRenewal.tmp
+>>[2022-09-30 19:25:41] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2022-09-30 19:25:41] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2022-09-30 19:25:41] _C2R_R2V  Begining...
+>>[2022-09-30 19:25:42] _C2R_R2V  Office ClickToRun Service 未检测到
+>>[2022-09-30 19:25:42] _MSI_R2V  Begining...
+>>[2022-09-30 19:25:42] Office2010 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2022-09-30 19:25:42] _MSI_R2V Office 2010 = Null
+>>[2022-09-30 19:25:42] Office2013 _OfficeExistCheck  MSI = 0
+
+>>[2022-09-30 19:25:42] Office2016 _OfficeExistCheck  MSI = 0
+
+>>[2022-09-30 19:25:42]  _OfficeUWPExist OfficeExist = 
+
+>>[2022-09-30 19:25:42] Office2016 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2022-09-30 19:25:42] Office2019 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2022-09-30 19:25:42] _MSI_R2V Office 2013 = Nul
+>>[2022-09-30 19:25:42] _MSI_R2V Office 2016 = Nul
+>>[2022-09-30 19:25:42] _MSI_R2V Office 2019 = Nul 
+>>[2022-09-30 19:25:43] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2022-09-30 19:25:43] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2022-09-30 19:25:43] Check Renewal = 0
+>>[2022-09-30 19:25:43] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2022-09-30 19:25:43] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sppsvc.exe Del = 0
+>>[2022-09-30 19:25:43] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Del = 0
+>>[2022-09-30 19:25:43] 已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2022-09-30 19:25:43] 
+没有与指定标准相匹配的规则。
+
+
+>>[2022-09-30 19:25:44] 
+没有与指定标准相匹配的规则。
+
+
+>>[2022-09-30 19:27:11] HEU KMS Activator 25.0.0 激活Windows=1 激活Office=1 数字/KMS38=1 OEM激活=1 Office自动转VL=1 在线KMS服务器=1 KMS自动续期=1 生成日志=1 
+【CLICK KMS_ActWin......】
+ Act Option = 1 OS Arch = X64 Build Number = 22000 EditionId = ProfessionalWorkstation
+[WinMgmt]服务正常
+[SPPSVC]服务正常
+
+>>[2022-09-30 19:27:14] _CheckWindowsLicensestatus Name = Windows(R), ProfessionalWorkstation edition,  GracePeriodRemaining = 8049105
+>>[2022-09-30 19:27:14] _CheckWindowsLicensestatus LS = 2
+>>[2022-09-30 20:01:09] HEU KMS Activator 25.0.0 激活Windows=1 激活Office=1 数字/KMS38=1 OEM激活=1 Office自动转VL=1 在线KMS服务器=0 KMS自动续期=1 生成日志=1 
+【CLICK Smart_Btn......】
+ Act Option = 1 OS Arch = X64 Build Number = 22000 EditionId = ProfessionalWorkstation
+[WinMgmt]服务正常
+[SPPSVC]服务正常
+
+>>[2022-09-30 20:01:10] _CheckWindowsLicensestatus Name = Windows(R), ProfessionalWorkstation edition,  GracePeriodRemaining = 8049071
+>>[2022-09-30 20:01:10] _CheckWindowsLicensestatus LS = 2
+>>[2022-09-30 20:01:11] _CheckWindowsInfo_Digital Windows SKUID = 161
+>>[2022-09-30 20:01:11] _Define_Windows_Edition_DLA = ProfessionalWorkstation
+>>[2022-09-30 20:01:11] _Define_Windows_Key_DLA = DXG7C-N36C4-C4HTG-X4T3X-2YV77
+>>[2022-09-30 20:01:11] _DigitalActivate ARM = 0
+>>[2022-09-30 20:01:11] ClipSVC START_TYPE: Demand
+>>[2022-09-30 20:01:12] wlidsvc START_TYPE: Demand
+>>[2022-09-30 20:01:13] sppsvc START_TYPE: Delayed-Auto
+>>[2022-09-30 20:01:13] wuauserv START_TYPE: Demand
+>>[2022-09-30 20:01:13] ClipSVC STATE: Running
+>>[2022-09-30 20:01:14] wlidsvc STATE: Running
+>>[2022-09-30 20:01:14] sppsvc STATE: Running
+>>[2022-09-30 20:01:14] wuauserv STATE: Running
+>>[2022-09-30 20:01:15] ClipSVC config start = Auto 
+>>[2022-09-30 20:01:15] 
+>>[2022-09-30 20:01:15] _DigitalActivate InstallWindowsKey ErrorCode = 0
+
+>>[2022-09-30 20:01:18] _DigitalActivate Copy HEU_gatherosstate.exe = 1
+>>[2022-09-30 20:01:18] _DigitalActivate Copy HEU_slc.dll = 1
+>>[2022-09-30 20:01:18] _DigitalActivate Copy gatherosstatemodified.exe = 1
+>>[2022-09-30 20:01:18] _DigitalActivate Add WIN7RTM,Channel,Kernel-ProductInfo,Security-SPP-GenuineLocalStatus = 1,1,1,1
+>>[2022-09-30 20:01:22] _DigitalActivate GenuineTicket.xml = 1
+>>[2022-09-30 20:01:22] _DigitalActivate Copy GenuineTicket.xml = 1  C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket\GenuineTicket.xml
+>>[2022-09-30 20:01:22] Done.
+Converted license Microsoft.Windows.161.X21-43626_8wekyb3d8bbwe and stored at C:\ProgramData\Microsoft\Windows\ClipSvc\Install\Migration\e28d40e1-5878-4a7c-8a04-a4f98617dbc5.xml.
+Successfully converted 1 licenses from genuine authorization tickets on disk.
+Done.
+
+>>[2022-09-30 20:01:31] Activating Windows(R), ProfessionalWorkstation edition (eb6d346f-1c60-4643-b960-40ec31596c45) ...
+Product activated successfully.
+
+Windows(R), ProfessionalWorkstation edition:
+    The machine is permanently activated.
+
+
+>>[2022-09-30 20:01:33] 卸载自动续期......
+>>[2022-09-30 20:01:33] 
+没有与指定标准相匹配的规则。
+
+
+>>[2022-09-30 20:01:33] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2022-09-30 20:01:33] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sppsvc.exe Del = 0
+>>[2022-09-30 20:01:33] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Del = 0
+>>[2022-09-30 20:01:33] 已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2022-09-30 20:01:33] 
+没有与指定标准相匹配的规则。
+
+
+>>[2022-09-30 20:01:34] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2022-09-30 20:01:34] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2022-09-30 20:01:35] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2022-09-30 20:01:35] Check Renewal = 错误: 系统找不到指定的文件。
+
+>>[2022-09-30 20:01:36] Check Renewal = 0
+>>[2022-09-30 20:01:36] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2022-09-30 20:01:36] Del NoGenTicket = 0
+>>[2022-09-30 20:01:36] 已成功处理 0 个文件; 处理 1 个文件时失败
+
+>>[2022-09-30 20:01:36] _DelSECOPatcher Del SECOPatcher.dll = 0
+>>[2022-09-30 20:01:36] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:37] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:37] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:37] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:37] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:37] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:37] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:38] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:38] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:38] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:38] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:38] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:38] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:39] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:39] _CleanKmsReg 1,2,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:39] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:39] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:40] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:40] _CleanKmsReg 1,1,0,0,0,0,0,0,0,0
+>>[2022-09-30 20:01:40] Del = 0  C:\WINDOWS\System32\HEUKMSRenewal.tmp
+>>[2022-09-30 20:01:40] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2022-09-30 20:01:40] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2022-09-30 20:01:41] _C2R_R2V  Begining...
+>>[2022-09-30 20:01:41] _C2R_R2V  Office16 C2R = 1,Information: 
+ProPlus2021Retail
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\ProductReleaseIDs\392EE10E-D14C-4D60-A0C1-FB022FA99DF6
+C:\Program Files\Microsoft Office\root\Licenses16
+C:\Program Files\Microsoft Office\root\integration\integrator.exe
+>>[2022-09-30 20:01:41] _C2R_R2V  Office15 C2R = 0,Checking MSI...
+>>[2022-09-30 20:01:41] Office2013 _OfficeExistCheck  MSI = 0
+
+>>[2022-09-30 20:01:42] _C2R_R2V Office 2013-2021 KMSCLIENT LicenseFamily: 0
+
+>>[2022-09-30 20:01:42] _C2R_R2V Office 2013-2021 TIMEBASED LicenseFamily: 1
+Office21ProPlus2021R_Trial2
+Office21ProPlus2021R_Trial1
+
+>>[2022-09-30 20:01:43] _C2R_R2V Office 2013-2021 Trial LicenseFamily: 1
+
+>>[2022-09-30 20:01:43] _C2R_R2V Office 2013-2021 Grace LicenseFamily: 1
+Office21ProPlus2021R_Grace
+
+>>[2022-09-30 20:01:43] _C2R_R2V Office16MondoVL_KMS_Client: 0
+Office21ProPlus2021R_OEM_Perp1
+Office21ProPlus2021R_OEM_Perp4
+Office21ProPlus2021R_Trial2
+Office21ProPlus2021MSDNR_Retail
+Office21ProPlus2021R_Trial1
+Office21ProPlus2021R_OEM_Perp3
+Office21ProPlus2021R_OEM_Perp2
+Office21ProPlus2021R_Retail
+Office21ProPlus2021R_Grace
+Office21ProPlus2021R_OEM_Perp5
+Office21ProPlus2021R_OEM_Perp6
+Office21ProPlus2021DemoR_BypassTrial180
+
+>>[2022-09-30 20:01:44] _C2R_R2V SubO365: 
+0,,0,0,0
+>>[2022-09-30 20:01:45] _C2R_R2V LicenseStatus=1 Description: 
+
+>>[2022-09-30 20:01:45] _C2R_R2V Clean Licenses: 
+>>[2022-09-30 20:01:51] Found 44 licenses to install.
+Number of Licenses Uninstalled = 44
+
+
+>>[2022-09-30 20:01:52] _C2R_R2V Office 2013-2021 LicenseStatus=1 LicenseFamily: 
+
+>>[2022-09-30 20:01:52] _C2R_R2V Office 2013-2021 LicenseFamily: 
+
+>>[2022-09-30 20:01:52] _C2R_R2V Office16 Flag bef = 
+ProPlus2019 = 0
+
+ProjectPro2019 = 0
+
+VisioPro2019 = 0
+
+Standard2019 = 0
+
+ProjectStd2019 = 0
+
+VisioStd2019 = 0
+
+Access2019 = 0
+
+SkypeforBusiness2019 = 0
+
+Excel2019 = 0
+
+Outlook2019 = 0
+
+PowerPoint2019 = 0
+
+Publisher2019 = 0
+
+Word2019 = 0
+
+Professional2019 = 0
+
+HomeBusiness2019 = 0
+
+HomeStudent2019 = 0
+
+Mondo = 0
+
+ProjectPro = 0
+
+VisioPro = 0
+
+Standard = 0
+
+ProjectStd = 0
+
+VisioStd = 0
+
+Access = 0
+
+SkypeforBusiness = 0
+
+Excel = 0
+
+Outlook = 0
+
+PowerPoint = 0
+
+Publisher = 0
+
+Word = 0
+
+OneNote = 0
+
+Professional = 0
+
+HomeBusiness = 0
+
+HomeStudent = 0
+
+O365ProPlus = 0
+
+O365Business = 0
+
+O365SmallBusPrem = 0
+
+O365HomePrem = 0
+
+O365EduCloud = 0
+
+ProPlus = 0
+
+ProPlus2021 = 1
+
+ProjectPro2021 = 0
+
+VisioPro2021 = 0
+
+Standard2021 = 0
+
+ProjectStd2021 = 0
+
+VisioStd2021 = 0
+
+Access2021 = 0
+
+SkypeforBusiness2021 = 0
+
+Excel2021 = 0
+
+Outlook2021 = 0
+
+PowerPoint2021 = 0
+
+Publisher2021 = 0
+
+Word2021 = 0
+
+Professional2021 = 0
+
+HomeBusiness2021 = 0
+
+HomeStudent2021 = 0
+
+>>[2022-09-30 20:01:53] _C2R_R2V Office16 Flag aft = 
+ProPlus2019 = 0
+
+ProjectPro2019 = 0
+
+VisioPro2019 = 0
+
+Standard2019 = 0
+
+ProjectStd2019 = 0
+
+VisioStd2019 = 0
+
+Access2019 = 0
+
+SkypeforBusiness2019 = 0
+
+Excel2019 = 0
+
+Outlook2019 = 0
+
+PowerPoint2019 = 0
+
+Publisher2019 = 0
+
+Word2019 = 0
+
+Professional2019 = 0
+
+HomeBusiness2019 = 0
+
+HomeStudent2019 = 0
+
+Mondo = 0
+
+ProjectPro = 0
+
+VisioPro = 0
+
+Standard = 0
+
+ProjectStd = 0
+
+VisioStd = 0
+
+Access = 0
+
+SkypeforBusiness = 0
+
+Excel = 0
+
+Outlook = 0
+
+PowerPoint = 0
+
+Publisher = 0
+
+Word = 0
+
+OneNote = 0
+
+Professional = 0
+
+HomeBusiness = 0
+
+HomeStudent = 0
+
+O365ProPlus = 0
+
+O365Business = 0
+
+O365SmallBusPrem = 0
+
+O365HomePrem = 0
+
+O365EduCloud = 0
+
+ProPlus = 0
+
+ProPlus2021 = 1
+
+ProjectPro2021 = 0
+
+VisioPro2021 = 0
+
+Standard2021 = 0
+
+ProjectStd2021 = 0
+
+VisioStd2021 = 0
+
+Access2021 = 0
+
+SkypeforBusiness2021 = 0
+
+Excel2021 = 0
+
+Outlook2021 = 0
+
+PowerPoint2021 = 0
+
+Publisher2021 = 0
+
+Word2021 = 0
+
+Professional2021 = 0
+
+HomeBusiness2021 = 0
+
+HomeStudent2021 = 0
+RefreshLicenseStatus Windows ErrorCode = 0x00000000
+>>[2022-09-30 20:02:08] Office2021 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2022-09-30 20:02:08] Office2021 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2022-09-30 20:02:08] Office2021 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2022-09-30 20:02:08] _Check_Office_Info Office2021 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =1
+>>[2022-09-30 20:02:09] _CheckOfficeVOL_Licensestatus Office2021 :
+
+
+>>[2022-09-30 20:02:09] _InstallOfficeKey FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH = 0
+
+>>[2022-09-30 20:02:10] Office2019 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2022-09-30 20:02:10] Office2019 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2022-09-30 20:02:10] Office2019 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2022-09-30 20:02:10] _Check_Office_Info Office2019 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2022-09-30 20:02:12] _CheckOfficeVOL_Licensestatus Office2019 :
+
+
+>>[2022-09-30 20:02:12] Office2016 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2022-09-30 20:02:12] Office2016 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2022-09-30 20:02:12] Office2016 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2022-09-30 20:02:13] _Check_Office_Info Office2016 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2022-09-30 20:02:13] _CheckOfficeVOL_Licensestatus Office2016 :
+
+
+>>[2022-09-30 20:02:13] Office2013 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2022-09-30 20:02:13] Office2013 Install path： 
+>>[2022-09-30 20:02:13] Office2013 License path： 
+>>[2022-09-30 20:02:13] _MSI_R2V  Begining...
+>>[2022-09-30 20:02:13] Office2010 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2022-09-30 20:02:13] _MSI_R2V Office 2010 = Null
+>>[2022-09-30 20:02:13] Office2013 _OfficeExistCheck  MSI = 0
+
+>>[2022-09-30 20:02:13] Office2016 _OfficeExistCheck  MSI = 0
+
+>>[2022-09-30 20:02:13]  _OfficeUWPExist OfficeExist = 
+
+>>[2022-09-30 20:02:14] Office2016 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2022-09-30 20:02:14] Office2019 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2022-09-30 20:02:14] _MSI_R2V Office 2013 = Nul
+>>[2022-09-30 20:02:14] _MSI_R2V Office 2016 = Nul
+>>[2022-09-30 20:02:14] _MSI_R2V Office 2019 = Nul 
+>>[2022-09-30 20:02:14] 确定。
+
+
+>>[2022-09-30 20:02:14] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2022-09-30 20:02:14] Software Protection 服务正在停止.
+Software Protection 服务已成功停止。
+
+
+>>[2022-09-30 20:02:17] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2022-09-30 20:02:17] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2022-09-30 20:02:18] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2022-09-30 20:02:18] _StartKMSServer KMSMode = 2
+>>[2022-09-30 20:02:18] 
+没有与指定标准相匹配的规则。
+
+确定。
+
+
+>>[2022-09-30 20:02:18] HKLM64\SOFTWARE\Policies\Microsoft\Windows NT\CurrentVersion\Software Protection Platform Add NoGenTicket = 1
+>>[2022-09-30 20:02:18] Copy SppExtComObjHook = 1
+>>[2022-09-30 20:02:18] 发现 SID: C:\WINDOWS\System32\SppExtComObjHook.dll。
+已成功处理 1 个文件; 处理 0 个文件时失败
+已处理的文件: C:\WINDOWS\System32\SppExtComObjHook.dll
+已成功处理 1 个文件; 处理 0 个文件时失败
+
+>>[2022-09-30 20:02:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2022-09-30 20:02:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Add VerifierDlls = 1
+>>[2022-09-30 20:02:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Add GlobalFlag = 1
+>>[2022-09-30 20:02:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Add KMS_Emulation = 1
+>>[2022-09-30 20:02:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Add KMS_ActivationInterval = 1
+>>[2022-09-30 20:02:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Add KMS_RenewalInterval = 1
+>>[2022-09-30 20:02:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Add KMS_HWID = 1
+>>[2022-09-30 20:02:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Add VerifierDlls = 1
+>>[2022-09-30 20:02:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Add GlobalFlag = 1
+>>[2022-09-30 20:02:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Add KMS_Emulation = 1
+>>[2022-09-30 20:02:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Add KMS_ActivationInterval = 1
+>>[2022-09-30 20:02:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Add KMS_RenewalInterval = 1
+>>[2022-09-30 20:02:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Add KeyManagementServiceName = 1
+>>[2022-09-30 20:02:19] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Add KeyManagementServicePort = 1
+>>[2022-09-30 20:02:19] SppExtComObjHook.dll = 0
+>>[2022-09-30 20:02:19] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2022-09-30 20:02:20] Software Protection 服务正在启动 .
+Software Protection 服务已经启动成功。
+
+
+>>[2022-09-30 20:02:22] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2022-09-30 20:02:22] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2022-09-30 20:02:22] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2022-09-30 20:02:23] Office2021 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2022-09-30 20:02:23] Office2021 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2022-09-30 20:02:23] Office2021 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2022-09-30 20:02:23] _Check_Office_Info Office2021 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =1
+>>[2022-09-30 20:02:24] _CheckOfficeVOL_Licensestatus Office2021 :
+
+
+>>[2022-09-30 20:02:24] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2022-09-30 20:02:24] HKU64\S-1-5-20\Software\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2022-09-30 20:02:24] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2022-09-30 20:02:24] HKU64\S-1-5-20\Software\Microsoft\Windows NT\CurrentVersion\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2022-09-30 20:02:24] HKLM64\SOFTWARE\Microsoft\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2022-09-30 20:02:24] HKU64\S-1-5-20\SOFTWARE\Microsoft\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2022-09-30 20:02:24] KMS Name and Port = 1,1,1,1
+>>[2022-09-30 20:02:24] Fixbanner = 1,1,1,1
+>>[2022-09-30 20:02:24] Install Office Key FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH Error Code = 0
+
+>>[2022-09-30 20:02:26] _ActivateOffice Error Code = 0x00000000
+>>[2022-09-30 20:02:33] Office2019 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2022-09-30 20:02:33] Office2019 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2022-09-30 20:02:33] Office2019 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2022-09-30 20:02:33] _Check_Office_Info Office2019 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2022-09-30 20:02:34] _CheckOfficeVOL_Licensestatus Office2019 :
+
+
+>>[2022-09-30 20:02:34] Office2016 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2022-09-30 20:02:34] Office2016 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2022-09-30 20:02:34] Office2016 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2022-09-30 20:02:34] _Check_Office_Info Office2016 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2022-09-30 20:02:35] _CheckOfficeVOL_Licensestatus Office2016 :
+
+
+>>[2022-09-30 20:02:35] Office2013 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2022-09-30 20:02:35] Office2013 Install path： 
+>>[2022-09-30 20:02:35] Office2013 License path： 
+>>[2022-09-30 20:02:35] Office2010 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2022-09-30 20:02:35] Office2010 Install path： 
+>>[2022-09-30 20:02:35] Office2010 License path： 
+>>[2022-09-30 20:02:35]  _OfficeUWPExist OfficeExist = 
+
+>>[2022-09-30 20:02:35] Check Renewal = 1
+>>[2022-09-30 20:02:35] 
+已删除 1 规则。
+确定。
+
+
+>>[2022-09-30 20:02:35] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2022-09-30 20:02:36] Software Protection 服务正在停止.
+Software Protection 服务已成功停止。
+
+
+>>[2022-09-30 20:02:38] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2022-09-30 20:02:39] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2022-09-30 20:02:39] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2022-09-30 20:02:40] _StartKMSServer KMSMode = 2
+>>[2022-09-30 20:02:40] 
+已删除 1 规则。
+确定。
+
+确定。
+
+
+>>[2022-09-30 20:02:40] HKLM64\SOFTWARE\Policies\Microsoft\Windows NT\CurrentVersion\Software Protection Platform Add NoGenTicket = 1
+>>[2022-09-30 20:02:40] Copy SppExtComObjHook = 1
+>>[2022-09-30 20:02:40] 发现 SID: C:\WINDOWS\System32\SppExtComObjHook.dll。
+已成功处理 1 个文件; 处理 0 个文件时失败
+已处理的文件: C:\WINDOWS\System32\SppExtComObjHook.dll
+已成功处理 1 个文件; 处理 0 个文件时失败
+
+>>[2022-09-30 20:02:40] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 1
+>>[2022-09-30 20:02:40] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Add VerifierDlls = 1
+>>[2022-09-30 20:02:40] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Add GlobalFlag = 1
+>>[2022-09-30 20:02:40] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Add KMS_Emulation = 1
+>>[2022-09-30 20:02:40] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Add KMS_ActivationInterval = 1
+>>[2022-09-30 20:02:40] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Add KMS_RenewalInterval = 1
+>>[2022-09-30 20:02:40] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Add KMS_HWID = 1
+>>[2022-09-30 20:02:40] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Add VerifierDlls = 1
+>>[2022-09-30 20:02:40] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Add GlobalFlag = 1
+>>[2022-09-30 20:02:40] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Add KMS_Emulation = 1
+>>[2022-09-30 20:02:40] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Add KMS_ActivationInterval = 1
+>>[2022-09-30 20:02:40] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Add KMS_RenewalInterval = 1
+>>[2022-09-30 20:02:40] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Add KeyManagementServiceName = 1
+>>[2022-09-30 20:02:40] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Add KeyManagementServicePort = 1
+>>[2022-09-30 20:02:41] SppExtComObjHook.dll = 0
+>>[2022-09-30 20:02:41] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2022-09-30 20:02:41] Software Protection 服务正在启动 .
+Software Protection 服务已经启动成功。
+
+
+>>[2022-09-30 20:02:43] 
+SERVICE_NAME: sppsvc 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+>>[2022-09-30 20:02:43] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2022-09-30 20:02:44] Version=10.0.22000.318
+
+>>[2022-09-30 20:02:44] [SC] StartService: OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2022-09-30 20:02:44] KeyManagementServiceName Add = 1 KMSHost = 10.0.0.1
+>>[2022-09-30 20:02:44] KeyManagementServicePort Add = 1 KMSPort = 1688
+>>[2022-09-30 20:02:45] Office2010 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2022-09-30 20:02:45] Office2010 Install path： 
+>>[2022-09-30 20:02:45] Office2010 License path： 
+>>[2022-09-30 20:02:45] Office2013 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2022-09-30 20:02:45] Office2013 Install path： 
+>>[2022-09-30 20:02:45] Office2013 License path： 
+>>[2022-09-30 20:02:45] Office2016 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2022-09-30 20:02:45] Office2016 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2022-09-30 20:02:45] Office2016 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2022-09-30 20:02:45] Office2019 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2022-09-30 20:02:45] Office2019 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2022-09-30 20:02:45] Office2019 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2022-09-30 20:02:45] Office2021 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2022-09-30 20:02:45] Office2021 Install path： C:\Program Files\Microsoft Office\Office16
+>>[2022-09-30 20:02:45] Office2021 License path： C:\Program Files\Microsoft Office\root\Licenses16
+>>[2022-09-30 20:02:45] 
+>>[2022-09-30 20:02:45] KMS Name and Port = 1,1,1,1
+>>[2022-09-30 20:02:45] Fixbanner = 1,1,1,1
+>>[2022-09-30 20:02:45] SvcTrigger = 0 错误: 系统找不到指定的文件。
+
+>>[2022-09-30 20:02:46] 成功: 成功创建计划任务 "\Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger"。
+信息: 已启用计划的任务 "\Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger"。
+成功: 更改了计划任务 "\Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger" 的参数。
+
+>>[2022-09-30 20:02:46] Check Renewal = 1

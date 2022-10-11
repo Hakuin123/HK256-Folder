@@ -1,0 +1,177 @@
+●3.1.0 总更新
+scrcpy内核：
+- 新增 支持 Android 12
+- 新增 鼠标4号键为多任务，5号键为下拉通知
+- 新增 关闭投屏后可自动锁屏手机
+- 新增 投射延迟，开启后可减少投屏丢帧，提高流畅度
+- 优化 高DPI显示模式下画面清晰度
+- 优化 ADB组件版本
+- 优化 完全支持魅族手机
+
+控制器：
+- 新增 投射延迟时长选项
+- 新增 关闭投屏后可自动锁屏手机选项
+
+●3.0.2控制器更新：
+- 优化 有线连接延迟和稳定性
+- 优化 截屏文件保存速度
+- 优化 首次连接时的检测速度
+- 优化 界面文字显示效果
+- 新增 比特率设定范围提示
+- 新增 启动失败时提示教程
+- 修复 取消勾选OpenGl后的提示
+
+●3.0.1控制器更新：
+- 修复：设备名称显示不全的问题
+- 修复：部分低版本安卓设备无法使用的问题
+- 修复：路径有空格时无法启用无线模式的问题
+- 修复：路径有空格时无法检测设备的问题
+- 修复：路径有空格时无法保存截图的问题
+- 修复：路径有中文字符时无法自定义快捷工具按钮的问题
+- 修复：启动后按钮样式变形的问题
+- 优化：添加最新1.0.41版adb工具
+
+●3.0.0控制器更新：
+- 新增：全新界面
+- 新增：启动界面可手动检测设备
+- 新增：更多使用教程和提示语
+- 修复：路径中有空格导致报错的问题
+- 修复：开启软件后再连接设备，依然检测不到连接的问题
+- 修复：启动界面无法显示在屏幕中央的问题
+- 修复：悬浮工具栏无法置于顶层的问题
+- 优化：去除了启动动画
+- 优化：界面字体大小
+
+
+
+●2.3.0控制器更新：
+- 新增：快捷执行自定ADB命令功能
+- 新增：全新的ADB配置界面
+- 新增：截屏保存的位置提示
+- 优化：截屏会自动以当前时间来命名
+- 优化：部分窗口初始的启动位置
+- 修复：系统非C盘的机子无法启动的问题
+- 修复：关闭悬浮栏后再打开，功能无效的问题
+- 修复：启动动画卡顿的问题
+
+●2.2.1控制器更新：
+- 同步：官方主程序1.17
+- 新增：控制器启动动画
+- 优化：悬浮工具箱无法置于顶层的问题
+- 修复：无法记录上一次无线连接设置的问题
+- 修复：退出软件后进程留驻的问题
+
+●1.71官方更新：
+Fix errors on Android 11 (#1468)
+Add --encoder option (#1810, #1827)
+Add --forward-all-clicks option (#1302, #1613)
+Add --legacy-paste option (#1750, #1771)
+Workaround screen off/on issue on exit (#1670)
+Rework console/noconsole versions on Windows (#1875, #1988)
+Terminate server properly without killing it on close (#1992)
+List available shortcut keys on error (#1681)
+Upgrade platform-tools to 30.0.5 (adb) in Windows releases
+Upgrade SDL to 2.0.14 in Windows releases
+
+●2.2.0控制器更新：
+1.新增： 配置文件 功能。可保留上次的设置
+包括：设备端口号，连接地址，分辨率，比特率，9个附加设置
+2.回归 ：比特率自定义 功能。
+3.修复 ：悬浮工具栏部分按钮无效的问题
+4.修复：开启OpenGL后启动闪退的问题
+5.修复：无法使用全屏启动的问题
+6.修复：使用按钮关闭屏幕后，快捷键无法使用的问题
+7.修复：部分提示语不明确的问题
+8.优化：软件稳定性
+9.优化：文件存取方法
+10.其他优化
+
+
+
+●2.1.1控制器更新：
+1.全新图形化：悬浮工具栏
+2.新增 比特率选项50/30/15/8
+3.修复 启动动画卡顿问题
+4.修复 多设备连接部分场景下报错问题
+
+●2.1.0控制器更新：
+
+1.更新： 主程序最新1.16版本
+2.新增 ：比特率60Mbps/40Mbps的选项
+3.新增 ：模拟双指缩放(官方功能)
+4.新增 ：使用快捷键支持复制中文字符(官方功能)
+5.修复 ：启动后录屏无法读取系统时间的错误
+6.修复 ：部分快捷键冲突的问题
+7.修复 ：启动动画卡顿的问题
+8.优化 ：快捷键菜单提示项目
+
+官方主程序1.14+1.15+1.16更新：
+Add pinch-to-zoom simulation (#24)
+Fix clipboard paste (#1658)
+Inject POWER instead of WAKEUP on start
+Forward Ctrl and Shift to the device (#1598, #555, #942)
+Change "resize to fit" shortcut from MOD+x to MOD+w (#1598)
+Make shortcut modifiers customizable (#1598)
+Restore power mode to "normal" on disconnection (#1572, #1576)
+Keep the screen off on powering on (best effort) (#1573, #1577)
+Add option to disable screensaver (#1370, #1502)
+Do not crash on missing clipboard manager (#1440, #1556)
+Fix touch events HiDPI-scaling (#1536, #15)
+Correctly inject repeating keycodes (#1013, #1519)
+Add option to ignore repeated key events (#1013, #1623)
+Increase clipboard size from 4k to 256k (#1117)
+Do not expose internal SDL logs to users (#1441)
+Upgrade platform-tools to 30.0.4 (adb) in Windows releases
+Upgrade FFmpeg to 4.3.1 in Windows releases
+Add --stay-awake (#631)
+Add Ctrl+Shift+o shortcut to turn screen on (#175)
+Implement seamless copy-paste from Android to computer (#1056, #1423)
+Implement seamless UTF-8 copy-paste from computer to Android >= 7 (#786)
+Improve --show-touches behavior
+Properly handle Ctrl+C on Windows (avoid to corrupt recording) (#818)
+Add --verbosity to configure log level at runtime
+Add --codec-options to pass MediaFormat options directly (#1325)
+Add --force-adb-forward
+Apply workarounds only on error (#994)
+Increase LOD bias to reduce blurring on trilinear filtering (#1394)
+Fix HiDPI issues on secondary screen (#1408, #15)
+Fix rendering issues (#1408, #787)
+Fix window restoration regression (#1346)
+Fix unexpected focus behavior on scroll (#1362)
+Fix "buffer full" error on Ctrl+Shift+v (#1425)
+Upgrade platform-tools to 30.0.0 (adb) in Windows releases
+
+
+
+
+
+●2.0.0控制器更新：
+完整的更新说明请在酷安搜索@晨钟酱，或在B站搜索@晨钟酱Official，查看相关动态
+ 
+1.更新 主程序最新1.13版本
+2.重新 设计主界面，统一控件风格
+3.新增 帮助提示，鼠标停留在相应功能上会出现提示
+4.新增 第二显示 控制设置
+官方说可以开启三星Dex这样的第二桌面模式，锤子TNT估计也是同理，但仅限于Android 10。我没设备无法测试，请自行体验。
+5.新增 强制开启OpenGL渲染 控制设置，增强清晰度(自用电脑开启后很卡，可能是显卡问题，目前不清楚原因，请大家自行测试)
+6.新增 镜像旋转(非设备内旋转，建议平板用户开启)
+7.优化 录屏后会把当前系统时间作为文件名
+8.优化 快捷键提示
+9.精简 主界面，去除部分无用功能
+10.修复 其他bug，增强稳定性
+ 
+官方主程序1.13更新：
+Add option to lock video orientation (#218, #1151)
+Add shortcuts to rotate the display (#218, #1274)
+Mirror secondary displays (#397, #898, #1177, #1238)
+Enable trilinear filtering when possible (#40, #1284)
+Add --render-driver parameter (#1284)
+Accept --max-fps before Android 10 (#488)
+Accept negative window position (#1242)
+Use another local port if 27183 is not available (#945, #951)
+Forward NumPad keys when NumLock is disabled (#1188)
+Fix issues when directory contains non-ASCII chars on Windows (#1002)
+Do not print irrelevant workarounds errors (#994)
+Fix possible BufferUnderflowException on touch event (#1245)
+Upgrade FFmpeg to 4.2.2 in Windows releases
+Upgrade SDL to 2.0.12 in Windows releases

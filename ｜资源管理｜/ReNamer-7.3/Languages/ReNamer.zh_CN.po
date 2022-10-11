@@ -1,0 +1,4023 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: ReNamer\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ZhaoLee <lzworksmail@gmail.com>\n"
+"Language-Team: den4b Team <support@den4b.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Country: cn\n"
+"X-Country-Name: China\n"
+"X-Language-Name: Chinese Simplified\n"
+"X-Language-Name-Native: 简体中文\n"
+"X-Translators: WanderMax <hmptwm@hotmail.com>, ZhaoLee <lzworksmail@gmail.com>\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: mainform.ssavecurrentpresetconfirm
+msgid "Save current preset?"
+msgstr "是否保存当前预设？"
+
+#: mainform.s_askpurchaseremovelimit
+msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
+msgstr "您是否想要购买专业版来去除功能限制？"
+
+#: mainform.s_askpurchaseunlockfeature
+msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
+msgstr "您是否想要购买专业版来解锁此功能？"
+
+#: mainform.s_confirmunregister
+msgid ""
+"Are you sure you want to unregister the product?\n"
+"\n"
+"This will remove your license and deactivate the \"Pro\" version.\n"
+msgstr ""
+"是否反注册当前产品？\n"
+"\n"
+"此操作将会移除您的授权信息并解除专业版功能。\n"
+
+#: mainform.s_featurenotavailable
+msgid "This feature is not available in this version."
+msgstr "当前版本不包含此功能。"
+
+#: mainform.s_free_license_note
+msgctxt "mainform.s_free_license_note"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "此应用程序只能使用和分发于非商业用途。"
+
+#: mainform.s_maxallowedpresets
+msgid "This version is limited to a maximum of %s presets."
+msgstr "当前版本最多使用 %s 个预设。"
+
+#: mainform.s_maxallowedrules
+msgid "This version is limited to a maximum of %s rules."
+msgstr "当前版本最多使用 %s 个规则。"
+
+#: mainform.s_no_license_caption
+msgid "(non-commercial use only)"
+msgstr "（仅用于非商业使用）"
+
+#: mainform.s_please_read_full_license
+msgid "For more information please read full license code"
+msgstr "如需了解更多信息，请阅读完整的授权信息"
+
+#: mainform.s_presetdirstructurelimitation
+msgid "This version does not support presets directory structure."
+msgstr "当前版本不支持预设目录结构。"
+
+#: mainform.s_statusbar_hint_filters
+msgid "Active filter settings"
+msgstr "激活筛选器设置"
+
+#: mainform.s_statusbar_hint_presets
+msgid "Loaded preset"
+msgstr "已载入预设"
+
+#: mainform.s_statusbar_hint_presets_modified
+msgid "Loaded preset (modified)"
+msgstr "已载入预设（修改）"
+
+#: presetslinksform.screatednumpresetlinks
+msgid "Created %d preset links."
+msgstr "已创建 %d 预设链接。"
+
+#: presetsmanagerform.sduplicatepresetsuffix
+msgid "COPY"
+msgstr "复制"
+
+#: rulepascalscriptframe.saddyourcodehere
+msgid "Add your code here"
+msgstr "在此处添加代码"
+
+#: rulepascalscriptframe.sholdtoinsertscriptinline
+msgid "Hold %s when loading a script to insert it inline"
+msgstr "加载脚本时长按 %s 以插入内嵌"
+
+#: rulepascalscriptframe.spressforcodecompletion
+msgid "Press %s for code completion"
+msgstr "点击 %s 以代码完成"
+
+#: ruleregexframe.sregexanychar
+msgid "Any single character"
+msgstr "任意单个字符"
+
+#: ruleregexframe.sregexanycharexact3
+msgid "A set of 3 of any characters"
+msgstr "三个或以上的任意字符"
+
+#: ruleregexframe.sregexanycharplus
+msgid "One or more of any characters"
+msgstr "一个或以上任意字符"
+
+#: ruleregexframe.sregexanycharplusgrouped
+msgid "One or more of any characters, grouped into subexpression"
+msgstr "以子表达式分组的一个或多个任意字符"
+
+#: ruleregexframe.sregexanycharplusnogreedy
+msgid "One or more of any characters, but fewer as possible"
+msgstr "一个或以上任意字符，但是尽可能少"
+
+#: ruleregexframe.sregexanycharset2to4
+msgid "A set of 2 to 4 of any characters"
+msgstr "二到四个的任意字符"
+
+#: ruleregexframe.sregexanycharset3ormore
+msgid "A set of 3 or more of any characters"
+msgstr "三个或以上的任意字符"
+
+#: ruleregexframe.sregexanycharstar
+msgid "Zero or more of any characters"
+msgstr "0个或以上个任意字符"
+
+#: ruleregexframe.sregexcharlistabc
+msgid "Any single character from the list (e.g. \"a\" or \"b\" or \"c\")"
+msgstr "括号内的任意字符（e.g.\"a\"或\"b\"或\"c\"）"
+
+#: ruleregexframe.sregexcharlistaorborc
+msgid "Any one occurrence of the alternatives (e.g. \"aa\" or \"bb\" or \"cc\")"
+msgstr "候选中的某个候选项（e.g.\"aa\"或\"b\"或 \"cc\"）"
+
+#: ruleregexframe.sregexcharlistatoz
+msgid "Any single character from the range (e.g. \"a\" to \"z\")"
+msgstr "任意设定范围内的单个字符（e.g.\"a\"到\"z\"）"
+
+#: ruleregexframe.sregexend
+msgid "End of the input text"
+msgstr "输入文本的结尾"
+
+#: ruleregexframe.sregexescapedslash
+msgid "Use an escape character to match an actual backslash \"\\\""
+msgstr "使用转义字符来匹配实际的反斜杠\"\\\""
+
+#: ruleregexframe.sregexnotcharlistabc
+msgid "Any single character except the ones from the list"
+msgstr "除了排除项外的任意单个字符"
+
+#: ruleregexframe.sregexspacechars
+msgid "Any single space character (space, tab, new line)"
+msgstr "任意单个空白字符（space、tab、new line）"
+
+#: ruleregexframe.sregexstart
+msgid "Start of the input text"
+msgstr "输入文本的开头"
+
+#: ruleregexframe.sregexwordboundary
+msgid "Word boundary"
+msgstr "单词边界"
+
+#: ruleregexframe.sregexwordchars
+msgid "Any single alphanumeric character (including an underscore)"
+msgstr "任意单个字母数字字符（包括下划线）"
+
+#: settingsform.sfailedtoapplysystemsettings
+msgid "Failed to apply system settings."
+msgstr "应用系统设置失败。"
+
+#: settingsform.shinttryrunasadministrator
+msgid "(Try to start the program as administrator to apply these settings)"
+msgstr "（尝试以管理员身份运行并再次应用这些设置）"
+
+#: settingsform.srealtimepreviewwarning
+msgid ""
+"Real-time update of the preview can be dangerous and its use is not recommended!\n"
+"\n"
+"It will cause graphical updates to the GUI during preview for every processed file but will also respond to any user activity such as mouse clicks and keyboard button presses. Beware, any accidental actions generated during a preview as a result of user activity within the application will interfere with the preview process and can cause unpredictable behavior.\n"
+msgstr ""
+"实时预览更新会比较危险，不建议使用！\n"
+"\n"
+"它将对用户的每步操作实时更新结果，且会对用户诸如点击鼠标和活动键盘按键的活动回应。注意，预览过程中，用户的任何额外活动都将会导致不可预估的结果。\n"
+
+#: tform_about.caption
+msgctxt "tform_about.caption"
+msgid "About"
+msgstr "关于"
+
+#: tform_about.label_author2.caption
+msgid "Author:"
+msgstr "作者："
+
+#: tform_about.label_date.caption
+msgid "Date:"
+msgstr "更新日期："
+
+#: tform_about.label_email2.caption
+msgid "Email:"
+msgstr "反馈邮箱："
+
+#: tform_about.label_version.caption
+msgid "Version:"
+msgstr "版本号："
+
+#: tform_about.label_website2.caption
+msgid "Website:"
+msgstr "官网："
+
+#: tform_addpaths.bitbtn_add.caption
+msgctxt "tform_addpaths.bitbtn_add.caption"
+msgid "Add"
+msgstr "添加"
+
+#: tform_addpaths.bitbtn_cancel.caption
+msgctxt "tform_addpaths.bitbtn_cancel.caption"
+msgid "Cancel"
+msgstr "取消"
+
+#: tform_addpaths.caption
+msgctxt "tform_addpaths.caption"
+msgid "Add Paths"
+msgstr "添加路径"
+
+#: tform_addpaths.checkbox_workingdir.caption
+msgctxt "tform_addpaths.checkbox_workingdir.caption"
+msgid "Working directory:"
+msgstr "工作目录："
+
+#: tform_addpaths.label_enterpaths.caption
+msgid "Enter file paths:"
+msgstr "输入文件路径:"
+
+#: tform_addrule.bitbtn_add.caption
+msgctxt "TFORM_ADDRULE.BITBTN_ADD.CAPTION"
+msgid "Add Rule"
+msgstr "添加规则"
+
+#: tform_addrule.bitbtn_close.caption
+msgctxt "tform_addrule.bitbtn_close.caption"
+msgid "Close"
+msgstr "关闭"
+
+#: tform_addrule.caption
+msgctxt "TFORM_ADDRULE.CAPTION"
+msgid "Add Rule"
+msgstr "添加规则"
+
+#: tform_addrule.groupbox_config.caption
+msgid "Configuration:"
+msgstr "配置："
+
+#: tform_addrule.menuitem_ruledescription.caption
+msgid "Description"
+msgstr "描述"
+
+#: tform_analyze.bb_applyrules.caption
+msgid "Apply Rules"
+msgstr "应用规则"
+
+#: tform_analyze.caption
+msgctxt "tform_analyze.caption"
+msgid "Analyze"
+msgstr "分析"
+
+#: tform_analyze.cb_applyrulesforeachline.caption
+msgid "Apply rules for each line"
+msgstr "将规则应用到每一行"
+
+#: tform_analyze.cb_autoapplyrules.caption
+msgid "Automatically apply rules"
+msgstr "自动应用规则"
+
+#: tform_analyze.cb_wordwrap.caption
+msgid "Line wrap"
+msgstr "自动换行"
+
+#: tform_analyze.label_textin.caption
+msgid "Enter text that you wish to analyze:"
+msgstr "请输入将要分析的文本："
+
+#: tform_analyze.label_textout.caption
+msgid "Text after applying rules:"
+msgstr "应用规则后的文本："
+
+#: tform_browse.bitbtn_cancel.caption
+msgctxt "TFORM_BROWSE.BITBTN_CANCEL.CAPTION"
+msgid "Close"
+msgstr "关闭"
+
+#: tform_browse.bitbtn_ok.caption
+msgctxt "tform_browse.bitbtn_ok.caption"
+msgid "Add Folders"
+msgstr "添加文件夹"
+
+#: tform_browse.caption
+msgid "Browse"
+msgstr "浏览"
+
+#: tform_browse.checkbox_showhidden.caption
+msgid "Show hidden folders"
+msgstr "显示隐藏文件夹"
+
+#: tform_browse.checkbox_showsystem.caption
+msgid "Show system folders"
+msgstr "显示系统文件夹"
+
+#: tform_browse.label_title.caption
+msgid "Select folders that you want to add:"
+msgstr "选择将要添加的文件夹："
+
+#: tform_browse.menuitem_collapseall.caption
+msgid "Collapse All"
+msgstr "折叠全部"
+
+#: tform_browse.menuitem_explorefolder.caption
+msgid "Explore selected folder"
+msgstr "浏览选定的文件夹"
+
+#: tform_browse.menuitem_gotofolder.caption
+msgctxt "TFORM_BROWSE.MENUITEM_GOTOFOLDER.CAPTION"
+msgid "Go To Folder"
+msgstr "跳转到文件夹"
+
+#: tform_browse.menuitem_refreshtree.caption
+msgid "Refresh Tree"
+msgstr "刷新文件树"
+
+#: tform_browse.sb_gotofolder.caption
+msgctxt "tform_browse.sb_gotofolder.caption"
+msgid "Go To"
+msgstr "跳转"
+
+#: tform_browse.speedbutton_filtersettings.caption
+msgctxt "tform_browse.speedbutton_filtersettings.caption"
+msgid "Filter Settings"
+msgstr "筛选器设置"
+
+#: tform_filtersettings.bitbtn_cancel.caption
+msgctxt "tform_filtersettings.bitbtn_cancel.caption"
+msgid "Cancel"
+msgstr "取消"
+
+#: tform_filtersettings.bitbtn_save.caption
+msgctxt "tform_filtersettings.bitbtn_save.caption"
+msgid "Save"
+msgstr "保存"
+
+#: tform_filtersettings.caption
+msgctxt "TFORM_FILTERSETTINGS.CAPTION"
+msgid "Filter Settings"
+msgstr "筛选器设置"
+
+#: tform_filtersettings.cb_masksonfilename.caption
+msgid "Apply only to the file name, instead of full path."
+msgstr "仅应用到文件名而不是完整路径名。"
+
+#: tform_filtersettings.checkbox_addfilesfromfolders.caption
+msgid "Add files within folders"
+msgstr "包含目录下所有文件"
+
+#: tform_filtersettings.checkbox_addfoldersasfiles.caption
+msgid "Add folders as files"
+msgstr "包含文件夹名"
+
+#: tform_filtersettings.checkbox_includehidden.caption
+msgid "Include hidden items"
+msgstr "包含隐藏文件"
+
+#: tform_filtersettings.checkbox_includesubfolders.caption
+msgid "Include subfolders"
+msgstr "包含子目录"
+
+#: tform_filtersettings.checkbox_includesystem.caption
+msgid "Include system items"
+msgstr "包含系统文件"
+
+#: tform_filtersettings.checkbox_saveasdefault.caption
+msgctxt "tform_filtersettings.checkbox_saveasdefault.caption"
+msgid "Save as default for future sessions"
+msgstr "保存为默认以供之后使用"
+
+#: tform_filtersettings.checkbox_skiprootfoldersasfiles.caption
+msgid "Skip root folders when added as files"
+msgstr "包含文件夹名时忽略根目录"
+
+#: tform_filtersettings.groupbox_folders.caption
+msgid "Default behavior for adding folders:"
+msgstr "添加文件夹的默认属性："
+
+#: tform_filtersettings.groupbox_masks.caption
+msgid "Masks:"
+msgstr "模版："
+
+#: tform_filtersettings.label_masksexclude.caption
+msgid "Exclude:"
+msgstr "排除："
+
+#: tform_filtersettings.label_masksinclude.caption
+msgid "Include:"
+msgstr "包含："
+
+#: tform_filtersettings.label_masksnote.caption
+msgctxt "tform_filtersettings.label_masksnote.caption"
+msgid "Note: separate multiple masks with \";\" (semicolons)."
+msgstr "提示：多个单模版以分号\";\"间隔。"
+
+#: tform_folderwarning.bb_cancel.caption
+msgctxt "TFORM_FOLDERWARNING.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "取消"
+
+#: tform_folderwarning.bb_continue.caption
+msgid "Continue"
+msgstr "继续"
+
+#: tform_folderwarning.caption
+msgid "Warning: Renaming Folders"
+msgstr "警告：重命名文件夹"
+
+#: tform_folderwarning.cb_nevershowwarning.caption
+msgid "Never show this warning"
+msgstr "不再显示此警告"
+
+#: tform_folderwarning.label_warning.caption
+msgid "Renaming a folder also affects all of its content. A problem can occur if you try to rename folders and their content in a single run. Items in the renaming list are processed from top to bottom. The order of items in this case is extremely important for successful renaming."
+msgstr "重命名一个文件夹将会同时影响到它包含的内容。用单次操作来重命名文件夹以及其内容时，将可能出现严重问题。软件按照从上到下的顺序对重命名列表依次执行操作，列表项目的次序很大程度上决定了重命名的成功性。"
+
+#: tform_folderwarning.label_warning2.caption
+msgid "Parent folders must always appear below their contained items. This can be easily achieved by sorting items in descending order by the Folder or Path column."
+msgstr "父目录必须排在其包含内容的下方，此顺序可以通过对文件夹或路径降序排列达成。"
+
+#: tform_main.action_about.caption
+msgctxt "TFORM_MAIN.ACTION_ABOUT.CAPTION"
+msgid "About"
+msgstr "关于"
+
+#: tform_main.action_addfiles.caption
+msgid "Add Files"
+msgstr "添加文件"
+
+#: tform_main.action_addfolders.caption
+msgctxt "TFORM_MAIN.ACTION_ADDFOLDERS.CAPTION"
+msgid "Add Folders"
+msgstr "添加文件夹"
+
+#: tform_main.action_addpaths.caption
+msgctxt "tform_main.action_addpaths.caption"
+msgid "Add Paths"
+msgstr "添加路径"
+
+#: tform_main.action_analyzesampletext.caption
+msgid "Analyze sample text"
+msgstr "分析示例文本"
+
+#: tform_main.action_applyrulestoclipboard.caption
+msgid "Apply rules to the clipboard"
+msgstr "应用规则到剪贴板"
+
+#: tform_main.action_autosizecolumns.caption
+msgid "Autosize columns"
+msgstr "自动列宽"
+
+#: tform_main.action_countmarkedandselectedfiles.caption
+msgid "Count marked and selected files"
+msgstr "计数标记和选定的文件数"
+
+#: tform_main.action_exportasbatchfilefullpaths.caption
+msgid "Export as batch renaming file (full paths)"
+msgstr "导出为批处理文件（完整路径）"
+
+#: tform_main.action_exportasbatchfileonlynames.caption
+msgid "Export as batch renaming file (only names)"
+msgstr "导出为批处理文件（仅名称）"
+
+#: tform_main.action_exportfilesandpreview.caption
+msgid "Export file paths and new names"
+msgstr "导出文件路径和新名称"
+
+#: tform_main.action_exportfilesandundo.caption
+msgid "Export file paths and undo paths"
+msgstr "导出文件路径和旧名称"
+
+#: tform_main.action_exportnewnamestoclipboard.caption
+msgid "Export new names to clipboard"
+msgstr "导出新名称到剪贴板"
+
+#: tform_main.action_exportpathstoclipboard.caption
+msgid "Export paths to clipboard"
+msgstr "导出路径到剪贴板"
+
+#: tform_main.action_filters.caption
+msgctxt "TFORM_MAIN.ACTION_FILTERS.CAPTION"
+msgid "Filters"
+msgstr "筛选器"
+
+#: tform_main.action_fixconflictingnewnames.caption
+msgid "Fix conflicting new names"
+msgstr "修正冲突文件的新名称"
+
+#: tform_main.action_importfilesandpreview.caption
+msgid "Import file paths and new names"
+msgstr "导入文件路径和新名称"
+
+#: tform_main.action_importlistoffiles.caption
+msgid "Import files from text-list or play-list"
+msgstr "从文本列表或操作列表导入文件"
+
+#: tform_main.action_importnewnamesfromclipboard.caption
+msgid "Import new names from clipboard"
+msgstr "从剪贴板导入新名称"
+
+#: tform_main.action_managepresets.caption
+msgid "Manage..."
+msgstr "管理..."
+
+#: tform_main.action_newinstance.caption
+msgid "New Instance"
+msgstr "新建实例"
+
+#: tform_main.action_newproject.caption
+msgid "New Project"
+msgstr "新项目"
+
+#: tform_main.action_pastefiles.caption
+msgid "Paste Files"
+msgstr "粘贴文件"
+
+#: tform_main.action_presetsave.caption
+msgctxt "TFORM_MAIN.ACTION_PRESETSAVE.CAPTION"
+msgid "Save"
+msgstr "保存"
+
+#: tform_main.action_presetsaveas.caption
+msgid "Save As"
+msgstr "另存为"
+
+#: tform_main.action_preview.caption
+msgctxt "TFORM_MAIN.ACTION_PREVIEW.CAPTION"
+msgid "Preview"
+msgstr "预览"
+
+#: tform_main.action_register.caption
+msgctxt "tform_main.action_register.caption"
+msgid "Register"
+msgstr "注册"
+
+#: tform_main.action_rename.caption
+msgctxt "TFORM_MAIN.ACTION_RENAME.CAPTION"
+msgid "Rename"
+msgstr "重命名"
+
+#: tform_main.action_settings.caption
+msgid "All Settings"
+msgstr "全部设置"
+
+#: tform_main.action_sortforrenamingfolders.caption
+msgid "Sort by path for renaming folders"
+msgstr "排序待重命名文件夹路径"
+
+#: tform_main.action_undorename.caption
+msgid "Undo Renaming"
+msgstr "撤销重命名"
+
+#: tform_main.action_unregister.caption
+msgid "Unregister"
+msgstr "取消注册"
+
+#: tform_main.action_validatenewnames.caption
+msgid "Validate new names"
+msgstr "验证新名称"
+
+#: tform_main.listview_rules.columns[0].caption
+msgid "#"
+msgstr "#"
+
+#: tform_main.listview_rules.columns[1].caption
+msgid "Rule"
+msgstr "规则"
+
+#: tform_main.listview_rules.columns[2].caption
+msgid "Statement"
+msgstr "说明"
+
+#: tform_main.menuitem_addrule.caption
+msgctxt "TFORM_MAIN.MENUITEM_ADDRULE.CAPTION"
+msgid "Add Rule"
+msgstr "添加规则"
+
+#: tform_main.menuitem_addruleabove.caption
+msgid "Add Rule (above)"
+msgstr "添加规则（向上）"
+
+#: tform_main.menuitem_addrulebelow.caption
+msgid "Add Rule (below)"
+msgstr "添加规则（向下）"
+
+#: tform_main.menuitem_analyzename.caption
+msgid "Analyze Name"
+msgstr "分析文件名"
+
+#: tform_main.menuitem_clearall.caption
+msgid "Clear All"
+msgstr "清除全部"
+
+#: tform_main.menuitem_clearfailed.caption
+msgid "Clear Failed"
+msgstr "清除失败项"
+
+#: tform_main.menuitem_clearing.caption
+msgid "Clear"
+msgstr "清除"
+
+#: tform_main.menuitem_clearinvalid.caption
+msgid "Clear Invalid"
+msgstr "清除无效项"
+
+#: tform_main.menuitem_clearmarked.caption
+msgid "Clear Marked"
+msgstr "清除标记项"
+
+#: tform_main.menuitem_clearnotmarked.caption
+msgid "Clear Not Marked"
+msgstr "清除未标记项"
+
+#: tform_main.menuitem_clearrenamed.caption
+msgid "Clear Renamed"
+msgstr "清除已重命名项"
+
+#: tform_main.menuitem_clearvalid.caption
+msgid "Clear Valid"
+msgstr "清除有效项"
+
+#: tform_main.menuitem_duplicaterule.caption
+msgid "Duplicate Rule"
+msgstr "复制规则"
+
+#: tform_main.menuitem_editnewname.caption
+msgid "Edit New Name"
+msgstr "编辑新名称"
+
+#: tform_main.menuitem_editrule.caption
+msgctxt "TFORM_MAIN.MENUITEM_EDITRULE.CAPTION"
+msgid "Edit Rule"
+msgstr "编辑规则"
+
+#: tform_main.menuitem_exit.caption
+msgid "Exit"
+msgstr "退出"
+
+#: tform_main.menuitem_file.caption
+msgid "File"
+msgstr "文件"
+
+#: tform_main.menuitem_help.caption
+msgctxt "tform_main.menuitem_help.caption"
+msgid "Help"
+msgstr "帮助"
+
+#: tform_main.menuitem_invertmarking.caption
+msgid "Invert Marking"
+msgstr "反向标记"
+
+#: tform_main.menuitem_invertselection.caption
+msgid "Invert Selection"
+msgstr "反向选择"
+
+#: tform_main.menuitem_mark.caption
+msgctxt "TFORM_MAIN.MENUITEM_MARK.CAPTION"
+msgid "Mark"
+msgstr "标记"
+
+#: tform_main.menuitem_markbymask.caption
+msgctxt "TFORM_MAIN.MENUITEM_MARKBYMASK.CAPTION"
+msgid "Mark by Mask"
+msgstr "用模版标记"
+
+#: tform_main.menuitem_marking.caption
+msgctxt "tform_main.menuitem_marking.caption"
+msgid "Mark"
+msgstr "标记"
+
+#: tform_main.menuitem_markonlychangedexccase.caption
+msgid "Mark Only Changed (Exc. Case)"
+msgstr "标记更改项（大小写例外）"
+
+#: tform_main.menuitem_markonlychangedinccase.caption
+msgid "Mark Only Changed (Inc. Case)"
+msgstr "标记更改项（包含大小写）"
+
+#: tform_main.menuitem_markonlyselected.caption
+msgid "Mark Only Selected"
+msgstr "标记选定项"
+
+#: tform_main.menuitem_movedown.caption
+msgctxt "TFORM_MAIN.MENUITEM_MOVEDOWN.CAPTION"
+msgid "Down"
+msgstr "下移"
+
+#: tform_main.menuitem_moveup.caption
+msgctxt "TFORM_MAIN.MENUITEM_MOVEUP.CAPTION"
+msgid "Up"
+msgstr "上移"
+
+#: tform_main.menuitem_moving.caption
+msgid "Move"
+msgstr "移动"
+
+#: tform_main.menuitem_presets.caption
+msgctxt "tform_main.menuitem_presets.caption"
+msgid "Presets"
+msgstr "预设"
+
+#: tform_main.menuitem_removeallrules.caption
+msgid "Remove All Rules"
+msgstr "移除全部规则"
+
+#: tform_main.menuitem_removerule.caption
+msgid "Remove Rule"
+msgstr "移除规则"
+
+#: tform_main.menuitem_removeselecteditems.caption
+msgid "Remove Selected"
+msgstr "移除选定项"
+
+#: tform_main.menuitem_rulemovedown.caption
+msgid "Move Down"
+msgstr "下移"
+
+#: tform_main.menuitem_rulemoveup.caption
+msgid "Move Up"
+msgstr "上移"
+
+#: tform_main.menuitem_rulesmarkall.caption
+msgid "Mark All"
+msgstr "标记全部"
+
+#: tform_main.menuitem_rulesselectall.caption
+msgctxt "tform_main.menuitem_rulesselectall.caption"
+msgid "Select All"
+msgstr "全选"
+
+#: tform_main.menuitem_rulesunmarkall.caption
+msgid "Unmark All"
+msgstr "取消全部标记"
+
+#: tform_main.menuitem_selectall.caption
+msgctxt "tform_main.menuitem_selectall.caption"
+msgid "Select All"
+msgstr "全选"
+
+#: tform_main.menuitem_selectbyextension.caption
+msgctxt "TFORM_MAIN.MENUITEM_SELECTBYEXTENSION.CAPTION"
+msgid "Select by Extension"
+msgstr "以扩展名选择"
+
+#: tform_main.menuitem_selectbymask.caption
+msgctxt "TFORM_MAIN.MENUITEM_SELECTBYMASK.CAPTION"
+msgid "Select by Mask"
+msgstr "以模版选择"
+
+#: tform_main.menuitem_selectbynamelength.caption
+msgid "Select by Name Length"
+msgstr "以名称长度选择"
+
+#: tform_main.menuitem_selecting.caption
+msgid "Select"
+msgstr "选择"
+
+#: tform_main.menuitem_settings.caption
+msgctxt "tform_main.menuitem_settings.caption"
+msgid "Settings"
+msgstr "设置"
+
+#: tform_main.menuitem_settingsgeneral.caption
+msgctxt "tform_main.menuitem_settingsgeneral.caption"
+msgid "General"
+msgstr "通用"
+
+#: tform_main.menuitem_settingsmetatags.caption
+msgctxt "tform_main.menuitem_settingsmetatags.caption"
+msgid "Meta Tags"
+msgstr "元信息标签"
+
+#: tform_main.menuitem_settingsmisc.caption
+msgid "Miscellaneous"
+msgstr "杂项"
+
+#: tform_main.menuitem_settingspreview.caption
+msgctxt "tform_main.menuitem_settingspreview.caption"
+msgid "Preview"
+msgstr "预览"
+
+#: tform_main.menuitem_settingsrename.caption
+msgctxt "TFORM_MAIN.MENUITEM_SETTINGSRENAME.CAPTION"
+msgid "Rename"
+msgstr "重命名"
+
+#: tform_main.menuitem_shell.caption
+msgid "Shell"
+msgstr "命令"
+
+#: tform_main.menuitem_unmark.caption
+msgid "Unmark"
+msgstr "取消标记"
+
+#: tform_main.mi_addpresets.caption
+msgid "Import..."
+msgstr "导入..."
+
+#: tform_main.mi_browsepresets.caption
+msgid "Browse..."
+msgstr "浏览..."
+
+#: tform_main.mi_clearnotchanged.caption
+msgid "Clear Not Changed"
+msgstr "清除未改变项"
+
+#: tform_main.mi_copyfilestoclipboard.caption
+msgid "Copy Files to Clipboard"
+msgstr "从剪贴板复制文件"
+
+#: tform_main.mi_copyrights.caption
+msgid "Copyrights"
+msgstr "版权声明"
+
+#: tform_main.mi_createpresetslinks.caption
+msgctxt "tform_main.mi_createpresetslinks.caption"
+msgid "Create Links"
+msgstr "创建链接"
+
+#: tform_main.mi_cutfilestoclipboard.caption
+msgid "Cut Files to Clipboard"
+msgstr "从剪贴板剪切文件"
+
+#: tform_main.mi_deletefiles.caption
+msgid "Delete Files to Recycle Bin"
+msgstr "删除文件到回收站"
+
+#: tform_main.mi_exportcolumnstoclipboard.caption
+msgid "Export all columns to clipboard"
+msgstr "导出所有栏到剪贴板"
+
+#: tform_main.mi_fileproperties.caption
+msgid "File Properties"
+msgstr "文件属性"
+
+#: tform_main.mi_filescolumns_cancelsorting.caption
+msgctxt "TFORM_MAIN.MI_FILESCOLUMNS_CANCELSORTING.CAPTION"
+msgid "Cancel Sorting"
+msgstr "取消排序"
+
+#: tform_main.mi_forum.caption
+msgid "Forum (online)"
+msgstr "在线论坛"
+
+#: tform_main.mi_help.caption
+msgid "Help (online)"
+msgstr "在线帮助"
+
+#: tform_main.mi_history.caption
+msgid "Version History"
+msgstr "更新日志"
+
+#: tform_main.mi_language.caption
+msgctxt "tform_main.mi_language.caption"
+msgid "Language"
+msgstr "语言"
+
+#: tform_main.mi_litevspro.caption
+msgid "Lite vs Pro (online)"
+msgstr "版本对比"
+
+#: tform_main.mi_loadpreset.caption
+msgid "Load"
+msgstr "载入"
+
+#: tform_main.mi_opencontainingfolder.caption
+msgid "Open containing folder"
+msgstr "打开包含的文件夹"
+
+#: tform_main.mi_openfile.caption
+msgid "Open File"
+msgstr "打开文件"
+
+#: tform_main.mi_openwithnotepad.caption
+msgid "Open with Notepad"
+msgstr "以文本打开"
+
+#: tform_main.mi_purchase.caption
+msgid "Purchase (online)"
+msgstr "在线购买"
+
+#: tform_main.mi_quickguide.caption
+msgid "Quick Guide"
+msgstr "新手教学"
+
+#: tform_main.mi_rescanpresets.caption
+msgid "Rescan"
+msgstr "重新扫描"
+
+#: tform_main.mi_rulecomment.caption
+msgid "Comment..."
+msgstr "注释..."
+
+#: tform_main.mi_rulestoclipboard.caption
+msgid "Export to Clipboard"
+msgstr "导出到剪贴板"
+
+#: tform_main.mi_usermanual.caption
+msgid "User Manual"
+msgstr "用户手册"
+
+#: tform_main.toolbutton_addrule.caption
+msgctxt "tform_main.toolbutton_addrule.caption"
+msgid "Add"
+msgstr "添加"
+
+#: tform_main.toolbutton_analyze.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_ANALYZE.CAPTION"
+msgid "Analyze"
+msgstr "分析"
+
+#: tform_main.toolbutton_columns.caption
+msgid "Columns"
+msgstr "分栏"
+
+#: tform_main.toolbutton_export.caption
+msgid "Export"
+msgstr "导出"
+
+#: tform_main.toolbutton_files.caption
+msgid "Files"
+msgstr "文件"
+
+#: tform_main.toolbutton_filters.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_FILTERS.CAPTION"
+msgid "Filters"
+msgstr "筛选器"
+
+#: tform_main.toolbutton_movedownrule.caption
+msgctxt "tform_main.toolbutton_movedownrule.caption"
+msgid "Down"
+msgstr "下移"
+
+#: tform_main.toolbutton_moveuprule.caption
+msgctxt "tform_main.toolbutton_moveuprule.caption"
+msgid "Up"
+msgstr "上移"
+
+#: tform_main.toolbutton_options.caption
+msgctxt "tform_main.toolbutton_options.caption"
+msgid "Options"
+msgstr "选项"
+
+#: tform_main.toolbutton_removerule.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_REMOVERULE.CAPTION"
+msgid "Remove"
+msgstr "移除"
+
+#: tform_main.vst_files.header.columns[0].text
+msgid "State"
+msgstr "状态"
+
+#: tform_main.vst_files.header.columns[10].text
+msgid "Modified"
+msgstr "修改时间"
+
+#: tform_main.vst_files.header.columns[11].text
+msgctxt "TFORM_MAIN.VST_FILES.HEADER.COLUMNS[11].TEXT"
+msgid "Extension"
+msgstr "扩展名"
+
+#: tform_main.vst_files.header.columns[12].text
+msgid "Name Digits"
+msgstr "提取名称中的数字"
+
+#: tform_main.vst_files.header.columns[13].text
+msgid "Path Digits"
+msgstr "提取路径中的数字"
+
+#: tform_main.vst_files.header.columns[14].text
+msgid "Name Length"
+msgstr "名称长度"
+
+#: tform_main.vst_files.header.columns[15].text
+msgid "New Name Length"
+msgstr "新名称长度"
+
+#: tform_main.vst_files.header.columns[16].text
+msgid "Path Length"
+msgstr "路径长度"
+
+#: tform_main.vst_files.header.columns[17].text
+msgid "New Path Length"
+msgstr "新路径长度"
+
+#: tform_main.vst_files.header.columns[18].text
+msgid "Exif Date"
+msgstr "Exif 数据"
+
+#: tform_main.vst_files.header.columns[19].text
+msgid "Old Path"
+msgstr "原始路径"
+
+#: tform_main.vst_files.header.columns[1].text
+msgid "Path"
+msgstr "路径"
+
+#: tform_main.vst_files.header.columns[20].text
+msgctxt "tform_main.vst_files.header.columns[20].text"
+msgid "Error"
+msgstr "错误信息"
+
+#: tform_main.vst_files.header.columns[2].text
+msgid "Folder"
+msgstr "所在目录"
+
+#: tform_main.vst_files.header.columns[3].text
+msgid "Name"
+msgstr "名称"
+
+#: tform_main.vst_files.header.columns[4].text
+msgid "New Name"
+msgstr "新名称"
+
+#: tform_main.vst_files.header.columns[5].text
+msgid "New Path"
+msgstr "新路径"
+
+#: tform_main.vst_files.header.columns[6].text
+msgid "Size"
+msgstr "大小"
+
+#: tform_main.vst_files.header.columns[7].text
+msgid "Size KB"
+msgstr "大小 KB"
+
+#: tform_main.vst_files.header.columns[8].text
+msgid "Size MB"
+msgstr "大小 MB"
+
+#: tform_main.vst_files.header.columns[9].text
+msgid "Created"
+msgstr "创建时间"
+
+#: tform_metatags.bitbtn_cancel.caption
+msgctxt "TFORM_METATAGS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "取消"
+
+#: tform_metatags.bitbtn_insert.caption
+msgctxt "TFORM_METATAGS.BITBTN_INSERT.CAPTION"
+msgid "Insert"
+msgstr "插入"
+
+#: tform_metatags.caption
+msgctxt "TFORM_METATAGS.CAPTION"
+msgid "Meta Tags"
+msgstr "元信息标签"
+
+#: tform_metatags.label_note.caption
+msgid "Note: Most of the tags can only work for files, not folders."
+msgstr "提示：大多数标签仅可用于文件而不是文件夹。"
+
+#: tform_presetsave.bitbtn_save.caption
+msgid "&Save"
+msgstr "保存(&S)"
+
+#: tform_presetsave.caption
+msgid "Save Preset"
+msgstr "保存预设"
+
+#: tform_presetsave.cb_presetsavefilters.caption
+msgid "Save Filter Settings with the preset?"
+msgstr "同时保存筛选器设置？"
+
+#: tform_presetsave.label1.caption
+msgid "Overwrite existing preset:"
+msgstr "覆盖已存在的预设："
+
+#: tform_presetsave.le_name.editlabel.caption
+msgid "Preset Name:"
+msgstr "预设名："
+
+#: tform_presetslinks.bb_createlinks.caption
+msgctxt "TFORM_PRESETSLINKS.BB_CREATELINKS.CAPTION"
+msgid "Create Links"
+msgstr "创建链接"
+
+#: tform_presetslinks.caption
+msgid "Presets Links"
+msgstr "预设链接"
+
+#: tform_presetslinks.label_folder.caption
+msgid "Please specify a folder where you want to place the links:"
+msgstr "请选定保存预设的文件夹："
+
+#: tform_presetslinks.label_linktype.caption
+msgid "Type of links:"
+msgstr "链接类型："
+
+#: tform_presetslinks.rb_load.caption
+msgctxt "TFORM_PRESETSLINKS.RB_LOAD.CAPTION"
+msgid "Load with Preset"
+msgstr "同时载入预设"
+
+#: tform_presetslinks.rb_rename.caption
+msgctxt "TFORM_PRESETSLINKS.RB_RENAME.CAPTION"
+msgid "Rename with Preset"
+msgstr "用预设重命名"
+
+#: tform_presetslinks.sb_browse.hint
+msgid "Browse for Folder"
+msgstr "浏览"
+
+#: tform_presetslinks.sb_usesendto.hint
+msgid "Use \"Send To\" Folder"
+msgstr "使用\"发送到\"文件夹"
+
+#: tform_presetsmanager.caption
+msgid "Presets Manager"
+msgstr "预设管理器"
+
+#: tform_presetsmanager.tb_append.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_APPEND.HINT"
+msgid "Append Preset"
+msgstr "添加预设"
+
+#: tform_presetsmanager.tb_copy.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_COPY.HINT"
+msgid "Duplicate Preset"
+msgstr "复制预设"
+
+#: tform_presetsmanager.tb_delete.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_DELETE.HINT"
+msgid "Delete Preset (Del)"
+msgstr "删除预设 (Del)"
+
+#: tform_presetsmanager.tb_edit.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_EDIT.HINT"
+msgid "Manually Edit Preset (F4)"
+msgstr "手动编辑预设 (F4)"
+
+#: tform_presetsmanager.tb_load.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_LOAD.HINT"
+msgid "Load Preset (Enter)"
+msgstr "载入预设 (Enter)"
+
+#: tform_presetsmanager.tb_rename.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_RENAME.HINT"
+msgid "Rename Preset (F2)"
+msgstr "重命名预设 (F2)"
+
+#: tform_register.bb_cancel.caption
+msgctxt "TFORM_REGISTER.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "取消"
+
+#: tform_register.bb_register.caption
+msgctxt "TFORM_REGISTER.BB_REGISTER.CAPTION"
+msgid "Register"
+msgstr "注册"
+
+#: tform_register.caption
+msgid "Registration"
+msgstr "注册"
+
+#: tform_register.label1.caption
+msgid "Please enter your registration code:"
+msgstr "请输入注册码："
+
+#: tform_settings.bitbtn_cancel.caption
+msgctxt "TFORM_SETTINGS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "取消"
+
+#: tform_settings.bitbtn_save.caption
+msgctxt "TFORM_SETTINGS.BITBTN_SAVE.CAPTION"
+msgid "Save"
+msgstr "保存"
+
+#: tform_settings.caption
+msgctxt "TFORM_SETTINGS.CAPTION"
+msgid "Settings"
+msgstr "设置"
+
+#: tform_settings.cb_allowprocessingextensionsinfolders.caption
+msgid "Folders also have extensions, process them as such"
+msgstr "忽略文件夹扩展名"
+
+#: tform_settings.cb_highlightchangednames.caption
+msgid "Highlight changed file names"
+msgstr "高亮已更改的文件名"
+
+#: tform_settings.cb_overwritewithnewnameconfirm.caption
+msgid "Must be successfully confirmed by user"
+msgstr "必须由用户确认"
+
+#: tform_settings.checkbox_addtofoldercontextmenu.caption
+msgid "Add to folders context menu"
+msgstr "添加右键扩展菜单"
+
+#: tform_settings.checkbox_addtosendtocontextmenu.caption
+msgid "Add to \"Send To\" context menu"
+msgstr "添加到\"发送到\"菜单"
+
+#: tform_settings.checkbox_alwaysontop.caption
+msgid "Stay on top of other windows"
+msgstr "窗口置顶"
+
+#: tform_settings.checkbox_autopreviewonfilesadded.caption
+msgid "Auto preview when new files are added"
+msgstr "文件添加后自动预览"
+
+#: tform_settings.checkbox_autopreviewonruleschange.caption
+msgid "Auto preview on change of rules configurations"
+msgstr "更改规则后自动预览"
+
+#: tform_settings.checkbox_autosizetable.caption
+msgid "Auto size table on change"
+msgstr "更改后自动表格大小"
+
+#: tform_settings.checkbox_clearfilestableonrename.caption
+msgid "Clear files table on rename"
+msgstr "重命名后清除文件表格"
+
+#: tform_settings.checkbox_clearrenamedfilesonrename.caption
+msgid "Clear renamed files on rename"
+msgstr "重命名后清除已重命名项"
+
+#: tform_settings.checkbox_clearruleslistonrename.caption
+msgid "Clear rules list on rename"
+msgstr "重命名后清除规则列表"
+
+#: tform_settings.checkbox_closeprogramaftersuccessfulrename.caption
+msgid "Close program after successful rename"
+msgstr "成功重命名后退出程序"
+
+#: tform_settings.checkbox_displaymsgonsuccessfulrename.caption
+msgid "Display message on successful rename"
+msgstr "成功重命名后显示操作信息"
+
+#: tform_settings.checkbox_fixconflictingnewnamesonpreview.caption
+msgid "Fix conflicting new names on preview"
+msgstr "预览时修正冲突文件新名称"
+
+#: tform_settings.checkbox_metatagsupport.caption
+msgid "MetaTag support"
+msgstr "元标签支持"
+
+#: tform_settings.checkbox_overwritewithnewname.caption
+msgid "Overwrite files with New Names"
+msgstr "用新名称覆盖文件"
+
+#: tform_settings.checkbox_previewrealtimeupdate.caption
+msgid "Real-time update of the preview"
+msgstr "实时更新预览"
+
+#: tform_settings.checkbox_registerpresetextension.caption
+msgid "Register preset extension (*.rnp)"
+msgstr "注册预设扩展名（*.rnp）"
+
+#: tform_settings.checkbox_rememberlocation.caption
+msgid "Remember position and size of major windows"
+msgstr "记忆主窗口位置和大小"
+
+#: tform_settings.checkbox_saveandloaddefaultpreset.caption
+msgid "Save rules configuration on exit, load on startup"
+msgstr "退出时保存，启动时加载规则配置"
+
+#: tform_settings.checkbox_showmaintoolbar.caption
+msgid "Show main toolbar"
+msgstr "显示主工具栏"
+
+#: tform_settings.checkbox_skiprenamingunchangedfiles.caption
+msgid "Skip renaming of unchanged files"
+msgstr "跳过重命名未更改的文件"
+
+#: tform_settings.checkbox_sortingremember.caption
+msgid "Remember sorting options (files table)"
+msgstr "记忆排序选项（文件表格）"
+
+#: tform_settings.checkbox_usenaturalsort.caption
+msgid "Use natural order sorting algorithm (2-3 times slower)"
+msgstr "使用内置的排序算法（将会慢2-3倍）"
+
+#: tform_settings.checkbox_validateonpreview.caption
+msgid "Validate new filenames on preview"
+msgstr "预览时验证新文件名"
+
+#: tform_settings.label1.caption
+msgid "Date Format:"
+msgstr "日期格式："
+
+#: tform_settings.label2.caption
+msgid "Preview:"
+msgstr "预览："
+
+#: tform_settings.label3.caption
+msgid "Example: file1, file2 ... file9, file10, file11, and so on."
+msgstr "例如：文件1，文件2...文件9，文件10，文件11。"
+
+#: tform_settings.label5.caption
+msgid "Note: disabling any of these options will increase performance when processing large amount of files."
+msgstr "提示：禁用以上任一项都将会在处理大量文件时提升操作性能。"
+
+#: tform_settings.label_addrulestext.caption
+msgid "Change text of \"Click here to add a rule\":"
+msgstr "更改添加规则提示语为："
+
+#: tform_settings.label_dragfilestext.caption
+msgid "Change text of \"Drag your files here\":"
+msgstr "更改添加文件提示语为："
+
+#: tform_settings.label_metatagformatnote.caption
+msgid "Note: formats will be saved only if validated successfully."
+msgstr "提示：仅当格式验证成功后才会被保存。"
+
+#: tform_settings.speedbutton_filtersettings.caption
+msgid "Configure Filter Settings"
+msgstr "配置筛选器设置"
+
+#: tform_settings.speedbutton_metatagformatsinfo.caption
+msgctxt "TFORM_SETTINGS.SPEEDBUTTON_METATAGFORMATSINFO.CAPTION"
+msgid "Help"
+msgstr "帮助"
+
+#: tform_settings.speedbutton_metatagformatsinfo.hint
+msgctxt "TFORM_SETTINGS.SPEEDBUTTON_METATAGFORMATSINFO.HINT"
+msgid "Online Help (F1)"
+msgstr "在线帮助 (F1)"
+
+#: tform_settings.statictext1.caption
+msgid "Note: Disabling MetaTag support will increase performance when processing large amount of files."
+msgstr "提示：禁用元标签支持将会在处理大量文件时提升操作性能。"
+
+#: tform_settings.statictext5.caption
+msgid "Warning: Overwritten files will be deleted permanently."
+msgstr "警告：被覆盖的文件将被永久删除。"
+
+#: tform_settings.tabsheet_general.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_GENERAL.CAPTION"
+msgid "General"
+msgstr "通用"
+
+#: tform_settings.tabsheet_metatags.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_METATAGS.CAPTION"
+msgid "Meta Tags"
+msgstr "元信息标签"
+
+#: tform_settings.tabsheet_misc.caption
+msgid "Misc."
+msgstr "杂项"
+
+#: tform_settings.tabsheet_preview.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_PREVIEW.CAPTION"
+msgid "Preview"
+msgstr "预览"
+
+#: tform_settings.tabsheet_rename.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_RENAME.CAPTION"
+msgid "Rename"
+msgstr "重命名"
+
+#: tform_termsofuse.bb_accept.caption
+msgid "Accept"
+msgstr "接受"
+
+#: tform_termsofuse.bb_litevspro.caption
+msgid "Lite vs Pro"
+msgstr "版本对比"
+
+#: tform_termsofuse.bb_purchase.caption
+msgid "Purchase"
+msgstr "购买"
+
+#: tform_termsofuse.bb_register.caption
+msgid "Enter registration code"
+msgstr "输入注册码"
+
+#: tform_termsofuse.caption
+msgid "Terms of Use"
+msgstr "使用须知"
+
+#: tform_termsofuse.groupbox.caption
+msgid "Please be aware of the terms of use of this application:"
+msgstr "请注意该应用程序的以下条款："
+
+#: tform_termsofuse.label_commercial.caption
+msgid "For commercial use you must obtain a commercial license by going to the website. If you already hold a license please enter your registration code. Thank you for playing fair."
+msgstr "您必须前往官网去购买商业授权以便商业用途。如果您已购买一个授权，请输入注册码激活。感谢您的购买。"
+
+#: tform_termsofuse.label_noncommercial.caption
+msgctxt "TFORM_TERMSOFUSE.LABEL_NONCOMMERCIAL.CAPTION"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "此应用程序仅使用和分发在非商业用途。"
+
+#: tform_termsofuse.label_supportdevelopment.caption
+msgid "Please also consider purchasing a \"Pro\" version to support the future development of this application."
+msgstr "您可以通过购买专业版来支持我们的开发工作。"
+
+#: tframe_rulecase.checkbox_caseextensionalwayslowercase.caption
+msgid "Extension always lower case"
+msgstr "扩展名始终小写"
+
+#: tframe_rulecase.checkbox_caseextensionalwaysuppercase.caption
+msgid "Extension always upper case"
+msgstr "扩展名始终大写"
+
+#: tframe_rulecase.checkbox_caseforce.caption
+msgid "Force case for fragments:"
+msgstr "强制应用于以下片段："
+
+#: tframe_rulecase.checkbox_caseskipextension.caption
+msgctxt "tframe_rulecase.checkbox_caseskipextension.caption"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: tframe_rulecase.groupbox_casechange.caption
+msgid "Case change:"
+msgstr "大小写变更："
+
+#: tframe_rulecase.label_caseforcehint.caption
+msgid "Hint: fragments separated with comma will be put in the same case as they are typed in this text box, for example: CD,DVD,DJ"
+msgstr "提示：多个片段请用逗号分隔，例如：CD、DVD、DJ"
+
+#: tframe_rulecase.rb_casealllower.caption
+msgid "all lower case"
+msgstr "全部小写"
+
+#: tframe_rulecase.rb_caseallupper.caption
+msgid "ALL UPPER CASE"
+msgstr "全部大写"
+
+#: tframe_rulecase.rb_casecapitalize.caption
+msgid "Capitalize Every Word"
+msgstr "每个单词大写"
+
+#: tframe_rulecase.rb_casecapitalizeandpreserve.caption
+msgid "Capitalize AND Preserve"
+msgstr "大写并保持"
+
+#: tframe_rulecase.rb_casefirstlettercapital.caption
+msgctxt "TFRAME_RULECASE.RB_CASEFIRSTLETTERCAPITAL.CAPTION"
+msgid "First letter capital"
+msgstr "首字母大写"
+
+#: tframe_rulecase.rb_caseinvert.caption
+msgid "iNVERT cASE"
+msgstr "反转大小写"
+
+#: tframe_rulecase.rb_noneofabove.caption
+msgid "(none of the above)"
+msgstr "(以上都不是)"
+
+#: tframe_rulecleanup.cb_insertspacebeforecapitals.caption
+msgid "Insert a space in front of capitalized letters (e.g. CamelCase)"
+msgstr "大写字母前插入空格"
+
+#: tframe_rulecleanup.cb_normalizespaces.caption
+msgid "Normalize unicode spaces by replacing them with a standard space"
+msgstr "用单个空格作为标准替换多个空格"
+
+#: tframe_rulecleanup.checkbox_prepareforsharepoint.caption
+msgid "Prepare for SharePoint (always inc. extension)"
+msgstr "准备到 SharePoint（包含扩展名）"
+
+#: tframe_rulecleanup.checkbox_skipextension.caption
+msgctxt "TFRAME_RULECLEANUP.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: tframe_rulecleanup.checkbox_spacescomma.caption
+msgid ", (comma)"
+msgstr ", (逗号)"
+
+#: tframe_rulecleanup.checkbox_spacesdot.caption
+msgid ". (dot)"
+msgstr ". (点号)"
+
+#: tframe_rulecleanup.checkbox_spacesfix.caption
+msgid "Fix spaces: only one space at a time, no spaces on sides of basename"
+msgstr "修正空格：一次只能单个空格，去除名称两端空格"
+
+#: tframe_rulecleanup.checkbox_spacesskipversions.caption
+msgid "Skip number sequences, for example version 1.2.3.4"
+msgstr "忽略数字序列，例如版本号 1.2.3.4"
+
+#: tframe_rulecleanup.checkbox_stripunicodemarks.caption
+msgid "Strip unicode marks (combining, diacritics, accents)"
+msgstr "移除 Unicode 符号（ 组合符、变音符、重音符）"
+
+#: tframe_rulecleanup.groupbox1.caption
+msgid "Replace these characters with spaces:"
+msgstr "用空格替换以下字符："
+
+#: tframe_rulecleanup.groupbox_brackets.caption
+msgid "Strip out content of brackets:"
+msgstr "移除括号内容："
+
+#: tframe_ruledelete.checkbox_deletecurrentname.caption
+msgctxt "tframe_ruledelete.checkbox_deletecurrentname.caption"
+msgid "Delete current name"
+msgstr "删除当前名称"
+
+#: tframe_ruledelete.checkbox_deleterighttoleft.caption
+msgctxt "tframe_ruledelete.checkbox_deleterighttoleft.caption"
+msgid "Right-to-left"
+msgstr "从右到左"
+
+#: tframe_ruledelete.checkbox_deleteskipextension.caption
+msgctxt "TFRAME_RULEDELETE.CHECKBOX_DELETESKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: tframe_ruledelete.checkbox_leavedelimiter.caption
+msgid "Do not remove delimiters"
+msgstr "禁止移除分隔符"
+
+#: tframe_ruledelete.groupbox_from.caption
+msgid "From:"
+msgstr "始于："
+
+#: tframe_ruledelete.groupbox_until.caption
+msgid "Until:"
+msgstr "直到："
+
+#: tframe_ruledelete.radiobutton_deletefromdelimiter.caption
+msgctxt "tframe_ruledelete.radiobutton_deletefromdelimiter.caption"
+msgid "Delimiter:"
+msgstr "分隔符："
+
+#: tframe_ruledelete.radiobutton_deletefromposition.caption
+msgctxt "tframe_ruledelete.radiobutton_deletefromposition.caption"
+msgid "Position:"
+msgstr "位置："
+
+#: tframe_ruledelete.radiobutton_deleteuntilcount.caption
+msgid "Count:"
+msgstr "计数："
+
+#: tframe_ruledelete.radiobutton_deleteuntildelimiter.caption
+msgctxt "TFRAME_RULEDELETE.RADIOBUTTON_DELETEUNTILDELIMITER.CAPTION"
+msgid "Delimiter:"
+msgstr "分隔符："
+
+#: tframe_ruledelete.radiobutton_deleteuntilend.caption
+msgid "Till the end"
+msgstr "直到末尾"
+
+#: tframe_ruleextension.checkbox_detectbinsign.caption
+msgid "Detect using \"binary signature\""
+msgstr "检测使用 \"二进制签名\""
+
+#: tframe_ruleextension.checkbox_extensionappend.caption
+msgid "Append to the original filename"
+msgstr "添加到原始文件名"
+
+#: tframe_ruleextension.label_extensionlabel.caption
+msgid "New Extension (without dot):"
+msgstr "新扩展名（无需.）"
+
+#: tframe_ruleextension.label_hint.caption
+msgid "Note: Some files may have multiple extensions matching their data type, for example: doc/ppt/xls have the same signature. Unrecognised files will remain unchanged. If this option is used, the new extension field is ignored."
+msgstr "提示：有些文件扩展名可能匹配多个数据类型，例如：doc、ppt、xls 具有相同的签名。未经确认的文件将保持不变。如果使用此选项, 新扩展字段将会被忽略。"
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.caption
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.caption"
+msgid "Insert Meta Tag"
+msgstr "插入元信息标签"
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.hint
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.hint"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "插入元信息标签 (Ctrl+Ins)"
+
+#: tframe_ruleinsert.checkbox_insertright.caption
+msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTRIGHT.CAPTION"
+msgid "Right-to-left"
+msgstr "从右到左"
+
+#: tframe_ruleinsert.checkbox_insertskipextension.caption
+msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTSKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: tframe_ruleinsert.label_insertwhat.caption
+msgid "Insert:"
+msgstr "插入："
+
+#: tframe_ruleinsert.label_insertwhere.caption
+msgid "Where:"
+msgstr "位置："
+
+#: tframe_ruleinsert.radiobutton_insertaftertext.caption
+msgid "After text:"
+msgstr "到文本后："
+
+#: tframe_ruleinsert.radiobutton_insertbeforetext.caption
+msgid "Before text:"
+msgstr "到文本前："
+
+#: tframe_ruleinsert.radiobutton_insertposition.caption
+msgctxt "TFRAME_RULEINSERT.RADIOBUTTON_INSERTPOSITION.CAPTION"
+msgid "Position:"
+msgstr "位置："
+
+#: tframe_ruleinsert.radiobutton_insertprefix.caption
+msgctxt "tframe_ruleinsert.radiobutton_insertprefix.caption"
+msgid "Prefix"
+msgstr "前缀"
+
+#: tframe_ruleinsert.radiobutton_insertsuffix.caption
+msgctxt "tframe_ruleinsert.radiobutton_insertsuffix.caption"
+msgid "Suffix"
+msgstr "后缀"
+
+#: tframe_ruleinsert.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleinsert.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "替换当前名称"
+
+#: tframe_rulepadding.checkbox_addtextpadding.caption
+msgid "Add padding to length:"
+msgstr "填充长度："
+
+#: tframe_rulepadding.checkbox_addzeropadding.caption
+msgid "Add zero padding to length:"
+msgstr "补零填充长度："
+
+#: tframe_rulepadding.checkbox_removezeropadding.caption
+msgctxt "tframe_rulepadding.checkbox_removezeropadding.caption"
+msgid "Remove zero padding"
+msgstr "移除补零"
+
+#: tframe_rulepadding.checkbox_skipextension.caption
+msgctxt "tframe_rulepadding.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: tframe_rulepadding.groupbox_numbersequences.caption
+msgid "Number sequences"
+msgstr "数字序列"
+
+#: tframe_rulepadding.groupbox_textpadding.caption
+msgid "Text padding"
+msgstr "文本填充"
+
+#: tframe_rulepadding.label_paddingcharacters.caption
+msgid "Padding characters:"
+msgstr "填充字符："
+
+#: tframe_rulepadding.label_position.caption
+msgctxt "tframe_rulepadding.label_position.caption"
+msgid "Position:"
+msgstr "位置："
+
+#: tframe_rulepadding.radiobutton_positionleft.caption
+msgid "Left"
+msgstr "左"
+
+#: tframe_rulepadding.radiobutton_positionright.caption
+msgid "Right"
+msgstr "右"
+
+#: tframe_rulepascalscript.toolbutton_compile.caption
+msgctxt "tframe_rulepascalscript.toolbutton_compile.caption"
+msgid "Try to Compile"
+msgstr "编译"
+
+#: tframe_rulepascalscript.toolbutton_compile.hint
+msgctxt "tframe_rulepascalscript.toolbutton_compile.hint"
+msgid "Try to Compile (Ctrl+T)"
+msgstr "编译 (Ctrl+T)"
+
+#: tframe_rulepascalscript.toolbutton_gotoline.caption
+msgctxt "tframe_rulepascalscript.toolbutton_gotoline.caption"
+msgid "Go To"
+msgstr "跳转"
+
+#: tframe_rulepascalscript.toolbutton_gotoline.hint
+msgctxt "tframe_rulepascalscript.toolbutton_gotoline.hint"
+msgid "Go To Line (Ctrl+G)"
+msgstr "跳转 (Ctrl+G)"
+
+#: tframe_rulepascalscript.toolbutton_help.caption
+msgctxt "tframe_rulepascalscript.toolbutton_help.caption"
+msgid "Help"
+msgstr "帮助"
+
+#: tframe_rulepascalscript.toolbutton_help.hint
+msgctxt "tframe_rulepascalscript.toolbutton_help.hint"
+msgid "Online Help (F1)"
+msgstr "在线帮助 (F1)"
+
+#: tframe_rulepascalscript.toolbutton_scripts.caption
+msgctxt "tframe_rulepascalscript.toolbutton_scripts.caption"
+msgid "Scripts"
+msgstr "脚本"
+
+#: tframe_rulepascalscript.toolbutton_scripts.hint
+msgctxt "tframe_rulepascalscript.toolbutton_scripts.hint"
+msgid "Scripts (Ctrl+L)"
+msgstr "脚本 (Ctrl+L)"
+
+#: tframe_rulerandomize.checkbox_skipextension.caption
+msgctxt "tframe_rulerandomize.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: tframe_rulerandomize.checkbox_unique.caption
+msgctxt "tframe_rulerandomize.checkbox_unique.caption"
+msgid "Unique if possible"
+msgstr "尽量统一"
+
+#: tframe_rulerandomize.checkbox_usedigits.caption
+#| msgid "Digits:"
+msgctxt "tframe_rulerandomize.checkbox_usedigits.caption"
+msgid "Digits (0..9)"
+msgstr "数字 (0..9)"
+
+#: tframe_rulerandomize.checkbox_useenglishletters.caption
+msgid "English letters (a..z)"
+msgstr "英文字母 (a..z)"
+
+#: tframe_rulerandomize.checkbox_useuserdefined.caption
+msgctxt "tframe_rulerandomize.checkbox_useuserdefined.caption"
+msgid "User defined:"
+msgstr "用户定义："
+
+#: tframe_rulerandomize.groupbox_characters.caption
+msgctxt "tframe_rulerandomize.groupbox_characters.caption"
+msgid "Characters to use:"
+msgstr "使用字符："
+
+#: tframe_rulerandomize.groupbox_insertwhere.caption
+msgctxt "tframe_rulerandomize.groupbox_insertwhere.caption"
+msgid "Insert where:"
+msgstr "插入位置："
+
+#: tframe_rulerandomize.label_length.caption
+#| msgid "Length:"
+msgctxt "tframe_rulerandomize.label_length.caption"
+msgid "Length of random sequence:"
+msgstr "随机序列长度："
+
+#: tframe_rulerandomize.radiobutton_position.caption
+msgctxt "tframe_rulerandomize.radiobutton_position.caption"
+msgid "Position:"
+msgstr "位置："
+
+#: tframe_rulerandomize.radiobutton_prefix.caption
+msgctxt "tframe_rulerandomize.radiobutton_prefix.caption"
+msgid "Prefix"
+msgstr "前缀"
+
+#: tframe_rulerandomize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_rulerandomize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "替换当前名称"
+
+#: tframe_rulerandomize.radiobutton_suffix.caption
+msgctxt "tframe_rulerandomize.radiobutton_suffix.caption"
+msgid "Suffix"
+msgstr "后缀"
+
+#: tframe_rulerearrange.cb_righttoleft.caption
+msgctxt "TFRAME_RULEREARRANGE.CB_RIGHTTOLEFT.CAPTION"
+msgid "Right-to-left"
+msgstr "从右到左"
+
+#: tframe_rulerearrange.cb_skipextension.caption
+msgctxt "TFRAME_RULEREARRANGE.CB_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: tframe_rulerearrange.label1.caption
+msgid "Split using:"
+msgstr "分隔符："
+
+#: tframe_rulerearrange.label2.caption
+msgid "New pattern:"
+msgstr "新模版："
+
+#: tframe_rulerearrange.label3.caption
+msgid "Hint: Use $1..$N to reference delimited parts in the new pattern, $-1..$-N to reference from the end, $0 for the original name."
+msgstr "提示：使用 $1..$N 去反向引用新模版下的分隔部分，使用 $-1..$-N 去从结尾反向引用，$0 代表原始名称。"
+
+#: tframe_rulerearrange.rb_usingdelimiters.caption
+msgid "Delimiters"
+msgstr "分隔符"
+
+#: tframe_rulerearrange.rb_usingexactpatternofdelimiters.caption
+msgid "Exact pattern of delimiters"
+msgstr "分隔符的确切模式"
+
+#: tframe_rulerearrange.rb_usingpositions.caption
+msgid "Positions"
+msgstr "位置"
+
+#: tframe_rulerearrange.sb_addseparator.hint
+msgctxt "tframe_rulerearrange.sb_addseparator.hint"
+msgid "Separate multiple items"
+msgstr "分隔多个文件"
+
+#: tframe_rulerearrange.sb_insertmetatag.hint
+msgctxt "TFRAME_RULEREARRANGE.SB_INSERTMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "插入元信息标签 (Ctrl+Ins)"
+
+#: tframe_rulereformatdate.checkbox_adjusttime.caption
+msgid "Adjust time by:"
+msgstr "时间差调整："
+
+#: tframe_rulereformatdate.checkbox_skipextension.caption
+msgctxt "tframe_rulereformatdate.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: tframe_rulereformatdate.checkbox_usecustomlongmonths.caption
+msgid "Use custom long months:"
+msgstr "自定义月份全称："
+
+#: tframe_rulereformatdate.checkbox_usecustomshortmonths.caption
+msgid "Use custom short months:"
+msgstr "自定义月份简称："
+
+#: tframe_rulereformatdate.checkbox_wholewordsonly.caption
+msgid "Match as whole words only"
+msgstr "仅匹配全字"
+
+#: tframe_rulereformatdate.label_inputformats.caption
+msgid "Find date/time formats:"
+msgstr "日期 / 时间查找格式："
+
+#: tframe_rulereformatdate.label_outputformat.caption
+msgid "Convert to date/time format:"
+msgstr "转换到日期 / 时间格式："
+
+#: tframe_rulereformatdate.menuitem_addseparator.caption
+msgctxt "tframe_rulereformatdate.menuitem_addseparator.caption"
+msgid "Separate multiple items"
+msgstr "分割多个文件"
+
+#: tframe_rulereformatdate.menuitem_datetimeformathelp.caption
+msgid "Date/time format reference (online)"
+msgstr "日期 / 时间格式参考（在线）"
+
+#: tframe_ruleregex.checkbox_casesensitive.caption
+msgid "Case-sensitive"
+msgstr "区分大小写"
+
+#: tframe_ruleregex.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREGEX.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: tframe_ruleregex.label1.caption
+msgid "Hint: Use $1..$9 to reference subexpressions."
+msgstr "提示：使用 $1..$9 来反向引用。"
+
+#: tframe_ruleregex.label4.caption
+msgid "Expression:"
+msgstr "表达式："
+
+#: tframe_ruleregex.label5.caption
+msgctxt "tframe_ruleregex.label5.caption"
+msgid "Replace:"
+msgstr "替换："
+
+#: tframe_ruleregex.sb_insertexpression.hint
+msgid "Insert expression (Ctrl+Ins)"
+msgstr "插入表达式 (Ctrl+Ins)"
+
+#: tframe_ruleregex.speedbutton_help.caption
+msgctxt "TFRAME_RULEREGEX.SPEEDBUTTON_HELP.CAPTION"
+msgid "Help"
+msgstr "帮助"
+
+#: tframe_ruleregex.speedbutton_help.hint
+msgctxt "TFRAME_RULEREGEX.SPEEDBUTTON_HELP.HINT"
+msgid "Online Help (F1)"
+msgstr "在线帮助 (F1)"
+
+#: tframe_ruleremove.checkbox_casesensitive.caption
+msgctxt "tframe_ruleremove.checkbox_casesensitive.caption"
+msgid "Case sensitive"
+msgstr "区分大小写"
+
+#: tframe_ruleremove.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREMOVE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: tframe_ruleremove.checkbox_usewildcards.caption
+msgid "Interpret symbols '?', '*', '[', ']' as wildcards?"
+msgstr "设定中止符 '?' 、'*'、'['、']' 为通配符？"
+
+#: tframe_ruleremove.checkbox_wholewordsonly.caption
+msgctxt "tframe_ruleremove.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "仅全字"
+
+#: tframe_ruleremove.label_removeoccurances.caption
+msgctxt "tframe_ruleremove.label_removeoccurances.caption"
+msgid "Occurrences:"
+msgstr "操作序数："
+
+#: tframe_ruleremove.label_removewhat.caption
+msgid "Remove:"
+msgstr "移除："
+
+#: tframe_ruleremove.radiobutton_removeall.caption
+msgctxt "tframe_ruleremove.radiobutton_removeall.caption"
+msgid "All"
+msgstr "全部"
+
+#: tframe_ruleremove.radiobutton_removefirst.caption
+msgctxt "tframe_ruleremove.radiobutton_removefirst.caption"
+msgid "First"
+msgstr "首个"
+
+#: tframe_ruleremove.radiobutton_removelast.caption
+msgctxt "tframe_ruleremove.radiobutton_removelast.caption"
+msgid "Last"
+msgstr "末个"
+
+#: tframe_ruleremove.speedbutton_removeaddseparator.hint
+msgctxt "TFRAME_RULEREMOVE.SPEEDBUTTON_REMOVEADDSEPARATOR.HINT"
+msgid "Separate multiple items"
+msgstr "分割多个文件"
+
+#: tframe_rulereplace.checkbox_casesensitive.caption
+msgctxt "TFRAME_RULEREPLACE.CHECKBOX_CASESENSITIVE.CAPTION"
+msgid "Case sensitive"
+msgstr "区分大小写"
+
+#: tframe_rulereplace.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREPLACE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: tframe_rulereplace.checkbox_usewildcards.caption
+msgid "Interpret '?', '*', '[', ']' as wildcards and '$n' as backreferences?"
+msgstr "设定 '?'、'*'、'['、']' 为通配符且 '$n' 为反向引用标记？"
+
+#: tframe_rulereplace.checkbox_wholewordsonly.caption
+msgctxt "tframe_rulereplace.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "仅全字"
+
+#: tframe_rulereplace.label_replaceoccurances.caption
+msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEOCCURANCES.CAPTION"
+msgid "Occurrences:"
+msgstr "操作序数："
+
+#: tframe_rulereplace.label_replacewhat.caption
+msgid "Find:"
+msgstr "查找："
+
+#: tframe_rulereplace.label_replacewith.caption
+msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEWITH.CAPTION"
+msgid "Replace:"
+msgstr "替换："
+
+#: tframe_rulereplace.radiobutton_replaceall.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACEALL.CAPTION"
+msgid "All"
+msgstr "全部"
+
+#: tframe_rulereplace.radiobutton_replacefirst.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACEFIRST.CAPTION"
+msgid "First"
+msgstr "首个"
+
+#: tframe_rulereplace.radiobutton_replacelast.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACELAST.CAPTION"
+msgid "Last"
+msgstr "末个"
+
+#: tframe_rulereplace.speedbutton_replaceaddseparator.hint
+msgctxt "TFRAME_RULEREPLACE.SPEEDBUTTON_REPLACEADDSEPARATOR.HINT"
+msgid "Separate multiple items"
+msgstr "分割多个文件"
+
+#: tframe_rulereplace.speedbutton_replacewithmetatag.hint
+msgctxt "TFRAME_RULEREPLACE.SPEEDBUTTON_REPLACEWITHMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "插入元信息标签 (Ctrl+Ins)"
+
+#: tframe_ruleserialize.cb_resetevery.caption
+msgid "Reset every:"
+msgstr "重置间隔："
+
+#: tframe_ruleserialize.checkbox_resetiffilenamechanges.caption
+msgid "Reset if file name changes"
+msgstr "文件名变更是重置"
+
+#: tframe_ruleserialize.checkbox_resetiffolderchanges.caption
+msgid "Reset if folder changes"
+msgstr "文件夹变更时重置"
+
+#: tframe_ruleserialize.checkbox_serializepadtolength.caption
+msgid "Pad with zeros to length:"
+msgstr "填充 0 来补足长度："
+
+#: tframe_ruleserialize.checkbox_skipextension.caption
+msgctxt "TFRAME_RULESERIALIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: tframe_ruleserialize.gb_insertwhere.caption
+msgctxt "tframe_ruleserialize.gb_insertwhere.caption"
+msgid "Insert where:"
+msgstr "插入位置："
+
+#: tframe_ruleserialize.label_customnumberingsymbols.caption
+msgid "Custom numbering symbols:"
+msgstr "自定义序号："
+
+#: tframe_ruleserialize.label_indexstarts.caption
+msgid "Index starts:"
+msgstr "起始值："
+
+#: tframe_ruleserialize.label_numberingsystem.caption
+msgid "Numbering system:"
+msgstr "序列符号："
+
+#: tframe_ruleserialize.label_repeat.caption
+msgid "Repeat:"
+msgstr "重复数："
+
+#: tframe_ruleserialize.label_step.caption
+msgid "Step:"
+msgstr "增量："
+
+#: tframe_ruleserialize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleserialize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "替换当前名称"
+
+#: tframe_ruleserialize.radiobutton_serializeposition.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPOSITION.CAPTION"
+msgid "Position:"
+msgstr "位置："
+
+#: tframe_ruleserialize.radiobutton_serializeprefix.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPREFIX.CAPTION"
+msgid "Prefix"
+msgstr "前缀"
+
+#: tframe_ruleserialize.radiobutton_serializesuffix.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZESUFFIX.CAPTION"
+msgid "Suffix"
+msgstr "后缀"
+
+#: tframe_rulestrip.cb_stripallexceptselected.caption
+msgid "Strip all characters except selected"
+msgstr "移除选定项外的全部字符"
+
+#: tframe_rulestrip.cb_stripenglishletters.caption
+msgid "English:"
+msgstr "英语字母："
+
+#: tframe_rulestrip.checkbox_casesensitive.caption
+msgctxt "TFRAME_RULESTRIP.CHECKBOX_CASESENSITIVE.CAPTION"
+msgid "Case sensitive"
+msgstr "区分大小写"
+
+#: tframe_rulestrip.checkbox_stripbrackets.caption
+msgid "Brackets:"
+msgstr "括号："
+
+#: tframe_rulestrip.checkbox_stripdigits.caption
+msgctxt "tframe_rulestrip.checkbox_stripdigits.caption"
+msgid "Digits:"
+msgstr "数字："
+
+#: tframe_rulestrip.checkbox_stripskipextension.caption
+msgctxt "TFRAME_RULESTRIP.CHECKBOX_STRIPSKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: tframe_rulestrip.checkbox_stripsymbols.caption
+msgid "Symbols:"
+msgstr "符号："
+
+#: tframe_rulestrip.checkbox_stripuserdefined.caption
+msgctxt "tframe_rulestrip.checkbox_stripuserdefined.caption"
+msgid "User defined:"
+msgstr "用户定义："
+
+#: tframe_rulestrip.rb_whereeverywhere.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHEREEVERYWHERE.CAPTION"
+msgid "Everywhere"
+msgstr "任意位置"
+
+#: tframe_rulestrip.rb_whereleading.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHERELEADING.CAPTION"
+msgid "Leading"
+msgstr "载入中"
+
+#: tframe_rulestrip.rb_wheretrailing.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHERETRAILING.CAPTION"
+msgid "Trailing"
+msgstr "尾随"
+
+#: tframe_ruletranslit.bitbtn_translits.caption
+msgid "Alphabet"
+msgstr "字母音译表"
+
+#: tframe_ruletranslit.checkbox_adjustcase.caption
+msgctxt "tframe_ruletranslit.checkbox_adjustcase.caption"
+msgid "Auto case adjustment"
+msgstr "自动调整大小写"
+
+#: tframe_ruletranslit.checkbox_skipextension.caption
+msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: tframe_ruletranslit.label2.caption
+msgid "Direction:"
+msgstr "方向："
+
+#: tframe_ruletranslit.label3.caption
+msgid "Hint:"
+msgstr "提示："
+
+#: tframe_ruletranslit.label_hinttext.caption
+msgid "Alphabet is a set of couples represented by letters and separated with an equal sign; they stand for translation of non-english characters to their english representation."
+msgstr "字母音译表是一系列用等号分隔的字母对，他们一一对应了非英语字符的英文音译。"
+
+#: tframe_ruletranslit.radiobutton_directionbackward.caption
+msgid "Backward"
+msgstr "向后"
+
+#: tframe_ruletranslit.radiobutton_directionforward.caption
+msgid "Forward"
+msgstr "向前"
+
+#: tframe_ruleuserinput.cb_skipextension.caption
+msgctxt "TFRAME_RULEUSERINPUT.CB_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: tframe_ruleuserinput.label1.caption
+msgid "Type your new filenames here (one per line):"
+msgstr "输入新的文件名（每行一个）："
+
+#: tframe_ruleuserinput.menuitem_load.caption
+msgid "Load from Text File"
+msgstr "从文本文件载入"
+
+#: tframe_ruleuserinput.menuitem_paste.caption
+msgid "Paste from Clipboard"
+msgstr "从剪贴板粘贴"
+
+#: tframe_ruleuserinput.rb_insertafter.caption
+msgid "Insert after the current name"
+msgstr "插入到当前名称后"
+
+#: tframe_ruleuserinput.rb_insertinfront.caption
+msgid "Insert in front of the current name"
+msgstr "插入到当前名称前"
+
+#: tframe_ruleuserinput.rb_replace.caption
+msgid "Replace the current name"
+msgstr "替换当前名称"
+
+#: tframe_ruleuserinput.sb_options.caption
+msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
+msgid "Options"
+msgstr "选项"
+
+#: ufileutils.ssizebytes
+msgctxt "ufileutils.ssizebytes"
+msgid "bytes"
+msgstr "bytes"
+
+#: ufileutils.ssizegigabyte
+msgctxt "ufileutils.ssizegigabyte"
+msgid "GB"
+msgstr "GB"
+
+#: ufileutils.ssizekilobyte
+msgctxt "ufileutils.ssizekilobyte"
+msgid "KB"
+msgstr "KB"
+
+#: ufileutils.ssizemegabyte
+msgctxt "ufileutils.ssizemegabyte"
+msgid "MB"
+msgstr "MB"
+
+#: ufileutils.ssizeterabyte
+msgctxt "ufileutils.ssizeterabyte"
+msgid "TB"
+msgstr "TB"
+
+#: umetatags.s_metatag_audio_duration
+msgid "Duration of an Audio file"
+msgstr "音频文件持续时间"
+
+#: umetatags.s_metatag_audio_durationmins
+msgid "Duration of an Audio file in minutes"
+msgstr "以分钟显示音频文件持续时间"
+
+#: umetatags.s_metatag_audio_durationsecs
+msgid "Duration of an Audio file in seconds"
+msgstr "以秒钟显示音频文件持续时间"
+
+#: umetatags.s_metatag_avi_duration
+msgid "AVI Duration in H:M:S format"
+msgstr "以 H:M:S 格式显示 AVI 持续时间"
+
+#: umetatags.s_metatag_avi_durationmins
+msgid "AVI Duration in Minutes"
+msgstr "以分钟显示 AVI 持续时间"
+
+#: umetatags.s_metatag_avi_durationsecs
+msgid "AVI Duration in Seconds"
+msgstr "以秒钟显示 AVI 持续时间"
+
+#: umetatags.s_metatag_avi_framespersecond
+msgid "AVI Frames per Second"
+msgstr "AVI 帧率"
+
+#: umetatags.s_metatag_avi_height
+msgid "AVI Height in Pixels"
+msgstr "AVI 像素高度"
+
+#: umetatags.s_metatag_avi_totalframes
+msgid "AVI Total amount of Frames"
+msgstr "AVI 总帧数"
+
+#: umetatags.s_metatag_avi_videocodec
+msgid "AVI Video Codec"
+msgstr "AVI 视频编码"
+
+#: umetatags.s_metatag_avi_width
+msgid "AVI Width in Pixels"
+msgstr "AVI 像素宽度"
+
+#: umetatags.s_metatag_avi_widthandheight
+msgid "AVI Dimensions in WxH format"
+msgstr "以 WxH 格式显示 AVI 分辨率"
+
+#: umetatags.s_metatag_binarysign_description
+msgid "Binary File Information: Description"
+msgstr "二进制文件信息：描述"
+
+#: umetatags.s_metatag_binarysign_extension
+msgid "Binary File Signature: Extension"
+msgstr "二进制文件信息：签名"
+
+#: umetatags.s_metatag_date_now
+msgid "Current Date"
+msgstr "当前日期"
+
+#: umetatags.s_metatag_document_author
+msgid "Summary Information: Author"
+msgstr "概要信息：作者"
+
+#: umetatags.s_metatag_document_pagecount
+msgid "Summary Information: Number of Pages"
+msgstr "概要信息：页数"
+
+#: umetatags.s_metatag_document_subject
+msgid "Summary Information: Subject"
+msgstr "概要信息：主题"
+
+#: umetatags.s_metatag_document_title
+msgid "Summary Information: Title"
+msgstr "概要信息：标题"
+
+#: umetatags.s_metatag_email_datesent
+msgid "Email date sent in local time zone"
+msgstr "当地时区 Email 发送时间"
+
+#: umetatags.s_metatag_email_datesentoriginal
+msgid "Email date sent in original time zone"
+msgstr "原始时区 Email 发送时间"
+
+#: umetatags.s_metatag_email_datesentutc
+msgid "Email date sent in UTC time zone"
+msgstr "UTC 时区 Email 发送时间"
+
+#: umetatags.s_metatag_email_sender
+msgid "Email sender"
+msgstr "Email 发件人"
+
+#: umetatags.s_metatag_email_subject
+msgid "Email subject"
+msgstr "Email 主题"
+
+#: umetatags.s_metatag_exif_date
+msgid "EXIF Original Date"
+msgstr "EXIF 原始日期"
+
+#: umetatags.s_metatag_exif_description
+msgid "EXIF Image Description"
+msgstr "EXIF 图像描述"
+
+#: umetatags.s_metatag_exif_make
+msgid "EXIF Camera Make"
+msgstr "EXIF 照相机制造商"
+
+#: umetatags.s_metatag_exif_model
+msgid "EXIF Camera Model"
+msgstr "EXIF 照相机型号"
+
+#: umetatags.s_metatag_file_basename
+msgid "Base name of the file"
+msgstr "文件的基名称"
+
+#: umetatags.s_metatag_file_datecreated
+msgid "File created date"
+msgstr "文件创建日期"
+
+#: umetatags.s_metatag_file_datemodified
+msgid "File last modified date"
+msgstr "文件修改日期"
+
+#: umetatags.s_metatag_file_dosname
+msgid "Short name in the 8.3 format"
+msgstr "以 8.3 格式简化名称"
+
+#: umetatags.s_metatag_file_extension
+msgid "Extension of the file"
+msgstr "文件扩展名"
+
+#: umetatags.s_metatag_file_filename
+msgid "Full name of the file"
+msgstr "文件完整名称"
+
+#: umetatags.s_metatag_file_filepath
+msgid "Full path of the file"
+msgstr "文件完整路径"
+
+#: umetatags.s_metatag_file_foldername
+msgid "Name of the parent folder"
+msgstr "父文件夹名称"
+
+#: umetatags.s_metatag_file_folderpath
+msgid "Full path of the parent folder"
+msgstr "父文件夹完整路径"
+
+#: umetatags.s_metatag_file_size
+msgid "Size of file"
+msgstr "文件大小"
+
+#: umetatags.s_metatag_file_sizebytes
+msgid "Size of file in bytes"
+msgstr "文件大小（字节）"
+
+#: umetatags.s_metatag_file_sizegb
+msgid "Size of file in GB"
+msgstr "文件大小（GB）"
+
+#: umetatags.s_metatag_file_sizekb
+msgid "Size of file in KB"
+msgstr "文件大小（KB）"
+
+#: umetatags.s_metatag_file_sizemb
+msgid "Size of file in MB"
+msgstr "文件大小（MB）"
+
+#: umetatags.s_metatag_flac_album
+msgid "FLAC Album"
+msgstr "FLAC 专辑名"
+
+#: umetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr "FLAC 专辑艺术家"
+
+#: umetatags.s_metatag_flac_artist
+msgid "FLAC Artist"
+msgstr "FLAC 艺术家"
+
+#: umetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr "FLAC 碟号"
+
+#: umetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
+msgstr "FLAC 总碟数"
+
+#: umetatags.s_metatag_flac_genre
+msgid "FLAC Genre"
+msgstr "FLAC 流派"
+
+#: umetatags.s_metatag_flac_title
+msgid "FLAC Title"
+msgstr "FLAC 标题"
+
+#: umetatags.s_metatag_flac_trackno
+msgid "FLAC Track Number"
+msgstr "FLAC 音轨号"
+
+#: umetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
+msgstr "FLAC 总音轨数"
+
+#: umetatags.s_metatag_flac_year
+msgid "FLAC Year"
+msgstr "FLAC 年代"
+
+#: umetatags.s_metatag_hash_crc32
+msgid "CRC32 Checksum of a file"
+msgstr "文件 CRC32 校验和"
+
+#: umetatags.s_metatag_hash_md5
+msgid "MD5 Hash of a file"
+msgstr "文件 MD5 哈希值"
+
+#: umetatags.s_metatag_hash_sha1
+msgid "SHA1 Hash of a file"
+msgstr "文件 SHA1 哈希值"
+
+#: umetatags.s_metatag_hash_sha256
+msgid "SHA256 Hash of a file"
+msgstr "文件 SHA256 哈希值"
+
+#: umetatags.s_metatag_hash_sha512
+msgid "SHA512 Hash of a file"
+msgstr "文件 SHA512 哈希值"
+
+#: umetatags.s_metatag_html_title
+msgid "Title tag extracted from an HTML file"
+msgstr "HTML 文件的标题标签信息"
+
+#: umetatags.s_metatag_image_aspectratio
+msgid "Aspect Ratio of an image"
+msgstr "图片文件分辨率"
+
+#: umetatags.s_metatag_image_height
+msgid "Height of an image in pixels"
+msgstr "图片文件像素高度"
+
+#: umetatags.s_metatag_image_pixels
+msgid "Amount of pixels in the image"
+msgstr "图片文件总像素"
+
+#: umetatags.s_metatag_image_width
+msgid "Width of an image in pixels"
+msgstr "图片文件像素宽度"
+
+#: umetatags.s_metatag_image_widthandheight
+msgid "Width and Height of an image in pixels"
+msgstr "图片文件的像素宽度和高度"
+
+#: umetatags.s_metatag_iptc_caption
+msgid "IPTC Image Caption"
+msgstr "IPTC 图像标题"
+
+#: umetatags.s_metatag_iptc_city
+msgid "IPTC City"
+msgstr "IPTC 城市"
+
+#: umetatags.s_metatag_iptc_headline
+msgid "IPTC Image Headline"
+msgstr "IPTC 图像标题"
+
+#: umetatags.s_metatag_iptc_location
+msgid "IPTC Location Name"
+msgstr "IPTC 位置名称"
+
+#: umetatags.s_metatag_iptc_objectname
+msgid "IPTC Object Name"
+msgstr "IPTC 对象名"
+
+#: umetatags.s_metatag_mp3_album
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr "MP3 专辑名"
+
+#: umetatags.s_metatag_mp3_albumartist
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr "MP3 专辑艺术家"
+
+#: umetatags.s_metatag_mp3_artist
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr "MP3 艺术家"
+
+#: umetatags.s_metatag_mp3_discno
+msgid "MP3 Disc Number"
+msgstr "MP3 碟号"
+
+#: umetatags.s_metatag_mp3_disctotal
+msgid "MP3 Total Discs"
+msgstr "MP3 总碟数"
+
+#: umetatags.s_metatag_mp3_genre
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr "MP3 流派"
+
+#: umetatags.s_metatag_mp3_title
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr "MP3 标题"
+
+#: umetatags.s_metatag_mp3_trackno
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr "MP3 音轨号"
+
+#: umetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr "MP3 总音轨数"
+
+#: umetatags.s_metatag_mp3_year
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
+msgstr "MP3 年代"
+
+#: umetatags.s_metatag_outlook_body
+msgid "Outlook Message: Body Text"
+msgstr "Outlook 消息：正文文本"
+
+#: umetatags.s_metatag_outlook_dateheader
+msgid "Outlook Message: Sent date from email header in local time zone"
+msgstr "Outlook 消息：当地时区的邮件头发送日期"
+
+#: umetatags.s_metatag_outlook_dateheaderoriginal
+msgid "Outlook Message: Sent date from email header in original time zone"
+msgstr "Outlook 消息：原始时区的邮件头发送日期"
+
+#: umetatags.s_metatag_outlook_dateheaderutc
+msgid "Outlook Message: Sent date from email header in UTC time zone"
+msgstr "Outlook 消息：UTC 时区的邮件头发送日期"
+
+#: umetatags.s_metatag_outlook_datesent
+msgid "Outlook Message: Sent date in local time zone"
+msgstr "Outlook 消息：当地时区的发送日期"
+
+#: umetatags.s_metatag_outlook_datesentutc
+msgid "Outlook Message: Sent date in UTC time zone"
+msgstr "Outlook 消息：UTC 时区的发送日期"
+
+#: umetatags.s_metatag_outlook_messageid
+msgctxt "umetatags.s_metatag_outlook_messageid"
+msgid "Outlook Message: ID"
+msgstr "Outlook 消息：ID"
+
+#: umetatags.s_metatag_outlook_sender
+msgid "Outlook Message: Sender"
+msgstr "Outlook 消息：发件人"
+
+#: umetatags.s_metatag_outlook_subject
+msgid "Outlook Message: Subject"
+msgstr "Outlook 消息：主题"
+
+#: umetatags.s_metatag_tiff_date
+msgid "TIFF Date"
+msgstr "TIFF 日期"
+
+#: umetatags.s_metatag_tiff_description
+msgid "TIFF Description"
+msgstr "TIFF 描述"
+
+#: umetatags.s_metatag_tiff_make
+msgid "TIFF Make"
+msgstr "TIFF 制造商"
+
+#: umetatags.s_metatag_tiff_model
+msgid "TIFF Model"
+msgstr "TIFF 型号"
+
+#: umetatags.s_metatag_torrent_announce
+msgid "Torrent: Announce URL"
+msgstr "Torrent 发布链接"
+
+#: umetatags.s_metatag_torrent_comment
+msgid "Torrent: Comment"
+msgstr "Torrent 注释"
+
+#: umetatags.s_metatag_torrent_countfiles
+msgid "Torrent: Number of files"
+msgstr "Torrent 文件数"
+
+#: umetatags.s_metatag_torrent_creationdatelocal
+msgid "Torrent: Creation date in local time zone"
+msgstr "Torrent 本地创建时间"
+
+#: umetatags.s_metatag_torrent_creationdateutc
+msgid "Torrent: Creation date in UTC time zone"
+msgstr "Torrent UTC 创建时间"
+
+#: umetatags.s_metatag_torrent_hash
+msgid "Torrent: Hash"
+msgstr "Torrent 哈希值"
+
+#: umetatags.s_metatag_torrent_name
+msgid "Torrent: Name"
+msgstr "Torrent 名称"
+
+#: umetatags.s_metatag_torrent_publisher
+msgid "Torrent: Publisher"
+msgstr "Torrent 发布者"
+
+#: umetatags.s_metatag_torrent_totalsize
+msgid "Torrent: Total size"
+msgstr "Torrent 总大小"
+
+#: umetatags.s_metatag_torrent_totalsizebytes
+msgid "Torrent: Total size in bytes"
+msgstr "Torrent 总大小（字节）"
+
+#: umetatags.s_metatag_torrent_totalsizegb
+msgid "Torrent: Total size in GB"
+msgstr "Torrent 总大小（GB）"
+
+#: umetatags.s_metatag_torrent_totalsizekb
+msgid "Torrent: Total size in KB"
+msgstr "Torrent 总大小（KB）"
+
+#: umetatags.s_metatag_torrent_totalsizemb
+msgid "Torrent: Total size in MB"
+msgstr "Torrent 总大小（MB）"
+
+#: umetatags.s_metatag_versioninfo_comments
+msgid "Version Information: Comments"
+msgstr "版本信息：注释"
+
+#: umetatags.s_metatag_versioninfo_company
+msgid "Version Information: Company"
+msgstr "版本信息：公司"
+
+#: umetatags.s_metatag_versioninfo_copyright
+msgid "Version Information: Copyright"
+msgstr "版本信息：版权"
+
+#: umetatags.s_metatag_versioninfo_description
+msgid "Version Information: Description"
+msgstr "版本信息：描述"
+
+#: umetatags.s_metatag_versioninfo_fileversion
+msgid "Version Information: File Version"
+msgstr "版本信息：文件版本"
+
+#: umetatags.s_metatag_versioninfo_product
+msgid "Version Information: Product"
+msgstr "版本信息：产品"
+
+#: umetatags.s_metatag_versioninfo_productversion
+msgid "Version Information: Product Version"
+msgstr "版本信息：产品版本"
+
+#: umetatags.s_metatag_wma_album
+msgid "WMA Album"
+msgstr "WMA 专辑名"
+
+#: umetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr "WMA 专辑艺术家"
+
+#: umetatags.s_metatag_wma_artist
+msgid "WMA Artist"
+msgstr "WMA 艺术家"
+
+#: umetatags.s_metatag_wma_discno
+msgid "WMA Disc Number"
+msgstr "WMA 碟号"
+
+#: umetatags.s_metatag_wma_disctotal
+msgid "WMA Total Discs"
+msgstr "WMA 总碟数"
+
+#: umetatags.s_metatag_wma_genre
+msgid "WMA Genre"
+msgstr "WMA 流派"
+
+#: umetatags.s_metatag_wma_title
+msgid "WMA Title"
+msgstr "WMA 标题"
+
+#: umetatags.s_metatag_wma_trackno
+msgid "WMA Track Number"
+msgstr "WMA 音轨号"
+
+#: umetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
+msgstr "WMA 总音轨数"
+
+#: umetatags.s_metatag_wma_year
+msgid "WMA Year"
+msgstr "WMA 年代"
+
+#: unumeralsystems.nsc_customalphabetic
+msgid "Custom alphabetic"
+msgstr "自定义字母序号"
+
+#: unumeralsystems.nsc_customnumeric
+msgid "Custom numeric"
+msgstr "自定义数字序号"
+
+#: unumeralsystems.nsc_decimaldigits
+msgid "Decimal digits"
+msgstr "十进制数字"
+
+#: unumeralsystems.nsc_englishletters
+msgid "English letters"
+msgstr "英文字母"
+
+#: unumeralsystems.nsc_romannumerals
+msgid "Roman numerals"
+msgstr "罗马序号"
+
+#: unumeralsystems.nsc_simplifiedchinese
+msgid "Simplified Chinese"
+msgstr "中文序号"
+
+#: upascalscript.spscompile
+msgid "Pascal Script Compile"
+msgstr "编译 Pascal 脚本"
+
+#: upascalscript.spsexception
+msgid "Exception"
+msgstr "例外"
+
+#: upascalscript.spsexecute
+msgid "Pascal Script Execute"
+msgstr "执行 Pascal 脚本"
+
+#: upascalscript.spsincludedfilenotfound
+msgid "Included file not found: %s"
+msgstr "未找到包含文件：%s"
+
+#: upascalscript.spsline
+msgid "Line"
+msgstr "行号"
+
+#: upascalscript.spsunknowncompileerror
+msgid "Unknown error (check units and libraries)"
+msgstr "未知的错误（检查单位和库文件）"
+
+#: upresets.spresetfilenotfound
+msgid "Preset file not found:"
+msgstr "未找到预设文件："
+
+#: upresets.spresetloadfailed
+msgid "Failed to load a preset."
+msgstr "载入预设失败。"
+
+#: upresets.spresetsavefailed
+msgid "Failed to save a preset."
+msgstr "保存预设失败。"
+
+#: uregistration.s_cannot_create_license_dir
+msgid "Not able to create a directory for a license file."
+msgstr "无法创建授权文件保存目录。"
+
+#: uregistration.s_contact_email
+msgid "Contact email"
+msgstr "联系人邮箱"
+
+#: uregistration.s_contact_name
+msgid "Contact name"
+msgstr "联系人姓名"
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr "删除以下文件失败："
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr "载入授权数据失败："
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr "保存授权数据失败："
+
+#: uregistration.s_issue_date
+msgid "Issue date"
+msgstr "签发日期"
+
+#: uregistration.s_license
+msgid "License"
+msgstr "授权"
+
+#: uregistration.s_licensed_to
+msgid "Licensed to"
+msgstr "授权给"
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr "当前授权已被加入黑名单。"
+
+#: uregistration.s_license_expiry
+msgid "License expiry"
+msgstr "授权有效期"
+
+#: uregistration.s_license_has_expired
+msgid "License has expired."
+msgstr "授权已到期。"
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr "授权无效！"
+
+#: uregistration.s_license_load_failed
+msgid "Failed to load the license."
+msgstr "载入授权文件失败。"
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr "您需要更新授权以激活此产品。"
+
+#: uregistration.s_license_remove_failed
+msgid "Failed to remove the license."
+msgstr "移除授权文件失败。"
+
+#: uregistration.s_license_remove_ok
+msgid "License has been removed."
+msgstr "授权文件已移除。"
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr "您的授权已超出升级期限。"
+
+#: uregistration.s_number_of_computers
+msgid "Number of computers"
+msgstr "计算机台数"
+
+#: uregistration.s_registration_error
+msgid "Registration code is invalid."
+msgstr "注册码无效。"
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr "未找到授权文件。"
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr "读取授权文件失败。"
+
+#: uregistration.s_registration_ok
+msgid "Registration has been successful!"
+msgstr "注册成功！"
+
+#: uregistration.s_upgrade_expiry
+msgid "Upgrade expiry"
+msgstr "更新有效期"
+
+#: urenfiles.srenstatusok
+msgctxt "urenfiles.srenstatusok"
+msgid "OK"
+msgstr "确定"
+
+#: urenfiles.svalidationduplicated
+msgctxt "myrenfiles.svalidationduplicated"
+msgid "Duplicate in the list"
+msgstr "复制此列表"
+
+#: urenfiles.svalidationexceeds
+msgctxt "myrenfiles.svalidationexceeds"
+msgid "New path exceeds the length limit"
+msgstr "新路径超出长度限定"
+
+#: urenfiles.svalidationexists
+msgctxt "myrenfiles.svalidationexists"
+msgid "Destination file already exists"
+msgstr "目标文件已存在"
+
+#: urenfiles.svalidationinvalid
+msgctxt "myrenfiles.svalidationinvalid"
+msgid "Contains invalid characters"
+msgstr "包含无效字符"
+
+#: urenfiles.svalidationmovedparent
+msgid "Parent path changed earlier in the list"
+msgstr "列表中父目录已改变"
+
+#: urulesex.s_rules_addtextpaddingtolength
+msgid "Add text padding to length %s with \"%s\" characters"
+msgstr "用字符 \"%s\" 来添加文本填充长度 %s"
+
+#: urulesex.s_rules_addzeropaddingtolength
+msgid "Add zero padding to length %s"
+msgstr "添加补零长度 %s"
+
+#: urulesex.s_rules_adjusttimebynumdays
+msgid "Adjust time by %d days"
+msgstr "时间差调整 %d 天"
+
+#: urulesex.s_rules_adjusttimebynumhours
+msgid "Adjust time by %d hours"
+msgstr "时间差调整 %d 小时"
+
+#: urulesex.s_rules_adjusttimebynummilliseconds
+msgid "Adjust time by %d milliseconds"
+msgstr "时间差调整 %d 毫秒"
+
+#: urulesex.s_rules_adjusttimebynumminutes
+msgid "Adjust time by %d minutes"
+msgstr "时间差调整 %d 分钟"
+
+#: urulesex.s_rules_adjusttimebynummonths
+msgid "Adjust time by %d months"
+msgstr "时间差调整 %d 月"
+
+#: urulesex.s_rules_adjusttimebynumseconds
+msgid "Adjust time by %d seconds"
+msgstr "时间差调整 %d 秒"
+
+#: urulesex.s_rules_adjusttimebynumyears
+msgid "Adjust time by %d years"
+msgstr "时间差调整 %d 年"
+
+#: urulesex.s_rules_after
+msgid "after"
+msgstr "在以下之后"
+
+#: urulesex.s_rules_all
+msgid "all"
+msgstr "全部"
+
+#: urulesex.s_rules_all_characters_except
+msgid "all characters except"
+msgstr "全部字符除了"
+
+#: urulesex.s_rules_all_lower_case
+msgid "All lower case"
+msgstr "全部小写"
+
+#: urulesex.s_rules_all_upper_case
+msgid "All upper case"
+msgstr "全部大写"
+
+#: urulesex.s_rules_and_pad_to_length
+msgid "and pad to length"
+msgstr "补足长度为"
+
+#: urulesex.s_rules_append
+msgid "append"
+msgstr "添加"
+
+#: urulesex.s_rules_append_new_extension
+msgid "Append new extension"
+msgstr "添加新扩展名"
+
+#: urulesex.s_rules_as_prefix
+msgid "as Prefix"
+msgstr "作为前缀"
+
+#: urulesex.s_rules_as_suffix
+msgid "as Suffix"
+msgstr "作为后缀"
+
+#: urulesex.s_rules_at_position
+msgid "at Position"
+msgstr "在位置"
+
+#: urulesex.s_rules_autocaseadjustment
+msgctxt "urulesex.s_rules_autocaseadjustment"
+msgid "Auto case adjustment"
+msgstr "自动调整大小写"
+
+#: urulesex.s_rules_before
+msgid "before"
+msgstr "在以下之前"
+
+#: urulesex.s_rules_cannoteditruleconfiguration
+msgid "Cannot edit rule configuration."
+msgstr "无法编辑规则配置。"
+
+#: urulesex.s_rules_capitalize_and_preserve
+msgid "Capitalize and preserve"
+msgstr "大写并保持"
+
+#: urulesex.s_rules_capitalize_every_word
+msgid "Capitalize every word"
+msgstr "每个单词大写"
+
+#: urulesex.s_rules_case_sensitive
+msgid "case sensitive"
+msgstr "区分大小写"
+
+#: urulesex.s_rules_change_extension_to
+msgid "Change extension to"
+msgstr "更改扩展名为"
+
+#: urulesex.s_rules_characters
+msgid "characters"
+msgstr "字符"
+
+#: urulesex.s_rules_converttovaluefromvalue
+msgid "Convert to %s from %s"
+msgstr "转换到 %s 从 %s"
+
+#: urulesex.s_rules_customlongmonths
+msgid "Custom long months"
+msgstr "自定义月份全称"
+
+#: urulesex.s_rules_customshortmonths
+msgid "Custom short months"
+msgstr "自定义月份简称"
+
+#: urulesex.s_rules_delete
+msgctxt "myrulesex.s_rules_delete"
+msgid "Delete"
+msgstr "删除"
+
+#: urulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr "删除当前名称"
+
+#: urulesex.s_rules_delimiters
+msgid "delimiters"
+msgstr "分隔符"
+
+#: urulesex.s_rules_detect_using_binary_signature
+msgid "Detect using binary signature"
+msgstr "检测使用二进制签名"
+
+#: urulesex.s_rules_everywhere
+msgid "everywhere"
+msgstr "任意位置"
+
+#: urulesex.s_rules_exact_pattern_of_delimiters
+msgid "exact pattern of delimiters"
+msgstr "精确分隔符模式"
+
+#: urulesex.s_rules_extension_lower_case
+msgid "Extension lower case"
+msgstr "扩展名小写"
+
+#: urulesex.s_rules_extension_upper_case
+msgid "Extension upper case"
+msgstr "扩展名大写"
+
+#: urulesex.s_rules_files
+msgid "files"
+msgstr "个文件"
+
+#: urulesex.s_rules_files_to
+msgid "file(s) to"
+msgstr "个文件去"
+
+#: urulesex.s_rules_files_with
+msgid "file(s) with"
+msgstr "个文件用"
+
+#: urulesex.s_rules_first
+msgid "first"
+msgstr "首个"
+
+#: urulesex.s_rules_first_letter_capital
+msgctxt "myrulesex.s_rules_first_letter_capital"
+msgid "First letter capital"
+msgstr "首字母大写"
+
+#: urulesex.s_rules_fix_spaces
+msgid "Fix spaces"
+msgstr "修正空格"
+
+#: urulesex.s_rules_force_case_fragments
+msgid "Force case fragments"
+msgstr "强制大小写部分"
+
+#: urulesex.s_rules_from_delimiter
+msgid "from Delimiter"
+msgstr "从分隔符"
+
+#: urulesex.s_rules_from_position
+msgid "from Position"
+msgstr "从位置"
+
+#: urulesex.s_rules_insert
+msgctxt "myrulesex.s_rules_insert"
+msgid "Insert"
+msgstr "插入"
+
+#: urulesex.s_rules_insert_space_in_front_of_capitals
+msgid "Insert space in front of capitals"
+msgstr "在首字母前插入空格"
+
+#: urulesex.s_rules_invert_case
+msgid "Invert case"
+msgstr "反转大小写"
+
+#: urulesex.s_rules_last
+msgid "last"
+msgstr "末个"
+
+#: urulesex.s_rules_leading
+msgctxt "myrulesex.s_rules_leading"
+msgid "leading"
+msgstr "载入中"
+
+#: urulesex.s_rules_leave_delimiter
+msgid "leave delimiter"
+msgstr "保持分隔符"
+
+#: urulesex.s_rules_leftside
+msgid "Left side"
+msgstr "左侧"
+
+#: urulesex.s_rules_new_names_are_not_defined
+msgid "new names are not defined"
+msgstr "未定义新名称"
+
+#: urulesex.s_rules_new_pattern
+msgid "New pattern"
+msgstr "新模版"
+
+#: urulesex.s_rules_normalize_spaces
+msgid "Normalize spaces"
+msgstr "归一化空格"
+
+#: urulesex.s_rules_parts
+msgid "parts"
+msgstr "部分"
+
+#: urulesex.s_rules_positions
+msgid "positions"
+msgstr "位置"
+
+#: urulesex.s_rules_prefix_names_of
+msgid "Prefix names of"
+msgstr "前缀名"
+
+#: urulesex.s_rules_prepare_for_sharepoint
+msgid "Prepare for SharePoint"
+msgstr "准备到 SharePoint"
+
+#: urulesex.s_rules_randomwithlengthusingcharacters
+msgctxt "urulesex.s_rules_randomwithlengthusingcharacters"
+msgid "Random with length %s using characters \"%s\""
+msgstr "使用字符 \"%s\" 随机生成 %s 长度序列"
+
+#: urulesex.s_rules_remove
+msgctxt "myrulesex.s_rules_remove"
+msgid "Remove"
+msgstr "移除"
+
+#: urulesex.s_rules_removezeropadding
+msgctxt "urulesex.s_rules_removezeropadding"
+msgid "Remove zero padding"
+msgstr "移除补零"
+
+#: urulesex.s_rules_remove_extension
+msgid "Remove extension"
+msgstr "移除扩展名"
+
+#: urulesex.s_rules_repeat
+msgid "repeat"
+msgstr "重复"
+
+#: urulesex.s_rules_replace
+msgctxt "myrulesex.s_rules_replace"
+msgid "Replace"
+msgstr "替换"
+
+#: urulesex.s_rules_replace_expression
+msgid "Replace expression"
+msgstr "替换表达式"
+
+#: urulesex.s_rules_replace_with_spaces
+msgid "Replace with spaces"
+msgstr "用空格替换"
+
+#: urulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr "正在替换当前名称"
+
+#: urulesex.s_rules_reset_index_every
+msgid "reset index every"
+msgstr "重置间隔为"
+
+#: urulesex.s_rules_reset_index_if_file_name_changes
+msgid "reset index if file name changes"
+msgstr "文件名变更时重置索引"
+
+#: urulesex.s_rules_reset_index_if_folder_changes
+msgid "reset index if folder changes"
+msgstr "文件夹变更时重置"
+
+#: urulesex.s_rules_rightside
+msgid "Right side"
+msgstr "右侧"
+
+#: urulesex.s_rules_right_to_left
+msgid "right-to-left"
+msgstr "从右到左"
+
+#: urulesex.s_rules_serialize_incremental_from
+#| msgid "Serialize Incremental from"
+msgid "Incremental from"
+msgstr "增量序列化起始于"
+
+#: urulesex.s_rules_serialize_random_with_length
+#| msgid "Serialize Random with length"
+msgid "Random with length"
+msgstr "随机序列化长度限制在"
+
+#: urulesex.s_rules_set_names_of
+msgid "Set names of"
+msgstr "设置其名称"
+
+#: urulesex.s_rules_skipextension
+msgctxt "urulesex.s_rules_skipextension"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: urulesex.s_rules_skip_extension
+msgid "skip extension"
+msgstr "忽略扩展名"
+
+#: urulesex.s_rules_skip_versions
+msgid "skip versions"
+msgstr "忽略扩展名"
+
+#: urulesex.s_rules_split_by
+msgid "Split by"
+msgstr "分隔符为"
+
+#: urulesex.s_rules_step
+msgid "step"
+msgstr "增量"
+
+#: urulesex.s_rules_strip
+msgctxt "myrulesex.s_rules_strip"
+msgid "Strip"
+msgstr "移除"
+
+#: urulesex.s_rules_strip_out_contents_of_brackets
+msgid "Strip out contents of brackets"
+msgstr "移除括号中的内容"
+
+#: urulesex.s_rules_strip_unicode_marks
+msgid "Strip unicode marks"
+msgstr "移除 Unicode 符号"
+
+#: urulesex.s_rules_suffix_names_of
+msgid "Suffix names of"
+msgstr "后缀名"
+
+#: urulesex.s_rules_trailing
+msgctxt "myrulesex.s_rules_trailing"
+msgid "trailing"
+msgstr "尾随"
+
+#: urulesex.s_rules_transliterate
+msgid "Transliterate"
+msgstr "音译"
+
+#: urulesex.s_rules_try_unique
+msgid "try unique"
+msgstr "尽量统一"
+
+#: urulesex.s_rules_until_count_reaches
+msgid "until Count reaches"
+msgstr "直到满足计数"
+
+#: urulesex.s_rules_until_delimiter
+msgid "until Delimiter"
+msgstr "直到分隔符"
+
+#: urulesex.s_rules_until_the_end
+msgid "until the End"
+msgstr "直到末尾"
+
+#: urulesex.s_rules_usingcustomnumeralsymbols
+msgid "using \"%s\" system with \"%s\" symbols"
+msgstr "正使用 \"%s\" 形式即 \"%s\" 符号"
+
+#: urulesex.s_rules_usingnamednumeralsystem
+msgid "using \"%s\" system"
+msgstr "正使用 \"%s\" 形式"
+
+#: urulesex.s_rules_using_wildcards
+msgid "using wildcards"
+msgstr "使用通配符"
+
+#: urulesex.s_rules_warndeprecatedrandomserialize
+msgid "Rule configuration uses deprecated random serialization, please use a separate dedicated rule instead."
+msgstr "此规则配置中使用了过时的随机序列，请使用单独的随机序列规则。"
+
+#: urulesex.s_rules_wholewordsonly
+msgctxt "urulesex.s_rules_wholewordsonly"
+msgid "Whole words only"
+msgstr "仅全字"
+
+#: urulesex.s_rules_whole_words
+msgid "whole words"
+msgstr "全字"
+
+#: urulesex.s_rules_with
+msgid "with"
+msgstr "替换为"
+
+#: ustrings.msg_addfoldernotexist
+msgid ""
+"Selected folder does not exist!\n"
+"\n"
+"%s\n"
+msgstr ""
+"选定文件夹不存在！\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_addmetatagconfirm
+msgid ""
+"Meta tags are currently disabled.\n"
+"\n"
+"Do you want to enable them?\n"
+msgstr ""
+"元数据标签当前被禁用。\n"
+"\n"
+"是否启用？\n"
+
+#: ustrings.msg_ask_open_quick_guide
+msgid "Would you like to open a Quick Guide?"
+msgstr "您是否开始新手教学？"
+
+#: ustrings.msg_browsefoldersstatus
+msgid "Folders: %d scanned, %d selected."
+msgstr "文件夹：%d 个已扫描，%d 个已选择。"
+
+#: ustrings.msg_browsegotofoldercaption
+msgctxt "mystrings.msg_browsegotofoldercaption"
+msgid "Go To Folder"
+msgstr "跳转到文件夹"
+
+#: ustrings.msg_browsegotofolderprompt
+msgid "Enter a full path to the folder that you want to go to:"
+msgstr "输入您想要跳转文件夹的完整路径："
+
+#: ustrings.msg_changeworkingdirfailed
+msgid "Failed to change current working directory."
+msgstr "变更工作目录失败."
+
+#: ustrings.msg_copyandcutfilesprompt
+msgid ""
+"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
+"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
+"\n"
+"Are you sure you want to proceed?\n"
+msgstr ""
+"文件复制和剪切操作会将选定文件放入剪贴板以备后用。\n"
+"提示：所有文件不论其初始位置，都将放入同一个目录！\n"
+"\n"
+"是否继续操作？\n"
+
+#: ustrings.msg_datetimeinvalidformat
+msgid "INVALID FORMAT"
+msgstr "无效格式"
+
+#: ustrings.msg_editrulecommentcaption
+msgid "Rule Comment"
+msgstr "规则注释"
+
+#: ustrings.msg_editrulecommentprompt
+msgid "Enter a comment for the rule:"
+msgstr "输入此规则的注释："
+
+#: ustrings.msg_fileexistsoverwriteprompt
+msgid ""
+"File already exists!\n"
+"Overwrite it?\n"
+msgstr ""
+"文件已存在！\n"
+"是否覆盖？\n"
+
+#: ustrings.msg_filescountinfo
+msgid ""
+"Total: %d\n"
+"Marked: %d\n"
+"Selected: %d\n"
+msgstr ""
+"总共：%d\n"
+"已标记：%d\n"
+"已选择：%d\n"
+
+#: ustrings.msg_fixcollidewarninglimit
+msgid ""
+"Do you want to fix conflicting new names for %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"是否修复以下 %s 个文件的冲突文件名？\n"
+"\n"
+"此操作可能需要数分钟...\n"
+
+#: ustrings.msg_gotolinecaption
+msgid "Go To Line"
+msgstr "跳转到行"
+
+#: ustrings.msg_gotolineprompt
+msgid "Enter the line number:"
+msgstr "输入行号："
+
+#: ustrings.msg_hinterrorcolumn
+msgid "Hint: You can check the details by enabling the \"Error\" column."
+msgstr "提示：您可以在启用\"错误\"栏后检查操作详情。"
+
+#: ustrings.msg_launching_first_time
+msgid "You are launching ReNamer for the first time."
+msgstr "您第一次打开 ReNamer。"
+
+#: ustrings.msg_loadnewnamesresult
+msgid "%d new filename(s) out of %d in the list were changed!"
+msgstr "列表中 %d 个新文件名已更改，总共 %d 个！"
+
+#: ustrings.msg_nothingtorename
+msgid "Nothing to rename!"
+msgstr "没有重命名文件！"
+
+#: ustrings.msg_operationfailedduetoerror
+msgid "Operation failed due to an error:"
+msgstr "由于以下错误操作失败："
+
+#: ustrings.msg_overwritefilewithnewname
+msgid ""
+"Original Path: %s\n"
+"New Path: %s\n"
+"\n"
+"New Name is already taken by another file, delete that file permanently?\n"
+msgstr ""
+"原始路径： %s\n"
+"新路径： %s\n"
+"\n"
+"新名称已被其他文件使用，是否永久删除此文件？\n"
+
+#: ustrings.msg_pascalscriptcompiledsuccesfully
+msgid "Compiled successfully!"
+msgstr "编译成功！"
+
+#: ustrings.msg_pascalscriptnoscripts
+msgid "No Saved Scripts were found!"
+msgstr "没有找到保存的脚本文件！"
+
+#: ustrings.msg_pascalscriptsaveinvalid
+msgctxt "mystrings.msg_pascalscriptsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "名称不正确！"
+
+#: ustrings.msg_pascalscriptsavetext
+msgid "Enter a name for a script:"
+msgstr "输入脚本的名称："
+
+#: ustrings.msg_pascalscriptsavetitle
+msgid "Save Script"
+msgstr "保存脚本"
+
+#: ustrings.msg_presetsmanagerdeletepresetprompt
+msgid "Delete \"%s\" preset?"
+msgstr "是否删除预设 \"%s\" ？"
+
+#: ustrings.msg_presetsmanagereditwarning
+msgid ""
+"You are about to edit Preset file(s) manualy!\n"
+"If you are not sure in what you're doing - press Cancel.\n"
+"\n"
+"Proceed with this action?\n"
+msgstr ""
+"您将要手动编辑预设文件！\n"
+"如果您不确定，请点击取消。\n"
+"\n"
+"是否继续进行编辑？\n"
+
+#: ustrings.msg_presetsmanagerfailedcopy
+msgid "Could not copy the \"%s\" preset!"
+msgstr "无法复制预设 \"%s\" ！"
+
+#: ustrings.msg_presetsmanagerfaileddelete
+msgid "Could not delete the \"%s\" preset!"
+msgstr "无法删除预设 \"%s\" ！"
+
+#: ustrings.msg_presetsmanagerfailedrename
+msgid "Could not rename the \"%s\" preset!"
+msgstr "无法重命名预设 \"%s\" ！"
+
+#: ustrings.msg_presetsmanagernewnamequerytext
+msgid "New Name:"
+msgstr "新名称："
+
+#: ustrings.msg_presetsmanagernewnamequerytitle
+msgid "Rename Preset"
+msgstr "重命名预设"
+
+#: ustrings.msg_previewexception
+msgid ""
+"Preview process has been terminated due to a critical error:\n"
+"\n"
+"%s\n"
+msgstr ""
+"预览操作由于以下致命错误被终止：\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_renamefailedfiles
+msgid "%d file(s) failed to rename!"
+msgstr "%d 个文件重命名失败！"
+
+#: ustrings.msg_renamenewnamesareempty
+msgid ""
+"All New Names are empty!\n"
+"\n"
+"Hint: Configure the Rules and click Preview button.\n"
+msgstr ""
+"全部新名称为空！\n"
+"\n"
+"提示：请重新配置规则然后点击预览按钮。\n"
+
+#: ustrings.msg_renameskippedunchangedfiles
+msgid "%d file(s) skipped because unchanged."
+msgstr "未变更，已跳过 %d  个文件。"
+
+#: ustrings.msg_renameskippedunmarkedfiles
+msgid "%d file(s) skipped because unmarked."
+msgstr "未标记，已跳过 %d  个文件。"
+
+#: ustrings.msg_renamesuccessfulfiles
+msgid "%d file(s) successfully renamed."
+msgstr "%d 个文件重命名成功。"
+
+#: ustrings.msg_rulecasedescription
+msgid "Use this rule to change the case of the filename."
+msgstr "使用此规则更改文件名的大小写。"
+
+#: ustrings.msg_rulecleanupdescription
+msgid "Use this rule to clean up the filename."
+msgstr "使用此规则清除文件名。"
+
+#: ustrings.msg_ruledeletedescription
+msgid "Use this rule to delete text from the filename."
+msgstr "使用此规则从文件名中删除部分文字。"
+
+#: ustrings.msg_ruleextensiondescription
+msgid "Use this rule to change extension of the file."
+msgstr "使用此规则更改文件名后缀。"
+
+#: ustrings.msg_ruleinsertdescription
+msgid "Use this rule to insert text into the filename."
+msgstr "使用此规则插入文字到文件名。"
+
+#: ustrings.msg_rulepaddingdescription
+msgid "Use this rule to add or remove padding in number sequences."
+msgstr "使用此规则添加或移除数字序列中填充字符。"
+
+#: ustrings.msg_rulepascalscriptdescription
+msgid "Use this rule to script a user defined manipulations with filename."
+msgstr "使用此规则来编写用户自定义文件名操作。"
+
+#: ustrings.msg_rulerandomizedescription
+msgid "Use this rule to insert random sequences of characters into the filename."
+msgstr "使用此规则来向文件名中插入随机字符序列。"
+
+#: ustrings.msg_rulerearrangedescription
+msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
+msgstr "使用此规则来分割文件名部分并以新的模式重排。"
+
+#: ustrings.msg_rulereformatdatedescription
+msgid "Use this rule to change format of date/time values in the filename."
+msgstr "使用此规则来更改文件名中日期 / 时间格式。"
+
+#: ustrings.msg_ruleregexdescription
+msgid "Use this rule to replace text in the filename using regular expressions."
+msgstr "使用此规则来使用正则表达式替换文件名中的指定文本。"
+
+#: ustrings.msg_ruleremovedescription
+msgid "Use this rule to remove text from the filename."
+msgstr "使用此规则移除文件名中的指定文本。"
+
+#: ustrings.msg_rulereplacedescription
+msgid "Use this rule to replace text in the filename."
+msgstr "使用此规则替换文件名中的指定文本。"
+
+#: ustrings.msg_ruleserializedescription
+#| msgid "Use this rule to serialize the filename (add incremental or random numbers)."
+msgid "Use this rule to serialize the filename (add incremental numbers)."
+msgstr "使用此规则来对文件名序列化（添加增量数）。"
+
+#: ustrings.msg_rulestripdescription
+msgid "Use this rule to strip sets of characters from the filename."
+msgstr "使用此规则来从文件名中移除指定的字符。"
+
+#: ustrings.msg_ruletranslitdescription
+msgid "Use this rule to transliterate letters in the filename from one language into another."
+msgstr "使用此规则来转换文件名的音译到另一个语言。"
+
+#: ustrings.msg_ruleuserinputdescription
+msgid "Use this rule to assign names of files to the lines of text."
+msgstr "使用此规则来添加文件名到文本指定行。"
+
+#: ustrings.msg_selectfolder
+msgid "Please select a folder:"
+msgstr "请选择一个文件夹："
+
+#: ustrings.msg_shellactionwarninglimit
+msgid "Are you sure you want to execute shell action on %d files?"
+msgstr "是否确定对以下 %d 个文件执行操作？"
+
+#: ustrings.msg_shell_execute_error
+msgid ""
+"Could not open the following file:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+msgstr ""
+"无法打开以下文件：\n"
+"\n"
+"%s\n"
+"\n"
+"错误信息： %s (%d)。\n"
+
+#: ustrings.msg_translitsaveinvalid
+msgctxt "mystrings.msg_translitsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "名称错误！"
+
+#: ustrings.msg_translitsavetext
+msgid "Enter a name for a translit:"
+msgstr "输入音译文件名称："
+
+#: ustrings.msg_translitsavetitle
+msgid "Save Translit"
+msgstr "保存音译"
+
+#: ustrings.msg_undoconfirmfiles
+msgid ""
+"Are you sure you want to undo renaming operation for %d file(s)?\n"
+"\n"
+"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
+msgstr ""
+"是否撤销对 %d 个文件的重命名操作？\n"
+"\n"
+"提示：您可以在启用\"原始路径\"栏后检查撤销路径。\n"
+
+#: ustrings.msg_undoempty
+msgid "Nothing to undo!"
+msgstr "没有可撤销命令！"
+
+#: ustrings.msg_undoresult
+msgid ""
+"Undo operation results:\n"
+"\n"
+"%d out of %d file(s) restored successfully!\n"
+msgstr ""
+"撤销操作结果：\n"
+"\n"
+"%d 个文件成功恢复，总共 %d 个！\n"
+
+#: ustrings.msg_uninstallapplicationisrunning
+msgid ""
+"Seems that ReNamer is currently running.\n"
+"Please close it, before continuing...\n"
+msgstr ""
+"ReNamer 正在运行中。\n"
+"请退出后继续...\n"
+
+#: ustrings.msg_validatedduplicatedfound
+msgid "%d of which have a duplicate in the list."
+msgstr "其中 %d 个在列表中已存在重复项目。"
+
+#: ustrings.msg_validatedexceededfound
+msgid "%d of which exceed max path length limitation."
+msgstr "其中 %d 个已超过最大路径长度限制。"
+
+#: ustrings.msg_validatedexistingfound
+msgid "%d of which conflict with an existing file."
+msgstr "其中 %d 个与已有文件存在冲突。"
+
+#: ustrings.msg_validatedinvalidfound
+msgid "%d of which contain invalid characters."
+msgstr "其中 %d 个包含有无效字符。"
+
+#: ustrings.msg_validatedmovedparentfound
+msgid "%d of which have a parent path changed earlier in the list."
+msgstr "列表中 %d 个已改变父目录。"
+
+#: ustrings.msg_validatedsuccessfuly
+msgid "Successfully validated!"
+msgstr "验证成功！"
+
+#: ustrings.msg_validatewarninglimit
+msgid ""
+"Do you want to validate %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"是否验证 %s 个文件？\n"
+"\n"
+"此操作可能需要数分钟...\n"
+
+#: ustrings.msg_validationissuesdetected
+msgid "Validation has failed due to issues with %d file(s)."
+msgstr "验证失败，存在 %d 个问题文件。"
+
+#: ustrings.name_addrule
+msgctxt "mystrings.name_addrule"
+msgid "Add Rule"
+msgstr "添加规则"
+
+#: ustrings.name_addrulestext
+msgctxt "mystrings.name_addrulestext"
+msgid "Click here to add a rule"
+msgstr "点击此处来添加规则"
+
+#: ustrings.name_addtorenamer
+msgid "Add to ReNamer"
+msgstr "添加到 ReNamer"
+
+#: ustrings.name_analyzetextcursor
+msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
+msgstr "行号 = %d，位置 = %d，列号 = %d，选区 = %d"
+
+#: ustrings.name_browsescripts
+msgid "Browse Scripts..."
+msgstr "浏览脚本..."
+
+#: ustrings.name_browsetranslits
+msgid "Browse Translits..."
+msgstr "浏览音译..."
+
+#: ustrings.name_cancelsorting
+msgctxt "mystrings.name_cancelsorting"
+msgid "Cancel Sorting"
+msgstr "取消排序"
+
+#: ustrings.name_dragfilestext
+msgctxt "mystrings.name_dragfilestext"
+msgid "Drag your files here"
+msgstr "拖拽文件到此处"
+
+#: ustrings.name_editrule
+msgctxt "mystrings.name_editrule"
+msgid "Edit Rule"
+msgstr "编辑规则"
+
+#: ustrings.name_filescounter
+msgid "%s files"
+msgstr "%s 个文件"
+
+#: ustrings.name_filescounterwithsize
+msgid "%s files (%s)"
+msgstr "%s 个文件 (%s)"
+
+#: ustrings.name_filters
+msgctxt "mystrings.name_filters"
+msgid "Filters"
+msgstr "筛选器"
+
+#: ustrings.name_folderscounter
+msgid "%s folders"
+msgstr "%s 个文件夹"
+
+#: ustrings.name_loadwithpreset
+msgctxt "mystrings.name_loadwithpreset"
+msgid "Load with Preset"
+msgstr "同时载入预设"
+
+#: ustrings.name_markbymaskcaption
+msgctxt "mystrings.name_markbymaskcaption"
+msgid "Mark by Mask"
+msgstr "用模版标记"
+
+#: ustrings.name_markbymaskprompt
+msgctxt "mystrings.name_markbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"可以用分号分隔多个模版。例如：*.jpg；*.doc\n"
+"\n"
+"模版：\n"
+
+#: ustrings.name_overwrite
+msgid "Overwrite"
+msgstr "覆盖"
+
+#: ustrings.name_rename
+msgctxt "mystrings.name_rename"
+msgid "Rename"
+msgstr "重命名"
+
+#: ustrings.name_renamewithpreset
+msgctxt "mystrings.name_renamewithpreset"
+msgid "Rename with Preset"
+msgstr "用预设重命名"
+
+#: ustrings.name_rule_case
+msgid "Case"
+msgstr "大小写"
+
+#: ustrings.name_rule_cleanup
+#| msgid "CleanUp"
+msgid "Clean Up"
+msgstr "清除"
+
+#: ustrings.name_rule_delete
+msgctxt "mystrings.name_rule_delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ustrings.name_rule_extension
+msgctxt "mystrings.name_rule_extension"
+msgid "Extension"
+msgstr "扩展名"
+
+#: ustrings.name_rule_insert
+msgctxt "mystrings.name_rule_insert"
+msgid "Insert"
+msgstr "插入"
+
+#: ustrings.name_rule_padding
+msgid "Padding"
+msgstr "填充"
+
+#: ustrings.name_rule_pascalscript
+#| msgid "PascalScript"
+msgid "Pascal Script"
+msgstr "Pascal 脚本"
+
+#: ustrings.name_rule_randomize
+msgid "Randomize"
+msgstr "随机化"
+
+#: ustrings.name_rule_rearrange
+msgid "Rearrange"
+msgstr "重排"
+
+#: ustrings.name_rule_reformatdate
+msgid "Reformat Date"
+msgstr "日期格式转换"
+
+#: ustrings.name_rule_regex
+#| msgid "RegEx"
+msgid "Regular Expressions"
+msgstr "正则"
+
+#: ustrings.name_rule_remove
+msgctxt "mystrings.name_rule_remove"
+msgid "Remove"
+msgstr "移除"
+
+#: ustrings.name_rule_replace
+msgctxt "mystrings.name_rule_replace"
+msgid "Replace"
+msgstr "替换"
+
+#: ustrings.name_rule_serialize
+msgid "Serialize"
+msgstr "序列化"
+
+#: ustrings.name_rule_strip
+msgctxt "mystrings.name_rule_strip"
+msgid "Strip"
+msgstr "移除"
+
+#: ustrings.name_rule_translit
+msgid "Translit"
+msgstr "音译"
+
+#: ustrings.name_rule_userinput
+#| msgid "UserInput"
+msgid "User Input"
+msgstr "用户输入"
+
+#: ustrings.name_saverule
+msgid "Save Rule"
+msgstr "保存规则"
+
+#: ustrings.name_savescript
+msgid "Save Script..."
+msgstr "保存脚本..."
+
+#: ustrings.name_savetranslit
+msgid "Save Translit..."
+msgstr "保存音译..."
+
+#: ustrings.name_selectbyextensioncaption
+msgctxt "mystrings.name_selectbyextensioncaption"
+msgid "Select by Extension"
+msgstr "以扩展名选择"
+
+#: ustrings.name_selectbyextensionprompt
+msgid ""
+"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
+"\n"
+"Extensions (without dots):\n"
+msgstr ""
+"可以用分号间隔多个扩展名。例如：jpg；doc\n"
+"\n"
+"扩展名 (无需.)：\n"
+
+#: ustrings.name_selectbyfilenamelengthcaption
+msgid "Select by Filename Length"
+msgstr "由文件名长度选择"
+
+#: ustrings.name_selectbyfilenamelengthprompt
+msgid "More than N characters:"
+msgstr "超过 N 个字符："
+
+#: ustrings.name_selectbymaskcaption
+msgctxt "mystrings.name_selectbymaskcaption"
+msgid "Select by Mask"
+msgstr "以模版选择"
+
+#: ustrings.name_selectbymaskprompt
+msgctxt "mystrings.name_selectbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"可以用分号间隔多个模版。例如：*.jpg；*.doc\n"
+"\n"
+"模版：\n"
+
+#: ustrings.name_undo
+msgid "Undo"
+msgstr "撤销"
+
+#: ustrings.name_undofiles
+msgid "Undo %d file(s)"
+msgstr "撤销 %d 个文件"
+
+#: ustrings.sdatetimedays
+msgctxt "ustrings.sdatetimedays"
+msgid "Days"
+msgstr "天"
+
+#: ustrings.sdatetimehours
+msgctxt "ustrings.sdatetimehours"
+msgid "Hours"
+msgstr "小时"
+
+#: ustrings.sdatetimemilliseconds
+msgctxt "ustrings.sdatetimemilliseconds"
+msgid "Milliseconds"
+msgstr "毫秒"
+
+#: ustrings.sdatetimeminutes
+msgctxt "ustrings.sdatetimeminutes"
+msgid "Minutes"
+msgstr "分钟"
+
+#: ustrings.sdatetimemonths
+msgctxt "ustrings.sdatetimemonths"
+msgid "Months"
+msgstr "月"
+
+#: ustrings.sdatetimeseconds
+msgctxt "ustrings.sdatetimeseconds"
+msgid "Seconds"
+msgstr "秒"
+
+#: ustrings.sdatetimeyears
+msgctxt "ustrings.sdatetimeyears"
+msgid "Years"
+msgstr "年"
+
+#: ustrings.sfiltersallfiles
+msgid "All files"
+msgstr "全部文件"
+
+#: ustrings.sfiltersanyfile
+msgid "Any file"
+msgstr "任意文件"
+
+#: ustrings.sfiltersarchives
+msgid "Archives"
+msgstr "文件"
+
+#: ustrings.sfiltersbatchfile
+msgid "Batch file"
+msgstr "批处理文件"
+
+#: ustrings.sfilterscommaseparated
+msgid "comma separated"
+msgstr "逗号分隔"
+
+#: ustrings.sfiltersdocuments
+msgid "Documents"
+msgstr "文档"
+
+#: ustrings.sfiltersmusic
+msgid "Music"
+msgstr "音乐"
+
+#: ustrings.sfilterspictures
+msgid "Pictures"
+msgstr "图片"
+
+#: ustrings.sfiltersplaylist
+msgid "Play list"
+msgstr "播放列表"
+
+#: ustrings.sfilterspresets
+msgctxt "ustrings.sfilterspresets"
+msgid "Presets"
+msgstr "预设"
+
+#: ustrings.sfilterstabseparated
+msgid "tab separated"
+msgstr "tab 分隔"
+
+#: ustrings.sfilterstextfiles
+msgid "Text files"
+msgstr "文本文件"
+
+#: ustrings.sfilterstextlist
+msgid "Text list"
+msgstr "文本列表"
+

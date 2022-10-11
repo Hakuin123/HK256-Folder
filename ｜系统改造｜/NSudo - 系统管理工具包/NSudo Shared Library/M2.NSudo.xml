@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>M2.NSudo</name>
+    </assembly>
+    <members>
+        <member name="T:M2.NSudo.NSudoInstance">
+            <summary>
+            The utility class help you to load NSudo Shared Library.
+            </summary>
+        </member>
+        <member name="T:M2.NSudo.NSudoInstance.NSudoReadLogType">
+            <summary>
+            Reads data from the NSudo logging infrastructure.
+            </summary>
+            <returns>
+            The content of the data from the NSudo logging infrastructure.
+            </returns>
+        </member>
+        <member name="T:M2.NSudo.NSudoInstance.NSudoWriteLogType">
+            <summary>
+            Reads data to the NSudo logging infrastructure.
+            </summary>
+            <param name="Sender">
+            The sender name of the data.
+            </param>
+            <param name="Content">
+            The content of the data.
+            </param>
+        </member>
+        <member name="T:M2.NSudo.NSudoInstance.NSudoCreateProcessType">
+            <summary>
+            Creates a new process and its primary thread.
+            </summary>
+            <param name="UserModeType">
+            A value from the NSUDO_USER_MODE_TYPE enumerated type that 
+            identifies the user mode.
+            </param>
+            <param name="PrivilegesModeType">
+            A value from the NSUDO_PRIVILEGES_MODE_TYPE enumerated type that 
+            identifies the privileges mode.
+            </param>
+            <param name="MandatoryLabelType">
+            A value from the NSUDO_MANDATORY_LABEL_TYPE enumerated type that 
+            identifies the mandatory label.
+            </param>
+            <param name="ProcessPriorityClassType">
+            A value from the NSUDO_PROCESS_PRIORITY_CLASS_TYPE enumerated type 
+            that identifies the process priority class.
+            </param>
+            <param name="ShowWindowModeType">
+             A value from the NSUDO_SHOW_WINDOW_MODE_TYPE enumerated type that 
+             identifies the ShowWindow mode.
+            </param>
+            <param name="WaitInterval">
+            The time-out interval for waiting the process, in milliseconds.
+            </param>
+            <param name="CreateNewConsole">
+            If this parameter is TRUE, the new process has a new console, 
+            instead of inheriting its parent's console (the default).
+            </param>
+            <param name="CommandLine">
+            The command line to be executed. The maximum length of this string 
+            is 32K characters, the module name portion of CommandLine is 
+            limited to MAX_PATH characters.
+            </param>
+            <param name="CurrentDirectory">
+            The full path to the current directory for the process.The string 
+            can also specify a UNC path.If this parameter is nullptr, the new 
+            process will the same current drive and directory as the calling 
+            process. (This feature is provided primarily for shells that need 
+            to start an application and specify its initial drive and working 
+            directory.)
+            </param>
+            <returns>
+            HRESULT. If the function succeeds, the return value is S_OK.
+            </returns>
+        </member>
+        <member name="M:M2.NSudo.NSudoInstance.#ctor(System.Collections.Generic.Dictionary{System.Runtime.InteropServices.Architecture,System.String})">
+            <summary>
+            Initialize the NSudoInstance.
+            </summary>
+            <param name="BinaryPaths">
+            Help you customize the path of NSudo Shared Library.
+            </param>
+        </member>
+        <member name="M:M2.NSudo.NSudoInstance.#ctor">
+            <summary>
+            Initialize the NSudoInstance.
+            </summary>
+        </member>
+        <member name="M:M2.NSudo.NSudoInstance.Finalize">
+            <summary>
+            Uninitialize the NSudoInstance.
+            </summary>
+        </member>
+        <member name="M:M2.NSudo.NSudoInstance.ReadLog">
+            <summary>
+            Reads data from the NSudo logging infrastructure.
+            </summary>
+            <returns>
+            The content of the data from the NSudo logging infrastructure.
+            </returns>
+        </member>
+        <member name="M:M2.NSudo.NSudoInstance.WriteLog(System.String,System.String)">
+            <summary>
+            Reads data to the NSudo logging infrastructure.
+            </summary>
+            <param name="Sender">
+            The sender name of the data.
+            </param>
+            <param name="Content">
+            The content of the data.
+            </param>
+        </member>
+        <member name="M:M2.NSudo.NSudoInstance.CreateProcess(M2.NSudo.NSUDO_USER_MODE_TYPE,M2.NSudo.NSUDO_PRIVILEGES_MODE_TYPE,M2.NSudo.NSUDO_MANDATORY_LABEL_TYPE,M2.NSudo.NSUDO_PROCESS_PRIORITY_CLASS_TYPE,M2.NSudo.NSUDO_SHOW_WINDOW_MODE_TYPE,System.UInt32,System.Boolean,System.String,System.String)">
+            <summary>
+            Creates a new process and its primary thread.
+            </summary>
+            <param name="UserModeType">
+            A value from the NSUDO_USER_MODE_TYPE enumerated type that 
+            identifies the user mode.
+            </param>
+            <param name="PrivilegesModeType">
+            A value from the NSUDO_PRIVILEGES_MODE_TYPE enumerated type that 
+            identifies the privileges mode.
+            </param>
+            <param name="MandatoryLabelType">
+            A value from the NSUDO_MANDATORY_LABEL_TYPE enumerated type that 
+            identifies the mandatory label.
+            </param>
+            <param name="ProcessPriorityClassType">
+            A value from the NSUDO_PROCESS_PRIORITY_CLASS_TYPE enumerated type 
+            that identifies the process priority class.
+            </param>
+            <param name="ShowWindowModeType">
+             A value from the NSUDO_SHOW_WINDOW_MODE_TYPE enumerated type that 
+             identifies the ShowWindow mode.
+            </param>
+            <param name="WaitInterval">
+            The time-out interval for waiting the process, in milliseconds.
+            </param>
+            <param name="CreateNewConsole">
+            If this parameter is TRUE, the new process has a new console, 
+            instead of inheriting its parent's console (the default).
+            </param>
+            <param name="CommandLine">
+            The command line to be executed. The maximum length of this string 
+            is 32K characters, the module name portion of CommandLine is 
+            limited to MAX_PATH characters.
+            </param>
+            <param name="CurrentDirectory">
+            The full path to the current directory for the process.The string 
+            can also specify a UNC path.If this parameter is nullptr, the new 
+            process will the same current drive and directory as the calling 
+            process. (This feature is provided primarily for shells that need 
+            to start an application and specify its initial drive and working 
+            directory.)
+            </param>
+        </member>
+        <member name="T:M2.NSudo.NSUDO_MANDATORY_LABEL_TYPE">
+            <summary>
+            Contains values that specify the type of mandatory label.
+            </summary>
+        </member>
+        <member name="T:M2.NSudo.NSUDO_PRIVILEGES_MODE_TYPE">
+            <summary>
+            Contains values that specify the type of privileges mode.
+            </summary>
+        </member>
+        <member name="T:M2.NSudo.NSUDO_PROCESS_PRIORITY_CLASS_TYPE">
+            <summary>
+            Contains values that specify the type of process priority class.
+            </summary>
+        </member>
+        <member name="T:M2.NSudo.NSUDO_SHOW_WINDOW_MODE_TYPE">
+            <summary>
+            Contains values that specify the type of ShowWindow mode.
+            </summary>
+        </member>
+        <member name="T:M2.NSudo.NSUDO_USER_MODE_TYPE">
+            <summary>
+            Contains values that specify the type of user mode.
+            </summary>
+        </member>
+    </members>
+</doc>

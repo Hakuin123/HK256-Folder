@@ -1,0 +1,4015 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: ReNamer\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Igor Rückert <igorruckert@yahoo.com.br>\n"
+"Language-Team: den4b Team <support@den4b.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"X-Country: br\n"
+"X-Country-Name: Brazil\n"
+"X-Language-Name: Portuguese (Brazil)\n"
+"X-Language-Name-Native: Português (Brasil)\n"
+"X-Translators: Igor Rückert <igorruckert@yahoo.com.br>\n"
+"X-Generator: Poedit 2.0.8\n"
+
+#: mainform.ssavecurrentpresetconfirm
+msgid "Save current preset?"
+msgstr "Salvar predefinição atual?"
+
+#: mainform.s_askpurchaseremovelimit
+msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
+msgstr "Gostaria de comprar a versão \"Pro\" para remover esta limitação?"
+
+#: mainform.s_askpurchaseunlockfeature
+msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
+msgstr "Gostaria de comprar a versão \"Pro\" para desbloquear este recurso?"
+
+#: mainform.s_confirmunregister
+msgid ""
+"Are you sure you want to unregister the product?\n"
+"\n"
+"This will remove your license and deactivate the \"Pro\" version.\n"
+msgstr ""
+"Tem certeza que deseja remover o registro do produto?\n"
+"\n"
+"Isto removerá sua licença e desativará a versão \"Pro\".\n"
+
+#: mainform.s_featurenotavailable
+msgid "This feature is not available in this version."
+msgstr "Este recurso não está disponível nesta versão."
+
+#: mainform.s_free_license_note
+msgctxt "mainform.s_free_license_note"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Este aplicativo pode ser usado e distribuído SOMENTE para propósitos não-comerciais com atribuições apropriadas."
+
+#: mainform.s_maxallowedpresets
+msgid "This version is limited to a maximum of %s presets."
+msgstr "Esta versão possui limite de no máximo %s predefinições."
+
+#: mainform.s_maxallowedrules
+msgid "This version is limited to a maximum of %s rules."
+msgstr "Esta versão possui limite de no máximo %s regras."
+
+#: mainform.s_no_license_caption
+msgid "(non-commercial use only)"
+msgstr "(somente uso não-comercial)"
+
+#: mainform.s_please_read_full_license
+msgid "For more information please read full license code"
+msgstr "Para mais informações, por favor, leia a licença"
+
+#: mainform.s_presetdirstructurelimitation
+msgid "This version does not support presets directory structure."
+msgstr "Esta versão não suporta a estrutura da pasta de predefinições."
+
+#: mainform.s_statusbar_hint_filters
+msgid "Active filter settings"
+msgstr "Configurações do filtro ativo"
+
+#: mainform.s_statusbar_hint_presets
+msgid "Loaded preset"
+msgstr "Predefinição carregada"
+
+#: mainform.s_statusbar_hint_presets_modified
+msgid "Loaded preset (modified)"
+msgstr "Predefinição carregada (modificada)"
+
+#: presetslinksform.screatednumpresetlinks
+msgid "Created %d preset links."
+msgstr "%d links de predefinições criados."
+
+#: presetsmanagerform.sduplicatepresetsuffix
+msgid "COPY"
+msgstr "COPIAR"
+
+#: rulepascalscriptframe.saddyourcodehere
+msgid "Add your code here"
+msgstr "Adicione seu código aqui"
+
+#: rulepascalscriptframe.sholdtoinsertscriptinline
+msgid "Hold %s when loading a script to insert it inline"
+msgstr "Pressione %s ao carregar um script para inseri-lo na linha"
+
+#: rulepascalscriptframe.spressforcodecompletion
+msgid "Press %s for code completion"
+msgstr "Pressione %s para conclusão do código"
+
+#: ruleregexframe.sregexanychar
+msgid "Any single character"
+msgstr "Qualquer caractere único"
+
+#: ruleregexframe.sregexanycharexact3
+msgid "A set of 3 of any characters"
+msgstr "Um conjunto de 3 caracteres quaisquer"
+
+#: ruleregexframe.sregexanycharplus
+msgid "One or more of any characters"
+msgstr "Um ou mais caracteres quaisquer"
+
+#: ruleregexframe.sregexanycharplusgrouped
+msgid "One or more of any characters, grouped into subexpression"
+msgstr "Um ou mais caracteres quaisquer, agrupados na subexpressão"
+
+#: ruleregexframe.sregexanycharplusnogreedy
+msgid "One or more of any characters, but fewer as possible"
+msgstr "Um ou mais caracteres quaisquer, mas menos possível"
+
+#: ruleregexframe.sregexanycharset2to4
+msgid "A set of 2 to 4 of any characters"
+msgstr "Um conjunto de 2 a 4 caracteres quaisquer"
+
+#: ruleregexframe.sregexanycharset3ormore
+msgid "A set of 3 or more of any characters"
+msgstr "Um conjunto de 3 ou mais caracteres quaisquer"
+
+#: ruleregexframe.sregexanycharstar
+msgid "Zero or more of any characters"
+msgstr "Zero ou mais caracteres quaisquer"
+
+#: ruleregexframe.sregexcharlistabc
+msgid "Any single character from the list (e.g. \"a\" or \"b\" or \"c\")"
+msgstr "Qualquer caractere único da lista (ex.: \"a\" ou \"b\" ou \"c\")"
+
+#: ruleregexframe.sregexcharlistaorborc
+msgid "Any one occurrence of the alternatives (e.g. \"aa\" or \"bb\" or \"cc\")"
+msgstr "Qualquer ocorrência das alternativas (ex.: \"aa\" ou \"bb\" ou \"cc\")"
+
+#: ruleregexframe.sregexcharlistatoz
+msgid "Any single character from the range (e.g. \"a\" to \"z\")"
+msgstr "Qualquer caractere único do intervalo (ex.: \"a\" até \"z\")"
+
+#: ruleregexframe.sregexend
+msgid "End of the input text"
+msgstr "Final do texto de entrada"
+
+#: ruleregexframe.sregexescapedslash
+msgid "Use an escape character to match an actual backslash \"\\\""
+msgstr "Usar um caractere de escape para coincidir com uma barra real \"\\\""
+
+#: ruleregexframe.sregexnotcharlistabc
+msgid "Any single character except the ones from the list"
+msgstr "Qualquer caractere único, exceto os da lista"
+
+#: ruleregexframe.sregexspacechars
+msgid "Any single space character (space, tab, new line)"
+msgstr "Qualquer caractere de espaço único (espaço, tab, nova linha)"
+
+#: ruleregexframe.sregexstart
+msgid "Start of the input text"
+msgstr "Início do texto de entrada"
+
+#: ruleregexframe.sregexwordboundary
+msgid "Word boundary"
+msgstr "Limite de palavra"
+
+#: ruleregexframe.sregexwordchars
+msgid "Any single alphanumeric character (including an underscore)"
+msgstr "Qualquer caractere alfanumérico único (incluindo um sublinhado)"
+
+#: settingsform.sfailedtoapplysystemsettings
+msgid "Failed to apply system settings."
+msgstr "Falha ao aplicar configurações do sistema."
+
+#: settingsform.shinttryrunasadministrator
+msgid "(Try to start the program as administrator to apply these settings)"
+msgstr "(Tente iniciar o programa como administrador para aplicar as configurações)"
+
+#: settingsform.srealtimepreviewwarning
+msgid ""
+"Real-time update of the preview can be dangerous and its use is not recommended!\n"
+"\n"
+"It will cause graphical updates to the GUI during preview for every processed file but will also respond to any user activity such as mouse clicks and keyboard button presses. Beware, any accidental actions generated during a preview as a result of user activity within the application will interfere with the preview process and can cause unpredictable behavior.\n"
+msgstr ""
+"Atualização em tempo real da pré-visualização pode ser perigoso e seu uso não é recomendado! \n"
+"\n"
+"Ele causrará atualizações gráficas na interface durante a pré-visualização de cada arquivo processado, mas também vai responder a qualquer atividade do usuário, como cliques do mouse e teclas pressionadas do teclado. Cuidado, quaisquer ações acidentais geradas durante a pré-visualização, como resultado da atividade do usuário dentro do aplicativo irá interferir com o processo de pré-visualização e pode causar um comportamento imprevisível.\n"
+
+#: tform_about.caption
+msgctxt "tform_about.caption"
+msgid "About"
+msgstr "Sobre"
+
+#: tform_about.label_author2.caption
+msgid "Author:"
+msgstr "Autor:"
+
+#: tform_about.label_date.caption
+msgid "Date:"
+msgstr "Data:"
+
+#: tform_about.label_email2.caption
+msgid "Email:"
+msgstr "E-mail:"
+
+#: tform_about.label_version.caption
+msgid "Version:"
+msgstr "Versão:"
+
+#: tform_about.label_website2.caption
+msgid "Website:"
+msgstr "Site:"
+
+#: tform_addpaths.bitbtn_add.caption
+msgctxt "TFORM_ADDPATHS.BITBTN_ADD.CAPTION"
+msgid "Add"
+msgstr "Adicionar"
+
+#: tform_addpaths.bitbtn_cancel.caption
+msgctxt "TFORM_ADDPATHS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: tform_addpaths.caption
+msgctxt "tform_addpaths.caption"
+msgid "Add Paths"
+msgstr "Adicionar Caminhos"
+
+#: tform_addpaths.checkbox_workingdir.caption
+msgctxt "TFORM_ADDPATHS.CHECKBOX_WORKINGDIR.CAPTION"
+msgid "Working directory:"
+msgstr "Pasta de trabalho:"
+
+#: tform_addpaths.label_enterpaths.caption
+msgid "Enter file paths:"
+msgstr "Entre o caminhos dos arquivos:"
+
+#: tform_addrule.bitbtn_add.caption
+msgctxt "TFORM_ADDRULE.BITBTN_ADD.CAPTION"
+msgid "Add Rule"
+msgstr "Adicionar Regra"
+
+#: tform_addrule.bitbtn_close.caption
+msgctxt "tform_addrule.bitbtn_close.caption"
+msgid "Close"
+msgstr "Fechar"
+
+#: tform_addrule.caption
+msgctxt "TFORM_ADDRULE.CAPTION"
+msgid "Add Rule"
+msgstr "Adicionar Regra"
+
+#: tform_addrule.groupbox_config.caption
+msgid "Configuration:"
+msgstr "Configuração:"
+
+#: tform_addrule.menuitem_ruledescription.caption
+msgid "Description"
+msgstr "Descrição"
+
+#: tform_analyze.bb_applyrules.caption
+msgid "Apply Rules"
+msgstr "Aplicar Regras"
+
+#: tform_analyze.caption
+msgctxt "tform_analyze.caption"
+msgid "Analyze"
+msgstr "Analisar"
+
+#: tform_analyze.cb_applyrulesforeachline.caption
+msgid "Apply rules for each line"
+msgstr "Aplicar regras em cada linha"
+
+#: tform_analyze.cb_autoapplyrules.caption
+msgid "Automatically apply rules"
+msgstr "Automaticamente aplicar regras"
+
+#: tform_analyze.cb_wordwrap.caption
+msgid "Line wrap"
+msgstr "Quebra de linha"
+
+#: tform_analyze.label_textin.caption
+msgid "Enter text that you wish to analyze:"
+msgstr "Entre o texto que deseja analisar:"
+
+#: tform_analyze.label_textout.caption
+msgid "Text after applying rules:"
+msgstr "Texto após aplicar regras:"
+
+#: tform_browse.bitbtn_cancel.caption
+msgctxt "TFORM_BROWSE.BITBTN_CANCEL.CAPTION"
+msgid "Close"
+msgstr "Fechar"
+
+#: tform_browse.bitbtn_ok.caption
+msgctxt "tform_browse.bitbtn_ok.caption"
+msgid "Add Folders"
+msgstr "Adicionar Pastas"
+
+#: tform_browse.caption
+msgid "Browse"
+msgstr "Procurar"
+
+#: tform_browse.checkbox_showhidden.caption
+msgid "Show hidden folders"
+msgstr "Exibir pastas ocultas"
+
+#: tform_browse.checkbox_showsystem.caption
+msgid "Show system folders"
+msgstr "Exibir pastas do sistema"
+
+#: tform_browse.label_title.caption
+msgid "Select folders that you want to add:"
+msgstr "Selecione as pastas que deseja adicionar:"
+
+#: tform_browse.menuitem_collapseall.caption
+msgid "Collapse All"
+msgstr "Recolher Tudo"
+
+#: tform_browse.menuitem_explorefolder.caption
+msgid "Explore selected folder"
+msgstr "Explorar pasta selecionada"
+
+#: tform_browse.menuitem_gotofolder.caption
+msgctxt "TFORM_BROWSE.MENUITEM_GOTOFOLDER.CAPTION"
+msgid "Go To Folder"
+msgstr "Ir Para Pasta"
+
+#: tform_browse.menuitem_refreshtree.caption
+msgid "Refresh Tree"
+msgstr "Atualizar Ramificação"
+
+#: tform_browse.sb_gotofolder.caption
+msgctxt "tform_browse.sb_gotofolder.caption"
+msgid "Go To"
+msgstr "Ir Para"
+
+#: tform_browse.speedbutton_filtersettings.caption
+msgctxt "tform_browse.speedbutton_filtersettings.caption"
+msgid "Filter Settings"
+msgstr "Configurações do Filtro"
+
+#: tform_filtersettings.bitbtn_cancel.caption
+msgctxt "tform_filtersettings.bitbtn_cancel.caption"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: tform_filtersettings.bitbtn_save.caption
+msgctxt "tform_filtersettings.bitbtn_save.caption"
+msgid "Save"
+msgstr "Salvar"
+
+#: tform_filtersettings.caption
+msgctxt "TFORM_FILTERSETTINGS.CAPTION"
+msgid "Filter Settings"
+msgstr "Configurações do Filtro"
+
+#: tform_filtersettings.cb_masksonfilename.caption
+msgid "Apply only to the file name, instead of full path."
+msgstr "Aplicar somente ao nome do arquivo, em vez do caminho completo."
+
+#: tform_filtersettings.checkbox_addfilesfromfolders.caption
+msgid "Add files within folders"
+msgstr "Adicionar arquivos dentro de pastas"
+
+#: tform_filtersettings.checkbox_addfoldersasfiles.caption
+msgid "Add folders as files"
+msgstr "Adicionar pastas como arquivos"
+
+#: tform_filtersettings.checkbox_includehidden.caption
+msgid "Include hidden items"
+msgstr "Incluir itens ocultos"
+
+#: tform_filtersettings.checkbox_includesubfolders.caption
+msgid "Include subfolders"
+msgstr "Incluir subpastas"
+
+#: tform_filtersettings.checkbox_includesystem.caption
+msgid "Include system items"
+msgstr "Incluir itens do sistema"
+
+#: tform_filtersettings.checkbox_saveasdefault.caption
+msgctxt "TFORM_FILTERSETTINGS.CHECKBOX_SAVEASDEFAULT.CAPTION"
+msgid "Save as default for future sessions"
+msgstr "Salvar como padrão para futuras sessões"
+
+#: tform_filtersettings.checkbox_skiprootfoldersasfiles.caption
+msgid "Skip root folders when added as files"
+msgstr "Ignorar pastas raiz ao adicionar como arquivos"
+
+#: tform_filtersettings.groupbox_folders.caption
+msgid "Default behavior for adding folders:"
+msgstr "Comportamento padrão ao adicionar pastas:"
+
+#: tform_filtersettings.groupbox_masks.caption
+msgid "Masks:"
+msgstr "Máscaras:"
+
+#: tform_filtersettings.label_masksexclude.caption
+msgid "Exclude:"
+msgstr "Excluir:"
+
+#: tform_filtersettings.label_masksinclude.caption
+msgid "Include:"
+msgstr "Incluir:"
+
+#: tform_filtersettings.label_masksnote.caption
+msgctxt "TFORM_FILTERSETTINGS.LABEL_MASKSNOTE.CAPTION"
+msgid "Note: separate multiple masks with \";\" (semicolons)."
+msgstr "Nota: separe múltiplas máscaras com \";\" (ponto-e-vírgula)."
+
+#: tform_folderwarning.bb_cancel.caption
+msgctxt "TFORM_FOLDERWARNING.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: tform_folderwarning.bb_continue.caption
+msgid "Continue"
+msgstr "Continuar"
+
+#: tform_folderwarning.caption
+msgid "Warning: Renaming Folders"
+msgstr "Aviso: Renomeando Pastas"
+
+#: tform_folderwarning.cb_nevershowwarning.caption
+msgid "Never show this warning"
+msgstr "Nunca exibir este aviso"
+
+#: tform_folderwarning.label_warning.caption
+msgid "Renaming a folder also affects all of its content. A problem can occur if you try to rename folders and their content in a single run. Items in the renaming list are processed from top to bottom. The order of items in this case is extremely important for successful renaming."
+msgstr "Renoemar o nome de uma pasta também afeta todo o seu conteúdo. Um problema pode ocorrer se você tentar renomear pastas e seu conteúdo em uma única vez. Os itens da lista de renomeação são processados de cima para baixo. A ordem dos itens, neste caso, é extremamente importante para a renomeação bem sucedida."
+
+#: tform_folderwarning.label_warning2.caption
+msgid "Parent folders must always appear below their contained items. This can be easily achieved by sorting items in descending order by the Folder or Path column."
+msgstr "Pastas pai devem sempre aparecer abaixo dos itens contidos. Isso pode ser facilmente conseguido, ordenando itens em ordem decrescente pela coluna Pasta ou Caminho."
+
+#: tform_main.action_about.caption
+msgctxt "TFORM_MAIN.ACTION_ABOUT.CAPTION"
+msgid "About"
+msgstr "Sobre"
+
+#: tform_main.action_addfiles.caption
+msgid "Add Files"
+msgstr "Adicionar Arquivos"
+
+#: tform_main.action_addfolders.caption
+msgctxt "TFORM_MAIN.ACTION_ADDFOLDERS.CAPTION"
+msgid "Add Folders"
+msgstr "Adicionar Pastas"
+
+#: tform_main.action_addpaths.caption
+msgctxt "tform_main.action_addpaths.caption"
+msgid "Add Paths"
+msgstr "Adicionar Caminhos"
+
+#: tform_main.action_analyzesampletext.caption
+msgid "Analyze sample text"
+msgstr "Analisar texto de amostra"
+
+#: tform_main.action_applyrulestoclipboard.caption
+msgid "Apply rules to the clipboard"
+msgstr "Aplicar regras para área de transferência"
+
+#: tform_main.action_autosizecolumns.caption
+msgid "Autosize columns"
+msgstr "Auto-ajustar colunas"
+
+#: tform_main.action_countmarkedandselectedfiles.caption
+msgid "Count marked and selected files"
+msgstr "Contar arquivos marcados e selecionados"
+
+#: tform_main.action_exportasbatchfilefullpaths.caption
+msgid "Export as batch renaming file (full paths)"
+msgstr "Exportar como arquivo para renomear em lote (caminhos completos)"
+
+#: tform_main.action_exportasbatchfileonlynames.caption
+msgid "Export as batch renaming file (only names)"
+msgstr "Exportar como arquivo para renomear em lote (somente nomes)"
+
+#: tform_main.action_exportfilesandpreview.caption
+msgid "Export file paths and new names"
+msgstr "Exportar caminhos de arquivos e novos nomes"
+
+#: tform_main.action_exportfilesandundo.caption
+msgid "Export file paths and undo paths"
+msgstr "Exportar caminhos de arquivos e desfazer caminhos"
+
+#: tform_main.action_exportnewnamestoclipboard.caption
+msgid "Export new names to clipboard"
+msgstr "Exportar novos nomes para área de transferência"
+
+#: tform_main.action_exportpathstoclipboard.caption
+msgid "Export paths to clipboard"
+msgstr "Exportar caminhos para Área de Transferência"
+
+#: tform_main.action_filters.caption
+msgctxt "TFORM_MAIN.ACTION_FILTERS.CAPTION"
+msgid "Filters"
+msgstr "Filtros"
+
+#: tform_main.action_fixconflictingnewnames.caption
+msgid "Fix conflicting new names"
+msgstr "Corrigir novos nomes com conflito"
+
+#: tform_main.action_importfilesandpreview.caption
+msgid "Import file paths and new names"
+msgstr "Importar caminhos de arquivos e novos nomes"
+
+#: tform_main.action_importlistoffiles.caption
+msgid "Import files from text-list or play-list"
+msgstr "Importar arquivos de texto-lista ou playlist"
+
+#: tform_main.action_importnewnamesfromclipboard.caption
+msgid "Import new names from clipboard"
+msgstr "Importar novos nomes da área de transferência"
+
+#: tform_main.action_managepresets.caption
+msgid "Manage..."
+msgstr "Gerenciar..."
+
+#: tform_main.action_newinstance.caption
+msgid "New Instance"
+msgstr "Nova Instância"
+
+#: tform_main.action_newproject.caption
+msgid "New Project"
+msgstr "Novo Projeto"
+
+#: tform_main.action_pastefiles.caption
+msgid "Paste Files"
+msgstr "Colar Arquivos"
+
+#: tform_main.action_presetsave.caption
+msgctxt "TFORM_MAIN.ACTION_PRESETSAVE.CAPTION"
+msgid "Save"
+msgstr "Salvar"
+
+#: tform_main.action_presetsaveas.caption
+msgid "Save As"
+msgstr "Salvar Como"
+
+#: tform_main.action_preview.caption
+msgctxt "TFORM_MAIN.ACTION_PREVIEW.CAPTION"
+msgid "Preview"
+msgstr "Prévia"
+
+#: tform_main.action_register.caption
+msgctxt "tform_main.action_register.caption"
+msgid "Register"
+msgstr "Registrar"
+
+#: tform_main.action_rename.caption
+msgctxt "TFORM_MAIN.ACTION_RENAME.CAPTION"
+msgid "Rename"
+msgstr "Renomear"
+
+#: tform_main.action_settings.caption
+msgid "All Settings"
+msgstr "Todas as Configurações"
+
+#: tform_main.action_sortforrenamingfolders.caption
+msgid "Sort by path for renaming folders"
+msgstr "Classificar por caminho ao renomear pastas"
+
+#: tform_main.action_undorename.caption
+msgid "Undo Renaming"
+msgstr "Desfazer Renomear"
+
+#: tform_main.action_unregister.caption
+msgid "Unregister"
+msgstr "Remover Registro"
+
+#: tform_main.action_validatenewnames.caption
+msgid "Validate new names"
+msgstr "Validar novos nomes"
+
+#: tform_main.listview_rules.columns[0].caption
+msgid "#"
+msgstr ""
+
+#: tform_main.listview_rules.columns[1].caption
+msgid "Rule"
+msgstr "Regra"
+
+#: tform_main.listview_rules.columns[2].caption
+msgid "Statement"
+msgstr "Instrução"
+
+#: tform_main.menuitem_addrule.caption
+msgctxt "TFORM_MAIN.MENUITEM_ADDRULE.CAPTION"
+msgid "Add Rule"
+msgstr "Adicionar Regra"
+
+#: tform_main.menuitem_addruleabove.caption
+msgid "Add Rule (above)"
+msgstr ""
+
+#: tform_main.menuitem_addrulebelow.caption
+msgid "Add Rule (below)"
+msgstr ""
+
+#: tform_main.menuitem_analyzename.caption
+msgid "Analyze Name"
+msgstr "Analisar Nome"
+
+#: tform_main.menuitem_clearall.caption
+msgid "Clear All"
+msgstr "Limpar Tudo"
+
+#: tform_main.menuitem_clearfailed.caption
+msgid "Clear Failed"
+msgstr "Limpar Falhado(s)"
+
+#: tform_main.menuitem_clearing.caption
+msgid "Clear"
+msgstr "Limpar"
+
+#: tform_main.menuitem_clearinvalid.caption
+msgid "Clear Invalid"
+msgstr "Limpar Inválido(s)"
+
+#: tform_main.menuitem_clearmarked.caption
+msgid "Clear Marked"
+msgstr "Limpar Marcado(s)"
+
+#: tform_main.menuitem_clearnotmarked.caption
+msgid "Clear Not Marked"
+msgstr "Limpar Não Marcado(s)"
+
+#: tform_main.menuitem_clearrenamed.caption
+msgid "Clear Renamed"
+msgstr "Limpar Renomeado(s)"
+
+#: tform_main.menuitem_clearvalid.caption
+msgid "Clear Valid"
+msgstr "Limpar Válido(s)"
+
+#: tform_main.menuitem_duplicaterule.caption
+msgid "Duplicate Rule"
+msgstr "Duplicar Regra"
+
+#: tform_main.menuitem_editnewname.caption
+msgid "Edit New Name"
+msgstr "Editar Novo Nome"
+
+#: tform_main.menuitem_editrule.caption
+msgctxt "TFORM_MAIN.MENUITEM_EDITRULE.CAPTION"
+msgid "Edit Rule"
+msgstr "Editar Regra"
+
+#: tform_main.menuitem_exit.caption
+msgid "Exit"
+msgstr "Sair"
+
+#: tform_main.menuitem_file.caption
+msgid "File"
+msgstr "Arquivo"
+
+#: tform_main.menuitem_help.caption
+msgctxt "tform_main.menuitem_help.caption"
+msgid "Help"
+msgstr "Ajuda"
+
+#: tform_main.menuitem_invertmarking.caption
+msgid "Invert Marking"
+msgstr "Inverter Marcação"
+
+#: tform_main.menuitem_invertselection.caption
+msgid "Invert Selection"
+msgstr "Inverter Seleção"
+
+#: tform_main.menuitem_mark.caption
+msgctxt "TFORM_MAIN.MENUITEM_MARK.CAPTION"
+msgid "Mark"
+msgstr "Marcar"
+
+#: tform_main.menuitem_markbymask.caption
+msgctxt "TFORM_MAIN.MENUITEM_MARKBYMASK.CAPTION"
+msgid "Mark by Mask"
+msgstr "Marcar por Máscara"
+
+#: tform_main.menuitem_marking.caption
+msgctxt "tform_main.menuitem_marking.caption"
+msgid "Mark"
+msgstr "Marcar"
+
+#: tform_main.menuitem_markonlychangedexccase.caption
+msgid "Mark Only Changed (Exc. Case)"
+msgstr "Marcar Somente Alterados (Exc. Maiúsc./Minúsc.)"
+
+#: tform_main.menuitem_markonlychangedinccase.caption
+msgid "Mark Only Changed (Inc. Case)"
+msgstr "Marcar Somente Alterados (Inc. Maiúsc./Minúsc.)"
+
+#: tform_main.menuitem_markonlyselected.caption
+msgid "Mark Only Selected"
+msgstr "Marcar Somente Selecionado(s)"
+
+#: tform_main.menuitem_movedown.caption
+msgctxt "TFORM_MAIN.MENUITEM_MOVEDOWN.CAPTION"
+msgid "Down"
+msgstr "Para Baixo"
+
+#: tform_main.menuitem_moveup.caption
+msgctxt "TFORM_MAIN.MENUITEM_MOVEUP.CAPTION"
+msgid "Up"
+msgstr "Para Cima"
+
+#: tform_main.menuitem_moving.caption
+msgid "Move"
+msgstr "Mover"
+
+#: tform_main.menuitem_presets.caption
+msgctxt "tform_main.menuitem_presets.caption"
+msgid "Presets"
+msgstr "Predefinições"
+
+#: tform_main.menuitem_removeallrules.caption
+msgid "Remove All Rules"
+msgstr "Remover Todas as Regras"
+
+#: tform_main.menuitem_removerule.caption
+msgid "Remove Rule"
+msgstr "Remover Regra"
+
+#: tform_main.menuitem_removeselecteditems.caption
+msgid "Remove Selected"
+msgstr "Remover Selecionado(s)"
+
+#: tform_main.menuitem_rulemovedown.caption
+msgid "Move Down"
+msgstr "Mover Para Baixo"
+
+#: tform_main.menuitem_rulemoveup.caption
+msgid "Move Up"
+msgstr "Mover Para Cima"
+
+#: tform_main.menuitem_rulesmarkall.caption
+msgid "Mark All"
+msgstr "Marcar Todos"
+
+#: tform_main.menuitem_rulesselectall.caption
+msgctxt "TFORM_MAIN.MENUITEM_RULESSELECTALL.CAPTION"
+msgid "Select All"
+msgstr "Selecionar Tudo"
+
+#: tform_main.menuitem_rulesunmarkall.caption
+msgid "Unmark All"
+msgstr "Desmarcar Todos"
+
+#: tform_main.menuitem_selectall.caption
+msgctxt "tform_main.menuitem_selectall.caption"
+msgid "Select All"
+msgstr "Selecionar Todos"
+
+#: tform_main.menuitem_selectbyextension.caption
+msgctxt "TFORM_MAIN.MENUITEM_SELECTBYEXTENSION.CAPTION"
+msgid "Select by Extension"
+msgstr "Selecionar pela Extensão"
+
+#: tform_main.menuitem_selectbymask.caption
+msgctxt "TFORM_MAIN.MENUITEM_SELECTBYMASK.CAPTION"
+msgid "Select by Mask"
+msgstr "Selecionar pela Máscara"
+
+#: tform_main.menuitem_selectbynamelength.caption
+msgid "Select by Name Length"
+msgstr "Selecionar pelo Comprimento do Nome"
+
+#: tform_main.menuitem_selecting.caption
+msgid "Select"
+msgstr "Selecionar"
+
+#: tform_main.menuitem_settings.caption
+msgctxt "tform_main.menuitem_settings.caption"
+msgid "Settings"
+msgstr "Configurações"
+
+#: tform_main.menuitem_settingsgeneral.caption
+msgctxt "tform_main.menuitem_settingsgeneral.caption"
+msgid "General"
+msgstr "Geral"
+
+#: tform_main.menuitem_settingsmetatags.caption
+msgctxt "tform_main.menuitem_settingsmetatags.caption"
+msgid "Meta Tags"
+msgstr "Meta Tags"
+
+#: tform_main.menuitem_settingsmisc.caption
+msgid "Miscellaneous"
+msgstr "Variado"
+
+#: tform_main.menuitem_settingspreview.caption
+msgctxt "tform_main.menuitem_settingspreview.caption"
+msgid "Preview"
+msgstr "Prévia"
+
+#: tform_main.menuitem_settingsrename.caption
+msgctxt "TFORM_MAIN.MENUITEM_SETTINGSRENAME.CAPTION"
+msgid "Rename"
+msgstr "Renomear"
+
+#: tform_main.menuitem_shell.caption
+msgid "Shell"
+msgstr "Shell"
+
+#: tform_main.menuitem_unmark.caption
+msgid "Unmark"
+msgstr "Desmarcar"
+
+#: tform_main.mi_addpresets.caption
+msgid "Import..."
+msgstr "Importar..."
+
+#: tform_main.mi_browsepresets.caption
+msgid "Browse..."
+msgstr "Procurar..."
+
+#: tform_main.mi_clearnotchanged.caption
+msgid "Clear Not Changed"
+msgstr "Limpar Não Alterado(s)"
+
+#: tform_main.mi_copyfilestoclipboard.caption
+msgid "Copy Files to Clipboard"
+msgstr "Copiar Arquivos para Área de Transferência"
+
+#: tform_main.mi_copyrights.caption
+msgid "Copyrights"
+msgstr "Copyrights"
+
+#: tform_main.mi_createpresetslinks.caption
+msgctxt "tform_main.mi_createpresetslinks.caption"
+msgid "Create Links"
+msgstr "Criar Links"
+
+#: tform_main.mi_cutfilestoclipboard.caption
+msgid "Cut Files to Clipboard"
+msgstr "Recortar Arquivos para Área de Transferência"
+
+#: tform_main.mi_deletefiles.caption
+msgid "Delete Files to Recycle Bin"
+msgstr "Excluir Arquivos para Lixeira"
+
+#: tform_main.mi_exportcolumnstoclipboard.caption
+msgid "Export all columns to clipboard"
+msgstr "Exportar todas as colunas para área de transferência"
+
+#: tform_main.mi_fileproperties.caption
+msgid "File Properties"
+msgstr "Propriedades do Arquivo"
+
+#: tform_main.mi_filescolumns_cancelsorting.caption
+msgctxt "TFORM_MAIN.MI_FILESCOLUMNS_CANCELSORTING.CAPTION"
+msgid "Cancel Sorting"
+msgstr "Cancelar Classificação"
+
+#: tform_main.mi_forum.caption
+msgid "Forum (online)"
+msgstr "Fórum (online)"
+
+#: tform_main.mi_help.caption
+msgid "Help (online)"
+msgstr "Ajuda (online)"
+
+#: tform_main.mi_history.caption
+msgid "Version History"
+msgstr "Histórico de Versões"
+
+#: tform_main.mi_language.caption
+msgctxt "tform_main.mi_language.caption"
+msgid "Language"
+msgstr "Idioma"
+
+#: tform_main.mi_litevspro.caption
+msgid "Lite vs Pro (online)"
+msgstr "Lite vs Pro (online)"
+
+#: tform_main.mi_loadpreset.caption
+msgid "Load"
+msgstr "Carregar"
+
+#: tform_main.mi_opencontainingfolder.caption
+msgid "Open containing folder"
+msgstr "Abrir pasta de trabalho"
+
+#: tform_main.mi_openfile.caption
+msgid "Open File"
+msgstr "Abrir Arquivo"
+
+#: tform_main.mi_openwithnotepad.caption
+msgid "Open with Notepad"
+msgstr "Abrir com Bloco de Notas"
+
+#: tform_main.mi_purchase.caption
+msgid "Purchase (online)"
+msgstr "Comprar (online)"
+
+#: tform_main.mi_quickguide.caption
+msgid "Quick Guide"
+msgstr "Guia Rápido"
+
+#: tform_main.mi_rescanpresets.caption
+msgid "Rescan"
+msgstr "Reanalisar"
+
+#: tform_main.mi_rulecomment.caption
+msgid "Comment..."
+msgstr "Comentário..."
+
+#: tform_main.mi_rulestoclipboard.caption
+msgid "Export to Clipboard"
+msgstr "Exportar para Área de Transferência"
+
+#: tform_main.mi_usermanual.caption
+msgid "User Manual"
+msgstr "Manual do Usuário"
+
+#: tform_main.toolbutton_addrule.caption
+msgctxt "tform_main.toolbutton_addrule.caption"
+msgid "Add"
+msgstr "Adicionar"
+
+#: tform_main.toolbutton_analyze.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_ANALYZE.CAPTION"
+msgid "Analyze"
+msgstr "Analisar"
+
+#: tform_main.toolbutton_columns.caption
+msgid "Columns"
+msgstr "Colunas"
+
+#: tform_main.toolbutton_export.caption
+msgid "Export"
+msgstr "Exportar"
+
+#: tform_main.toolbutton_files.caption
+msgid "Files"
+msgstr "Arquivos"
+
+#: tform_main.toolbutton_filters.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_FILTERS.CAPTION"
+msgid "Filters"
+msgstr "Filtros"
+
+#: tform_main.toolbutton_movedownrule.caption
+msgctxt "tform_main.toolbutton_movedownrule.caption"
+msgid "Down"
+msgstr "Para Baixo"
+
+#: tform_main.toolbutton_moveuprule.caption
+msgctxt "tform_main.toolbutton_moveuprule.caption"
+msgid "Up"
+msgstr "Para Cima"
+
+#: tform_main.toolbutton_options.caption
+msgctxt "tform_main.toolbutton_options.caption"
+msgid "Options"
+msgstr "Opções"
+
+#: tform_main.toolbutton_removerule.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_REMOVERULE.CAPTION"
+msgid "Remove"
+msgstr "Remover"
+
+#: tform_main.vst_files.header.columns[0].text
+msgid "State"
+msgstr "Estado"
+
+#: tform_main.vst_files.header.columns[10].text
+msgid "Modified"
+msgstr "Modificado"
+
+#: tform_main.vst_files.header.columns[11].text
+msgctxt "TFORM_MAIN.VST_FILES.HEADER.COLUMNS[11].TEXT"
+msgid "Extension"
+msgstr "Extensão"
+
+#: tform_main.vst_files.header.columns[12].text
+msgid "Name Digits"
+msgstr "Dígitos de Nome"
+
+#: tform_main.vst_files.header.columns[13].text
+msgid "Path Digits"
+msgstr "Dígitos de Caminho"
+
+#: tform_main.vst_files.header.columns[14].text
+msgid "Name Length"
+msgstr "Comprimento do Nome"
+
+#: tform_main.vst_files.header.columns[15].text
+msgid "New Name Length"
+msgstr "Comprimento do Novo Nome"
+
+#: tform_main.vst_files.header.columns[16].text
+msgid "Path Length"
+msgstr ""
+
+#: tform_main.vst_files.header.columns[17].text
+msgid "New Path Length"
+msgstr ""
+
+#: tform_main.vst_files.header.columns[18].text
+msgid "Exif Date"
+msgstr "Data Exif"
+
+#: tform_main.vst_files.header.columns[19].text
+msgid "Old Path"
+msgstr "Caminho Antigo"
+
+#: tform_main.vst_files.header.columns[1].text
+msgid "Path"
+msgstr "Caminho"
+
+#: tform_main.vst_files.header.columns[20].text
+msgctxt "tform_main.vst_files.header.columns[20].text"
+msgid "Error"
+msgstr "Erro"
+
+#: tform_main.vst_files.header.columns[2].text
+msgid "Folder"
+msgstr "Pasta"
+
+#: tform_main.vst_files.header.columns[3].text
+msgid "Name"
+msgstr "Nome"
+
+#: tform_main.vst_files.header.columns[4].text
+msgid "New Name"
+msgstr "Novo Nome"
+
+#: tform_main.vst_files.header.columns[5].text
+msgid "New Path"
+msgstr "Novo Caminho"
+
+#: tform_main.vst_files.header.columns[6].text
+msgid "Size"
+msgstr "Tamanho"
+
+#: tform_main.vst_files.header.columns[7].text
+msgid "Size KB"
+msgstr "Tam. KB"
+
+#: tform_main.vst_files.header.columns[8].text
+msgid "Size MB"
+msgstr "Tam. MB"
+
+#: tform_main.vst_files.header.columns[9].text
+msgid "Created"
+msgstr "Criado"
+
+#: tform_metatags.bitbtn_cancel.caption
+msgctxt "TFORM_METATAGS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: tform_metatags.bitbtn_insert.caption
+msgctxt "TFORM_METATAGS.BITBTN_INSERT.CAPTION"
+msgid "Insert"
+msgstr "Inserir"
+
+#: tform_metatags.caption
+msgctxt "TFORM_METATAGS.CAPTION"
+msgid "Meta Tags"
+msgstr "Meta Tags"
+
+#: tform_metatags.label_note.caption
+msgid "Note: Most of the tags can only work for files, not folders."
+msgstr "Nota: A maioria das tags somente funcionam para arquivos, não pastas."
+
+#: tform_presetsave.bitbtn_save.caption
+msgid "&Save"
+msgstr "&Salvar"
+
+#: tform_presetsave.caption
+msgid "Save Preset"
+msgstr "Salvar Predefinição"
+
+#: tform_presetsave.cb_presetsavefilters.caption
+msgid "Save Filter Settings with the preset?"
+msgstr "Salvar Configurações do Filtro com a predefinição?"
+
+#: tform_presetsave.label1.caption
+msgid "Overwrite existing preset:"
+msgstr "Substituir predefinição existente:"
+
+#: tform_presetsave.le_name.editlabel.caption
+msgid "Preset Name:"
+msgstr "Nome da Predefinição:"
+
+#: tform_presetslinks.bb_createlinks.caption
+msgctxt "TFORM_PRESETSLINKS.BB_CREATELINKS.CAPTION"
+msgid "Create Links"
+msgstr "Criar Links"
+
+#: tform_presetslinks.caption
+msgid "Presets Links"
+msgstr "Links de Predefinições"
+
+#: tform_presetslinks.label_folder.caption
+msgid "Please specify a folder where you want to place the links:"
+msgstr "Por favor, especifique a pasta onde deseja salvar os links:"
+
+#: tform_presetslinks.label_linktype.caption
+msgid "Type of links:"
+msgstr "Tipo de links:"
+
+#: tform_presetslinks.rb_load.caption
+msgctxt "TFORM_PRESETSLINKS.RB_LOAD.CAPTION"
+msgid "Load with Preset"
+msgstr "Carregar com Predefinição"
+
+#: tform_presetslinks.rb_rename.caption
+msgctxt "TFORM_PRESETSLINKS.RB_RENAME.CAPTION"
+msgid "Rename with Preset"
+msgstr "Renomear com Predefinição"
+
+#: tform_presetslinks.sb_browse.hint
+msgid "Browse for Folder"
+msgstr "Procurar Pasta"
+
+#: tform_presetslinks.sb_usesendto.hint
+msgid "Use \"Send To\" Folder"
+msgstr "Usar Pasta \"Enviar Para\""
+
+#: tform_presetsmanager.caption
+msgid "Presets Manager"
+msgstr "Gerenciador de Predefinições"
+
+#: tform_presetsmanager.tb_append.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_APPEND.HINT"
+msgid "Append Preset"
+msgstr "Anexar Predefinição"
+
+#: tform_presetsmanager.tb_copy.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_COPY.HINT"
+msgid "Duplicate Preset"
+msgstr "Duplicar Predefinição"
+
+#: tform_presetsmanager.tb_delete.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_DELETE.HINT"
+msgid "Delete Preset (Del)"
+msgstr "Excluir Predefinição (Del)"
+
+#: tform_presetsmanager.tb_edit.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_EDIT.HINT"
+msgid "Manually Edit Preset (F4)"
+msgstr "Editar Predefinição Manualmente (F4)"
+
+#: tform_presetsmanager.tb_load.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_LOAD.HINT"
+msgid "Load Preset (Enter)"
+msgstr "Carregar Predefinição (Enter)"
+
+#: tform_presetsmanager.tb_rename.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_RENAME.HINT"
+msgid "Rename Preset (F2)"
+msgstr "Renomear Predefinição (F2)"
+
+#: tform_register.bb_cancel.caption
+msgctxt "TFORM_REGISTER.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: tform_register.bb_register.caption
+msgctxt "TFORM_REGISTER.BB_REGISTER.CAPTION"
+msgid "Register"
+msgstr "Registrar"
+
+#: tform_register.caption
+msgid "Registration"
+msgstr "Registro"
+
+#: tform_register.label1.caption
+msgid "Please enter your registration code:"
+msgstr "Por favor, entre seu código de registro:"
+
+#: tform_settings.bitbtn_cancel.caption
+msgctxt "TFORM_SETTINGS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: tform_settings.bitbtn_save.caption
+msgctxt "TFORM_SETTINGS.BITBTN_SAVE.CAPTION"
+msgid "Save"
+msgstr "Salvar"
+
+#: tform_settings.caption
+msgctxt "TFORM_SETTINGS.CAPTION"
+msgid "Settings"
+msgstr "Configurações"
+
+#: tform_settings.cb_allowprocessingextensionsinfolders.caption
+msgid "Folders also have extensions, process them as such"
+msgstr "Pastas também possuem extensões, processá-las como tal"
+
+#: tform_settings.cb_highlightchangednames.caption
+msgid "Highlight changed file names"
+msgstr "Destacar nomes de arquivos alterados"
+
+#: tform_settings.cb_overwritewithnewnameconfirm.caption
+msgid "Must be successfully confirmed by user"
+msgstr "Deve ser confirmado com sucesso pelo usuário"
+
+#: tform_settings.checkbox_addtofoldercontextmenu.caption
+msgid "Add to folders context menu"
+msgstr "Adicionar ao menu de contexto de pastas"
+
+#: tform_settings.checkbox_addtosendtocontextmenu.caption
+msgid "Add to \"Send To\" context menu"
+msgstr "Adicionar ao menu de contexto \"Enviar Para\""
+
+#: tform_settings.checkbox_alwaysontop.caption
+msgid "Stay on top of other windows"
+msgstr "Ficar no topo das outras janelas"
+
+#: tform_settings.checkbox_autopreviewonfilesadded.caption
+msgid "Auto preview when new files are added"
+msgstr "Prévia automática ao adicionar novos arquivos"
+
+#: tform_settings.checkbox_autopreviewonruleschange.caption
+msgid "Auto preview on change of rules configurations"
+msgstr "Prévia automática ao alterar configurações das regras"
+
+#: tform_settings.checkbox_autosizetable.caption
+msgid "Auto size table on change"
+msgstr "Auto-ajustar tabela ao alterar"
+
+#: tform_settings.checkbox_clearfilestableonrename.caption
+msgid "Clear files table on rename"
+msgstr "Limpar tabela de arquivos ao renomear"
+
+#: tform_settings.checkbox_clearrenamedfilesonrename.caption
+msgid "Clear renamed files on rename"
+msgstr "Limpar arquivos renomeados ao renomear"
+
+#: tform_settings.checkbox_clearruleslistonrename.caption
+msgid "Clear rules list on rename"
+msgstr "Limpar lista de regras ao renomear"
+
+#: tform_settings.checkbox_closeprogramaftersuccessfulrename.caption
+msgid "Close program after successful rename"
+msgstr "Fechar programa após renomear com sucesso"
+
+#: tform_settings.checkbox_displaymsgonsuccessfulrename.caption
+msgid "Display message on successful rename"
+msgstr "Exibir mensagem ao renomear com sucesso"
+
+#: tform_settings.checkbox_fixconflictingnewnamesonpreview.caption
+msgid "Fix conflicting new names on preview"
+msgstr "Corrigir novos nomes com conflito na prévia"
+
+#: tform_settings.checkbox_metatagsupport.caption
+msgid "MetaTag support"
+msgstr "Suporte MetaTag"
+
+#: tform_settings.checkbox_overwritewithnewname.caption
+msgid "Overwrite files with New Names"
+msgstr "Substituir arquivos com Novos Nomes"
+
+#: tform_settings.checkbox_previewrealtimeupdate.caption
+msgid "Real-time update of the preview"
+msgstr "Atualização da prévia em tempo real"
+
+#: tform_settings.checkbox_registerpresetextension.caption
+msgid "Register preset extension (*.rnp)"
+msgstr "Registrar extensão da predefinição (*.rnp)"
+
+#: tform_settings.checkbox_rememberlocation.caption
+#, fuzzy
+#| msgid "Remember last position and size (main window only)"
+msgid "Remember position and size of major windows"
+msgstr "Lembrar última posição e tamanho (somente janela principal)"
+
+#: tform_settings.checkbox_saveandloaddefaultpreset.caption
+msgid "Save rules configuration on exit, load on startup"
+msgstr "Salvar configuração de regras ao sair, carregar ao iniciar"
+
+#: tform_settings.checkbox_showmaintoolbar.caption
+msgid "Show main toolbar"
+msgstr ""
+
+#: tform_settings.checkbox_skiprenamingunchangedfiles.caption
+msgid "Skip renaming of unchanged files"
+msgstr "Pular renomeamento de arquivos não alterados"
+
+#: tform_settings.checkbox_sortingremember.caption
+msgid "Remember sorting options (files table)"
+msgstr "Lembrar opções de classificação (tabela de arquivos)"
+
+#: tform_settings.checkbox_usenaturalsort.caption
+msgid "Use natural order sorting algorithm (2-3 times slower)"
+msgstr "Usar algoritmo de classificação em ordem natural (2-3 vez mais devagar)"
+
+#: tform_settings.checkbox_validateonpreview.caption
+msgid "Validate new filenames on preview"
+msgstr "Validar novos nomes de arquivos na prévia"
+
+#: tform_settings.label1.caption
+msgid "Date Format:"
+msgstr "Formato da Data:"
+
+#: tform_settings.label2.caption
+msgid "Preview:"
+msgstr "Prévia:"
+
+#: tform_settings.label3.caption
+msgid "Example: file1, file2 ... file9, file10, file11, and so on."
+msgstr "Exemplo: arquivo1, arquivo2 ... arquivo9, arquivo10, arquivo11, e assim por diante."
+
+#: tform_settings.label5.caption
+msgid "Note: disabling any of these options will increase performance when processing large amount of files."
+msgstr "Nota: desativar qualquer uma destas opções irá aumentar a performance ao procesar muitos arquivos."
+
+#: tform_settings.label_addrulestext.caption
+msgid "Change text of \"Click here to add a rule\":"
+msgstr "Alterar texto de \"Clique aqui para adicionar regra\":"
+
+#: tform_settings.label_dragfilestext.caption
+msgid "Change text of \"Drag your files here\":"
+msgstr "Alterar texto de \"Arraste seus arquivos para cá\":"
+
+#: tform_settings.label_metatagformatnote.caption
+msgid "Note: formats will be saved only if validated successfully."
+msgstr "Nota: formatos serão salvos somente se validados com sucesso."
+
+#: tform_settings.speedbutton_filtersettings.caption
+msgid "Configure Filter Settings"
+msgstr "Configurações de Filtros"
+
+#: tform_settings.speedbutton_metatagformatsinfo.caption
+msgctxt "TFORM_SETTINGS.SPEEDBUTTON_METATAGFORMATSINFO.CAPTION"
+msgid "Help"
+msgstr "Ajuda"
+
+#: tform_settings.speedbutton_metatagformatsinfo.hint
+msgctxt "TFORM_SETTINGS.SPEEDBUTTON_METATAGFORMATSINFO.HINT"
+msgid "Online Help (F1)"
+msgstr "Ajuda Online (F1)"
+
+#: tform_settings.statictext1.caption
+msgid "Note: Disabling MetaTag support will increase performance when processing large amount of files."
+msgstr "Nota: Desativar o suporte MegaTag irá melhorar o desempenho durante o processamento de grande quantidade de arquivos."
+
+#: tform_settings.statictext5.caption
+msgid "Warning: Overwritten files will be deleted permanently."
+msgstr "Aviso: Arquivos substituídos serão excluídos permanentemente."
+
+#: tform_settings.tabsheet_general.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_GENERAL.CAPTION"
+msgid "General"
+msgstr "Geral"
+
+#: tform_settings.tabsheet_metatags.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_METATAGS.CAPTION"
+msgid "Meta Tags"
+msgstr "Meta Tags"
+
+#: tform_settings.tabsheet_misc.caption
+msgid "Misc."
+msgstr "Misc."
+
+#: tform_settings.tabsheet_preview.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_PREVIEW.CAPTION"
+msgid "Preview"
+msgstr "Prévia"
+
+#: tform_settings.tabsheet_rename.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_RENAME.CAPTION"
+msgid "Rename"
+msgstr "Renomear"
+
+#: tform_termsofuse.bb_accept.caption
+msgid "Accept"
+msgstr "Aceitar"
+
+#: tform_termsofuse.bb_litevspro.caption
+msgid "Lite vs Pro"
+msgstr "Lite vs Pro"
+
+#: tform_termsofuse.bb_purchase.caption
+msgid "Purchase"
+msgstr "Comprar"
+
+#: tform_termsofuse.bb_register.caption
+msgid "Enter registration code"
+msgstr "Entrar código da licença"
+
+#: tform_termsofuse.caption
+msgid "Terms of Use"
+msgstr "Termos de Uso"
+
+#: tform_termsofuse.groupbox.caption
+msgid "Please be aware of the terms of use of this application:"
+msgstr "Por favor, esteja ciente dos termos de uso deste aplicativo:"
+
+#: tform_termsofuse.label_commercial.caption
+msgid "For commercial use you must obtain a commercial license by going to the website. If you already hold a license please enter your registration code. Thank you for playing fair."
+msgstr "Para uso comercial, você deve obter uma licença comercial, através do site. Se você já possui uma licença, digite seu código de registro. Obrigado por jogar justo."
+
+#: tform_termsofuse.label_noncommercial.caption
+msgctxt "TFORM_TERMSOFUSE.LABEL_NONCOMMERCIAL.CAPTION"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Este aplicativo pode ser usado e distribuído apenas para fins não comerciais e com atribuições adequadas."
+
+#: tform_termsofuse.label_supportdevelopment.caption
+msgid "Please also consider purchasing a \"Pro\" version to support the future development of this application."
+msgstr "Por favor, considere a compra da versão \"Pro\" para apoiar o desenvolvimento futuro deste aplicativo."
+
+#: tframe_rulecase.checkbox_caseextensionalwayslowercase.caption
+msgid "Extension always lower case"
+msgstr "Extensão sempre em minúsculo"
+
+#: tframe_rulecase.checkbox_caseextensionalwaysuppercase.caption
+msgid "Extension always upper case"
+msgstr "Extensão sempre em maiúsculo"
+
+#: tframe_rulecase.checkbox_caseforce.caption
+msgid "Force case for fragments:"
+msgstr "Forçar maiúsculo/minúsculo para fragmentos:"
+
+#: tframe_rulecase.checkbox_caseskipextension.caption
+msgctxt "tframe_rulecase.checkbox_caseskipextension.caption"
+msgid "Skip extension"
+msgstr "Ignorar extensão"
+
+#: tframe_rulecase.groupbox_casechange.caption
+msgid "Case change:"
+msgstr "Alterar maiúsculo/minúsculo:"
+
+#: tframe_rulecase.label_caseforcehint.caption
+msgid "Hint: fragments separated with comma will be put in the same case as they are typed in this text box, for example: CD,DVD,DJ"
+msgstr "Dica: fragmentos separados por vírgula serão colocados no mesmo modo que estão digitados na caixa de texto, por exemplo: CD, DVD, DJ"
+
+#: tframe_rulecase.rb_casealllower.caption
+msgid "all lower case"
+msgstr "tudo em minúsculo"
+
+#: tframe_rulecase.rb_caseallupper.caption
+msgid "ALL UPPER CASE"
+msgstr "TUDO EM MAIÚSCULO"
+
+#: tframe_rulecase.rb_casecapitalize.caption
+msgid "Capitalize Every Word"
+msgstr "Primeira Letra Da Palavra Em Maiúsculo"
+
+#: tframe_rulecase.rb_casecapitalizeandpreserve.caption
+msgid "Capitalize AND Preserve"
+msgstr "Colocar em maiúsculas E Preservar"
+
+#: tframe_rulecase.rb_casefirstlettercapital.caption
+msgctxt "TFRAME_RULECASE.RB_CASEFIRSTLETTERCAPITAL.CAPTION"
+msgid "First letter capital"
+msgstr "Primeita letra maiúscula"
+
+#: tframe_rulecase.rb_caseinvert.caption
+msgid "iNVERT cASE"
+msgstr "iNVERTER mAIÚSCULAS/mINÚSCULAS"
+
+#: tframe_rulecase.rb_noneofabove.caption
+msgid "(none of the above)"
+msgstr "(nenhum dos anteriores)"
+
+#: tframe_rulecleanup.cb_insertspacebeforecapitals.caption
+msgid "Insert a space in front of capitalized letters (e.g. CamelCase)"
+msgstr "Inserir espaço na frente de letras maiúsculas (ex.: CamelCase)"
+
+#: tframe_rulecleanup.cb_normalizespaces.caption
+msgid "Normalize unicode spaces by replacing them with a standard space"
+msgstr "Normalizar espaços unicode, substituindo-os por um espaço padrão"
+
+#: tframe_rulecleanup.checkbox_prepareforsharepoint.caption
+msgid "Prepare for SharePoint (always inc. extension)"
+msgstr "Preprar para o SharePoint (sempre incl. extensão)"
+
+#: tframe_rulecleanup.checkbox_skipextension.caption
+msgctxt "TFRAME_RULECLEANUP.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Ignorar extensão"
+
+#: tframe_rulecleanup.checkbox_spacescomma.caption
+msgid ", (comma)"
+msgstr ", (vírgula)"
+
+#: tframe_rulecleanup.checkbox_spacesdot.caption
+msgid ". (dot)"
+msgstr ". (ponto)"
+
+#: tframe_rulecleanup.checkbox_spacesfix.caption
+msgid "Fix spaces: only one space at a time, no spaces on sides of basename"
+msgstr "Corigir espaços: somente um espaço por vez, sem espaços nos lados do nome base"
+
+#: tframe_rulecleanup.checkbox_spacesskipversions.caption
+msgid "Skip number sequences, for example version 1.2.3.4"
+msgstr "Ignorar sequências numéricas, por exemplo: versão 1.2.3.4"
+
+#: tframe_rulecleanup.checkbox_stripunicodemarks.caption
+msgid "Strip unicode marks (combining, diacritics, accents)"
+msgstr ""
+
+#: tframe_rulecleanup.groupbox1.caption
+msgid "Replace these characters with spaces:"
+msgstr "Substituir estes caracteres por espaços:"
+
+#: tframe_rulecleanup.groupbox_brackets.caption
+msgid "Strip out content of brackets:"
+msgstr "Retirar o conteúdo de colchetes:"
+
+#: tframe_ruledelete.checkbox_deletecurrentname.caption
+msgctxt "TFRAME_RULEDELETE.CHECKBOX_DELETECURRENTNAME.CAPTION"
+msgid "Delete current name"
+msgstr "Excluir nome atual"
+
+#: tframe_ruledelete.checkbox_deleterighttoleft.caption
+msgctxt "tframe_ruledelete.checkbox_deleterighttoleft.caption"
+msgid "Right-to-left"
+msgstr "Direita-para-esquerda"
+
+#: tframe_ruledelete.checkbox_deleteskipextension.caption
+msgctxt "TFRAME_RULEDELETE.CHECKBOX_DELETESKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Ignorar extensão"
+
+#: tframe_ruledelete.checkbox_leavedelimiter.caption
+msgid "Do not remove delimiters"
+msgstr "Não remover delimitadores"
+
+#: tframe_ruledelete.groupbox_from.caption
+msgid "From:"
+msgstr "De:"
+
+#: tframe_ruledelete.groupbox_until.caption
+msgid "Until:"
+msgstr "Até:"
+
+#: tframe_ruledelete.radiobutton_deletefromdelimiter.caption
+msgctxt "tframe_ruledelete.radiobutton_deletefromdelimiter.caption"
+msgid "Delimiter:"
+msgstr "Delimitador:"
+
+#: tframe_ruledelete.radiobutton_deletefromposition.caption
+msgctxt "tframe_ruledelete.radiobutton_deletefromposition.caption"
+msgid "Position:"
+msgstr "Posição:"
+
+#: tframe_ruledelete.radiobutton_deleteuntilcount.caption
+msgid "Count:"
+msgstr "Contagem:"
+
+#: tframe_ruledelete.radiobutton_deleteuntildelimiter.caption
+msgctxt "TFRAME_RULEDELETE.RADIOBUTTON_DELETEUNTILDELIMITER.CAPTION"
+msgid "Delimiter:"
+msgstr "Delimitador:"
+
+#: tframe_ruledelete.radiobutton_deleteuntilend.caption
+msgid "Till the end"
+msgstr "Até o final"
+
+#: tframe_ruleextension.checkbox_detectbinsign.caption
+msgid "Detect using \"binary signature\""
+msgstr "Detectar usando \"assinatura binária\""
+
+#: tframe_ruleextension.checkbox_extensionappend.caption
+msgid "Append to the original filename"
+msgstr "Anexar nome original do arquivo"
+
+#: tframe_ruleextension.label_extensionlabel.caption
+msgid "New Extension (without dot):"
+msgstr "Nova Extensão (sem ponto):"
+
+#: tframe_ruleextension.label_hint.caption
+msgid "Note: Some files may have multiple extensions matching their data type, for example: doc/ppt/xls have the same signature. Unrecognised files will remain unchanged. If this option is used, the new extension field is ignored."
+msgstr "Nota: Alguns arquivos podem ter várias extensões correspondendo a seus tipos de dados, por exemplo: doc/ppt/xls possuem a mesma assinatura. Arquivos não reconhecidos permanecerão inalterados. Se esta opção for usada, o campo de nova extensão é ignorado."
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.caption
+msgctxt "TFRAME_RULEINSERT.BITBTN_INSERTMETATAG.CAPTION"
+msgid "Insert Meta Tag"
+msgstr "Inserir Meta Tag"
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.hint
+msgctxt "TFRAME_RULEINSERT.BITBTN_INSERTMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Inserir Meta Tag (Ctrl+Ins)"
+
+#: tframe_ruleinsert.checkbox_insertright.caption
+msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTRIGHT.CAPTION"
+msgid "Right-to-left"
+msgstr "Direita-para-esquerda"
+
+#: tframe_ruleinsert.checkbox_insertskipextension.caption
+msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTSKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Ignorar extensão"
+
+#: tframe_ruleinsert.label_insertwhat.caption
+msgid "Insert:"
+msgstr "Inserir:"
+
+#: tframe_ruleinsert.label_insertwhere.caption
+msgid "Where:"
+msgstr "Onde:"
+
+#: tframe_ruleinsert.radiobutton_insertaftertext.caption
+msgid "After text:"
+msgstr "Após texto:"
+
+#: tframe_ruleinsert.radiobutton_insertbeforetext.caption
+msgid "Before text:"
+msgstr "Antes do texto:"
+
+#: tframe_ruleinsert.radiobutton_insertposition.caption
+msgctxt "TFRAME_RULEINSERT.RADIOBUTTON_INSERTPOSITION.CAPTION"
+msgid "Position:"
+msgstr "Posição:"
+
+#: tframe_ruleinsert.radiobutton_insertprefix.caption
+msgctxt "tframe_ruleinsert.radiobutton_insertprefix.caption"
+msgid "Prefix"
+msgstr "Prefixo"
+
+#: tframe_ruleinsert.radiobutton_insertsuffix.caption
+msgctxt "tframe_ruleinsert.radiobutton_insertsuffix.caption"
+msgid "Suffix"
+msgstr "Sufixo"
+
+#: tframe_ruleinsert.radiobutton_replacecurrentname.caption
+msgctxt "TFRAME_RULEINSERT.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
+msgid "Replace current name"
+msgstr "Substituir nome atual"
+
+#: tframe_rulepadding.checkbox_addtextpadding.caption
+msgid "Add padding to length:"
+msgstr "Adicionar preenchimento ao comprimento:"
+
+#: tframe_rulepadding.checkbox_addzeropadding.caption
+msgid "Add zero padding to length:"
+msgstr "Adicionar preenchimento com zero ao comprimento:"
+
+#: tframe_rulepadding.checkbox_removezeropadding.caption
+msgctxt "tframe_rulepadding.checkbox_removezeropadding.caption"
+msgid "Remove zero padding"
+msgstr "Remover preenchimento com zero"
+
+#: tframe_rulepadding.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEPADDING.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Ignorar extensão"
+
+#: tframe_rulepadding.groupbox_numbersequences.caption
+msgid "Number sequences"
+msgstr "Sequências de números"
+
+#: tframe_rulepadding.groupbox_textpadding.caption
+msgid "Text padding"
+msgstr "Preenchimento de texto"
+
+#: tframe_rulepadding.label_paddingcharacters.caption
+msgid "Padding characters:"
+msgstr "Caracteres de preenchimento:"
+
+#: tframe_rulepadding.label_position.caption
+msgctxt "TFRAME_RULEPADDING.LABEL_POSITION.CAPTION"
+msgid "Position:"
+msgstr "Posição:"
+
+#: tframe_rulepadding.radiobutton_positionleft.caption
+msgid "Left"
+msgstr "Esquerda"
+
+#: tframe_rulepadding.radiobutton_positionright.caption
+msgid "Right"
+msgstr "Direita"
+
+#: tframe_rulepascalscript.toolbutton_compile.caption
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_COMPILE.CAPTION"
+msgid "Try to Compile"
+msgstr "Tentar Compilar"
+
+#: tframe_rulepascalscript.toolbutton_compile.hint
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_COMPILE.HINT"
+msgid "Try to Compile (Ctrl+T)"
+msgstr "Tentar Compilar (Ctrl+T)"
+
+#: tframe_rulepascalscript.toolbutton_gotoline.caption
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_GOTOLINE.CAPTION"
+msgid "Go To"
+msgstr "Ir Para"
+
+#: tframe_rulepascalscript.toolbutton_gotoline.hint
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_GOTOLINE.HINT"
+msgid "Go To Line (Ctrl+G)"
+msgstr "Ir Para Linha (Ctrl+G)"
+
+#: tframe_rulepascalscript.toolbutton_help.caption
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_HELP.CAPTION"
+msgid "Help"
+msgstr "Ajuda"
+
+#: tframe_rulepascalscript.toolbutton_help.hint
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_HELP.HINT"
+msgid "Online Help (F1)"
+msgstr "Ajuda Online (F1)"
+
+#: tframe_rulepascalscript.toolbutton_scripts.caption
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_SCRIPTS.CAPTION"
+msgid "Scripts"
+msgstr "Scripts"
+
+#: tframe_rulepascalscript.toolbutton_scripts.hint
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_SCRIPTS.HINT"
+msgid "Scripts (Ctrl+L)"
+msgstr "Scripts (Ctrl+L)"
+
+#: tframe_rulerandomize.checkbox_skipextension.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Ignorar extensão"
+
+#: tframe_rulerandomize.checkbox_unique.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_UNIQUE.CAPTION"
+msgid "Unique if possible"
+msgstr "Único se possível"
+
+#: tframe_rulerandomize.checkbox_usedigits.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_USEDIGITS.CAPTION"
+msgid "Digits (0..9)"
+msgstr "Dígitos (0..9)"
+
+#: tframe_rulerandomize.checkbox_useenglishletters.caption
+msgid "English letters (a..z)"
+msgstr "Letras (a..z)"
+
+#: tframe_rulerandomize.checkbox_useuserdefined.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_USEUSERDEFINED.CAPTION"
+msgid "User defined:"
+msgstr "Definido pelo usuário:"
+
+#: tframe_rulerandomize.groupbox_characters.caption
+msgctxt "TFRAME_RULERANDOMIZE.GROUPBOX_CHARACTERS.CAPTION"
+msgid "Characters to use:"
+msgstr "Caracteres para usar:"
+
+#: tframe_rulerandomize.groupbox_insertwhere.caption
+msgctxt "TFRAME_RULERANDOMIZE.GROUPBOX_INSERTWHERE.CAPTION"
+msgid "Insert where:"
+msgstr "Onde inserir:"
+
+#: tframe_rulerandomize.label_length.caption
+msgctxt "TFRAME_RULERANDOMIZE.LABEL_LENGTH.CAPTION"
+msgid "Length of random sequence:"
+msgstr "Tamanho da sequência aleatória:"
+
+#: tframe_rulerandomize.radiobutton_position.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_POSITION.CAPTION"
+msgid "Position:"
+msgstr "Posição:"
+
+#: tframe_rulerandomize.radiobutton_prefix.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_PREFIX.CAPTION"
+msgid "Prefix"
+msgstr "Prefixo"
+
+#: tframe_rulerandomize.radiobutton_replacecurrentname.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
+msgid "Replace current name"
+msgstr "Substituir nome atual"
+
+#: tframe_rulerandomize.radiobutton_suffix.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_SUFFIX.CAPTION"
+msgid "Suffix"
+msgstr "Sufixo"
+
+#: tframe_rulerearrange.cb_righttoleft.caption
+msgctxt "TFRAME_RULEREARRANGE.CB_RIGHTTOLEFT.CAPTION"
+msgid "Right-to-left"
+msgstr "Direita-para-esquerda"
+
+#: tframe_rulerearrange.cb_skipextension.caption
+msgctxt "TFRAME_RULEREARRANGE.CB_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Ignorar extensão"
+
+#: tframe_rulerearrange.label1.caption
+msgid "Split using:"
+msgstr "Dividir usando:"
+
+#: tframe_rulerearrange.label2.caption
+msgid "New pattern:"
+msgstr "Novo padrão:"
+
+#: tframe_rulerearrange.label3.caption
+msgid "Hint: Use $1..$N to reference delimited parts in the new pattern, $-1..$-N to reference from the end, $0 for the original name."
+msgstr "Dica: Use $1..$N para referenciar partes delimitadas no novo padrão, $-1..$-N para fazer referência a partir do final, $0 para o nome original."
+
+#: tframe_rulerearrange.rb_usingdelimiters.caption
+msgid "Delimiters"
+msgstr "Delimitadores"
+
+#: tframe_rulerearrange.rb_usingexactpatternofdelimiters.caption
+msgid "Exact pattern of delimiters"
+msgstr "Padrão exato de delimitadores"
+
+#: tframe_rulerearrange.rb_usingpositions.caption
+msgid "Positions"
+msgstr "Posições"
+
+#: tframe_rulerearrange.sb_addseparator.hint
+msgctxt "tframe_rulerearrange.sb_addseparator.hint"
+msgid "Separate multiple items"
+msgstr "Separar múltiplos itens"
+
+#: tframe_rulerearrange.sb_insertmetatag.hint
+msgctxt "TFRAME_RULEREARRANGE.SB_INSERTMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Inserir Meta Tag (Ctrl+Ins)"
+
+#: tframe_rulereformatdate.checkbox_adjusttime.caption
+msgid "Adjust time by:"
+msgstr ""
+
+#: tframe_rulereformatdate.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREFORMATDATE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Ignorar extensão"
+
+#: tframe_rulereformatdate.checkbox_usecustomlongmonths.caption
+msgid "Use custom long months:"
+msgstr "Usar meses longos personalizados:"
+
+#: tframe_rulereformatdate.checkbox_usecustomshortmonths.caption
+msgid "Use custom short months:"
+msgstr "Usar meses curtos personalizados:"
+
+#: tframe_rulereformatdate.checkbox_wholewordsonly.caption
+msgid "Match as whole words only"
+msgstr "Corresponder somente palavras inteiras"
+
+#: tframe_rulereformatdate.label_inputformats.caption
+msgid "Find date/time formats:"
+msgstr "Localizar formatos de data/hora:"
+
+#: tframe_rulereformatdate.label_outputformat.caption
+msgid "Convert to date/time format:"
+msgstr "Converter para formato de data/hora:"
+
+#: tframe_rulereformatdate.menuitem_addseparator.caption
+msgctxt "TFRAME_RULEREFORMATDATE.MENUITEM_ADDSEPARATOR.CAPTION"
+msgid "Separate multiple items"
+msgstr "Separar múltiplos itens"
+
+#: tframe_rulereformatdate.menuitem_datetimeformathelp.caption
+msgid "Date/time format reference (online)"
+msgstr "Formato de data/hora de referência (online)"
+
+#: tframe_ruleregex.checkbox_casesensitive.caption
+msgid "Case-sensitive"
+msgstr "Maiúsculas-minúsculas"
+
+#: tframe_ruleregex.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREGEX.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Ignorar extensão"
+
+#: tframe_ruleregex.label1.caption
+msgid "Hint: Use $1..$9 to reference subexpressions."
+msgstr "Dica: use $1..$9 para referenciar subexpressões."
+
+#: tframe_ruleregex.label4.caption
+msgid "Expression:"
+msgstr "Expressão:"
+
+#: tframe_ruleregex.label5.caption
+msgctxt "tframe_ruleregex.label5.caption"
+msgid "Replace:"
+msgstr "Substituir:"
+
+#: tframe_ruleregex.sb_insertexpression.hint
+msgid "Insert expression (Ctrl+Ins)"
+msgstr "Inserir expressão (Ctrl+Ins)"
+
+#: tframe_ruleregex.speedbutton_help.caption
+msgctxt "TFRAME_RULEREGEX.SPEEDBUTTON_HELP.CAPTION"
+msgid "Help"
+msgstr "Ajuda"
+
+#: tframe_ruleregex.speedbutton_help.hint
+msgctxt "TFRAME_RULEREGEX.SPEEDBUTTON_HELP.HINT"
+msgid "Online Help (F1)"
+msgstr "Ajuda Online (F1)"
+
+#: tframe_ruleremove.checkbox_casesensitive.caption
+msgctxt "tframe_ruleremove.checkbox_casesensitive.caption"
+msgid "Case sensitive"
+msgstr "Diferenciar maiúsculas de minúsculas"
+
+#: tframe_ruleremove.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREMOVE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Ignorar extensão"
+
+#: tframe_ruleremove.checkbox_usewildcards.caption
+msgid "Interpret symbols '?', '*', '[', ']' as wildcards?"
+msgstr "Interpretar símbolos '?', '*', '[', ']' como curingas?"
+
+#: tframe_ruleremove.checkbox_wholewordsonly.caption
+msgctxt "TFRAME_RULEREMOVE.CHECKBOX_WHOLEWORDSONLY.CAPTION"
+msgid "Whole words only"
+msgstr "Somente palavras inteiras"
+
+#: tframe_ruleremove.label_removeoccurances.caption
+msgctxt "tframe_ruleremove.label_removeoccurances.caption"
+msgid "Occurrences:"
+msgstr "Ocorrências:"
+
+#: tframe_ruleremove.label_removewhat.caption
+msgid "Remove:"
+msgstr "Remover:"
+
+#: tframe_ruleremove.radiobutton_removeall.caption
+msgctxt "tframe_ruleremove.radiobutton_removeall.caption"
+msgid "All"
+msgstr "Tudo"
+
+#: tframe_ruleremove.radiobutton_removefirst.caption
+msgctxt "tframe_ruleremove.radiobutton_removefirst.caption"
+msgid "First"
+msgstr "Primeiro"
+
+#: tframe_ruleremove.radiobutton_removelast.caption
+msgctxt "tframe_ruleremove.radiobutton_removelast.caption"
+msgid "Last"
+msgstr "Último"
+
+#: tframe_ruleremove.speedbutton_removeaddseparator.hint
+msgctxt "TFRAME_RULEREMOVE.SPEEDBUTTON_REMOVEADDSEPARATOR.HINT"
+msgid "Separate multiple items"
+msgstr "Separar múltiplos itens"
+
+#: tframe_rulereplace.checkbox_casesensitive.caption
+msgctxt "TFRAME_RULEREPLACE.CHECKBOX_CASESENSITIVE.CAPTION"
+msgid "Case sensitive"
+msgstr "Diferenciar maiúsculas de minúsculas"
+
+#: tframe_rulereplace.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREPLACE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Ignorar extensão"
+
+#: tframe_rulereplace.checkbox_usewildcards.caption
+msgid "Interpret '?', '*', '[', ']' as wildcards and '$n' as backreferences?"
+msgstr "Interpretar '?', '*', '[', ']' como curingas e '$n' como referências anteriores?"
+
+#: tframe_rulereplace.checkbox_wholewordsonly.caption
+msgctxt "tframe_rulereplace.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "Somente palavras inteiras"
+
+#: tframe_rulereplace.label_replaceoccurances.caption
+msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEOCCURANCES.CAPTION"
+msgid "Occurrences:"
+msgstr "Ocorrências:"
+
+#: tframe_rulereplace.label_replacewhat.caption
+msgid "Find:"
+msgstr "Localizar:"
+
+#: tframe_rulereplace.label_replacewith.caption
+msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEWITH.CAPTION"
+msgid "Replace:"
+msgstr "Substituir:"
+
+#: tframe_rulereplace.radiobutton_replaceall.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACEALL.CAPTION"
+msgid "All"
+msgstr "Tudo"
+
+#: tframe_rulereplace.radiobutton_replacefirst.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACEFIRST.CAPTION"
+msgid "First"
+msgstr "Primeiro"
+
+#: tframe_rulereplace.radiobutton_replacelast.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACELAST.CAPTION"
+msgid "Last"
+msgstr "Último"
+
+#: tframe_rulereplace.speedbutton_replaceaddseparator.hint
+msgctxt "TFRAME_RULEREPLACE.SPEEDBUTTON_REPLACEADDSEPARATOR.HINT"
+msgid "Separate multiple items"
+msgstr "Separar múltiplos itens"
+
+#: tframe_rulereplace.speedbutton_replacewithmetatag.hint
+msgctxt "TFRAME_RULEREPLACE.SPEEDBUTTON_REPLACEWITHMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Inserir Meta Tag (Ctrl+Ins)"
+
+#: tframe_ruleserialize.cb_resetevery.caption
+msgid "Reset every:"
+msgstr "Redefinir a cada:"
+
+#: tframe_ruleserialize.checkbox_resetiffilenamechanges.caption
+msgid "Reset if file name changes"
+msgstr "Redefinir se o nome do arquivo for alterado"
+
+#: tframe_ruleserialize.checkbox_resetiffolderchanges.caption
+msgid "Reset if folder changes"
+msgstr "Redefinir se pasta for alterada"
+
+#: tframe_ruleserialize.checkbox_serializepadtolength.caption
+msgid "Pad with zeros to length:"
+msgstr "Preencher com zeros até comprimento:"
+
+#: tframe_ruleserialize.checkbox_skipextension.caption
+msgctxt "TFRAME_RULESERIALIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Ignorar extensão"
+
+#: tframe_ruleserialize.gb_insertwhere.caption
+msgctxt "tframe_ruleserialize.gb_insertwhere.caption"
+msgid "Insert where:"
+msgstr "Onde inserir:"
+
+#: tframe_ruleserialize.label_customnumberingsymbols.caption
+msgid "Custom numbering symbols:"
+msgstr "Símbolos de numeração personalizados:"
+
+#: tframe_ruleserialize.label_indexstarts.caption
+msgid "Index starts:"
+msgstr "Índice inicia:"
+
+#: tframe_ruleserialize.label_numberingsystem.caption
+msgctxt "TFRAME_RULESERIALIZE.LABEL_NUMBERINGSYSTEM.CAPTION"
+msgid "Numbering system:"
+msgstr "Sistema de numeração:"
+
+#: tframe_ruleserialize.label_repeat.caption
+msgid "Repeat:"
+msgstr "Repetir:"
+
+#: tframe_ruleserialize.label_step.caption
+msgid "Step:"
+msgstr "Passo:"
+
+#: tframe_ruleserialize.radiobutton_replacecurrentname.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
+msgid "Replace current name"
+msgstr "Substituir nome atual"
+
+#: tframe_ruleserialize.radiobutton_serializeposition.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPOSITION.CAPTION"
+msgid "Position:"
+msgstr "Posição:"
+
+#: tframe_ruleserialize.radiobutton_serializeprefix.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPREFIX.CAPTION"
+msgid "Prefix"
+msgstr "Prefixo"
+
+#: tframe_ruleserialize.radiobutton_serializesuffix.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZESUFFIX.CAPTION"
+msgid "Suffix"
+msgstr "Sufixo"
+
+#: tframe_rulestrip.cb_stripallexceptselected.caption
+msgid "Strip all characters except selected"
+msgstr "Retira todos os caracteres, menos os selecionados"
+
+#: tframe_rulestrip.cb_stripenglishletters.caption
+msgid "English:"
+msgstr "Inglês:"
+
+#: tframe_rulestrip.checkbox_casesensitive.caption
+msgctxt "TFRAME_RULESTRIP.CHECKBOX_CASESENSITIVE.CAPTION"
+msgid "Case sensitive"
+msgstr "Diferenciar maiúsculas de minúsculas"
+
+#: tframe_rulestrip.checkbox_stripbrackets.caption
+msgid "Brackets:"
+msgstr "Colchetes:"
+
+#: tframe_rulestrip.checkbox_stripdigits.caption
+msgctxt "tframe_rulestrip.checkbox_stripdigits.caption"
+msgid "Digits:"
+msgstr "Dígitos:"
+
+#: tframe_rulestrip.checkbox_stripskipextension.caption
+msgctxt "TFRAME_RULESTRIP.CHECKBOX_STRIPSKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Ignorar extensão"
+
+#: tframe_rulestrip.checkbox_stripsymbols.caption
+msgid "Symbols:"
+msgstr "Símbolos:"
+
+#: tframe_rulestrip.checkbox_stripuserdefined.caption
+msgctxt "tframe_rulestrip.checkbox_stripuserdefined.caption"
+msgid "User defined:"
+msgstr "Definido pelo usuário:"
+
+#: tframe_rulestrip.rb_whereeverywhere.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHEREEVERYWHERE.CAPTION"
+msgid "Everywhere"
+msgstr "Em todo lugar"
+
+#: tframe_rulestrip.rb_whereleading.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHERELEADING.CAPTION"
+msgid "Leading"
+msgstr "Principal"
+
+#: tframe_rulestrip.rb_wheretrailing.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHERETRAILING.CAPTION"
+msgid "Trailing"
+msgstr "À Direita"
+
+#: tframe_ruletranslit.bitbtn_translits.caption
+msgid "Alphabet"
+msgstr "Alfabeto"
+
+#: tframe_ruletranslit.checkbox_adjustcase.caption
+msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_ADJUSTCASE.CAPTION"
+msgid "Auto case adjustment"
+msgstr "Ajuste automático de maiúsculas/minúsculas"
+
+#: tframe_ruletranslit.checkbox_skipextension.caption
+msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Ignorar extensão"
+
+#: tframe_ruletranslit.label2.caption
+msgid "Direction:"
+msgstr "Direção:"
+
+#: tframe_ruletranslit.label3.caption
+msgid "Hint:"
+msgstr "Dica:"
+
+#: tframe_ruletranslit.label_hinttext.caption
+msgid "Alphabet is a set of couples represented by letters and separated with an equal sign; they stand for translation of non-english characters to their english representation."
+msgstr "Alfabeto é um conjunto de pares representados por letras e separados com um sinal de igual; eles representam a tradução de caracteres não-inglês para sua representação em inglês."
+
+#: tframe_ruletranslit.radiobutton_directionbackward.caption
+msgid "Backward"
+msgstr "Retroceder"
+
+#: tframe_ruletranslit.radiobutton_directionforward.caption
+msgid "Forward"
+msgstr "Avançar"
+
+#: tframe_ruleuserinput.cb_skipextension.caption
+msgctxt "TFRAME_RULEUSERINPUT.CB_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Ignorar extensão"
+
+#: tframe_ruleuserinput.label1.caption
+msgid "Type your new filenames here (one per line):"
+msgstr "Digite aqui os novos nomes de arquivos (um por linha):"
+
+#: tframe_ruleuserinput.menuitem_load.caption
+msgid "Load from Text File"
+msgstr "Carregar do Arquivo de Texto"
+
+#: tframe_ruleuserinput.menuitem_paste.caption
+msgid "Paste from Clipboard"
+msgstr "Colar da Área de Transferência"
+
+#: tframe_ruleuserinput.rb_insertafter.caption
+msgid "Insert after the current name"
+msgstr "Inserir após nome atual"
+
+#: tframe_ruleuserinput.rb_insertinfront.caption
+msgid "Insert in front of the current name"
+msgstr "Inserir na frente do nome atual"
+
+#: tframe_ruleuserinput.rb_replace.caption
+msgid "Replace the current name"
+msgstr "Substituir nome atual"
+
+#: tframe_ruleuserinput.sb_options.caption
+msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
+msgid "Options"
+msgstr "Opções"
+
+#: ufileutils.ssizebytes
+msgctxt "ufileutils.ssizebytes"
+msgid "bytes"
+msgstr "bytes"
+
+#: ufileutils.ssizegigabyte
+msgctxt "ufileutils.ssizegigabyte"
+msgid "GB"
+msgstr "GB"
+
+#: ufileutils.ssizekilobyte
+msgctxt "ufileutils.ssizekilobyte"
+msgid "KB"
+msgstr "KB"
+
+#: ufileutils.ssizemegabyte
+msgctxt "ufileutils.ssizemegabyte"
+msgid "MB"
+msgstr "MB"
+
+#: ufileutils.ssizeterabyte
+msgctxt "ufileutils.ssizeterabyte"
+msgid "TB"
+msgstr "TB"
+
+#: umetatags.s_metatag_audio_duration
+msgid "Duration of an Audio file"
+msgstr "Duração de um arquivo de Áudio"
+
+#: umetatags.s_metatag_audio_durationmins
+msgid "Duration of an Audio file in minutes"
+msgstr "Duração de um arquivo de Áudio em minutos"
+
+#: umetatags.s_metatag_audio_durationsecs
+msgid "Duration of an Audio file in seconds"
+msgstr "Duração de um arquivo de Áudio em segundos"
+
+#: umetatags.s_metatag_avi_duration
+msgid "AVI Duration in H:M:S format"
+msgstr "AVI - Duração no formato H:M:S"
+
+#: umetatags.s_metatag_avi_durationmins
+msgid "AVI Duration in Minutes"
+msgstr "AVI - Duração em Minutos"
+
+#: umetatags.s_metatag_avi_durationsecs
+msgid "AVI Duration in Seconds"
+msgstr "AVI - Duração em Segundos"
+
+#: umetatags.s_metatag_avi_framespersecond
+msgid "AVI Frames per Second"
+msgstr "AVI - Quadros por Segundo"
+
+#: umetatags.s_metatag_avi_height
+msgid "AVI Height in Pixels"
+msgstr "AVI - Altura em Pixels"
+
+#: umetatags.s_metatag_avi_totalframes
+msgid "AVI Total amount of Frames"
+msgstr "AVI - Número total de Quadros"
+
+#: umetatags.s_metatag_avi_videocodec
+msgid "AVI Video Codec"
+msgstr "AVI - Codec de Vídeo"
+
+#: umetatags.s_metatag_avi_width
+msgid "AVI Width in Pixels"
+msgstr "AVI - Largura em Pixels"
+
+#: umetatags.s_metatag_avi_widthandheight
+msgid "AVI Dimensions in WxH format"
+msgstr "AVI - Dimensçoes no formato LxA"
+
+#: umetatags.s_metatag_binarysign_description
+msgid "Binary File Information: Description"
+msgstr "Informação do Arquivo Binário: Descrição"
+
+#: umetatags.s_metatag_binarysign_extension
+msgid "Binary File Signature: Extension"
+msgstr "Assinatura do Arquivo Binário: Extensão"
+
+#: umetatags.s_metatag_date_now
+msgid "Current Date"
+msgstr "Data Atual"
+
+#: umetatags.s_metatag_document_author
+msgid "Summary Information: Author"
+msgstr "Informações de Resumo: Autor"
+
+#: umetatags.s_metatag_document_pagecount
+msgid "Summary Information: Number of Pages"
+msgstr "Informações de Resumo: Número de Páginas"
+
+#: umetatags.s_metatag_document_subject
+msgid "Summary Information: Subject"
+msgstr "Informações de Resumo: Assunto"
+
+#: umetatags.s_metatag_document_title
+msgid "Summary Information: Title"
+msgstr "Informações de Resumo: Título"
+
+#: umetatags.s_metatag_email_datesent
+msgid "Email date sent in local time zone"
+msgstr "Data de envio do e-mail no fuso horário local"
+
+#: umetatags.s_metatag_email_datesentoriginal
+msgid "Email date sent in original time zone"
+msgstr "Data de envio do e-mail no fuso horário original"
+
+#: umetatags.s_metatag_email_datesentutc
+msgid "Email date sent in UTC time zone"
+msgstr "Data de envio do e-mail no fuso horário UTC"
+
+#: umetatags.s_metatag_email_sender
+msgid "Email sender"
+msgstr "Remetente do e-mail"
+
+#: umetatags.s_metatag_email_subject
+msgid "Email subject"
+msgstr "Assunto do e-mail"
+
+#: umetatags.s_metatag_exif_date
+msgid "EXIF Original Date"
+msgstr "EXIF - Data Original"
+
+#: umetatags.s_metatag_exif_description
+msgid "EXIF Image Description"
+msgstr "EXIF - Descrição da Imagem"
+
+#: umetatags.s_metatag_exif_make
+msgid "EXIF Camera Make"
+msgstr "EXIF - Marca da Câmera"
+
+#: umetatags.s_metatag_exif_model
+msgid "EXIF Camera Model"
+msgstr "EXIF - Modelo da Câmera"
+
+#: umetatags.s_metatag_file_basename
+msgid "Base name of the file"
+msgstr "Nome base do arquivo"
+
+#: umetatags.s_metatag_file_datecreated
+msgid "File created date"
+msgstr "Data de criação do arquivo"
+
+#: umetatags.s_metatag_file_datemodified
+msgid "File last modified date"
+msgstr "Data da última modificação do arquivo"
+
+#: umetatags.s_metatag_file_dosname
+msgid "Short name in the 8.3 format"
+msgstr "Nome curto no formato 8.3"
+
+#: umetatags.s_metatag_file_extension
+msgid "Extension of the file"
+msgstr "Extensão do arquivo"
+
+#: umetatags.s_metatag_file_filename
+msgid "Full name of the file"
+msgstr "Nome completo do arquivo"
+
+#: umetatags.s_metatag_file_filepath
+msgid "Full path of the file"
+msgstr "Caminho completo do arquivo"
+
+#: umetatags.s_metatag_file_foldername
+msgid "Name of the parent folder"
+msgstr "Nome da pasta pai"
+
+#: umetatags.s_metatag_file_folderpath
+msgid "Full path of the parent folder"
+msgstr ""
+
+#: umetatags.s_metatag_file_size
+msgid "Size of file"
+msgstr "Tamanho do arquivo"
+
+#: umetatags.s_metatag_file_sizebytes
+msgid "Size of file in bytes"
+msgstr "Tamanho do arquivo em bytes"
+
+#: umetatags.s_metatag_file_sizegb
+msgid "Size of file in GB"
+msgstr "Tamanho do arquivo em GB"
+
+#: umetatags.s_metatag_file_sizekb
+msgid "Size of file in KB"
+msgstr "Tamanho do arquivo em KB"
+
+#: umetatags.s_metatag_file_sizemb
+msgid "Size of file in MB"
+msgstr "Tamanho do arquivo em MB"
+
+#: umetatags.s_metatag_flac_album
+msgid "FLAC Album"
+msgstr "FLAC - Álbum"
+
+#: umetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr "FLAC - Artista do Álbum"
+
+#: umetatags.s_metatag_flac_artist
+msgid "FLAC Artist"
+msgstr "FLAC - Artista"
+
+#: umetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr "FLAC - Número do Disco"
+
+#: umetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
+msgstr "FLAC - Total de Discos"
+
+#: umetatags.s_metatag_flac_genre
+msgid "FLAC Genre"
+msgstr "FLAC - Gênero"
+
+#: umetatags.s_metatag_flac_title
+msgid "FLAC Title"
+msgstr "FLAC - Título"
+
+#: umetatags.s_metatag_flac_trackno
+msgid "FLAC Track Number"
+msgstr "FLAC - Número da Faixa"
+
+#: umetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
+msgstr "FALC - Total de Faixas"
+
+#: umetatags.s_metatag_flac_year
+msgid "FLAC Year"
+msgstr "FLAC - Ano"
+
+#: umetatags.s_metatag_hash_crc32
+msgid "CRC32 Checksum of a file"
+msgstr "CRC32 - Checksum do arquivo"
+
+#: umetatags.s_metatag_hash_md5
+msgid "MD5 Hash of a file"
+msgstr "HASH MD5 do arquivo"
+
+#: umetatags.s_metatag_hash_sha1
+msgid "SHA1 Hash of a file"
+msgstr "HASH SHA1 do arquivo"
+
+#: umetatags.s_metatag_hash_sha256
+msgid "SHA256 Hash of a file"
+msgstr "HASH SHA256 do arquivo"
+
+#: umetatags.s_metatag_hash_sha512
+msgid "SHA512 Hash of a file"
+msgstr "HASH SHA512 do arquivo"
+
+#: umetatags.s_metatag_html_title
+msgid "Title tag extracted from an HTML file"
+msgstr "Tag Título extraída de arquivo HTML"
+
+#: umetatags.s_metatag_image_aspectratio
+msgid "Aspect Ratio of an image"
+msgstr "Taxa de Aspecto da imagem"
+
+#: umetatags.s_metatag_image_height
+msgid "Height of an image in pixels"
+msgstr "Altura da imagem em pixels"
+
+#: umetatags.s_metatag_image_pixels
+msgid "Amount of pixels in the image"
+msgstr "Quantidade de pixels da imagem"
+
+#: umetatags.s_metatag_image_width
+msgid "Width of an image in pixels"
+msgstr "Largura da imagem em pixels"
+
+#: umetatags.s_metatag_image_widthandheight
+msgid "Width and Height of an image in pixels"
+msgstr "Largura e Altura da imagem em pixels"
+
+#: umetatags.s_metatag_iptc_caption
+msgid "IPTC Image Caption"
+msgstr "IPTC - Legenda da Imagem"
+
+#: umetatags.s_metatag_iptc_city
+msgid "IPTC City"
+msgstr "IPTC - Cidade"
+
+#: umetatags.s_metatag_iptc_headline
+msgid "IPTC Image Headline"
+msgstr "IPTC - Título da Imagem"
+
+#: umetatags.s_metatag_iptc_location
+msgid "IPTC Location Name"
+msgstr "IPTC - Nome do local"
+
+#: umetatags.s_metatag_iptc_objectname
+msgid "IPTC Object Name"
+msgstr "IPTC - Nome do Objeto"
+
+#: umetatags.s_metatag_mp3_album
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr "MP3 - Álbum"
+
+#: umetatags.s_metatag_mp3_albumartist
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr "MP3 - Artista do Álbum"
+
+#: umetatags.s_metatag_mp3_artist
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr "MP3 - Artista"
+
+#: umetatags.s_metatag_mp3_discno
+msgid "MP3 Disc Number"
+msgstr "MP3 - Número do Disco"
+
+#: umetatags.s_metatag_mp3_disctotal
+msgid "MP3 Total Discs"
+msgstr "MP3 - Total de Discos"
+
+#: umetatags.s_metatag_mp3_genre
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr "MP3 - Gênero"
+
+#: umetatags.s_metatag_mp3_title
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr "MP3 - Título"
+
+#: umetatags.s_metatag_mp3_trackno
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr "MP3 - Número da Faixa"
+
+#: umetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr "MP3 - Total de Faixas"
+
+#: umetatags.s_metatag_mp3_year
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
+msgstr "MP3 - Ano"
+
+#: umetatags.s_metatag_outlook_body
+msgid "Outlook Message: Body Text"
+msgstr "Mensagem do Outlook: Texto da Mensagem"
+
+#: umetatags.s_metatag_outlook_dateheader
+msgid "Outlook Message: Sent date from email header in local time zone"
+msgstr "Mensagem do Outlook: Data de envio do cabeçalho do e-mail no fuso horário local"
+
+#: umetatags.s_metatag_outlook_dateheaderoriginal
+msgid "Outlook Message: Sent date from email header in original time zone"
+msgstr "Mensagem do Outlook: Data de envio do cabeçalho do e-mail no fuso horário original"
+
+#: umetatags.s_metatag_outlook_dateheaderutc
+msgid "Outlook Message: Sent date from email header in UTC time zone"
+msgstr "Mensagem do Outlook: Data de envio do cabeçalho do e-mail no fuso horário UTC"
+
+#: umetatags.s_metatag_outlook_datesent
+msgid "Outlook Message: Sent date in local time zone"
+msgstr "Mensagem do Outlook: Data de envio do e-mail no fuso horário local"
+
+#: umetatags.s_metatag_outlook_datesentutc
+msgid "Outlook Message: Sent date in UTC time zone"
+msgstr "Mensagem do Outlook: Data de envio do e-mail no fuso horário UTC"
+
+#: umetatags.s_metatag_outlook_messageid
+msgctxt "umetatags.s_metatag_outlook_messageid"
+msgid "Outlook Message: ID"
+msgstr "Mensagem do Outlook: ID"
+
+#: umetatags.s_metatag_outlook_sender
+msgid "Outlook Message: Sender"
+msgstr "Mensagem do Outlook: Remetente"
+
+#: umetatags.s_metatag_outlook_subject
+msgid "Outlook Message: Subject"
+msgstr "Mensagem do Outlook: Assunto"
+
+#: umetatags.s_metatag_tiff_date
+msgid "TIFF Date"
+msgstr "TIFF - Data"
+
+#: umetatags.s_metatag_tiff_description
+msgid "TIFF Description"
+msgstr "TIFF - Descrição"
+
+#: umetatags.s_metatag_tiff_make
+msgid "TIFF Make"
+msgstr "TIFF - Marca"
+
+#: umetatags.s_metatag_tiff_model
+msgid "TIFF Model"
+msgstr "TIFF - Modelo"
+
+#: umetatags.s_metatag_torrent_announce
+msgid "Torrent: Announce URL"
+msgstr "Torrent: URL de anúncio"
+
+#: umetatags.s_metatag_torrent_comment
+msgid "Torrent: Comment"
+msgstr "Torrent: Comentário"
+
+#: umetatags.s_metatag_torrent_countfiles
+msgid "Torrent: Number of files"
+msgstr "Torrent: Número de arquivos"
+
+#: umetatags.s_metatag_torrent_creationdatelocal
+msgid "Torrent: Creation date in local time zone"
+msgstr "Torrent: Data de criação no fuso horário local"
+
+#: umetatags.s_metatag_torrent_creationdateutc
+msgid "Torrent: Creation date in UTC time zone"
+msgstr "Torrent: Data de criação no fuso horário UTC"
+
+#: umetatags.s_metatag_torrent_hash
+msgid "Torrent: Hash"
+msgstr "Torrent: Hash"
+
+#: umetatags.s_metatag_torrent_name
+msgid "Torrent: Name"
+msgstr "Torrent: Nome"
+
+#: umetatags.s_metatag_torrent_publisher
+msgid "Torrent: Publisher"
+msgstr "Torrent: Editor"
+
+#: umetatags.s_metatag_torrent_totalsize
+msgid "Torrent: Total size"
+msgstr "Torrent: Tamanho total"
+
+#: umetatags.s_metatag_torrent_totalsizebytes
+msgid "Torrent: Total size in bytes"
+msgstr "Torrent: Tamanho total em bytes"
+
+#: umetatags.s_metatag_torrent_totalsizegb
+msgid "Torrent: Total size in GB"
+msgstr "Torrent: Tamanho total em GB"
+
+#: umetatags.s_metatag_torrent_totalsizekb
+msgid "Torrent: Total size in KB"
+msgstr "Torrent: Tamanho total em KB"
+
+#: umetatags.s_metatag_torrent_totalsizemb
+msgid "Torrent: Total size in MB"
+msgstr "Torrent: Tamanho total em MB"
+
+#: umetatags.s_metatag_versioninfo_comments
+msgid "Version Information: Comments"
+msgstr "Informações da Versão: Comentários"
+
+#: umetatags.s_metatag_versioninfo_company
+msgid "Version Information: Company"
+msgstr "Informações da Versão: Companhia"
+
+#: umetatags.s_metatag_versioninfo_copyright
+msgid "Version Information: Copyright"
+msgstr "Informações da Versão: Copyright"
+
+#: umetatags.s_metatag_versioninfo_description
+msgid "Version Information: Description"
+msgstr "Informações da Versão: Descrição"
+
+#: umetatags.s_metatag_versioninfo_fileversion
+msgid "Version Information: File Version"
+msgstr "Informações da Versão: Versão do Arquivo"
+
+#: umetatags.s_metatag_versioninfo_product
+msgid "Version Information: Product"
+msgstr "Informações da Versão: Produto"
+
+#: umetatags.s_metatag_versioninfo_productversion
+msgid "Version Information: Product Version"
+msgstr "Informações da Versão: Versão do Produto"
+
+#: umetatags.s_metatag_wma_album
+msgid "WMA Album"
+msgstr "WMA - Álbum"
+
+#: umetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr "WMA - Artista do Álbum"
+
+#: umetatags.s_metatag_wma_artist
+msgid "WMA Artist"
+msgstr "WMA - Artista"
+
+#: umetatags.s_metatag_wma_discno
+msgid "WMA Disc Number"
+msgstr "WMA - Número do Disco"
+
+#: umetatags.s_metatag_wma_disctotal
+msgid "WMA Total Discs"
+msgstr "WMA - Total de Discos"
+
+#: umetatags.s_metatag_wma_genre
+msgid "WMA Genre"
+msgstr "WMA - Gênero"
+
+#: umetatags.s_metatag_wma_title
+msgid "WMA Title"
+msgstr "WMA - Título"
+
+#: umetatags.s_metatag_wma_trackno
+msgid "WMA Track Number"
+msgstr "WMA - Número da Faixa"
+
+#: umetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
+msgstr "WMA - Total de Faixas"
+
+#: umetatags.s_metatag_wma_year
+msgid "WMA Year"
+msgstr "WMA - Ano"
+
+#: unumeralsystems.nsc_customalphabetic
+msgid "Custom alphabetic"
+msgstr "Alfabético personalizado"
+
+#: unumeralsystems.nsc_customnumeric
+msgid "Custom numeric"
+msgstr "Numérico personalizado"
+
+#: unumeralsystems.nsc_decimaldigits
+msgid "Decimal digits"
+msgstr "Dígitos decimais"
+
+#: unumeralsystems.nsc_englishletters
+msgid "English letters"
+msgstr "Letras"
+
+#: unumeralsystems.nsc_romannumerals
+msgid "Roman numerals"
+msgstr "Numerais romanos"
+
+#: unumeralsystems.nsc_simplifiedchinese
+msgid "Simplified Chinese"
+msgstr "Chinês Simplificado"
+
+#: upascalscript.spscompile
+msgid "Pascal Script Compile"
+msgstr "Compilar Script Pascal"
+
+#: upascalscript.spsexception
+msgid "Exception"
+msgstr "Exceção"
+
+#: upascalscript.spsexecute
+msgid "Pascal Script Execute"
+msgstr "Executar Script Pascal"
+
+#: upascalscript.spsincludedfilenotfound
+msgid "Included file not found: %s"
+msgstr "Arquivo incluído não encontrado: %s"
+
+#: upascalscript.spsline
+msgid "Line"
+msgstr "Linha"
+
+#: upascalscript.spsunknowncompileerror
+msgid "Unknown error (check units and libraries)"
+msgstr "Erro desconhecido (verifique unidades e bibliotecas)"
+
+#: upresets.spresetfilenotfound
+msgid "Preset file not found:"
+msgstr "Arquivo de predefinição não encontrado:"
+
+#: upresets.spresetloadfailed
+msgid "Failed to load a preset."
+msgstr "Falha ao carregar a predefinição."
+
+#: upresets.spresetsavefailed
+msgid "Failed to save a preset."
+msgstr "Falha ao salvar a predefinição."
+
+#: uregistration.s_cannot_create_license_dir
+msgid "Not able to create a directory for a license file."
+msgstr "Não foi possível criar a pasta para o arquivo da licença."
+
+#: uregistration.s_contact_email
+msgid "Contact email"
+msgstr "E-mail de contato"
+
+#: uregistration.s_contact_name
+msgid "Contact name"
+msgstr "Nome de contato"
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr "Falha ao excluir arquivo:"
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr "Falha ao carregar dados da licença:"
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr "Falha ao salvar dados da licença:"
+
+#: uregistration.s_issue_date
+msgid "Issue date"
+msgstr "Data do problema"
+
+#: uregistration.s_license
+msgid "License"
+msgstr "Licença"
+
+#: uregistration.s_licensed_to
+msgid "Licensed to"
+msgstr "Licenciado para"
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr "Esta licença está na lista negra."
+
+#: uregistration.s_license_expiry
+msgid "License expiry"
+msgstr "Validade da licença"
+
+#: uregistration.s_license_has_expired
+msgid "License has expired."
+msgstr "A licença expirou."
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr "A licença é inválida!"
+
+#: uregistration.s_license_load_failed
+msgid "Failed to load the license."
+msgstr "Falha ao carregar a licença."
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr "Você precisa renovar a licença para poder ativar o produto."
+
+#: uregistration.s_license_remove_failed
+msgid "Failed to remove the license."
+msgstr "Falha ao remover a licença."
+
+#: uregistration.s_license_remove_ok
+msgid "License has been removed."
+msgstr "A licença foi removida."
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr "Sua licença está fora do período de upgrade."
+
+#: uregistration.s_number_of_computers
+msgid "Number of computers"
+msgstr "Número de computadores"
+
+#: uregistration.s_registration_error
+msgid "Registration code is invalid."
+msgstr "O código de registro é inválido."
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr "Arquivo de registro não encontrado."
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr "Falha ao ler arquivo de registro."
+
+#: uregistration.s_registration_ok
+msgid "Registration has been successful!"
+msgstr "Registrado com sucesso!"
+
+#: uregistration.s_upgrade_expiry
+msgid "Upgrade expiry"
+msgstr "Validade do upgrade"
+
+#: urenfiles.srenstatusok
+msgctxt "urenfiles.srenstatusok"
+msgid "OK"
+msgstr "OK"
+
+#: urenfiles.svalidationduplicated
+msgid "Duplicate in the list"
+msgstr "Duplicado na lista"
+
+#: urenfiles.svalidationexceeds
+msgid "New path exceeds the length limit"
+msgstr "Novo caminho excede o limite de comprimento"
+
+#: urenfiles.svalidationexists
+msgid "Destination file already exists"
+msgstr "O arquivo de destino já existe"
+
+#: urenfiles.svalidationinvalid
+msgid "Contains invalid characters"
+msgstr "Contêm caracteres inválidos"
+
+#: urenfiles.svalidationmovedparent
+msgid "Parent path changed earlier in the list"
+msgstr "Caminho pai alterado previamente na lista"
+
+#: urulesex.s_rules_addtextpaddingtolength
+msgid "Add text padding to length %s with \"%s\" characters"
+msgstr "Adicionar preenchimento de texto ao comprimento %s com caracteres \"%s\""
+
+#: urulesex.s_rules_addzeropaddingtolength
+msgid "Add zero padding to length %s"
+msgstr "Adicionar preenchimento com zero ao comprimento %s"
+
+#: urulesex.s_rules_adjusttimebynumdays
+msgid "Adjust time by %d days"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynumhours
+msgid "Adjust time by %d hours"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynummilliseconds
+msgid "Adjust time by %d milliseconds"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynumminutes
+msgid "Adjust time by %d minutes"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynummonths
+msgid "Adjust time by %d months"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynumseconds
+msgid "Adjust time by %d seconds"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynumyears
+msgid "Adjust time by %d years"
+msgstr ""
+
+#: urulesex.s_rules_after
+msgid "after"
+msgstr "após"
+
+#: urulesex.s_rules_all
+msgid "all"
+msgstr "todos"
+
+#: urulesex.s_rules_all_characters_except
+msgid "all characters except"
+msgstr "todos os caracteres, exceto"
+
+#: urulesex.s_rules_all_lower_case
+msgid "All lower case"
+msgstr "Todas as minúsculas"
+
+#: urulesex.s_rules_all_upper_case
+msgid "All upper case"
+msgstr "Todas as maiúsculas"
+
+#: urulesex.s_rules_and_pad_to_length
+msgid "and pad to length"
+msgstr "e preencher até comprimento"
+
+#: urulesex.s_rules_append
+msgid "append"
+msgstr "anexar"
+
+#: urulesex.s_rules_append_new_extension
+msgid "Append new extension"
+msgstr "Anexar nova extensão"
+
+#: urulesex.s_rules_as_prefix
+msgid "as Prefix"
+msgstr "como Prefixo"
+
+#: urulesex.s_rules_as_suffix
+msgid "as Suffix"
+msgstr "como Sufixo"
+
+#: urulesex.s_rules_at_position
+msgid "at Position"
+msgstr "na Posição"
+
+#: urulesex.s_rules_autocaseadjustment
+msgctxt "urulesex.s_rules_autocaseadjustment"
+msgid "Auto case adjustment"
+msgstr "Ajuste automático de maiúsculas/minúsculas"
+
+#: urulesex.s_rules_before
+msgid "before"
+msgstr "antes de"
+
+#: urulesex.s_rules_cannoteditruleconfiguration
+msgid "Cannot edit rule configuration."
+msgstr "Não foi possível editar as configurações da regra."
+
+#: urulesex.s_rules_capitalize_and_preserve
+msgid "Capitalize and preserve"
+msgstr "Capitalizar e preservar"
+
+#: urulesex.s_rules_capitalize_every_word
+msgid "Capitalize every word"
+msgstr "Capitalizar cada palavra"
+
+#: urulesex.s_rules_case_sensitive
+msgid "case sensitive"
+msgstr "maiúsculas/minúsculas"
+
+#: urulesex.s_rules_change_extension_to
+msgid "Change extension to"
+msgstr "Alterar extensão para"
+
+#: urulesex.s_rules_characters
+msgid "characters"
+msgstr "caracteres"
+
+#: urulesex.s_rules_converttovaluefromvalue
+msgid "Convert to %s from %s"
+msgstr "Converter de %s para %s"
+
+#: urulesex.s_rules_customlongmonths
+msgid "Custom long months"
+msgstr "Meses longos personalizados"
+
+#: urulesex.s_rules_customshortmonths
+msgid "Custom short months"
+msgstr "Meses curtos personalizados"
+
+#: urulesex.s_rules_delete
+msgctxt "myrulesex.s_rules_delete"
+msgid "Delete"
+msgstr "Excluir"
+
+#: urulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr "Excluir nome atual"
+
+#: urulesex.s_rules_delimiters
+msgid "delimiters"
+msgstr "delimitadores"
+
+#: urulesex.s_rules_detect_using_binary_signature
+msgid "Detect using binary signature"
+msgstr "Detectar usando assinatura binária"
+
+#: urulesex.s_rules_everywhere
+msgid "everywhere"
+msgstr "em todo lugar"
+
+#: urulesex.s_rules_exact_pattern_of_delimiters
+msgid "exact pattern of delimiters"
+msgstr "padrão exato de delimitadores"
+
+#: urulesex.s_rules_extension_lower_case
+msgid "Extension lower case"
+msgstr "Extensão em minúsculo"
+
+#: urulesex.s_rules_extension_upper_case
+msgid "Extension upper case"
+msgstr "Extensão em maiúsculo"
+
+#: urulesex.s_rules_files
+msgid "files"
+msgstr "arquivos"
+
+#: urulesex.s_rules_files_to
+msgid "file(s) to"
+msgstr "arquivo(s) para"
+
+#: urulesex.s_rules_files_with
+msgid "file(s) with"
+msgstr "arquivo(s) com"
+
+#: urulesex.s_rules_first
+msgid "first"
+msgstr "primeiro"
+
+#: urulesex.s_rules_first_letter_capital
+msgctxt "myrulesex.s_rules_first_letter_capital"
+msgid "First letter capital"
+msgstr "Primeira letra maiúscula"
+
+#: urulesex.s_rules_fix_spaces
+msgid "Fix spaces"
+msgstr "Corrigir espaços"
+
+#: urulesex.s_rules_force_case_fragments
+msgid "Force case fragments"
+msgstr "Forçar fragmentos de maiúsculas/minúsculas"
+
+#: urulesex.s_rules_from_delimiter
+msgid "from Delimiter"
+msgstr "do Delimitador"
+
+#: urulesex.s_rules_from_position
+msgid "from Position"
+msgstr "da Posição"
+
+#: urulesex.s_rules_insert
+msgctxt "myrulesex.s_rules_insert"
+msgid "Insert"
+msgstr "Inserir"
+
+#: urulesex.s_rules_insert_space_in_front_of_capitals
+msgid "Insert space in front of capitals"
+msgstr "Inserir espaços na frente de maiúsculas"
+
+#: urulesex.s_rules_invert_case
+msgid "Invert case"
+msgstr "Inverter maiúsculas/minúsculas"
+
+#: urulesex.s_rules_last
+msgid "last"
+msgstr "último"
+
+#: urulesex.s_rules_leading
+msgctxt "myrulesex.s_rules_leading"
+msgid "leading"
+msgstr "principal"
+
+#: urulesex.s_rules_leave_delimiter
+msgid "leave delimiter"
+msgstr "deixar delimitador"
+
+#: urulesex.s_rules_leftside
+msgid "Left side"
+msgstr "Lado esquerdo"
+
+#: urulesex.s_rules_new_names_are_not_defined
+msgid "new names are not defined"
+msgstr "novos nomes não definidos"
+
+#: urulesex.s_rules_new_pattern
+msgid "New pattern"
+msgstr "Novo padrão"
+
+#: urulesex.s_rules_normalize_spaces
+msgid "Normalize spaces"
+msgstr "Normalizar espaços"
+
+#: urulesex.s_rules_parts
+msgid "parts"
+msgstr "partes"
+
+#: urulesex.s_rules_positions
+msgid "positions"
+msgstr "posições"
+
+#: urulesex.s_rules_prefix_names_of
+msgid "Prefix names of"
+msgstr "Prefixar nomes de"
+
+#: urulesex.s_rules_prepare_for_sharepoint
+msgid "Prepare for SharePoint"
+msgstr "Preparar para o SharePoint"
+
+#: urulesex.s_rules_randomwithlengthusingcharacters
+msgctxt "urulesex.s_rules_randomwithlengthusingcharacters"
+msgid "Random with length %s using characters \"%s\""
+msgstr "Aleatório com tamanho %s usando caracteres \"%s\""
+
+#: urulesex.s_rules_remove
+msgctxt "myrulesex.s_rules_remove"
+msgid "Remove"
+msgstr "Remover"
+
+#: urulesex.s_rules_removezeropadding
+msgctxt "urulesex.s_rules_removezeropadding"
+msgid "Remove zero padding"
+msgstr "Remover preenchimento com zero"
+
+#: urulesex.s_rules_remove_extension
+msgid "Remove extension"
+msgstr "Remover extensão"
+
+#: urulesex.s_rules_repeat
+msgid "repeat"
+msgstr "repetir"
+
+#: urulesex.s_rules_replace
+msgctxt "myrulesex.s_rules_replace"
+msgid "Replace"
+msgstr "Substituir"
+
+#: urulesex.s_rules_replace_expression
+msgid "Replace expression"
+msgstr "Substituir expressão"
+
+#: urulesex.s_rules_replace_with_spaces
+msgid "Replace with spaces"
+msgstr "Substituir por espaços"
+
+#: urulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr "substituindo nome atual"
+
+#: urulesex.s_rules_reset_index_every
+msgid "reset index every"
+msgstr "redefinir índice a cada"
+
+#: urulesex.s_rules_reset_index_if_file_name_changes
+msgid "reset index if file name changes"
+msgstr "redefinir índice se o nome do arquivo for alterado"
+
+#: urulesex.s_rules_reset_index_if_folder_changes
+msgid "reset index if folder changes"
+msgstr "redefinir índice se a pasta for alterada"
+
+#: urulesex.s_rules_rightside
+msgid "Right side"
+msgstr "Lado direito"
+
+#: urulesex.s_rules_right_to_left
+msgid "right-to-left"
+msgstr "direita-para-esquerda"
+
+#: urulesex.s_rules_serialize_incremental_from
+msgid "Incremental from"
+msgstr "Forma gradual"
+
+#: urulesex.s_rules_serialize_random_with_length
+msgid "Random with length"
+msgstr "Aleatório com comprimento"
+
+#: urulesex.s_rules_set_names_of
+msgid "Set names of"
+msgstr "Definir nomes de"
+
+#: urulesex.s_rules_skipextension
+msgctxt "urulesex.s_rules_skipextension"
+msgid "Skip extension"
+msgstr "Ignorar extensão"
+
+#: urulesex.s_rules_skip_extension
+msgid "skip extension"
+msgstr "ignorar extensão"
+
+#: urulesex.s_rules_skip_versions
+msgid "skip versions"
+msgstr "ignorar versões"
+
+#: urulesex.s_rules_split_by
+msgid "Split by"
+msgstr "Dividir por"
+
+#: urulesex.s_rules_step
+msgid "step"
+msgstr "passo"
+
+#: urulesex.s_rules_strip
+msgctxt "myrulesex.s_rules_strip"
+msgid "Strip"
+msgstr "Retirar"
+
+#: urulesex.s_rules_strip_out_contents_of_brackets
+msgid "Strip out contents of brackets"
+msgstr "Retirar conteúdo de colchetes"
+
+#: urulesex.s_rules_strip_unicode_marks
+msgid "Strip unicode marks"
+msgstr ""
+
+#: urulesex.s_rules_suffix_names_of
+msgid "Suffix names of"
+msgstr "Sufixar nomes de"
+
+#: urulesex.s_rules_trailing
+msgctxt "myrulesex.s_rules_trailing"
+msgid "trailing"
+msgstr "à direita"
+
+#: urulesex.s_rules_transliterate
+msgid "Transliterate"
+msgstr "Transliterar"
+
+#: urulesex.s_rules_try_unique
+msgid "try unique"
+msgstr "tentar único"
+
+#: urulesex.s_rules_until_count_reaches
+msgid "until Count reaches"
+msgstr "até a Contagem atingir"
+
+#: urulesex.s_rules_until_delimiter
+msgid "until Delimiter"
+msgstr "até o Delimitador"
+
+#: urulesex.s_rules_until_the_end
+msgid "until the End"
+msgstr "até o Final"
+
+#: urulesex.s_rules_usingcustomnumeralsymbols
+msgid "using \"%s\" system with \"%s\" symbols"
+msgstr "usando sistema \"%s\" com símbolos \"%s\""
+
+#: urulesex.s_rules_usingnamednumeralsystem
+msgid "using \"%s\" system"
+msgstr "usando sistema \"%s\""
+
+#: urulesex.s_rules_using_wildcards
+msgid "using wildcards"
+msgstr "usando curingas"
+
+#: urulesex.s_rules_warndeprecatedrandomserialize
+msgid "Rule configuration uses deprecated random serialization, please use a separate dedicated rule instead."
+msgstr "A configuração da regra usa serialização aleatória obsoleta, em vez disso, use uma regra dedicada separada."
+
+#: urulesex.s_rules_wholewordsonly
+msgctxt "urulesex.s_rules_wholewordsonly"
+msgid "Whole words only"
+msgstr "Somente palavras inteiras"
+
+#: urulesex.s_rules_whole_words
+msgid "whole words"
+msgstr "palavras inteiras"
+
+#: urulesex.s_rules_with
+msgid "with"
+msgstr "com"
+
+#: ustrings.msg_addfoldernotexist
+msgid ""
+"Selected folder does not exist!\n"
+"\n"
+"%s\n"
+msgstr ""
+"A pasta selecionada não existe!\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_addmetatagconfirm
+msgid ""
+"Meta tags are currently disabled.\n"
+"\n"
+"Do you want to enable them?\n"
+msgstr ""
+"Meta tags estão atualmente desativadas.\n"
+"\n"
+"Deseja habilitá-las?\n"
+
+#: ustrings.msg_ask_open_quick_guide
+msgid "Would you like to open a Quick Guide?"
+msgstr "Deseja abrir um Guia Rápido?"
+
+#: ustrings.msg_browsefoldersstatus
+msgid "Folders: %d scanned, %d selected."
+msgstr "Pastas: %d verificada(s), %d selecionada(s)."
+
+#: ustrings.msg_browsegotofoldercaption
+msgctxt "mystrings.msg_browsegotofoldercaption"
+msgid "Go To Folder"
+msgstr "Ir Para Pasta"
+
+#: ustrings.msg_browsegotofolderprompt
+msgid "Enter a full path to the folder that you want to go to:"
+msgstr "Entre o caminho completo da pasta que deseja ir:"
+
+#: ustrings.msg_changeworkingdirfailed
+msgid "Failed to change current working directory."
+msgstr "Falha ao alterar a pasta de trabalho atual."
+
+#: ustrings.msg_copyandcutfilesprompt
+msgid ""
+"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
+"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
+"\n"
+"Are you sure you want to proceed?\n"
+msgstr ""
+"A operação de Copiar e Recortar arquivos irá colocar os arquivos selecionados na Área de Transferência para uso futuro.\n"
+"Nota: Todos os arquivos serão colados na mesma pasta, não importando onde estavam localizados inicialmente!\n"
+"\n"
+"Tem certeza que deseja continuar?\n"
+
+#: ustrings.msg_datetimeinvalidformat
+msgid "INVALID FORMAT"
+msgstr "FORMATO INVÁLIDO"
+
+#: ustrings.msg_editrulecommentcaption
+msgid "Rule Comment"
+msgstr "Comentário da Regra"
+
+#: ustrings.msg_editrulecommentprompt
+msgid "Enter a comment for the rule:"
+msgstr "Entre um comentário para a regra:"
+
+#: ustrings.msg_fileexistsoverwriteprompt
+msgid ""
+"File already exists!\n"
+"Overwrite it?\n"
+msgstr ""
+"O arquivo já existe!\n"
+"Deseja susbstituí-lo?\n"
+
+#: ustrings.msg_filescountinfo
+msgid ""
+"Total: %d\n"
+"Marked: %d\n"
+"Selected: %d\n"
+msgstr ""
+"Total: %d\n"
+"Marcado(s): %d\n"
+"Selecionado(s): %d\n"
+
+#: ustrings.msg_fixcollidewarninglimit
+msgid ""
+"Do you want to fix conflicting new names for %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"Deseja corrigir novos nomes com conflito para %s arquivos?\n"
+"\n"
+"Esta operação pode levar vários minutos...\n"
+
+#: ustrings.msg_gotolinecaption
+msgid "Go To Line"
+msgstr "Ir Para Linha"
+
+#: ustrings.msg_gotolineprompt
+msgid "Enter the line number:"
+msgstr "Entre o número da linha:"
+
+#: ustrings.msg_hinterrorcolumn
+msgid "Hint: You can check the details by enabling the \"Error\" column."
+msgstr "Dica: Você pode verificar os detalhes habilitando a coluna \"Erro\"."
+
+#: ustrings.msg_launching_first_time
+msgid "You are launching ReNamer for the first time."
+msgstr "Você está iniciando o ReNamer pela primeira vez."
+
+#: ustrings.msg_loadnewnamesresult
+msgid "%d new filename(s) out of %d in the list were changed!"
+msgstr "%d novo(s) nome(s) de arquivo(s) de %d na lista foram alterado(s)!"
+
+#: ustrings.msg_nothingtorename
+msgid "Nothing to rename!"
+msgstr "Nada para renomear!"
+
+#: ustrings.msg_operationfailedduetoerror
+msgid "Operation failed due to an error:"
+msgstr "A operação falhou devido a um erro:"
+
+#: ustrings.msg_overwritefilewithnewname
+msgid ""
+"Original Path: %s\n"
+"New Path: %s\n"
+"\n"
+"New Name is already taken by another file, delete that file permanently?\n"
+msgstr ""
+"Caminho Original: %s\n"
+"Novo Caminho: %s\n"
+"\n"
+"Novo Nome já está sendo usado por um outro arquivo, apagar o arquivo permanentemente?\n"
+
+#: ustrings.msg_pascalscriptcompiledsuccesfully
+msgid "Compiled successfully!"
+msgstr "Compilado com sucesso!"
+
+#: ustrings.msg_pascalscriptnoscripts
+msgid "No Saved Scripts were found!"
+msgstr "Nenhum Script Salvo foi encontrado!"
+
+#: ustrings.msg_pascalscriptsaveinvalid
+msgctxt "mystrings.msg_pascalscriptsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "Nome Incorreto!"
+
+#: ustrings.msg_pascalscriptsavetext
+msgid "Enter a name for a script:"
+msgstr "Entre o nome do script:"
+
+#: ustrings.msg_pascalscriptsavetitle
+msgid "Save Script"
+msgstr "Salvar Script"
+
+#: ustrings.msg_presetsmanagerdeletepresetprompt
+msgid "Delete \"%s\" preset?"
+msgstr "Excluir predefinição \"%s\"?"
+
+#: ustrings.msg_presetsmanagereditwarning
+msgid ""
+"You are about to edit Preset file(s) manualy!\n"
+"If you are not sure in what you're doing - press Cancel.\n"
+"\n"
+"Proceed with this action?\n"
+msgstr ""
+"Você está prestes a editar arquivo(s) de Predefinição manualmente!\n"
+"Se você não tem certeza do que esta fazendo - pressione Cancelar.\n"
+"\n"
+"Prosseguir com esta ação?\n"
+
+#: ustrings.msg_presetsmanagerfailedcopy
+msgid "Could not copy the \"%s\" preset!"
+msgstr "Não foi possível copiar a predefinição \"%s\"!"
+
+#: ustrings.msg_presetsmanagerfaileddelete
+msgid "Could not delete the \"%s\" preset!"
+msgstr "Não foi possível excluir a predefinição \"%s\"!"
+
+#: ustrings.msg_presetsmanagerfailedrename
+msgid "Could not rename the \"%s\" preset!"
+msgstr "Não foi possível renomear a predefinição \"%s\"!"
+
+#: ustrings.msg_presetsmanagernewnamequerytext
+msgid "New Name:"
+msgstr "Novo Nome:"
+
+#: ustrings.msg_presetsmanagernewnamequerytitle
+msgid "Rename Preset"
+msgstr "Renomear Predefinição"
+
+#: ustrings.msg_previewexception
+msgid ""
+"Preview process has been terminated due to a critical error:\n"
+"\n"
+"%s\n"
+msgstr ""
+"O processo de prévia foi terminado devido a um erro crítico:\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_renamefailedfiles
+msgid "%d file(s) failed to rename!"
+msgstr "Falha ao renomear %d arquivo(s)!"
+
+#: ustrings.msg_renamenewnamesareempty
+msgid ""
+"All New Names are empty!\n"
+"\n"
+"Hint: Configure the Rules and click Preview button.\n"
+msgstr ""
+"Todos os Novos Nomes estão vazios!\n"
+"\n"
+"Dica: Configure as Regras e clique no botão de Prévia.\n"
+
+#: ustrings.msg_renameskippedunchangedfiles
+msgid "%d file(s) skipped because unchanged."
+msgstr "%d arquivos(s) inalterado(s) ignorado(s)."
+
+#: ustrings.msg_renameskippedunmarkedfiles
+msgid "%d file(s) skipped because unmarked."
+msgstr "%d arquivo(s) ignorado(s) pois não estava(m) marcado(s)."
+
+#: ustrings.msg_renamesuccessfulfiles
+msgid "%d file(s) successfully renamed."
+msgstr "%d arquivo(s) renomeado(s) com sucesso."
+
+#: ustrings.msg_rulecasedescription
+msgid "Use this rule to change the case of the filename."
+msgstr "Use esta regra para alterar maiúsculas/minúsculas no nome do arquivo."
+
+#: ustrings.msg_rulecleanupdescription
+msgid "Use this rule to clean up the filename."
+msgstr "Use esta regra para limpar  o nome do arquivo."
+
+#: ustrings.msg_ruledeletedescription
+msgid "Use this rule to delete text from the filename."
+msgstr "Use esta regra para excluir texto do nome do arquivo."
+
+#: ustrings.msg_ruleextensiondescription
+msgid "Use this rule to change extension of the file."
+msgstr "Use esta regra para alterar a extensão do arquivo."
+
+#: ustrings.msg_ruleinsertdescription
+msgid "Use this rule to insert text into the filename."
+msgstr "Use esta regra para inserir texto no nome do arquivo."
+
+#: ustrings.msg_rulepaddingdescription
+msgid "Use this rule to add or remove padding in number sequences."
+msgstr "Use esta regra para adicionar ou remover o preenchimento em sequências de números."
+
+#: ustrings.msg_rulepascalscriptdescription
+msgid "Use this rule to script a user defined manipulations with filename."
+msgstr "Use esta regra para criar script de manipulações definidas pelo usuário com nome do arquivo."
+
+#: ustrings.msg_rulerandomizedescription
+msgid "Use this rule to insert random sequences of characters into the filename."
+msgstr "Use esta regra para inserir sequências aleatórias de caracteres ao nome do arquivo."
+
+#: ustrings.msg_rulerearrangedescription
+msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
+msgstr "Use esta regra para separar partes do nome do arquivo e reorganizá-los em um novo padrão."
+
+#: ustrings.msg_rulereformatdatedescription
+msgid "Use this rule to change format of date/time values in the filename."
+msgstr "Use esta regra para alterar o formato dos valores de data/hora do nome do arquivo."
+
+#: ustrings.msg_ruleregexdescription
+msgid "Use this rule to replace text in the filename using regular expressions."
+msgstr "Use esta regra para substituit texto no nome do arquivo usando expressões regulares."
+
+#: ustrings.msg_ruleremovedescription
+msgid "Use this rule to remove text from the filename."
+msgstr "Use est aregra para remover texto do nome do arquivo."
+
+#: ustrings.msg_rulereplacedescription
+msgid "Use this rule to replace text in the filename."
+msgstr "Use est aregra para substituir texto do nome do arquivo."
+
+#: ustrings.msg_ruleserializedescription
+msgid "Use this rule to serialize the filename (add incremental numbers)."
+msgstr "Use esta regra para serializar o nome do arquivo (adicionar números incrementais)."
+
+#: ustrings.msg_rulestripdescription
+msgid "Use this rule to strip sets of characters from the filename."
+msgstr "Use esta regra para tirar conjuntos de caracteres do nome do arquivo."
+
+#: ustrings.msg_ruletranslitdescription
+msgid "Use this rule to transliterate letters in the filename from one language into another."
+msgstr "Use esta regra para transcrever letras no nome do arquivo a partir de uma idioma para outro."
+
+#: ustrings.msg_ruleuserinputdescription
+msgid "Use this rule to assign names of files to the lines of text."
+msgstr "Use esta regra para atribuir nomes de arquivos para as linhas de texto."
+
+#: ustrings.msg_selectfolder
+msgid "Please select a folder:"
+msgstr "Por favor, selecione uma pasta:"
+
+#: ustrings.msg_shellactionwarninglimit
+msgid "Are you sure you want to execute shell action on %d files?"
+msgstr "Tem certeza que deseja executar a ação em %d arquivos?"
+
+#: ustrings.msg_shell_execute_error
+msgid ""
+"Could not open the following file:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+msgstr ""
+"Não foi possível abrir o seguinte arquivo:\n"
+"\n"
+"%s\n"
+"\n"
+"Erro: %s (%d).\n"
+
+#: ustrings.msg_translitsaveinvalid
+msgctxt "mystrings.msg_translitsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "Nome Incorreto!"
+
+#: ustrings.msg_translitsavetext
+msgid "Enter a name for a translit:"
+msgstr "Entre o nome para o translit:"
+
+#: ustrings.msg_translitsavetitle
+msgid "Save Translit"
+msgstr "Salvar Translit"
+
+#: ustrings.msg_undoconfirmfiles
+msgid ""
+"Are you sure you want to undo renaming operation for %d file(s)?\n"
+"\n"
+"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
+msgstr ""
+"Tem certeza que deseja desfazer a operação de renomear para %d arquivo(s)?\n"
+"\n"
+"Dica: Você pode verificar caminhos desfeitos ativando a coluna \"Caminho Antigo\".\n"
+
+#: ustrings.msg_undoempty
+msgid "Nothing to undo!"
+msgstr "Nada para desfazer!"
+
+#: ustrings.msg_undoresult
+msgid ""
+"Undo operation results:\n"
+"\n"
+"%d out of %d file(s) restored successfully!\n"
+msgstr ""
+"Resultado da operação Desfazer:\n"
+"\n"
+"%d de %d arquivo(s) restaurado(s) com sucesso!\n"
+
+#: ustrings.msg_uninstallapplicationisrunning
+msgid ""
+"Seems that ReNamer is currently running.\n"
+"Please close it, before continuing...\n"
+msgstr ""
+"Parece que o ReNamer está em execução.\n"
+"Por favor, feche-o antes de continuar...\n"
+
+#: ustrings.msg_validatedduplicatedfound
+msgid "%d of which have a duplicate in the list."
+msgstr "%d dos quais estão duplicados na lista."
+
+#: ustrings.msg_validatedexceededfound
+#, fuzzy
+#| msgid "%d of which exceed MAX_PATH limitation."
+msgid "%d of which exceed max path length limitation."
+msgstr "%d dos quais excedem a limitação MAX_PATH."
+
+#: ustrings.msg_validatedexistingfound
+msgid "%d of which conflict with an existing file."
+msgstr "%d dos quais possuem conflito com arquivo existente."
+
+#: ustrings.msg_validatedinvalidfound
+msgid "%d of which contain invalid characters."
+msgstr "%d dos quais contêm caracteres inválidos."
+
+#: ustrings.msg_validatedmovedparentfound
+msgid "%d of which have a parent path changed earlier in the list."
+msgstr "%d do(s) qual(is) possui(em) um caminho pai alterado previamente na lista."
+
+#: ustrings.msg_validatedsuccessfuly
+msgid "Successfully validated!"
+msgstr "Validado com sucesso!"
+
+#: ustrings.msg_validatewarninglimit
+msgid ""
+"Do you want to validate %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"Deseja validar %s arquivos?\n"
+"\n"
+"Esta operação pode levar vários minutos...\n"
+
+#: ustrings.msg_validationissuesdetected
+msgid "Validation has failed due to issues with %d file(s)."
+msgstr "A validação falhou devido a problemas com %d arquivo(s)."
+
+#: ustrings.name_addrule
+msgctxt "mystrings.name_addrule"
+msgid "Add Rule"
+msgstr "Adicionar Regra"
+
+#: ustrings.name_addrulestext
+msgctxt "mystrings.name_addrulestext"
+msgid "Click here to add a rule"
+msgstr "Clique aqui para adicionar regra"
+
+#: ustrings.name_addtorenamer
+msgid "Add to ReNamer"
+msgstr "Adicionar ao ReNamer"
+
+#: ustrings.name_analyzetextcursor
+msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
+msgstr "Linha = %d, Posição = %d, Correto = %d, Seleção = %d"
+
+#: ustrings.name_browsescripts
+msgid "Browse Scripts..."
+msgstr "Procurar Scripts..."
+
+#: ustrings.name_browsetranslits
+msgid "Browse Translits..."
+msgstr "Procurar Translits..."
+
+#: ustrings.name_cancelsorting
+msgctxt "mystrings.name_cancelsorting"
+msgid "Cancel Sorting"
+msgstr "Cancelar Classificação"
+
+#: ustrings.name_dragfilestext
+msgctxt "mystrings.name_dragfilestext"
+msgid "Drag your files here"
+msgstr "Arraste suas imagens para cá"
+
+#: ustrings.name_editrule
+msgctxt "mystrings.name_editrule"
+msgid "Edit Rule"
+msgstr "Editar Regra"
+
+#: ustrings.name_filescounter
+msgid "%s files"
+msgstr "%s arquivos"
+
+#: ustrings.name_filescounterwithsize
+msgid "%s files (%s)"
+msgstr "%s arquivos (%s)"
+
+#: ustrings.name_filters
+msgctxt "mystrings.name_filters"
+msgid "Filters"
+msgstr "Filtros"
+
+#: ustrings.name_folderscounter
+msgid "%s folders"
+msgstr ""
+
+#: ustrings.name_loadwithpreset
+msgctxt "mystrings.name_loadwithpreset"
+msgid "Load with Preset"
+msgstr "Carregar com Predefinição"
+
+#: ustrings.name_markbymaskcaption
+msgctxt "mystrings.name_markbymaskcaption"
+msgid "Mark by Mask"
+msgstr "Marcar por Máscara"
+
+#: ustrings.name_markbymaskprompt
+msgctxt "mystrings.name_markbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Múltiplas máscaras podem ser separadas por ponto-e-vírgula. Por exemplo: *.jpg;*.doc\n"
+"\n"
+"Máscaras:\n"
+
+#: ustrings.name_overwrite
+msgid "Overwrite"
+msgstr "Substituir"
+
+#: ustrings.name_rename
+msgctxt "mystrings.name_rename"
+msgid "Rename"
+msgstr "Renomear"
+
+#: ustrings.name_renamewithpreset
+msgctxt "mystrings.name_renamewithpreset"
+msgid "Rename with Preset"
+msgstr "Recomear com Predefinição"
+
+#: ustrings.name_rule_case
+msgid "Case"
+msgstr "Maiúsculo/Minúsculo"
+
+#: ustrings.name_rule_cleanup
+msgid "Clean Up"
+msgstr "Limpar"
+
+#: ustrings.name_rule_delete
+msgctxt "mystrings.name_rule_delete"
+msgid "Delete"
+msgstr "Excluir"
+
+#: ustrings.name_rule_extension
+msgctxt "mystrings.name_rule_extension"
+msgid "Extension"
+msgstr "Extensão"
+
+#: ustrings.name_rule_insert
+msgctxt "mystrings.name_rule_insert"
+msgid "Insert"
+msgstr "Inserir"
+
+#: ustrings.name_rule_padding
+msgid "Padding"
+msgstr "Preenchimento"
+
+#: ustrings.name_rule_pascalscript
+msgid "Pascal Script"
+msgstr "Script Pascal"
+
+#: ustrings.name_rule_randomize
+msgid "Randomize"
+msgstr "Aleatório"
+
+#: ustrings.name_rule_rearrange
+msgid "Rearrange"
+msgstr "Reorganizar"
+
+#: ustrings.name_rule_reformatdate
+msgid "Reformat Date"
+msgstr "Reformatar Data"
+
+#: ustrings.name_rule_regex
+msgid "Regular Expressions"
+msgstr "Expressões Regulares"
+
+#: ustrings.name_rule_remove
+msgctxt "mystrings.name_rule_remove"
+msgid "Remove"
+msgstr "Remover"
+
+#: ustrings.name_rule_replace
+msgctxt "mystrings.name_rule_replace"
+msgid "Replace"
+msgstr "Substituir"
+
+#: ustrings.name_rule_serialize
+msgid "Serialize"
+msgstr "Serializar"
+
+#: ustrings.name_rule_strip
+msgctxt "mystrings.name_rule_strip"
+msgid "Strip"
+msgstr "Retirar"
+
+#: ustrings.name_rule_translit
+msgid "Translit"
+msgstr "Translit"
+
+#: ustrings.name_rule_userinput
+msgid "User Input"
+msgstr "Entrada do Usuário"
+
+#: ustrings.name_saverule
+msgid "Save Rule"
+msgstr "Salvar Regra"
+
+#: ustrings.name_savescript
+msgid "Save Script..."
+msgstr "Salvar Script..."
+
+#: ustrings.name_savetranslit
+msgid "Save Translit..."
+msgstr "Salvar Translit..."
+
+#: ustrings.name_selectbyextensioncaption
+msgctxt "mystrings.name_selectbyextensioncaption"
+msgid "Select by Extension"
+msgstr "Selecionar pela Extensão"
+
+#: ustrings.name_selectbyextensionprompt
+msgid ""
+"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
+"\n"
+"Extensions (without dots):\n"
+msgstr ""
+"Múltiplas extensões podem ser separadas por ponto-e-vírgula. Por exemplo: *.jpg;*.doc\n"
+"\n"
+"Extensões (sem pontos):\n"
+
+#: ustrings.name_selectbyfilenamelengthcaption
+msgid "Select by Filename Length"
+msgstr "Selecionar pelo Comprimento do Nome do Arquivo"
+
+#: ustrings.name_selectbyfilenamelengthprompt
+msgid "More than N characters:"
+msgstr "Mais do que N caracteres:"
+
+#: ustrings.name_selectbymaskcaption
+msgctxt "mystrings.name_selectbymaskcaption"
+msgid "Select by Mask"
+msgstr "Selecionar por Máscara"
+
+#: ustrings.name_selectbymaskprompt
+msgctxt "mystrings.name_selectbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Múltiplas máscaras podem ser separadas por ponto-e-vírgula. Por exemplo: *.jpg;*.doc\n"
+"\n"
+"Máscaras:\n"
+
+#: ustrings.name_undo
+msgid "Undo"
+msgstr "Desfazer"
+
+#: ustrings.name_undofiles
+msgid "Undo %d file(s)"
+msgstr "Desfazer %d arquivo(s)"
+
+#: ustrings.sdatetimedays
+msgctxt "ustrings.sdatetimedays"
+msgid "Days"
+msgstr ""
+
+#: ustrings.sdatetimehours
+msgctxt "ustrings.sdatetimehours"
+msgid "Hours"
+msgstr ""
+
+#: ustrings.sdatetimemilliseconds
+msgctxt "ustrings.sdatetimemilliseconds"
+msgid "Milliseconds"
+msgstr ""
+
+#: ustrings.sdatetimeminutes
+msgctxt "ustrings.sdatetimeminutes"
+msgid "Minutes"
+msgstr ""
+
+#: ustrings.sdatetimemonths
+msgctxt "ustrings.sdatetimemonths"
+msgid "Months"
+msgstr ""
+
+#: ustrings.sdatetimeseconds
+msgctxt "ustrings.sdatetimeseconds"
+msgid "Seconds"
+msgstr ""
+
+#: ustrings.sdatetimeyears
+msgctxt "ustrings.sdatetimeyears"
+msgid "Years"
+msgstr ""
+
+#: ustrings.sfiltersallfiles
+msgid "All files"
+msgstr "Todos os arquivos"
+
+#: ustrings.sfiltersanyfile
+msgid "Any file"
+msgstr "Qualquer arquivo"
+
+#: ustrings.sfiltersarchives
+msgid "Archives"
+msgstr "Arquivos"
+
+#: ustrings.sfiltersbatchfile
+msgid "Batch file"
+msgstr "Arquivo de lote"
+
+#: ustrings.sfilterscommaseparated
+msgid "comma separated"
+msgstr "separados por vírgula"
+
+#: ustrings.sfiltersdocuments
+msgid "Documents"
+msgstr "Documentos"
+
+#: ustrings.sfiltersmusic
+msgid "Music"
+msgstr "Músicas"
+
+#: ustrings.sfilterspictures
+msgid "Pictures"
+msgstr "Imagens"
+
+#: ustrings.sfiltersplaylist
+msgid "Play list"
+msgstr "Playlist"
+
+#: ustrings.sfilterspresets
+msgctxt "ustrings.sfilterspresets"
+msgid "Presets"
+msgstr "Predefinições"
+
+#: ustrings.sfilterstabseparated
+msgid "tab separated"
+msgstr "separado por tabulação"
+
+#: ustrings.sfilterstextfiles
+msgid "Text files"
+msgstr "Arquivos de texto"
+
+#: ustrings.sfilterstextlist
+msgid "Text list"
+msgstr "Lista de texto"
+

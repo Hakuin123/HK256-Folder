@@ -1,0 +1,18 @@
+[18:04:04]:open RegistryKey Software\XiaoMi\MiFlash\
+[18:04:04]:create RegistryKey Software\XiaoMi\MiFlash\
+[18:04:05]:install driver G:\项目Projects\｜安卓搞事｜\MiFlash2020-3-14-0\Source\ThirdParty\Google\Driver\android_winusb.inf to C:\WINDOWS\INF\oem45.inf,result True,GetLastWin32Error 
+[18:04:05]:set RegistryKey value:android_winusb.inf--oem45.inf
+[18:04:06]:mkdir "C:\Users\HK256\.android"
+[18:04:06]:output:子目录或文件 C:\Users\HK256\.android 已经存在。
+
+[18:04:06]: echo 0x2717 >>"C:\Users\HK256\.android\adb_usb.ini"
+[18:04:06]:output:
+[18:04:06]:open RegistryKey Software\XiaoMi\MiFlash\
+[18:04:06]:install driver G:\项目Projects\｜安卓搞事｜\MiFlash2020-3-14-0\Source\ThirdParty\Nvidia\Driver\NvidiaUsb.inf to ,result False,GetLastWin32Error Unknown error (0xe000022f)
+[18:04:06]:open RegistryKey Software\XiaoMi\MiFlash\
+[18:04:07]:install driver G:\项目Projects\｜安卓搞事｜\MiFlash2020-3-14-0\Source\ThirdParty\Microsoft\Driver\tetherxp.inf to ,result False,GetLastWin32Error Unknown error (0xe000022f)
+[18:04:07]:open RegistryKey Software\XiaoMi\MiFlash\
+[18:04:07]:install driver G:\项目Projects\｜安卓搞事｜\MiFlash2020-3-14-0\Source\ThirdParty\Microsoft\Driver\wpdmtphw.inf to ,result False,GetLastWin32Error Unknown error (0xe000022f)
+[18:04:08]:open RegistryKey Software\XiaoMi\MiFlash\
+[18:04:08]:install driver G:\项目Projects\｜安卓搞事｜\MiFlash2020-3-14-0\Source\ThirdParty\Qualcomm\Driver\qcser.inf to C:\WINDOWS\INF\oem46.inf,result True,GetLastWin32Error 
+[18:04:08]:set RegistryKey value:qcser.inf--oem46.inf

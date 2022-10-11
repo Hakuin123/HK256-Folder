@@ -1,0 +1,29 @@
+{
+    "dconf" : 
+    {
+        "host_list" : 
+        [
+            "47.102.253.179"
+        ],
+        "version" : 308
+    },
+    "log_report" : 
+    {
+        "enable" : false,
+        "host" : "pc.grpc.rlog.xnet.sandai.net",
+        "ip_list" : 
+        [
+            "47.102.253.179"
+        ],
+        "port" : 80
+    },
+    "router" : 
+    {
+        "gateway_address" : "pc.grpc.xnet.sandai.net:80",
+        "stats_report_address_list" : 
+        [
+            "pc.grpc.stat.xnet.sandai.net:80",
+            "47.102.253.179:80"
+        ]
+    }
+}

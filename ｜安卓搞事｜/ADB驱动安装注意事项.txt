@@ -1,0 +1,10 @@
+﻿Win8/10/11自带ADB驱动，务必确定只有自己电脑无法识别设备后再安装驱动，否则多个ADB驱动会导致设备连接异常！！！
+
+
+使用MiFlash一键安装：打开XiaoMiFlash.exe > Driver > 安装
+
+你没看错，用小米工具安装，让全机型通用，就是这么简单（顺便还安装了fastboot驱动）
+
+
+
+详情参考：https://www.bilibili.com/read/cv16541940

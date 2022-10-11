@@ -1,0 +1,1953 @@
+ReNamer 7.3 (2021-04-14)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+7.2.0.10 Beta (2021-03-10)
+* Meta tags: Extract email headers in a case-insensitive manner, as per RFC 2822.
+* Meta tags: Handle MIME encoded words with Windows code pages as charsets.
+* Meta tags: Fixed incorrect parsing of MIME encoded words in some cases.
+
+7.2.0.9 Beta (2021-01-20)
+* Handle the 12-hour notation (AM/PM) when searching for dates in the Reformat Date rule.
+
+7.2.0.8 Beta (2020-12-16)
+* Added FirstDotAtFileNameStartIsExtension variable to the settings file. This is a compatibility option for the behaviour that was changed in v7.0.0.1 Beta.
+
+7.2.0.7 Beta (2020-11-29)
+* Refactored the implementation of guide messages shown in the rules table and the files table. This fixes an obscure visual glitch where the rules table may be missing checkboxes in High DPI setups.
+* Added "Error" procedure to the Pascal Script. It abruptly terminates the script with an error message.
+
+7.2.0.6 Beta (2020-10-06)
+* Remember and restore the last used preset by the preset name, rather than via an anonymous default preset.
+* The option to remember the last used rules/preset is enabled by default.
+* Added file signature for WebP image format.
+* Updated Turkish language file. Thanks to Çağatay KAYA.
+* Updated Simplified Chinese language file. Thanks to ZhaoLee.
+* Updated German language file. Thanks to Peter Joswig.
+
+7.2.0.5 Beta (2020-08-23)
+* Restored the ability to draw the selection rectangle with a mouse in the files table. It was disabled due to bugs in a 3rd party component.
+* Updated Japanese language file. Thanks to Tilt.
+
+7.2.0.4 Beta (2020-08-16)
+* Added "Path Length" and "New Path Length" columns to the file table.
+
+7.2.0.3 Beta (2020-06-21)
+* After adding files, sort first, then preview, to avoid breaking the effect of order sensitive rules.
+* Expanded the list of columns conflicting with the preview to include "State" and "New Name Length" columns.
+
+7.2.0.2 Beta (2020-06-10)
+* High DPI support with automatic user interface scaling. Icons are not scaled yet.
+* Improved the layout of the Analyze form. Less clutter, better DPI scaling.
+* Respect the minimum width constraint for the last column in the rules table.
+
+7.2.0.1 Beta (2020-04-19)
+* Guess the fallback language code by removing sub-codes, e.g. "en_US" to "en".
+* Handle "--lang=xx" command line language specification, in addition to "--lang xx".
+* Case insensitive handling of "--lang=xx" and "--lang xx" command line parameters.
+* Updated French translation. Thanks to Philippe MALLET.
+* Updated Portuguese (Portugal) language file. Thanks to Dinis Medeiros.
+* Updated Chinese Simplified language file. Thanks to Wander Max.
+
+
+ReNamer 7.2 (2020-03-30)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Do not offer to create a desktop shortcut in the installer.
+
+7.1.0.7 Beta (2020-03-28)
+* Load product registration code using a file drag and drop.
+
+7.1.0.6 Beta (2020-03-17)
+* Append the preset if SHIFT key is down when clicking on the present menu option, otherwise load normally.
+* Fixed: Missing pixels in the language flag icons. Issue introduced in v7.1.0.4 Beta.
+* Updated Traditional Chinese language file. Thanks to RH.
+* Updated Turkish language file. Thanks to Çağatay KAYA.
+
+7.1.0.5 Beta (2019-11-26)
+* Fixed: Broken layout in the Analyze window after restoring from the maximized-then-minimized state.
+* Fixed: Wrong rule selected in the list box when editing a rule.
+* Increased the width of a status bar panel used for displaying the file count and size. Avoids text truncation for some languages.
+* Changed the default color used for highlighting affected names from red to blue, due to popular consensus.
+* Updated Serbian language file. Thanks to Никола Алексић.
+* Updated Japanese language file. Thanks to maboroshin.
+* Updated Turkish language file. Thanks to Çağatay KAYA.
+
+7.1.0.4 Beta (2019-10-03)
+* Changed build environment to Lazarus 2.0.4 + FPC 3.0.4.
+* Upgraded VirtualTreeview component to the version bundled with Lazarus.
+
+7.1.0.3 Beta (2019-10-01)
+* Added an option to strip unicode marks (combining, diacritics, accents) in the Clean Up rule.
+* Added ScanDateTime and TryScanDateTime functions to Pascal Script.
+* Added Chinese (Simplified to Traditional) translit alphabet.
+* Updated Polish language file. Thanks to Miłosz Szczepanek.
+* Updated Russian language file.
+
+7.1.0.2 Beta (2019-08-26)
+* Use RFC 4180 compliant CSV handler for importing/exporting files. Improved handling of unquoted values.
+* Handle errors gracefully when importing files.
+* Added Portuguese (Portugal) translation file. Thanks to Dinis Medeiros.
+* Updated Polish language file. Thanks to Miłosz Szczepanek.
+* Updated Dutch (Belgium) language file. Thanks to DoggyDaddy.
+
+7.1.0.1 Beta (2019-07-20)
+* Added font meta tags: Font_Name, Font_FamilyName, Font_PostScriptName, Font_Revision.
+* Added File_FolderPath meta tag.
+* Updated Ukrainian language file. Thanks to Роман Старих.
+* Updated Simplified Chinese language file. Thanks to Wander Max.
+* Updated French language file. Thanks to N.F MIRKOV.
+* Updated Russian language file.
+
+
+ReNamer 7.1 (2019-05-28)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+7.0.0.6 Beta (2019-05-22)
+* Added Ukrainian language file. Thanks to Роман Старих.
+* Updated Russian language file.
+
+7.0.0.5 Beta (2019-05-06)
+* Meta Tags: Decode ID3v1 non-Unicode text tags according to the local system ANSI code page.
+* Meta Tags: Handle synchsafe encoding of frame sizes as per ID3v2.4.0 specs.
+* Increased default width of the main window from 510 to 600 px.
+* Increased default width of the rules table columns.
+* Updated French language file. Thanks to Ozzii.
+* Updated Russian language file.
+
+7.0.0.4 Beta (2019-04-07)
+* Meta Tags: Handle UTF-8 and UTF-16BE encoded data in MP3 ID3v2 tags.
+* Pascal Script: A workaround to avoid Access Violation in functions with dynamic array return type. An interoperability issue between FPC 3 and Pascal Script engine.
+* Added transliteration file for Lithuanian language.
+* Updated Italian language file. Thanks to Vittorio Ierardi.
+* Updated Spanish language file. Thanks to Francisco J. Matas.
+* Updated Chinese (Traditional) language file. Thanks to William Xi.
+* Updated Japanese language file. Thanks to Tilt.
+* Updated Turkish language file. Thanks to Çağatay KAYA.
+
+7.0.0.3 Beta (2019-03-26)
+* Added options for adjusting date/time parts in the Reformat Date rule.
+* Display a count of folders added for renaming, in the status bar.
+* Meta Tags: Decode ID3v2 non-Unicode text tags according to the local system ANSI code page.
+* Meta Tags: Handle big endian BOM in MP3 ID3v2 tags.
+* Updated Serbian language file. Thanks to Никола Алексић.
+* Updated Italian language file. Thanks to Vittorio Ierardi.
+* Added back the original Turkish language file, keeping both translations.
+
+7.0.0.2 Beta (2019-02-03)
+* Refactored main toolbar buttons, enabled wrapping, no more max width auto-sizing.
+* Added a setting to toggle the visibility of the main toolbar.
+* Optimizations and bug fixes in the RegEx engine.
+* Implemented handling of the Unicode word boundaries in the RegEx engine.
+* Increased the maximum number of RegEx subexpressions from 15 to 90.
+* Implemented validation of Windows long path specification with "\\?\" prefix.
+* Refactored file path validation, including SharePoint naming specification.
+* Updated bundled User Manual (PDF file).
+* Updated Japanese language file. Thanks to Tilt.
+* Updated Tamil (India) language file. Thanks to அனிஷ்பிரபு தி.
+* Updated Russian language file.
+
+7.0.0.1 Beta (2019-01-26)
+* Changed build environment to Lazarus 1.8.4 + FPC 3.0.4.
+* Dropped support for Windows 9x platform. New list of supported platforms: Windows 2000 and later.
+* The leading dot at the start of a filename is no longer considered to be an extension identifier. A change in FPC RTL.
+* Excluded messages from language files which do not require translation.
+* Fixed: Exporting all columns of the files table mangles the Unicode content.
+* Fixed: Pascal Script mangles Unicode literal strings in source code.
+* Fixed: Exif Date column is empty for non-Latin filenames.
+* Assume UTF8 encoding for the extraction of HTML_Title meta tag.
+* Rectified compatibility issues related to the change of the build environment.
+* Allow multiple selected rules to be moved around, including continuous and discontinuous selection.
+* Replaced Turkish language file with an improved version. Thanks to Ferhat Bakıroğlu.
+* Added Tamil (India) language file. Thanks to அனிஷ்பிரபு தி (Anishprabu T).
+* Added more units tests for internal routines.
+
+6.9.0.3 Beta (2018-12-11)
+* Added WideChr and WideRepeatString functions to Pascal Script.
+* Added unit tests for the Case rule.
+* Added unit tests for the Regular Expressions rule.
+* Added unit tests for the Pascal Script rule.
+* Added unit tests for the Serialize rule.
+* Added unit tests for the Randomize rule.
+* Added unit tests for the Padding rule.
+* Added unit tests for the Clean Up rule.
+* Added unit tests for the Translit rule.
+* Added unit tests for the Reformat Date rule.
+* Added unit tests for the User Input rule.
+* Added unit tests for the ScanDateTime routine.
+* Added Turkish language file. Thanks to Çağatay KAYA.
+
+6.9.0.2 Beta (2018-10-12)
+* Insert auto-detected file extension in lower case by default.
+* Fixed: Incorrect handling of an empty fragment in the Case rule produces an undefined result.
+* Updated Bulgarian translit alphabet to match the official specification. Thanks to Kostadin Kolev.
+* Added an alternative Bulgarian translit alphabet, used by chitanka.info website. Thanks to Kostadin Kolev.
+
+6.9.0.1 Beta (2018-08-21)
+* Added context menu options for adding a new rule above or below the currently selected rule.
+* Focus on the relevant rule after editing or adding a rule.
+* Remember location of additional windows: Add Rule, Analyze, Presets Manager.
+* Removed option "Always show non-main forms centered". It is redundant and conflicts with other settings.
+* Refactored code for persisting main form location.
+* Added Vietnamese translit alphabet. Thanks to Trung Tue.
+* Updated Simplified Chinese language file. Thanks to Wander Max.
+* Updated French language file. Thanks to Aleksandar Milicevic (Ozzii).
+* Updated Portuguese language file. Thanks to Igor Rückert.
+* Cleaned up version history file.
+
+
+ReNamer 6.9 (2018-06-30)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+6.8.0.5 Beta (2018-06-27)
+* Fixed (again) incorrectly sized tool buttons in the Pascal Script window. Issue introduced in v6.8.0.1 Beta.
+
+6.8.0.4 Beta (2018-06-24)
+* Implemented rule comments, editable via rules context menu.
+* Enhanced storage path resolution with new path tags and handling of multiple path tags.
+* Added more unit tests for rules.
+* Updated Russian language file.
+
+6.8.0.3 Beta (2018-06-10)
+* Major code refactoring to improve automation and unit testing capabilities.
+* Decoupled renaming rules from the visual components.
+* Refactored renaming rule structures and management operations.
+* Refactored file signature structures and management operations.
+* Fixed incorrectly sized tool buttons in the Pascal Script window. Issue introduced in v6.8.0.1 Beta.
+* Added a dialog for manually entering file paths for renaming.
+* Added various unit tests.
+* Added Traditional Chinese (Taiwan) language file. Thanks to 冰霧神域.
+* Updated German language file. Thanks to Kevin Scheitler.
+* Updated Serbian language file. Thanks to Никола Алексић.
+* Updated Russian language file.
+
+6.8.0.2 Beta (2018-01-12)
+* Remove all files more efficiently than one-by-one when all files match the clearing criteria.
+* Efficiency improvements for files table clearing operations.
+* Efficiency improvements for performing shell actions on files.
+* Internal refactoring.
+
+6.8.0.1 Beta (2018-01-08)
+* Added "How to translate" link to the Languages menu.
+* Find application language file independently of the executable file name.
+* Perform a fast clearing of files tables when closing the application.
+* Converted action buttons in the Pascal Script window to a toolbar. Better handling of long localized text.
+* Changed the Z-order of controls in the Delete rule window. Avoid awkward overlapping with long localized text.
+* Forbid the use of empty folder when creating preset links. Avoid an error.
+* Added Dutch language file.
+* Updated French language file.
+* Updated Chinese Simplified language file. Thanks to WanderMax.
+
+
+ReNamer 6.8 (2017-11-18)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+6.7.0.9 Beta (2017-11-15)
+* Optimized files table clearing operation. Clearing all files is significantly faster now. 
+* Refactored files table import operation.
+
+6.7.0.8 Beta (2017-11-05)
+* Include directories with a system attribute when scanning for presets.
+* Show presets directory structure limitation message in Save Preset and Presets Manager.
+* Reapply presets limitations after a preset was deleted in Presets Manager.
+* Localized filter title in the dialog for importing presets.
+* Updated Russian language file.
+
+6.7.0.7 Beta (2017-10-12)
+* Ignore file extension when sorting presets.
+* Sort the list of translit alphabets.
+* Meta tags: Decoded escape sequences when extracting complete mailbox specifications.
+* Meta tags: Handle tab char (#9) as a fold char in email headers.
+* Updated Italian language file. Thanks to Vittorio Ierardi.
+
+6.7.0.6 Beta (2017-09-20)
+* Meta tags: Handle folded (wrapped/multiline) email headers.
+* Meta tags: Handle escape sequences in mailbox specification.
+* Meta tags: Decode multiple contained MIME encoded words in email headers.
+
+6.7.0.5 Beta (2017-09-14)
+* Meta tags: Decode MIME encoded email subject line and addressee names.
+* Meta tags: Extract unquoted name from a mailbox addressee specification.
+* A more user-friendly error message when the application of renaming rules on text fails.
+* Rearranged Z-order of options to avoid covering up of the radio button in the User Input rule, due to increased system font size.
+* Changed the order of options in the Serialize rule for a more natural flow.
+* Display separate counters for skipped unmarked files and skipped unchanged files.
+* Updated Russian language file.
+
+6.7.0.4 Beta (2017-06-28)
+* Added new functions to Pascal Script: WideMatchesMask, WideMatchesMaskList, WideSameFileName, WideReverseString, RandomString.
+* Refactored registration of custom types and functions in Pascal Script.
+* Other internal changes.
+
+6.7.0.3 Beta (2017-06-10)
+* Support directory structures for presets (Pro version).
+* Do not show "preset not found" warning in silent command line mode.
+* Apply license restrictions to the creation of preset links.
+* Show message with the number of successfully created preset links.
+* Save Preset dialog is now resizable.
+* Allow ampersand sign "&" to be used in preset names.
+* Forbid saving a preset with an empty name.
+* Updated Russian language file.
+
+6.7.0.2 Beta (2017-05-31)
+* Added a selection of numeral systems to the Serialize rule: Decimal digits (0..9), English letters (a..z), Roman numerals (I,II,III,IV,...), Simplified Chinese, Custom alphabetic and Custom numeric.
+* Avoid a crash when Randomize rule is misconfigured with an empty character set.
+* Refactored UTF8 code point splitting routines.
+* Updated Russian language file.
+
+6.7.0.1 Beta (2017-05-26)
+* Added "Reset if file name changes" option to the Serialize rule.
+* Added FileReadTextLines function to Pascal Script.
+* Added UsePlusAsSpace parameter to URLDecode function.
+* Modified import/export icons to minimize ambiguity of color and direction of arrows.
+* Added "New Instance" option for opening a new application instance.
+* Option "Create Links" can now handle Unicode preset names.
+* Option to add a link to "Send To" folder is now Unicode capable.
+* Updated Japanese language file. Thanks to Tilt.
+* Updated Chinese Simplified language file. Thanks to Max Wander.
+
+
+ReNamer 6.7 (2017-03-29)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+6.6.0.7 Beta (2017-02-23)
+* Strip surrounding white space characters from EXIF Make, Model and Description tags.
+* Display fractional part in "Size KB" and "Size MB" columns in the files table.
+* Format file size and torrent size meta tags using locale symbols and 2 fractional digits.
+* Added "Torrent_TotalSize", "File_Size" and "File_SizeGB" meta tags.
+* Improved routines for number formatting based on locale settings.
+* Updated bundled User Manual (PDF file).
+* Updated Serbian language file. Thanks to Никола Алексић (eR@SeR).
+* Updated Russian language file.
+
+6.6.0.6 Beta (2017-02-05)
+* Added an option to skip renaming of unchanged files.
+* Fixed an incorrect DST offset applied to file dates outside of current DST period.
+* Replaced internal use of TStringsArray with TWideStringArray in Pascal Script.
+* Added FileReadText function to Pascal Script.
+* Updated Russian language file.
+
+6.6.0.5 Beta (2017-01-16)
+* Added "/silent" switch to ignore warnings and errors during command line renaming.
+* Set non-zero exit code when command line renaming fails in silent mode.
+* Refactored command line parsing mechanism.
+* Added colored arrow icons to import/export options to improve visual identification.
+* Updated Chinese Simplified language file. Thanks to WanderMax.
+
+6.6.0.4 Beta (2016-12-04)
+* Use the first day of the current year to substitute missing components in parsed dates in the Reformat Date rule.
+* Fixed ignoring of trailing digits in short date pattern components (M, D, H, N, S, Z) in the Reformat Date rule.
+* Rearranged the display order of rules: Reformat Date and Padding rules moved up in the list.
+* Minor re-alignment of checkboxes in the Padding rule configuration window.
+* Updated Russian language file.
+
+6.6.0.3 Beta (2016-11-27)
+* Added Randomize rule for inserting random sequences into filenames.
+* Random serialization option in the Serialize rule has been deprecated.
+* Added option to replace the current name in Serialize and Randomize rules.
+* Added an option to disable automatic case adjustments performed by the Translit rule.
+* Disabled word-wrap, enabled horizontal scrollbar and improved resizing of components in the Translit rule configuration window.
+* Updated Russian language file.
+
+6.6.0.2 Beta (2016-11-12)
+* Reformat Date rule: Correctly handle repeated time format components.
+* Reformat Date rule: Allow partial date and time format parsing, e.g. "YYYY", "DD MMM", "NN:SS".
+* Reformat Date rule: Case insensitive matching of Unicode month names.
+* Added functions to PascalScript: OemToAnsi, OemToWide, AnsiToOem, WideToOem.
+* Fixed potential output buffer corruption in ExecConsoleApp function.
+* ExecConsoleApp function no longer applies OEM to ANSI conversion to the console output.
+* Made "Insert Meta Tags" button in the Insert rule more prominent.
+* Updated Serbian language file. Thanks to Никола Алексић (eR@SeR).
+* Updated Russian language file.
+
+6.6.0.1 Beta (2016-09-12)
+* Reimplemented Outlook MSG file parser used for Outlook_* meta tags.
+* Reimplemented email headers parsing used for Email_* and Outlook_* meta tags.
+* Email_* meta tags can handle Unicode file names.
+* Added more Email_* meta tags: MessageID, SenderName, SenderEmail, Recipients, Recipient, RecipientName, RecipientEmail.
+* Added more Outlook_* meta tags: SenderName, SenderEmail, Recipients, Recipient, RecipientName, RecipientEmail.
+* Renamed Outlook_ID meta tag to Outlook_MessageID for consistency.
+* Changed English rule names from CamelCase to spaced capitalization.
+* Added WideTextPosEx, IsWideWordBoundaryLeft and IsWideWordBoundaryRight functions to Pascal Script.
+* Updated Japanese language file. Thanks to Tilt.
+* Updated French language file. Thanks to Ozzii.
+* Updated Chinese Simplified language file. Thanks to WanderMax.
+
+
+ReNamer 6.6 (2016-09-09)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+6.5.0.4 Beta (2016-07-06)
+* Added a new "Padding" rule, used for adding and removing zero padding in number sequences.
+* Increased height of the Add Rule dialog to fit an extra rule.
+
+6.5.0.3 Beta (2016-07-04)
+* Added "Export paths to clipboard" option.
+* Fixed incorrect replacement of consecutive "Find" parts. Regression introduced in v6.3.0.3.
+* Other small improvements.
+
+6.5.0.2 Beta (2016-06-22)
+* Handle included files with full paths in PascalScript.
+* Improved error message when an include file is not found in PascalScript.
+* Changed shortcut in PascalScript editor for deleting the current word from Ctrl+T to Ctrl+W, to avoid collision with the shortcut for "Try to Compile" button.
+* Added an example script to demonstrate the use of {$INCLUDE} directive in PascalScript.
+* Added Czech translation file. Thanks to Lukáš Kučera.
+* Updated Russian language file.
+
+6.5.0.1 Beta (2016-06-12)
+* Implemented an include directive in PascalScript, i.e. "{$I filename.pas}".
+* Fixed incorrect display of local Unicode thousand separator.
+
+
+ReNamer 6.5 (2016-06-11)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+6.4.0.5 Beta (2016-06-07)
+* Auto-detect file content encoding of dropped files in PascalScript and Translit rule windows.
+* Added translit files for Japanese language (Hepburn-shiki and Kunrei-shiki). Thanks to Tilt.
+* Use the same "replace" part for each "find" part in the Replace rule if have several "find" and only one "replace" part. Previously, an empty "replace" part would have been used.
+* Added local date-time format as the first option in Reformat Date rule dropdowns.
+* Settings and Filter Settings dialogs are now resizable.
+* Added icons for options in Filter Settings dialog.
+* Updated Japanese language file. Thanks to Tilt.
+* Major code refactoring.
+
+6.4.0.4 Beta (2016-05-14)
+* Refactored Translit rule algorithm to be more robust.
+* Skip empty lines when parsing Translit rule alphabet.
+* Accept dropped files into the Translit rule configuration window.
+* Accept dropped files into the Analyze window.
+* Improved performance of the Analyze dialog when processing many individual lines.
+* Added a hint in PascalScript rule about holding the Shift key.
+* Updated Japanese language file. Thanks to Tilt.
+
+6.4.0.3 Beta (2016-05-08)
+* Added validation error when parent folders are being renamed before their content.
+* Capture multiple validation errors per file, instead of just one.
+* Avoid unexpected drag mode after closing a validation dialog which was triggered by toggling of rules via a mouse click.
+* Allow undo operation when overwriting a script by loading a new script.
+* Hold SHIFT key when opening a new script to insert it into the current script.
+* Code refactoring and optimizations.
+
+6.4.0.2 Beta (2016-04-02)
+* Fixed incorrect sorting of files by the "Error" column where a system error has occurred.
+* Auto scroll files table if mouse is near the border when dragging or selecting.
+* Added "WarnValidatingTooManyFiles" setting in INI file to allow disabling the validation warning when processing too many files.
+* Fixed not working files context menu shortcuts after clearing the selection.
+
+6.4.0.1 Beta (2016-03-31)
+* Added WideDeleteToRecycleBin and WideRemoveDir functions to PascalScript.
+* Set UTF8 console code page and use UTF8 encoding for exported batch renaming file. Previsouly, system ANSI code page was used.
+* Option "Export as batch renaming file" is no longer restricted to Pro version.
+* Improved default sizing of files table columns and fixed "State" column width.
+* Improved main toolbar resizing technique.
+* Hide main toolbar button captions if widths are too small.
+* Updated bundled copy of User Manual.
+* Updated Portuguese (Brazil) language file. Thanks to Igor Rückert.
+* Updated Serbian language file. Thanks to Никола Алексић (eR@SeR).
+* Updated copyright information.
+
+
+ReNamer 6.4 (2016-02-27)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Updated Slovak language file. Thanks to Slavo Gbúr.
+
+6.3.0.8 Beta (2016-02-23)
+* Change font size (zoom) inside of PascalScript window using Ctrl+Wheel.
+* Added Slovak translit file. Thanks to Slavo Gbur.
+* Added Slovak language file. Thanks to Slavo Gbur.
+
+6.3.0.7 Beta (2016-01-24)
+* Upgraded development environment and external components.
+* Fixed graphical glitches in rules list on Windows XP.
+* Fixed incorrectly used system font colors in files table.
+
+6.3.0.6 Beta (2016-01-23)
+* Updated Japanese language file. Thanks to Tilt.
+* Updated Chinese Simplified language file. Thanks to WanderMax.
+* Refactored layout and components of Reformat Date rule.
+
+6.3.0.5 Beta (2016-01-03)
+* Added a new rule "Reformat Date" for changing format of date/time values in the filename.
+* Fixed potentially mangled content of PascalScript rule configuration.
+* Adjusted the size of rule configuration components to better fit translated text.
+* Updated Russian language file.
+* Internal optimizations and cleanup.
+
+6.3.0.4 Beta (2015-12-21)
+* Updated Chinese Simplified language file. Thanks to WanderMax.
+* Added Italian language file. Thanks to Victor.
+* Fixed loading of translated text in the RegEx rule context menu.
+* Resolve environment variables in custom storage path in Storage.ini.
+
+6.3.0.3 Beta (2015-12-13)
+* Scroll into view first matching file via "Select by..." context menu commands.
+* Auto size columns in files table when they get enabled via context menu.
+* Refactored replacement code in Case, Remove and Replace rules.
+* Added "Whole words only" option to Remove and Replace rules.
+* Updated Russian language file.
+
+6.3.0.2 Beta (2015-12-02)
+* Corrected spelling of "UnMark" to "Unmark".
+* Added icons to the Rules table context menu.
+* Updated bundled copy of User Manual.
+* Corrected spelling of DiscNo and DiscTotal meta tags ("Disk" vs "Disc").
+* Updated French translation file. Thanks to Ozzii.
+* Updated Japanese translation file. Thanks to Tilt.
+* Internal optimizations and refactoring.
+
+6.3.0.1 Beta (2015-11-22)
+* Fixed inconsistently changing state of "save filters with preset" option.
+* Refactored code for managing user settings and preset configuration.
+* Added hints for Torrent meta tags.
+* Added German language file. Thanks to Max Mehl.
+* Added context menu option for selecting all rules (Ctrl+A).
+* Added rules multi-selection ability with group remove, activate and deactivate actions.
+* Fixed a problem with meta tags being inserted at incorrect position in Unicode text.
+* Updated Russian language file.
+* Internal optimizations.
+
+
+ReNamer 6.3 (2015-11-04)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Updated Serbian language file.
+
+6.2.0.8 Beta (2015-08-29)
+* Internal PascalScript code optimizations.
+* Fixed incorrectly displayed declaration for overloaded functions, e.g. Length.
+* Changed default size of PascalScript auto-completion window (20x600 to 16x400).
+* Added new PascalScript functions: StrToIntDef, StrToInt64Def, TryStrToInt,
+  RandomFloat, RandomBoolean, MinInt, MinInt64, MinFloat, MaxInt, MaxInt64, MaxFloat.
+
+6.2.0.7 Beta (2015-08-02)
+* Added function name completion (Ctrl+Space) in PascalScript code window;
+* Updated Russian (ru) translation file;
+
+6.2.0.6 Beta (2015-07-12)
+* Updated Japanese translation file;
+* Added Torrent file meta tags:
+  Torrent_Name, Torrent_Hash, Torrent_Announce, Torrent_Comment,
+  Torrent_Publisher, Torrent_CreationDateUTC, Torrent_CreationDateLocal,
+  Torrent_CountFiles, Torrent_TotalSizeBytes, Torrent_TotalSizeKB,
+  Torrent_TotalSizeMB, Torrent_TotalSizeGB;
+
+6.2.0.5 Beta (2015-07-03)
+* Fixed missing time component in files table for midnight (00:00:00);
+* Added more date/time functions to PascalScript: SecondSpan, EncodeDateTime,
+  DecodeDateTime, TryEncodeDateTime, ComposeDateTime;
+* Minor code optimizations;
+
+6.2.0.4 Beta (2015-06-21)
+* Fixed broken "Stay on top" option (used to be called "Always on top"),
+  and it no longer requires a restart;
+* Added meta tags filter box, populated with existing meta tag categories;
+
+6.2.0.3 Beta (2015-06-18)
+* Added "Delete current name" option to Delete rule;
+* Added "Replace current name" option to Insert rule;
+* Repositioned components in Rearrange rule to better fit localized text;
+* Updated Russian (ru) translation file;
+
+6.2.0.2 Beta (2015-06-17)
+* Updated Chinese Simplified (zh_CN) translation file;
+* Set application BidiMode (right-to-left) according to the selected language,
+  instead of by system locale;
+* Added BiDiCode setting in INI file for overiding application BidiMode,
+  possible values: AUTO, LTR, RTL;
+* Improvements to the registration procedure;
+
+6.2.0.1 Beta (2015-05-09)
+* Added Exclude filter masks in addition to existing Include masks;
+* Filter masks now support Unicode characters;
+* Updated Brazilian language PO file;
+
+
+ReNamer 6.2 (2015-05-03)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+6.1.0.12 Beta (2015-03-27)
+* Added Indonesian language PO file;
+* Updated Japanese and Russian language PO files;
+* Split filter settings into default and session settings; Any modifications
+  to filters now apply to session settings, with an option to use them as defaults;
+* Extract MP3_TrackNo, MP3_DiskNo, WMA_TrackNo, WMA_DiskNo from numeric track and
+  disk tags, in addition to standard "X/Y" format;
+* Added WMA_TrackTotal meta tag;
+* Deprecated MP3_PartOfSet and WMA_PartOfSet tags in favor of respective
+  MP3_DiskNo/MP3_DiskTotal and WMA_DiskNo/WMA_DiskTotal tags;
+
+6.1.0.11 Beta (2015-03-17)
+* Trim new lines at the end of system formatted renaming errors;
+* Renamed ID3_* meta tags to MP3_* (ID3_* will remain as hidden aliases);
+* Internal cleanup of handling of MP3_* meta tags;
+* Do not pad with zeros MP3_TrackNo and WMA_TrackNo meta tags;
+* Handle Unicode data in FLAC_* meta tags;
+* Added Portuguese translit alphabet;
+* Added FLAC_AlbumArtist, FLAC_TrackTotal, FLAC_DiscNo, FLAC_DiscTotal meta tags;
+* Added MP3_TrackTotal, MP3_DiskNo, MP3_DiskTotal meta tags;
+* Added WMA_AlbumArtist, WMA_DiskNo, WMA_DiskTotal, WMA_PartOfSet meta tags;
+* Fixed non-string tag handling issues in WMA files;
+* Broader range of supported WMA files (no limits on SampleRate, ByteRate, etc);
+* Converted WMA_TrackNo meta tag from 0-based to 1-based;
+
+6.1.0.10 Beta (2015-03-02)
+* Fixed limitation of FLAC library which prevented processing of files
+  containing artwork/picture;
+
+6.1.0.9 Beta (2015-03-02)
+* Fixed encoding conversion issue with the renaming error message;
+
+6.1.0.8 Beta (2015-02-25)
+* Updated Chinese Simplified (zh_CN) translation file;
+* Updated Russian (ru) translation file;
+* Fixed issue with cut off last character in meta tags from FLAC files;
+
+6.1.0.7 Beta (2015-02-10)
+* Added uninstaller icon;
+* Improved registration handling;
+* Provide more information regarding invalid licenses;
+* Implemented measures to prevent reverse engineering;
+* Fixed issue with always centering non-main forms;
+
+6.1.0.6 Beta (2015-01-10)
+* Added "CamelCase" note to the "Insert a space in front of capitalized letters" option;
+* Changed full language title from "Title (Native)" to "Title - Native";
+* Added Portuguese (Brazil) translation file;
+
+6.1.0.5 Beta (2014-12-15)
+* More spacious Settings window, better fit localized text;
+* Store BeepOnPreview and BeepOnRename variables in settings file;
+
+6.1.0.4 Beta (2014-12-07)
+* Added Chinese Simplified translation;
+
+6.1.0.3 Beta (2014-11-26)
+* Renamed default language title from "Default" to "Original (English)";
+* Suppress language icon loading exceptions and handle Unicode icon paths;
+* Fixed localization issues in auxiliary message dialogs: Go to Folder, 
+  Mark by Mask, Select by Mask, Select by Extension, Select by Filename Length,
+  Confirm overwrite with new name, Could not open the following file;
+* Unicode support for remembered values of: Add Files, Add Folders,
+  Filter Masks, Mark by Mask, Select by Mask, Select by Extension; 
+* Better positioning of components in Browse dialog for localization;
+
+6.1.0.2 Beta (2014-11-16)
+* Fixed loading of localized description of meta tags;
+
+6.1.0.1 Beta (2014-11-13)
+* Fixed encoding mix-up in registration data handling and messages;
+* Updated Japanese language file;
+
+
+ReNamer 6.1 (2014-11-11)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+6.0.0.14 Beta
+* Added DayOfMonth, DayOfYear, WeekOfMonth, WeekOfYear functions to PascalScript;
+* DayOfWeek fuction in PascalScript now returns 1=Monday to 7=Sunday,
+  instead of 1=Sunday to 7=Saturday;
+
+6.0.0.13 Beta (2014-11-03)
+* Added meta tags for extracting sent date from emails in UTC and original
+  time zones, in addition to default local time zone;
+
+6.0.0.12 Beta (2014-10-29)
+* Fixed incorrect timezone adjustment for Email_DateSent and Outlook_DateHeader
+  meta tags, causing dates to be UTC instead of local timezone in some cases;
+
+6.0.0.11 Beta (2014-10-25)
+* Included high resolution application icon 256x256;
+
+6.0.0.10 Beta (2014-10-04)
+* Release channel changed from Alpha to Beta;
+
+6.0.0.9 Alpha (2014-09-27)
+* Added new functions to PascalScript: WideTrimChars, WideTrimCharsLeft,
+  WideTrimCharsRight, WideCopyRight, WideDeleteRight;
+
+6.0.0.8 Alpha (2014-09-18)
+* Common component library dialog messages and buttons are now translated;
+* Updated Japanese language file;
+
+6.0.0.7 Alpha (2014-09-17)
+* Store all user data in user profile directory for Installer version;
+* Automatic migration of data from VirtualStore;
+* Use Settings.ini instead of <Application>.ini naming for settings;
+
+6.0.0.6 Alpha
+* Unicode support for names of scripts, translits, presets;
+* Added "Case sensitive" option to the Strip rule;
+* Added scope options to the Strip rule: Everywhere, Leading, Trailing;
+
+6.0.0.5 Alpha
+* List of languages is sorted alphabetically instead of file system order;
+* Added native language names to language titles;
+
+6.0.0.4 Alpha (2014-08-20)
+* Language details and list of translators are stored in PO file headers;
+* List of translators is displayed upon selecting a different language;
+* Display popup menus for Alphabet and Scripts buttons below the button;
+
+6.0.0.3 Alpha (2014-08-18)
+* Added hints to the main window status bar;
+* Resized components on Terms Of Use form to fit captions;
+* Added menu accelerators to all context menus;
+* Added WideCaseSentence function to PascalScript rule;
+
+6.0.0.2 Alpha (2014-08-17)
+* Added Languages menu;
+* Remove dummy new lines in Analyze dialog after changing word wrap;
+* Automatically generate menu accelerators for the main menu;
+
+6.0.0.1 Alpha (2014-08-10)
+* Converted application project from Delphi 7 to Lazarus/FPC;
+* Added multilingual support using PO files in Languages folder;
+* Added built-in version information, moving to x.x.x.x versioning;
+* Updated icons from BMP to PNG with alpha-blending;
+* Converted mini buttons above rules and files tables into toolbars
+  with automatic resizing to better fit localized text;
+* Error column is now visible by default;
+* Replaced PascalScript package (from SVN dated 11 November 2008)
+  with an updated version from component library in Lazarus;
+* EXIF, IPTC, HTML meta tags can now handle Unicode filenames;
+* Added toolbar button for accessing context menu of files table columns;
+* UserInput rule can now read content from Unicode filenames;
+* Advanced Pascal Script editor with syntax highlighting, code folding, etc;
+* Correctly restore negative window position on multi-monitor setups;
+* Pascal Script code can contain Unicode characters
+  (internally stored as UTF8 encoded string);
+* Display icon in the context menu for "Add to ReNamer" option;
+* Items added via /enqueue parameter are sent in a group instead of
+  individually, to prevent auto preview and validation per sent item;
+
+  
+ReNamer 5.76 (2014-06-11)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+5.75.7 Beta (2014-06-08)
+* Added thousand separator to the count of files in the status bar;
+* Updated messages in several confirmation dialogs;
+* Added TB file size abbreviation;
+* File size abbreviations are now localizable;
+
+5.75.6 Beta (2014-06-07)
+* Added horizontal scrollbar to the UserInput rule input;
+* Added F1 key shortcut and appropriate hint to all online help buttons;
+* GUI changes to show selection rectangle around checkboxes and radio buttons;
+* Added option for specifying color used for highlighting changed names;
+* Added Spanish translit alphabet;
+
+5.75.5 Beta (2014-05-24)
+* Fixed not working table sorting by "Error" and "Old Path" columns;
+
+5.75.4 Beta (2014-05-22)
+* Converted "Translit Alphabet" speed button into a tab-accessible button;
+* Accept drag and drop files in the UserInput rule configuration;
+
+5.75.3 Beta (2014-05-21)
+* Use "MS Shell Dlg 2" font instead of "MS Shell Dlg" on Windows 2000 and later
+  versions; This system font substitute maps to "Tahoma" which better handles
+  ambiguity between letter "I" and digit "1";
+* Increased font size of most text fields from 8 to 10 points;
+* Added horizontal scrollbar to the PascalScript code window;
+* Updated cursor position description in the Analyze dialog;
+* Added Ctrl+L shortcut for opening the Scripts menu in PascalScript rule;
+* Always start programs via ExecConsoleApp function in hidden mode
+  (replaced use of DETACHED_PROCESS flag with SW_HIDE flag);
+* Added ExecuteProgramShow function, similar to ExecuteProgram
+  but it also allows to control how the window is to be shown;
+
+5.75.2 Beta (2014-04-27)
+* Add binary file signatures for EPUB and DOCX/XLSX/PPTX file formats;
+
+5.75.1 Beta (2014-04-21)
+* Display a warning message when trying to load a non-existent preset file;
+* Cancel command line renaming mode when preset file does not exist, instead
+  of silently using the default preset;
+
+
+ReNamer 5.75 (2014-03-22)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+5.74.12 Beta (2014-03-22)
+* Included latest version of online manual from the Wiki;
+
+5.74.11 Beta (2014-03-20)
+* Repositioned components in the Browse dialog and Rule configuration forms
+  to better fit the localized text;
+* Icons in rules configuration, settings and files table have been updated;
+
+5.74.10 Beta (2014-02-25)
+* Analyze dialog handles high DPI mode better (AutoScroll set to False);
+
+5.74.9 Beta (2014-02-19)
+* Different icon for Preview button in the main toolbar;
+* All buttons have same width in the main toolbar;
+* Hint to enable new "Error" column if Rename/Undo operation fails;
+
+5.74.8 Beta (2014-02-16)
+* Brand new icons for toolbars in Main window and Presets Manager;
+
+5.74.7 Beta (2014-02-12)
+* Control characters with codes 0-31 and 127 will now fail filename validation;
+
+5.74.6 Beta (2014-02-11)
+* Added "Error" column to the files table for renaming and validation errors;
+* Option to ignore extension in folders is respected by the Extension rule;
+* Added "Old Path" column to allow inspection of Undo operation;
+* It is now possible to retry unsuccessful Undo operation;
+* Right-clicking on the path in the Presets Manger places it into clipboard;
+* Updated validation messages;
+
+5.74.5 Beta (2014-02-05)
+* Added status panel to display currently active filter settings as icons;
+* Status bar now uses fixed sizes for panels, no auto-sizing;
+* Handling of extensions in folders is now optional (check in settings);
+* Added "Analyze" mini button above files table to bring out the feature;
+* Removed bevels/borders from the main toolbar;
+* Cleaned up big "Rename" and "Overwrite" button icons;
+* Moved option buttons above files table to the left hand side;
+* Removed flickering of option buttons on resizing (disabled full repaint);
+* Removed labels from buttons in the Presets Manager to make it more compact
+  and eliminate issues with localization (hints were not touched);
+* Presets Manager inherits the limitations of the "Lite" version;
+* Minor repositioning of components to eliminate issues with localization;
+
+5.74.4 Beta (2014-02-04)
+* Introduced TAnsiStringArray type as Array of AnsiString;
+* Introduced TWideStringArray type as Array of WideString;
+* TStringsArray type is deprecated, please use TWideStringArray instead;
+* Added FileReadLines function to read all lines from a file;
+* Return type of CalculateMetaTag function changed from String to WideString;
+* Added CalculateMetaTagFormat function to allow specifying custom date/time
+  formatting instead of the application's default setting;
+* Added IsMatchingRegEx function to check for match against RegEx pattern;
+* Added URLEncode and URLDecode functions;
+
+5.74.3 Beta (2014-01-29)
+* Removed donation link (donations are discontinued in favor of "Pro" version);
+
+5.74.2 Beta (2014-01-26)
+* Refactored PascalScript function declarations to allow for easier expansion;
+* Added GetAllFiles and GetMarkedFiles functions to access the list of files;
+
+5.74.1 Beta (2014-01-04)
+* Changed all tool window style forms to dialog style to prevent from
+  hiding of the application from Alt+Tab task switching in Windows 7;
+
+
+ReNamer 5.74 (2013-12-24)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+5.73.5 Beta (2013-12-24)
+* Added confirmation dialog before unregistering the product;
+
+5.73.4 Beta (2013-12-22)
+* License expiration is checked against UTC date instead of local;
+
+5.73.3 Beta (2013-12-09)
+* Updated donation URL;
+
+5.73.2 Beta (2013-12-02)
+* Ability to extract date from all Outlook MSG files, including from
+  Sent Items for which it was not possible previously;
+* Outlook_DateSent meta tag now uses native Outlook dates instead
+  of the "Date" email header value which is not present in some files;
+* Added Outlook_DateHeader meta tag to keep the old behaviour of the
+  Outlook_DateSent tag, extracting the "Date" email header value;
+* Added Outlook_Body meta tag to extract email body, it may not be
+  practical for direct use in filename but can be useful in PascalScript;
+* Outlook meta tags now work on Unicode filenames; 
+
+5.73.1 Beta (2013-11-07)
+* Fixed incorrect ordering of imported/exported new names via clipboard
+  when files were re-ordered prior to the import/export;
+* Importing of file paths and new names from CSV/TXT file now works with
+  a single column, while previously two columns where required;
+* Internal optimization of exporting of file paths to CSV/TXT file;
+
+
+ReNamer 5.73 (2013-11-04)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+5.72.7 Beta (2013-10-19)
+* Added hint to run as administrator when failed to apply system settings;
+
+5.72.6 Beta (2013-10-17)
+* Added "Save" option for directly saving the currently loaded preset;
+* Closed potential memory leak on errors during preset saving/loading;
+* Added Greek translit alphabet;
+
+5.72.5 Beta (2013-10-03)
+* Fixed issue that caused incorrect limitation on number of presets;
+
+5.72.4 Beta (2013-10-02)
+* Integrated an updated version of RegExpr adapted from FPC 2.6.2;
+* Added support for \u \U \l \L flags in RegEx engine;
+* Removed ambiguously linked Tnt Delphi Unicode Controls v2.2.5;
+
+5.72.3 Beta (2013-09-22)
+* Added option to normalize unicode spaces in the CleanUp rule;
+
+5.72.2 Beta (2013-09-09)
+* Folders that start with a dot are no longer skipped during folder scans;
+* Slightly increased the header height in the files table;
+
+5.72.1 Beta (2013-09-08)
+* Reverted VirtualTreeView component from v5.1.3 to v4.8.7 because
+  newer versions have dropped support for Windows 98/Me/2000;
+  This fixes an issue with no column headings/content in files pane;
+
+
+ReNamer 5.72 (2013-09-04)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+5.71.3 Beta (2013-09-04)
+* Issue date is displayed in the license details;
+
+5.71.2 Beta (2013-08-26)
+* Added purchase and compare editions options to the Help menu
+  and Terms of Use dialog;
+* Corrected TAB order of settings on the Rename tab;
+* "Highlight changed names" option is moved to the Preview settings
+  and is enabled by default;
+* "Natural sorting order" option is enabled by default;
+
+5.71.1 Beta (2013-08-25)
+* Free version is now known as "Lite" and licensed version as "Pro";
+* Maximum number of rules is limited to 5 in the Lite version;
+* Maximum number of presets is limited to 5 in the Lite version;
+* Date format in the About dialog changed to YYYY-MM-DD;
+
+
+ReNamer 5.71 (2013-08-20)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+5.70.10 Beta
+* Special unicode combining characters (e.g. COMBINING TILDE U+0303) are
+  handled correctly within Case rule when performing capitalization of words;
+
+5.70.9 Beta
+* Added "Capitalize AND Preserve" option to the Case rule, which acts like
+  "Capitalize Every Word" but it does not initialize everything to lower case
+  before capitalizing, hence, preserving most of the original case;
+
+5.70.8 Beta
+* White spaces are stripped from the registration code to prevent issues;
+
+5.70.7 Beta
+* Native string comparison function replaced with binary comparison
+  for highlighting changed names and clearing not changed files
+  so to work around the Windows API behavior that treats German
+  "sharp s" and "ss" as equal;
+
+5.70.5 Beta
+* Handle errors of all functions that use SHGetFileInfo API;
+* Fixed issue with retrieving common documents folder on some versions
+  of Windows XP by replacing use of SHGetSpecialFolderLocation API
+  with SHGetSpecialFolderPath;
+
+5.70.4 Beta
+* Updated VirtualTreeView component to v5.1.3
+
+5.70.3 Beta
+* License file on Windows 9x/NT is stored in application folder
+  without vendor subdirectories;
+
+5.70.2 Beta
+* Rules statements converted to resource strings for translation;
+
+5.70.1 Beta
+* Added ID3_AlbumArtist meta tag;
+
+
+ReNamer 5.70 (2013-03-30)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+5.60.34 Beta
+* Minor cosmetic changes;
+
+5.60.33 Beta
+* Fixed a small registration glitch;
+
+5.60.32 Beta
+* Added registration button to the Terms of Use dialog;
+* Rewritten file version information extraction code to be Unicode capable;
+
+5.60.31 Beta
+* Corrected a typo in the Terms of Use dialog;
+* VersionInfo_Version meta tag was split into two separate
+  VersionInfo_FileVersion and VersionInfo_ProductVersion tags;
+
+5.60.30 Beta
+* Changed how "Always on top" option is applied, it now requires a restart;
+* Replaced use of DragAcceptFiles with WS_EX_ACCEPTFILES on main form;
+* Analyze dialog got its own place on the taskbar and can now be minimized
+  independently of the main window;
+* If natural sort thinks items are the same, perform a normal text sort,
+  so names like "01" and "1" will always appear in a consistent order;
+* Reworked functions for processing special folders to better handle errors;
+* Translation field in the About dialog became more apparent;
+* Built-in registration facility and Terms of Use dialog;
+
+5.60.26 Beta
+* Fixed a problem with partially shown main window in the command line mode,
+  which was caused by usage of "remember last position and size" option;
+
+5.60.25 Beta
+* Added GetCurrentMarkedFileIndex and GetTotalNumberOfMarkedFiles
+  functions to PascalScript;
+* Changed meaning of GetCurrentFileIndex and GetTotalNumberOfFiles
+  functions in PascalScript;
+
+5.60.24 Beta
+* Added 3 new functions to PascalScript: GetCurrentFileIndex,
+  GetTotalNumberOfFiles, WideGetTempPath;
+
+5.60.23 Beta
+* Added "Fix conflicting new names on preview" option in the Settings;
+* A more detailed warning message for the real-time preview option;
+* Right click on the white header of the About dialog will place
+  application's version information in to the clipboard;
+
+5.60.22 Beta
+* Upgraded Virtual Treeview component to v5.1.0;
+* Changed versioning pattern from "5.60+ Beta 22" to "5.60.22 Beta";
+* Added release date to the About dialog;
+
+5.60.21 Beta
+* Fixed issue with natural sorting algorithm: next immediate character
+  after a numeric value was skipped (jumped over) in comparison;
+
+5.60.20 Beta
+* Added "Extension always upper case" option to the Case rule;
+
+5.60.19 Beta
+* Fixed issue with shortcuts from the main window being kept active
+  when showing modal dialogs in the command line mode;
+* No flickering of the main window when performing command line renaming;
+
+5.60.18 Beta
+* Added option to export files to a batch renaming file;
+* Fixed export/import of CSV files to correctly handle quoted strings,
+  including appearance of commas within the values;
+* Importing from M3U/PLS playlists now works on Unicode filenames;
+* Importing/exporting from/to CSV/TAB files now works on Unicode filenames;
+* Fixed file extracting issue when importing from PLS playlist;
+
+5.60.16 Beta
+* Added "Go To" button on the Browse dialog;
+
+5.60.15 Beta
+* Checkboxes in rules configuration will be automatically selected
+  when user modifies the associated input field;
+
+5.60.14 Beta
+* Added preliminary file signature for WebM video files;
+
+5.60.13 Beta
+* Added file signatures to detect MP4 video files;
+
+5.60.12 Beta
+* Included PDF version of the User Manual compiled from the Wiki pages:
+  http://www.den4b.com/wiki/Book:ReNamer_User_Manual
+
+5.60.11 Beta
+* Previous update of Virtual Treeview to v4.8.7 caused the drag & drop feature
+  of the files table to stop working; As a workaround, SimpleDrawSelection flag
+  had to be disabled and now drawing a selection with the mouse will work only
+  on if the State column is in the drawn rectangle;
+
+5.60.10 Beta
+* Failed loading of the compiled code in Pascal Script will raise
+  an error instead of the whole rule being skipped silently;
+* Added 3 new functions to Pascal Script: WideJoinStrings,
+  GetApplicationPath, GetApplicationParams;
+
+5.60.9 Beta
+* Added MSI|PUB as alternative extensions to the file signature
+  associated with DOC|PPT|XLS file formats;
+
+5.60.8 Beta
+* Added helper menu with examples of regular expressions;
+
+5.60.7 Beta
+* Fixed problem with not updated files counter when files are deleted 
+  in to the recycling bin via shell menu option;
+
+5.60.6 Beta
+* Re-enabled previously disabled scroll on focus feature on the files table;
+
+5.60.5 Beta
+* Disabled scroll on focus feature on the files table which created problems
+  during the selection in a horizontally scrolled view;
+
+5.60.4 Beta
+* Main toolbar items are resized according to the ratios based on the original
+  widths in the form definition, as opposed to hard-coded ratios, enabling
+  adjustment of the width of the main toolbar items by translators;
+
+5.60.3 Beta
+* Meta tag description is made translatable;
+* Spacebar will work as the Insert key does on the files table,
+  inverting the marked state for all selected items;
+
+5.60.2 Beta
+* Fixed problem with the new window positioning method which restored
+  position with an offset if there were taskbars anchored to the
+  left or top side of the desktop;
+
+
+ReNamer 5.60  (13 September 2011)
+---------------------------------
+
+5.50.56 Beta
+* Fixed problem with ExecConsoleApp function which forced the target process
+  to freeze if it would send a lot of data to the standard output;
+
+5.50.55 Beta
+* Added a warning that describes sorting problem when renaming folders;
+
+5.50.54 Beta
+* Restored "click to edit" behaviour for the files table;
+
+5.50.53 Beta
+* Added "Repeat" option to the Incremental Serialize rule;
+
+5.50.52 Beta
+* Fixed problem with remembering correct position and size when application
+  is terminated in the maximized state;
+
+5.50.51 Beta
+* Fixed non-transparent background for Rename button icon updates on Vista and 7;
+
+5.50.50 Beta
+* When "Overwrite files with New Names" option is enabled, the Rename
+  button changes name to Overwrite and a different icon appears;
+
+5.50.49 Beta
+* Highlight Rename button in red when "Overwrite files with New Names"
+  option is enabled, in order to warn users;
+* Email address updated;
+
+5.50.48 Beta
+* Right single quotation mark 0x2019 is handled like an apostrophe
+  in the word by the Case rule;
+
+5.50.47 Beta
+* TIFF_* meta tags can handle Unicode filenames;
+* Image_* meta tags for TIFF files can handle Unicode filenames;
+
+5.50.46 Beta
+* Added Image_AspectRatio meta tag;
+
+5.50.45 Beta
+* Replaced ugly font arrows in the toolbar with icons;
+* Changed shortcut for Presets Manager to Ctrl+P;
+
+5.50.44 Beta
+* Added explicit option to sort by path in reverse order for renaming folders;
+* Files table will use default system images for checkboxes;
+* Fixed column resize problem due to a bug in Virtual Treeview;
+
+5.50.42 Beta
+* Updated Virtual Treeview component to v4.8.7;
+* Fixed inability to handle hight resolution scrolls by the files table;
+* Added Refresh button with F5 shortcut to the Add Folders dialog;
+
+5.50.41 Beta
+* Option to fix conflicting new names will not strip path from the new name;
+
+5.50.40 Beta
+* System settings are applied in a less access dependant manner, including:
+  Register preset extension; Add to folders context menu; Add to "Send To" context menu.
+* Failure of applying system settings will not cause other settings to be lost.
+
+5.50.39 Beta
+* Fixed incorrectly saved configuration for multiple instances of Rearrange rule;
+
+5.50.38 Beta
+* Fixed incorrectly updated counter for "reset every" option in Serialize rule;
+
+5.50.37 Beta
+* Fixed problem with not saved settings when using the Exit menu option.
+
+5.50.36 Beta
+* Eliminated problem with SHA1 implementation, affected some files larger than 1GB;
+* Now using Delphi Encryption Compendium (DEC) v5.2 hashing algorithms;
+* Added SHA256 and SHA512 meta tags;
+* New layout for the Help drop-down menu;
+
+5.50.34 Beta
+* Shortcuts Alt+F and Alt+I were changed to Ctrl+F and Shift+I, accordingly;
+* Icon added for "Count marked and selected files" option;
+
+5.50.33 Beta
+* About dialog got a new color scheme;
+
+5.50.32 Beta
+* Fixed incorrectly used counter for the display of hourglass icon,
+  which caused the hourglass icon to appear indefinitely;
+
+5.50.31 Beta
+* Selected file names will be loaded into newly added Remove and Replace
+  rules as sample text (experimental, may be removed later);
+
+5.50.29 Beta
+* Added BoolToStr function to PascalScript;
+
+5.50.28 Beta
+* Added option to reset serialization index every N files;
+
+5.50.27 Beta
+* Eliminated unnecessary calls to apply rules in Analyze dialog;
+
+5.50.26 Beta
+* Copyright notices were put into a separate file;
+* Added legal notice in the about dialog;
+
+5.50.25 Beta
+* Font size in PascalScript editor is increased to 10 points;
+
+5.50.24 Beta
+* Added support for #0 separated values in ID3v2 tags;
+
+5.50.23 Beta
+* All calls to help files and web links will be verbose on error;
+
+5.50.22 Beta
+* Improved backwards compatibility of presets due to changes to Skip Extension
+  option in the Insert rule;
+
+5.50.21 Beta
+* Wiki link points to a page dedicated to ReNamer as opposed to the main page;
+
+5.50.20 Beta
+* Skip Extension option in the Insert rule will work for the whole rule;
+
+5.50.19 Beta
+* User Manual is replaced by Wiki links and accompanying Quick Guide;
+* New About dialog, list of changes moved to a text file;
+* Rule names are now localizable;
+* Added new Rearrange rule, to easily manipulate filename parts;
+* Removed *.MSI file signature, was clashing with DOC/PPT/XLS;
+* Removed *.VOB file signature, for better recognition of *.MPG;
+* Image_* meta tags can handle Unicode filenames, except for TIFF files;
+* New GIF_Frames meta tag, to read number of frames in GIF file;
+* New AVI_VideoCodec meta tag, to read AVI video codec name;
+* Added "Insert a space in front of capitalized letters" option;
+* Added option to append a preset, from the Presets Manager;
+* Validation limit warning is removed in command line renaming mode;
+* Fixed problem with WidePosEx when SubStr parameter is empty;
+* Fix spaces option will handle all Unicode white spaces;
+* Added English characters as a predefined option to Strip rule;
+* Added "Strip all characters except selected" option to Strip rule;
+* Added StrToFloatDef and FormatFloat functions to PascalScript;
+* Added WideCopyFile function to PascalScript;
+* Added "Export all columns to clipboard" option;
+* File path and date related meta tags made to work for folders;
+* Translit will not upper case output part if input part is none alphabetic;
+* Columns for rules are correctly auto-sized with many rules loaded on startup;
+* Automatic resizing of files table will also apply after removing files;
+* Analyze dialog will leave trailing spaces in the output intact;
+* Auto preview on change options are disarmed during command line renaming;
+* Updated icons for "+" buttons in all rules;
+* Added two new columns in files table: Size KB, Size MB;
+* Fixed incorrect sorting by size for files larger than 2GB; 
+* Fixed incorrectly loaded filter masks from presets;
+* Added "Export to Clipboard" option to rules context menu;
+* Added German translit alphabet;
+* Added File_FilePath meta tag;
+
+ReNamer 5.50 (3 May 2009)
+-------------------------
+* Updated PascalScript component to the latest SVN from 11 November 2008;
+* Updated Virtual Treeview component to v4.7.0;
+* Updated hashing functions to use Fundamentals Hashing unit v3.06;
+* Reset Unicode flag for the manual filename editor in the files table;
+* Added date-time offset functions: IncDay, IncHour, IncMinute, IncSecond, etc;
+* Updated binary signatures for FLV/SWF and MP3 files;
+* Added 24 new binary signatures, making a total of 93 records;
+* Removed error message when applying extension detection rule in analyze dialog;
+* Showing of non-main forms always centered is made optional;
+* Changed format of Audio_Duration tag from "Xm Xs" to "X.XX";
+* AVI and HASH tags can be read from Unicode filenames;
+* Add 2 AVI helper tags: AVI_Duration and AVI_WidthAndHeight;
+* Added 4 Meta tags for Outlook Messages: ID, DateSent, Subject, Sender;
+* Added ShellOpenFile() function to open files via ShellExecute API;
+* Another type of apostrophe is added to Case rule: Acute Accent 0x00B4;
+* Fixed incorrectly adjusted time zone by the Email_DateSent tag;
+* Fragments in the Case rule are replaced as Whole Words only;
+* Delimiter for fragments is changed from space to comma;
+* Speeded up generation of random numbers in Serialize rule;
+* Unnecessary fields are automatically disabled in Serialize rule;
+* Translit Alphabets will handle UTF-8 BOM correctly;
+* Tab characters in PascalScript statements are replaced with spaces;
+* Added "Insert after the current name" option to UserInput rule;
+* Text in "Go To Line" dialog is added to resource strings;
+* Improved exception handling for several dialogs;
+* Updated French and added Bulgarian translit file;
+* Analyze dialog now has line number and position from left and right;
+* Corrected behaviour of "No" action in the meta tags confirmation dialog;
+* Correctly handle renaming when user adds trailing path delimiters to new name;
+* Added "Files" button above files table which brings up its popup menu;
+* Auto preview on change of rules will not trigger on change of unmarked rules;
+* All relative "." and ".." directories within new path are resolved;
+* Added "-" (hyphen) to the CleanUp rule;
+* Corrected ambiguous Kb/Mb/Gb to KB/MB/GB;
+* Enhanced main icon using vector graphics;
+* Rearranged file menus and options;
+* Core code optimizations and cleanup;
+* Corrected few typos;
+
+ReNamer 5.40  (26 October 2008)
+-------------------------------
+* Integrated Windows XP Manifest to allow visual styling;
+* Modified ID3v2 libraries to support reading of the unicode data (experimental);
+* Added reading support for ID3_PartOfSet tag in ID3v2 libraries (experimental);
+* Added "open containing folder" option to the context menu of the files table;
+* Main menu and toolbar shortcuts are no longer available when editing new name;
+* No more error when using empty Replace or Remove rules in wildcards mode;
+* Added/changed a number of shortcuts in the options and files context menu;
+* State column is sorted by file status and then by marked/unmarked state;
+* New Project action will clear files and then rules, escaping auto-preview.
+* Rule descriptions are added to the localizable resource strings;
+* Right-to-left character-wise processing of delimiters if reversed;
+* Status bar panels are resized automatically with the form;
+* Changed ambiguous Ctrl+Z,X,C,V files manipulation shortcuts;
+* Fixed offset when using Insert rule with right-to-left position;
+* Added option to disable confirmation dialog for overwriting files;
+* Auto apply rules option in Analyze dialog works on context menu too;
+* Corrected handling of double clicks and right clicks on rules checkboxes;
+* Fixed mark/unmark all rules option not triggering auto preview;
+* Fixed disappearing modified star after cancelling save preset dialog;
+* Fixed contradiction between Importing feature and Auto Preview option;
+* Fixed some cropped texts when custom system fonts are used;
+* Both ' and ` are handled when capitalizing words;
+* Added line wrap option to the Analyze dialog;
+* Added French translit alphabet;
+* Small user interface improvements;
+
+ReNamer 5.30  (3 July 2008)
+---------------------------
+* Added ability to save Filter Settings together with a Preset;
+* Added split panel in status bar to display current preset and modification sign;
+* Added dialog for creating links to all presets, with load and rename options;
+* Integrated dEXIF libraries to parse EXIF tags (works on problematic JPEG files);
+* All EXIF* tags should work on TIFF files too, alternatively to TIFF* tags;
+* Added 5 IPTC tags: ObjectName, Caption, Headline, Location, City;
+* Fixed problem with setting the files date on Windows 9x platforms (v5.10 bug);
+* Fixed access violation when importing file paths and new names (v5.xx bug);
+* Fixed bug which stopped the largest binary signature from being detected;
+* Updated binary signature detection to support Unicode filenames;
+* Added IntToHex, HexToInt and HexToIntDef functions to PascalScript;
+* Added Base64Encode and Base64Decode functions to PascalScript;
+* Added a script to encrypt filenames using XOR-BASE64 algorithm;
+* Option to highlight changed names is now case sensitive;
+* Added "fix conflicting new names" option to the Options menu;
+* Added shortcuts to buttons in PascalScript rule;
+* Added "none of the above" option to Case rule;
+* Fixed few spelling mistakes;
+
+ReNamer 5.25  (8 April 2008)
+----------------------------
+* EXIF_Date tag will treat Exif.Image.DateTime field as an alternative;
+* Validation process will automatically scroll to show the first invalid item;
+* Masks field in the Filters is greyed out when it is empty, i.e. not used;
+* Fixed an issue with disabled context menu of the files table (rare case);
+* Added WideCharLower and WideCharUpper for easy WideChar case conversions;
+* Added SubMatchesRegEx function to get sub-expressions of the first match;
+* Added DialogYesNo and WideDialogYesNo confirmation dialogs;
+* Added option to filters: apply masks only to the file name;
+* Corrected tab order of the components in some of the rules;
+* Maximized window state is remembered properly;
+* Added Polish translit alphabet;
+
+ReNamer 5.20  (30 January 2008)
+-------------------------------
+* Added /list command line parameter to load list of files from text file;
+* Fixed accessibility problem when adding files while browsing modal forms;
+* "Import files" option handles Unicode and UTF8 content (with BOM);
+* Added "detect using binary signature" option to the Extension rule;
+* Added option to Export/Import list of new names to/from clipboard;
+* Export/Import functions have their own button and menu;
+* Added "clear renamed files on rename" option in the settings;
+* All HTML based help files are united into a single PDF;
+* Added new section in the help file which describes renaming rules;
+* PascalScript component has been updated to the latest v3.0.27.651;
+* Added drag and drop support for scripts in PascalScript code editor;
+* Added "go to" functionality for quick line jump in PascalScript;
+* Added "apply rules for each line" option to the Analyze dialog;
+* "Auto apply rules" action in Analyze dialog trigged on change of rules;
+* "Analyze name" option will work on all selected files, not just focused;
+* Added File_FileName, File_BaseName and File_Extension meta tags;
+* Folders in "Add Folders" dialog are explicitly sorted;
+* Option to resort files has become a long-term option;
+* Added choice of Replace or Insert for the UserInput rule;
+* Added InputBox and InputQuery functions to PascalScript;
+* Added WideGetEnvironmentVar function to PascalScript;
+* Added FileAppendContent function to PascalScript;
+* Analyze dialog will apply only marked rules;
+* Updated Russian translit alphabets;
+* Analyze dialog became non-modal;
+
+ReNamer 5.10  (12 October 2007)
+-------------------------------
+* Windows network files renaming support;
+* Added "new path" column to the files table;
+* Added "auto apply rules" option to Analyze dialog;
+* Added "right-to-left" option for position parameter in the Insert rule;
+* Added "leave delimiter" option for delimiter parameters in the Delete rule;
+* Selection is displayed for both In and Out text boxes in the Analyze dialog;
+* SetFileTimeModified and SetFileTimeCreated will also work for folders;
+* Fixed disappearing table menu after editing new name via "click through";
+* Added two Russian translits, with alternative and extended Latin spellings;
+* Added "clear not changed" option to the files table;
+* Added "new project" menu item, with Ctrl+N shortcut;
+* Analyze dialog in now Unicode capable;
+* Some of the icons are updated;
+
+ReNamer 5.05  (17 September 2007)
+---------------------------------
+* Added "Exif Date" column to the files table;
+* Dialog for analyzing sample text is now resizable;
+* Added html-based "Quick Start" guide to the Help files;
+* Show "Quick Start" guide prompt on the first time run;
+* Added "Prepare for SharePoint" option to CleanUp rule;
+* Fixed potential incorrect date comparison for sorting procedure;
+* Fixed "Clear files table on rename" option, did not work properly in some cases;
+* Fixed rare false invalid by validation for Non-ASCII filenames (v5.00 bug);
+* Fixed hidden rules table when "Remember last position and size" used (v5.00 bug);
+
+ReNamer 5.00  (21 August 2007)
+------------------------------
+* Added "Masks" option to the Filter Settings;
+* Updated VirtualTreeview and TntUnicodeControls components;
+* Added Command Line Renaming parameter, to rename without user interaction;
+* Added Mark and Unmark All options to context menu of the rules table;
+* Installer updated: default scripts, translits and help files will always be overwritten;
+* Height of the rules table is remembered for "remember last position and size" option;
+* Fixed problem when "Filter Settings" dialog opened within "Add Folders" dialog;
+* Added experimental option "use natural order sorting algorithm" (2-3 times slower);
+* Fixed problem with usage of ":" and "\" symbols in some of the rules;
+* TIFF tags are no longer represented by EXIF tags, as it may be misleading;
+* More meta tags will now work with Unicode filenames and contents;
+* Last used folder in the "Add Folders" dialog is remembered;
+* Added WideCaseCapitalize() and WideCaseInvert() to PascalScript;
+* The checked state of the rules is saved in the presets;
+* Fixed problem with relative paths passed via the command line;
+* Added WMA and FLAC artist/title/album/year/genre/track meta tags;
+* Audio_Duration* tags work for FLAC files;
+* Improved new filepath validation;
+
+ReNamer 4.65  (10 May 2007)
+---------------------------
+* Added "Pad numeric sequences" preloaded script;
+* Added WideStripExtension() function to PascalScript;
+* Reserved filename characters can be used within date/time format;
+* Fixed cut off problem with long texts for big blue labels;
+* Added notes on backreferences in regular expressions help file;
+* Corrected offensive/ambiguous terms for translit alphabets.
+* Added donation link to the help menu;
+
+ReNamer 4.60  (11 March 2007)
+-----------------------------
+* Dramatically speeded up process of auto-sizing file table columns;
+* Added options for showing hidden and system folders in "Add Folders" dialog;
+* Generalized filter settings aka "default behavior for adding folders";
+* Added option to include system files, in filter settings;
+* Added new WideScanDirForFolders() function to PascalScript;
+* ExecConsoleApp() function will convert OEM output to ANSI;
+* Function WideScanDir() has been changed to WideScanDirForFiles();
+* Substitution of wildcard matches in Replace rule using $1, $2, $3, etc;
+* Fixed a small problem when matching entire filename with * wildcard;
+* Removed already needless WideGetChar function from PascalScript;
+* Support for masked paths in the command line, e.g.: "C:\Temp\*.jpg";
+* Added option to mark only changed files (in terms of new names);
+* Option which adds program to files context menu has been removed;
+* Added Serbian (Cyrillic and Latin) and Croatian translit alphabets;
+* Added option which adds program to "Send To" context menu;
+* Fixed the rest of incompatibilities with the XP manifest;
+* Improved command line parameters handling;
+* Collection of help documents was expanded;
+
+ReNamer 4.50  (1 February 2007)
+-------------------------------
+* Added meta tags to retrieve duration of Audio files: MP3, WMA, OGG, WAV!
+* Updated PascalScript source to the latest January SVN release,
+  which has finally addressed previously reported by me issues, now:
+  1) SetLength() and Length() functions work for both WideStrings and Arrays;
+  2) Widestring indexed character access is working, i.e. WideString[1];
+  Note: WideArrayLength() and WideArraySetLength() functions are removed!
+* Added 8 new functions to PascalScript rule: SetFileTimeCreated,
+  SetFileTimeModified, SetClipboardText, GetClipboardText, ReplaceRegEx,
+  MatchesRegEx, CalculateMetaTag, FileReadFragment;
+* Wildcards can now be used within Remove and Replace rules!
+* Files selection mask is remembered for the entire session;
+* JPE file extension is treated as JPEG format, for meta tags;
+* Help files will now be opened with the default web browser;
+* Added Help item, which will encapsulate all related help documents;
+* Added new "Move filename portion" script for PascalScript rule;
+* Capture run-time exceptions when executing PascalScript rule;
+* Fixed problem with extension in "Serialize duplicates" script;
+* Fixed few typos within function reference in PascalScript help file;
+* Tabulation and selection helpers for script editor in PascalScript rule;
+* Added Hours Span script, which adds/subtracts hours from dates in filenames;
+* Count of selected and marked files will now be displayed in the status bar;
+* Fixed tool bars in the main window and in the presets manager to support manifest;
+* Fixed ignoring of the option "Auto preview on change of rules configuration"
+  when states of the checkboxes of the rules are changed;
+* Last used values for dialogs "Mark by mask", "Select by filename length",
+  "Select by extension" and "Select by mask" - will now be remembered;
+* Multiple masks/extensions can be defined in dialogs "Mark by mask",
+  "Select by extension" and "Select by mask".
+* Added "Apply rules to the clipboard" option;
+* Added Turkish translit alphabet;
+
+ReNamer 4.21  (14 November 2006)
+--------------------------------
+* Added EXIF_Description meta tag, which represents image description field;
+* Added WideReplaceStr, WideReplaceText and WideTrim functions to PascalScript;
+* Added VersionInfo_* series of meta tags to retrieve Version Information fields;
+* Changed component for reading Document meta tags to TSMSummaryInformation;
+* FileSig_* meta tags were renamed to more appropriate BinarySign_* format;
+* Added a Ctrl+L shortcut for Select by Filename Length functionality, and from
+  now it will select files that are more than N characters, but not equal to N;
+
+ReNamer 4.20  (8 November 2006)
+-------------------------------
+* Added "Add to ReNamer" option for files, yet it is not recommended to be used;
+* Added "Auto preview when new files are added" option to the settings;
+* Added "Close program after successful rename" option to the settings;
+* Auto preview options now turned on by default, for new installations;
+* Fixed process of pasting text from clipboard into the new name editor;
+* Removed warning when auto-sizing columns with more than 15'000 files;
+* Removed confirmation message when pasting files into ReNamer;
+* Changed options that configure default behavior for adding folders;
+* Pressing the return key within a spin number editor in rules will submit the form;
+* "First letter capital" option will capitalize the first letter, not the first character;
+* Date and Time meta tags have been united, for performance reasons;
+* Added procedure Sleep(Milliseconds: Cardinal) for PascalScript;
+* Added Date_Now meta tag, which represents current date;
+* Added Name Length and New Name Length columns to the files table;
+
+ReNamer 4.17  (3 October 2006)
+------------------------------
+* New Names from User Input functionality has become a dynamic rule;
+* Added option to Insert text after or before every occurrence of a text fragment;
+* Added option to count marked and selected files (Alt+I);
+* Analyze Text dialog is able to parse multi-line texts;
+* Corrected several typos in the rules descriptions;
+* Small cosmetic changes to the Add/Edit Rule form;
+
+ReNamer 4.15  (11 September 2006)
+---------------------------------
+* Added new PascalScript function WideFileSize to retrieve a size of a file;
+* Help window is no longer modal (doesn't block other windows when opened);
+* Skip extension made optional for the CleanUp rule, instead of default;
+* Invalid meta tags or text with escape symbols will not be stripped out;
+* Added new option to the Settings: Real-time update of the preview;
+* Added new PascalScript functions ExecuteProgram and ExecConsoleApp
+  which let user run an external program or a console mode application providing
+  captured output and exit code;
+
+ReNamer 4.12  (11 August 2006)
+------------------------------
+* Fixed a very nasty Access Violation problem, caused by 'Always On Top' option;
+* Included recently added options to the statements of Replace and Remove rules;
+* Skip extension made optional for the Translit rule, instead of default;
+* Load from User Input dialog supports Unicode text, and UTF-8 encoded files;
+* Fixed previously broken functionality to Delete Files to Recycle Bin;
+* Workaround for a Windows error message 'Please Insert a Disk' which
+  was given on initialization of the Browse dialog for every empty drive;
+* Step for Incremental Serialization can be negative, for backwards counting;
+* Last used folder for Add Files dialog is remembered, was recently broken;
+
+ReNamer 4.10  (22 July 2006)
+----------------------------
+* Added checkboxes for rules, to enable/disable rules without deleting them;
+* Files that are not marked will not be validated, previewed or renamed;
+* Fixed not synchronized states for files table and files objects on rename;
+* Fixed incorrect validation when absolute paths are used in new names;
+* Fixed incorrect capitalization of letters infront apostrophe in the words;
+* Fixed waiting cursor and memory leak on exception in the preview process;
+* Added skip extension and case sensitive options to Replace and Remove rules;
+* Added mark by mask option to the context menu of the files table;
+* Added WideGetChar function, workaround for a bug in the PascalScript which
+  doesn't let access characters of a WideString by their index, e.g. WideString[I];
+* Added WideLength, WideSetLength, WideCopy, WideDelete, WideInsert,
+  WidePos and WidePosEx functions to correctly treat WideStrings;
+* Added WideSplitString function to split string into an array of strings;
+* Added WideScanDir function to scan directory for files
+* Updated many other PascalScript Unicode functions;
+* Updated help file for the Regular Expressions rule;
+
+ReNamer 4.00 Final  (2 July 2006)
+---------------------------------
+* Added ability to sort files by State column, comparing state indexes;
+* Added options to control the default behavior of adding folders;
+* Reorganized Settings window, some options moved, few tabs renamed;
+* Fixed not working selection by extension (4.00 related bug);
+* Fixed a problem with WideUpperCase and WideLowerCase not functioning
+  correctly on Windows 9x platforms, due to issues in Delphi system units,
+  which broke all case-related functionality for Windows 9x (4.00 related bug);
+* Fixed access violation problem when using Browse dialog on Windows 9x
+  platforms (4.00 related bug);
+
+ReNamer 4.00 RC1  (17 June 2006)
+--------------------------------
+* Now Supports Unicode, using Tnt Unicode Controls!!
+* New Faster and Nicer looking Virtual Treeview component for Files table!
+* The Core is redesigned and is more-less separated from the GUI;
+* Dramatic improvements to the speed of adding large amount of files;
+* Added ability to sort files table columns by clicking on them;
+* Absolute and relative paths can be used in the new name;
+* Added short user friendly description to every meta tag;
+* Added Drag and Drop support for moving items within Files and Rules lists;
+* Combined the Add Folder and the Browse Dialogs into a single Form;
+* Columns in the files table can be moved, simply by dragging them;
+* User can hide/show columns in the files table using column's right-click menu;
+* Help messages are separated and converted to html files, displayed as web pages;
+* Fixed Tab Order for the Rules configuration, it follows the components layout;
+* Jpeg Exif structure tag was reverted back to DateTimeOriginal from DateTime,
+  while ReNamer's Exif meta tags were renamed to EXIF_Date and EXIF_Time;
+* Added File Signature meta tags, which can detect correct file extension and
+  description for about 70 different data file formats;
+* Fixed displaying of the file overwrite prompt dialog when saving a default preset,
+  while using the "Save rules configuration on exit, load on startup" option;
+* Cursor is set to Hour Glass for long operations like Preview, Rename, etc;
+* Improved Unique Random indexing of the Serialize rule: faster search of the
+  new unique number, and breaks when search for unique number takes too long;
+* Updated all registered functions for PascalScript to handle Unicode strings;
+* Added option to export list of files and undo paths, to Undo renamed files later;
+* Added 10 new IsWideCharXXX functions for PascalScript, to check if a Unicode
+  character is Upper, Lower, Digit, Space, Punctuation, Control, Blank, Hex Digit,
+  Alphabetic or Alpha-Numeric; and 4 Unicode Conversion routines: WideToAnsi,
+  AnsiToWide, UTF8Encode, UTF8Decode;
+* Other small graphical changes;
+
+ReNamer 3.30  (7 May 2006)
+* Updated Presets Manager, added Load and Copy functions;
+* Updated Save Preset dialog, added list of existing presets;
+* Added options to Copy and Cut files from the table to Clipboard;
+* Filename of the INI file is constructed from the Filename of the Executable;
+* Improved speed of loading list of files from PLS, M3U and TXT files.
+* Loading New Names from Text File is combined together with User Input;
+* Dates & Times (Created and Modified) of the Folders are displayed correctly;
+* PascalScript Examples are savable/loadable scripts;
+* Translit Alphabets are savable/loadable text files;
+* Faster processing of Meta Tags;
+* Added Email_TimeSent meta tag;
+* OLEInfo* meta tags were renamed to Document*;
+* Fixed memory leak after processing Document* meta tags;
+* Fixed problem with displaying size of the files bigger then 2Gb;
+* Fixed incorrect sorting by Last Modified Time;
+
+ReNamer 3.20  (24 April 2006)
+* New PascalScript rule, for Scripting your Own Renaming rule!!
+* Window for adding rules is resizable now, to allow expansion of rules configuration;
+* Added option to Paste copied files/folders from Windows Explorer (Ctrl+V);
+* Added special Help window for displaying long help strings, e.g. RegEx Syntax;
+* Fixed small bug for saving presets (v3.00: Presets folder was not created);
+* Main buttons have been added to the File menu (with their shortcuts);
+* Added option to Import file table contents from: CSV, TXT;
+* Added 2 new Meta Tags: EXIF_Make, EXIF_Model;
+* Added option to Duplicate Selected Rule;
+
+ReNamer 3.05  (9 April 2006)
+* Added another option to the Case rule, to make only first letter capital;
+* Added option to Auto Preview when rules configuration changes, in Settings;
+* Changes to the Load option: only existing files will be added, the table will not
+  be cleared before adding, relative filenames will be resolved based on the
+  directory of the file from which they were read;
+* Eliminated a memory leak (not freed instances of rules generated on preview);
+* Fixed appearance of glitches on 'Drag your files here' and 'Click here to add a rule'
+  labels after resizing the main window;
+
+ReNamer 3.00  (2 April 2006)
+* Completely re-designed the Rules System - rules became dynamic objects,
+  this makes them very flexible and extensible, and easier to use;
+* GUI of the main window is re-designed, optimizing for dynamic contents;
+* Major optimizations to almost every rule;
+* Each rule provides a human readable Statement for its configuration;
+* Presets from older versions are not longer valid, starting from this version;
+* Fixed bug in Translit rule, in some cases last characters would not be translated
+  if a new name has increased in length, due to some non-english letters been
+  represented by 2 or more english characters;
+* Minor optimizations to the processing of Meta Tags;
+* Added Option to Export file table contents into: CSV, TXT, XML;
+* Case rule is able to invert case of not english letters as well;
+* Added option to Incremental Serialization to reset Index when folder changes;
+* Added File_TimeCreated and File_TimeModified meta tags;
+* Added 6 new AVI format related meta tags: AVI_Width, AVI_Height,
+  AVI_FramesPerSecond, AVI_TotalFrames, AVI_DurationMins, AVI_DurationSecs;
+* Updated Audio Tools Library to v2.3, used for extracting ID3v1 and ID3v2 tags;
+* Image meta tags for getting dimensions now support PNG and TIFF formats;
+* EXIF Date and Time meta tags now support TIFF files as well as JPEG;
+* Added another special sort by Folder Structure;
+* Translit rule is case-sensitive now;
+
+ReNamer 2.35  (7 March 2006)
+* Text fields in rules configuration resize with the form;
+* Added 'Step' option to Incremental Serialization;
+* Added 'Skip Extension' option into Remove rule;
+* Small optimizations to renaming process;
+* Improved performance of undo process;
+
+ReNamer 2.33  (31 January 2006)
+* Fixed positioning problem, occurred on desktops with more then 1 monitor;
+* Small graphical and functional improvements;
+
+ReNamer 2.32  (12 January 2006)
+* Added option to "Overwrite files with New Names";
+* Corrected several typos and grammatically incorrect messages;
+* Relative folder structures can be used in the New Name field, even though
+  program may give a warning of new name been incorrect.
+
+ReNamer 2.31  (10 December 2005)
+* Replace and Remove rules can process multiple items, separated with *|* delimiter;
+* Added option to append new extension, in the Extension rule;
+
+ReNamer 2.30  (24 November 2005)
+* added 3 new MetaTags: Email_DateSent, Email_Subject, Email_From;
+  they represent associated fields from the header of an email, according
+  to the specifications in RFC2822;
+* FileName reserved characters are automatically stripped out from returns
+  of the MetaTags of type HTML, ID3, OLE, Email.
+* Validate function moved to a separate menu, accessible via Options button;
+* added Highlight option to highlight all the changed names in the table;
+* added Maximize Table option to fit table on the whole client area;
+* Rule Tabs are hidden, leaving more space for the rest of components;
+* added Clearing options for Clearing Marked and Not Marked items;
+* added Selecting option for Selecting files by their filename length;
+* Analyze button moved to the new Options popup menu;
+* other graphical changes/improvements;
+
+ReNamer 2.25  (13 November 2005)
+* Integrated 3 algorithms for calculating Hash of a file: MD5, SHA1, CRC32;
+  (accessed via MetaTags: Hash_MD5, Hash_SHA1, Hash_CRC32);
+* improved performance of the CleanUp rule;
+
+ReNamer 2.20  (7 November 2005)
+* now supports Regular Expressions, added as a new rule called RegEx!!!
+  (component is written by Andrey Sorokin @ www.regexpstudio.com);
+* added 4 new MetaTags to read OLE Summary Information: Title, Author,
+  Subject and NumberOfPages (thanks to work of Andre v.d. Merwe);
+* added support of GIF files for Image dimension MetaTags
+  (thanks to work of Anders Melander on TGIFImage library);
+* added File_DOSName MetaTag, to extract the DOS name of the file;
+* sorting options (criteria, asc/desc, path/name) are remembered now;
+* added option to the Settings: "Resort table when files are added";
+* items which have failed Undo operation are now marked as failed;
+* fixed error when Delete rule is activated with an empty delimiter;
+* fixed small bugs within Filename Validation procedures;
+* small optimizations for processing MetaTags and Rules;
+
+ReNamer 2.11  (20 October 2005)
+* Settings have been moved to the separate menu item, with shortcuts for each tab;
+* added option to the Settings: "Clear Files Table on Rename" (leaves failed items);
+* program warns user if all New Names are empty when he/she clicks Rename;
+* added preset of Romanian characters for Translit rule;
+* small graphical improvements;
+
+ReNamer 2.10  (1 October 2005)
+* added new Rule: Translit - gives ability to translate non-english characters of any
+  language to their english representation!
+* added 4 Image meta tags: WidthAndHeight, Width, Height and Pixels - which
+  represent real dimensions of an image (supported formats: BMP, ICO, JPEG);
+* added File_FolderName meta tag, to use file's folder name for renaming;
+* added HTML_Title meta tag, to extract HTML's title tag contents;
+* small graphical changes;
+
+ReNamer 2.05  (3 September 2005)
+* ANSI filenames support, works properly with any System Locale;
+* improved treatment of Multi-Byte Characters (e.g. Chinese, Japanese, Korean);
+* Capitalization rule works now for filenames in any language;
+
+ReNamer 2.02  (1 August 2005)
+* added option to the Settings: display message on successful Rename;
+* added option to the Settings: clear Actions List on Rename;
+* added a popup menu to the Actions List, to clear (uncheck) all rules;
+* ID3 TrackNo tags are always padded with front zero to get 2 digits number;
+
+ReNamer 2.01  (12 July 2005)
+* fixed bug: ID3 tags got skipped in some cases, after processing EXIF tags;
+* added option to the Delete rule: right-to-left processing;
+
+ReNamer 2.00  (7 July 2005)
+* ID3v1 and ID3v2 Meta Tags support (thanks to "Audio Tools Library" developers);
+* Jpeg EXIF Meta Tags support (thanks to Martin Djernaes);
+* FileSize and FileDate Meta Tags support;
+* Rename Folders - treat folders like files, plus extended Add Folder dialog;
+* improved filenames validation, added existence check and MAX_PATH limitation;
+* new GUI for Settings form, with guidelines on how to increase performance;
+* extended Delete rule: delete from-until specified delimiters;
+* added option to the Case rule: extension always lower case;
+* added option to the Serialize rule: pad to specified length;
+* added option to the CleanUp rule: skip number sequences;
+* added Shell action: delete file to Recycle Bin;
+* added option to the Settings: save rules set on exit, load on launch;
+* option to leave original extension for the new filenames entered via User Input;
+* improved file moving procedure, added to popup menu;
+* shell actions are executed for all selected files;
+
+ReNamer 1.85  (2 June 2005)
+* Options menu was converted to the Settings Form;
+* added Extra Columns: FileSize, TimeModified, TimeCreated - turned off by default;
+* extended Browse For Folder dialog: Mask files, exclude Hidden files, Resizable;
+* extended Serialization Rule: choice of Incremental or Random index;
+* added ability to Force user defined Case for specific Fragments, in Case Rule;
+* full path of the file is replaced by its directory path, in the Path column;
+* improved performance of Case Capitalization: slow string concatenation was
+  replaced with fast indexed character access;
+* files icons reset when no validation on preview;
+* handy shortcuts:  Add Files - F3;  Add Folder - F4;  Preview - F5;  Rename - F6;
+* customizable "Drag your files here" text, via Settings Form;
+* added Option to Minimize Path Column on Auto Size, which was done by default;
+* added Select by Mask to the files management functions;
+* added special sorting by File Size;
+* added alternative view for Tabs;
+* added files total size, beside the counter;
+* code optimizations and cleanup;
+
+ReNamer 1.80  (10 May 2005)
+* Inter Process Communications (written by Shen Min @ www.sunisoft.com):
+  "Add To ReNamer" now enqueues files in already running Application, if any;
+* extended loading options: load files from M3U and PLS playlists, load new
+  filenames from User Input;
+* enhanced files management, with improved sorting and popup menu;
+* fixed validation bug: files with a same name were considered duplicated even
+  if they were in different folders;
+* new options: auto size table on change, validate new filenames on preview,
+  remember last location, always on top; all written to the INI file;
+* added functions for clearing valid/invalid files and selecting by extension;
+* added files counter;
+* general cleanup and tiny fixes;
+* code optimizations;
+
+ReNamer 1.76  (2 May 2005)
+* Actions Order is written to the Preset (not only rules);
+* CleanUp rule - formed from Brackets rule joined together with a new Spaces rule;
+* some icons have been updated;
+* small improvements;
+
+ReNamer 1.75  (23 April 2005)
+* Test String dialog now became a String Analyzer, with ability to plug parameters
+  of the selection (selected text, position, length) straight into the rules;
+* added File Properties menu item (opens Windows File Properties dialog);
+* fixed: shell related menu items "Open File" and "Open File with Notepad" were
+  not connected to associated functions;
+* small graphical and functional improvements;
+
+ReNamer 1.73  (12 April 2005)
+* Support for parameters, supplied files and folders will be added to the table;
+* Option to register a preset *.rnp extension;
+* Option to add ReNamer to the context menu of the folders;
+* added About tab to About Form, with shell executable email and web addresses;
+* added menu item to Browse the Presets folder;
+* small graphical improvements to the buttons control panel;
+* added shortcuts Ctrl+1,2,3,4,5,6,7,8,9 to first 9 presets;
+* fixed: Presets Manager would rename a preset to ".rnp" when new name is an
+  empty string;
+* fixed: space on its own and spaces on both sides of text parameters were
+  not saved in Presets;
+* corrected some typos;
+* small changes and improvements;
+
+ReNamer 1.70  (8 April 2005)
+* Presets supported now! Create, Save, Load and Manage your very own presets.
+* Undo supported now! Press Ctrl+Z to Undo - get your old filenames back.
+* New look of the About Form;
+* fixed a terrible typo (thanks to Bert van Velsen);
+* added hints for the main buttons;
+
+ReNamer 1.61  (3 April 2005)
+* added files up/down moving feature: Ctrl + Up/Down Arrow;
+* added Brackets rule: to strip out contents of the brackets;
+* expanded sorting options: sort numerically, by time created, by last modified
+  time, by path/name;
+
+ReNamer 1.60  (25 March 2005)
+* added Validate button, for validation at any time;
+* small improvements to the files table;
+* added some hints for the buttons;
+* new filenames are always trimed on both sides;
+* added ascending/descending Sorting, based on filename;
+* ability to load new filenames from the text file;
+* table columns are auto-sized automatically whenever new files are added
+  as well as after filenames generation;
+* improved filenames validation: warnings are given when two or more files have
+  the same generated name, or if at least one filename is an invalid Windows
+  filename or filename is an empty string;
+
+ReNamer 1.50  (19 February 2005)
+* added couple of useful Hotkeys to manage Files list;
+* improved marking procedures;
+* added support for dragged Folders;
+* improved & fixed column auto-resizing procedure;
+* fixed bag with incorrect positioning of NewFileName Editor;
+* mouse right click on Path column header - minimizes it; 
+* added advanced custom "Browse for Folder" dialog, which remembers last used 
+  Folder, and has option to include or not to include subfolders;
+
+ReNamer 1.45  (10 January 2005)
+* implemented Validation of generated FileNames;
+* added Strip rule;
+* added Serialization rule;
+* optimized algorithms, global Rules implemented;
+* added checkboxes for files, only marked ones will be renamed;
+* some GUI impoovements;
+* added NewFileName Editor, to manually edit particular filenames;
+* fixed bug with Case Capitalization, now filename is put in Lower case first,
+  and then Capitalized;
+
+ReNamer 1.41  (12 December 2004)
+* fixed bug with clearing successful and failed items;
+* improved Testing procedure interface, created separate Form; 
+* Case Capitalization improved: words capitalized if one of this symbols is
+  in front of the word (including a space symbol): _.,()[]&+-
+
+ReNamer 1.40  (6 December 2004)
+* improved GUI, for easy navigation;
+* remember the Test string;
+* specific Rule tab is brought to front once associated Rule is been clicked;
+* added Hotkeys for moving up/down Actions: Ctrl + UpArrow/DownArrow;
+
+ReNamer 1.37  (4 December 2004)
+* small GUI changes;
+
+ReNamer 1.36  (27 November 2004)
+* redesigned control panel, for better navigation;
+* status message is displayed when finished renaming, with some statistics;
+* files table is automatically updated after the renaming operation, and files
+  are ready for the next operation;
+
+ReNamer 1.35  (20 November 2004)
+* added icons for buttons in Control Panel;
+* Folder can be added, which is scanned recursively to obtain files within it;
+* fixed incorrect moving of an Operation within the Order List, check-item
+  associated with an Operation was not moved;
+ 
+ReNamer 1.30  (November 2004)
+* all buttons placed to the Control Panel, at the top of the form;
+* Tester added, to parse any string through the chain of the rules, for testing
+  purposes;
+* Popup Menu added for the table, with actions to Remove Items, Test current 
+  filename, and some function to clear the table;
+* fixed some bugs, results after applying some rules were incorrect;
+
+ReNamer 1.20  (November 2004)
+* files can be Dragged over to the form, to add them to the table;
+* images added to the files table, to display different states: not processed, 
+  successfully renamed, failed to be renamed;
+* improved graphical interface;
+
+ReNamer 1.10  (November 2004)
+* Actions Order can be changed;
+* added rules to edit Case of the letters;
+* added rule to change Extension;
+* re-done graphical user interface;
+
+ReNamer 1.00  (November 2004)
+* Multi-functional program to Rename files using different rules;

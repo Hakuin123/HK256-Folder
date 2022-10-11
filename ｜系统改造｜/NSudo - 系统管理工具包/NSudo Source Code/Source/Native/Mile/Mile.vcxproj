@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{A17EB414-7D7A-4455-BEF7-CA8D149D0CB2}</ProjectGuid>
+    <RootNamespace>Mile</RootNamespace>
+    <MileProjectType>StaticLibrary</MileProjectType>
+  </PropertyGroup>
+  <Import Project="..\Mile.Project.VisualStudio\Mile.Project.Cpp.props" />
+  <Import Project="..\Mile.Project.VisualStudio\Mile.Project.Cpp.VC-LTL.props" />
+  <ImportGroup Label="PropertySheets">
+    <Import Project="..\MINT\MINT.props" />
+  </ImportGroup>
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <PreprocessorDefinitions>NSUDOAPI_USING_STATIC_LIBRARY;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="Mile.Portable.cpp" />
+    <ClCompile Include="Mile.Windows.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Mile.Portable.h" />
+    <ClInclude Include="Mile.Windows.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MCC.cppold" />
+    <None Include="Mile.props" />
+  </ItemGroup>
+  <Import Project="..\Mile.Project.VisualStudio\Mile.Project.Cpp.targets" />
+</Project>

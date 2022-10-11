@@ -1,0 +1,26 @@
+﻿version: CI Build {Build}
+skip_commits:
+  files:
+  - '.github/**/*'
+  - 'Website/**/*'
+  - 'Scripts/**/*'
+  - '*.md'
+image: Visual Studio 2019
+install:
+  - >-
+    git submodule update --init --recursive
+before_build:
+  - >-
+    dotnet nuget locals all --clear
+build:
+  project: Source/Native/BuildAllTargets.proj
+  parallel: true
+after_build:
+  - >-
+    7z a -r NSudo_CI_Build_%APPVEYOR_BUILD_NUMBER%.zip ^
+    .\Source\Native\Output\*.exe ^
+    .\Source\Native\Output\*.dll ^
+    .\Source\Native\Output\*.pdb ^
+    .\Source\Native\Output\*.json
+artifacts:
+  - path: NSudo_CI_Build_%APPVEYOR_BUILD_NUMBER%.zip

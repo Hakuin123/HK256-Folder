@@ -1,0 +1,8 @@
+右击“屏蔽flash广告”，以管理员身份运行，如果显示拒绝访问建议用记事本打开下面文件，手动编辑：
+
+C:\Windows\System32\drivers\etc\hosts
+
+添加代码：
+127.0.0.1 mini.ffnews.cn
+127.0.0.1 tongji.flash.cn
+127.0.0.1 mini.flash.2144.com

@@ -1,0 +1,4033 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: ReNamer\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: den4b Team <support@den4b.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sr\n"
+"X-Country: rs\n"
+"X-Country-Name: Serbia\n"
+"X-Language-Name: Serbian\n"
+"X-Language-Name-Native: Српски\n"
+"X-Translators: Никола Алексић (eR@SeR) <nalexic@gmail.com>\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#: mainform.ssavecurrentpresetconfirm
+msgid "Save current preset?"
+msgstr "Сачувати тренутну поставку?"
+
+#: mainform.s_askpurchaseremovelimit
+msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
+msgstr "Желите ли да купите Про верзију да уклоните ово ограничење?"
+
+#: mainform.s_askpurchaseunlockfeature
+msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
+msgstr "Желите ли да купите Про верзију да откључате ову опцију?"
+
+#: mainform.s_confirmunregister
+msgid ""
+"Are you sure you want to unregister the product?\n"
+"\n"
+"This will remove your license and deactivate the \"Pro\" version.\n"
+msgstr ""
+"Сигурни сте да желите да дерегиструјете програм?\n"
+"\n"
+"Овим ће се уклонити ваша лиценца и деактивирати Про верзија.\n"
+
+#: mainform.s_featurenotavailable
+msgid "This feature is not available in this version."
+msgstr "Ова опција није доступна у овој верзији."
+
+#: mainform.s_free_license_note
+msgctxt "mainform.s_free_license_note"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Ова апликација се може користити и дистрибуисати САМО за некомерцијалне сврхе и са одговарајућим ознакама."
+
+#: mainform.s_maxallowedpresets
+msgid "This version is limited to a maximum of %s presets."
+msgstr "Ова верзија је ограничена максимално до %s поставки."
+
+#: mainform.s_maxallowedrules
+msgid "This version is limited to a maximum of %s rules."
+msgstr "Ова верзија је ограничена максимално до %s правила."
+
+#: mainform.s_no_license_caption
+msgid "(non-commercial use only)"
+msgstr "(само за некомерцијалну употребу)"
+
+#: mainform.s_please_read_full_license
+msgid "For more information please read full license code"
+msgstr "За више информација прочитати цео лиценцни код"
+
+#: mainform.s_presetdirstructurelimitation
+msgid "This version does not support presets directory structure."
+msgstr "Ова верзија не подржава структуру фолдера поставки."
+
+#: mainform.s_statusbar_hint_filters
+msgid "Active filter settings"
+msgstr "Активна подешавања филтера"
+
+#: mainform.s_statusbar_hint_presets
+msgid "Loaded preset"
+msgstr "Учитана поставка"
+
+#: mainform.s_statusbar_hint_presets_modified
+msgid "Loaded preset (modified)"
+msgstr "Учитана поставка (измењена)"
+
+#: presetslinksform.screatednumpresetlinks
+msgid "Created %d preset links."
+msgstr "Направљено %d линкова поставки."
+
+#: presetsmanagerform.sduplicatepresetsuffix
+msgid "COPY"
+msgstr "Копирати"
+
+#: rulepascalscriptframe.saddyourcodehere
+msgid "Add your code here"
+msgstr "Додати ваш код овде"
+
+#: rulepascalscriptframe.sholdtoinsertscriptinline
+msgid "Hold %s when loading a script to insert it inline"
+msgstr "Држите %s када се учитава скрипта да би се убацила у ред"
+
+#: rulepascalscriptframe.spressforcodecompletion
+msgid "Press %s for code completion"
+msgstr "Притиснути %s за завршетак кода"
+
+#: ruleregexframe.sregexanychar
+msgid "Any single character"
+msgstr "Било који знак"
+
+#: ruleregexframe.sregexanycharexact3
+msgid "A set of 3 of any characters"
+msgstr "Ред од 3 било којих знакова"
+
+#: ruleregexframe.sregexanycharplus
+msgid "One or more of any characters"
+msgstr "Један или више од било којих знакова"
+
+#: ruleregexframe.sregexanycharplusgrouped
+msgid "One or more of any characters, grouped into subexpression"
+msgstr "Један или више од било којих знакова, груписаних у подизраз"
+
+#: ruleregexframe.sregexanycharplusnogreedy
+msgid "One or more of any characters, but fewer as possible"
+msgstr "Један или више од било којих знакова, али што је мање могуће"
+
+#: ruleregexframe.sregexanycharset2to4
+msgid "A set of 2 to 4 of any characters"
+msgstr "Ред од 2 до 4 од било којих знакова"
+
+#: ruleregexframe.sregexanycharset3ormore
+msgid "A set of 3 or more of any characters"
+msgstr "Ред од 3 или више од било којих знакова"
+
+#: ruleregexframe.sregexanycharstar
+msgid "Zero or more of any characters"
+msgstr "Ниједан или више од било којих знакова"
+
+#: ruleregexframe.sregexcharlistabc
+msgid "Any single character from the list (e.g. \"a\" or \"b\" or \"c\")"
+msgstr "Било који знак из листе (нпр. \"а\" или \"b\" или \"c\")"
+
+#: ruleregexframe.sregexcharlistaorborc
+msgid "Any one occurrence of the alternatives (e.g. \"aa\" or \"bb\" or \"cc\")"
+msgstr "Било које налазиште од могућности (нпр. \"aa\" или \"bb\" или \"cc\")"
+
+#: ruleregexframe.sregexcharlistatoz
+msgid "Any single character from the range (e.g. \"a\" to \"z\")"
+msgstr "Било који знак од опсега (нпр. \"а\" до \"z\")"
+
+#: ruleregexframe.sregexend
+msgid "End of the input text"
+msgstr "Крај убаченог текста"
+
+#: ruleregexframe.sregexescapedslash
+msgid "Use an escape character to match an actual backslash \"\\\""
+msgstr "Употребити \"escape\" знак за подударање са косом цртом \"\\\""
+
+#: ruleregexframe.sregexnotcharlistabc
+msgid "Any single character except the ones from the list"
+msgstr "Било који знак осим оних са листе"
+
+#: ruleregexframe.sregexspacechars
+msgid "Any single space character (space, tab, new line)"
+msgstr "Било који знак размака (размак, таб, нови ред)"
+
+#: ruleregexframe.sregexstart
+msgid "Start of the input text"
+msgstr "Почетак текста за унос"
+
+#: ruleregexframe.sregexwordboundary
+msgid "Word boundary"
+msgstr "Почетак/крај речи"
+
+#: ruleregexframe.sregexwordchars
+msgid "Any single alphanumeric character (including an underscore)"
+msgstr "Било који алфанумерички знак (укључујући доњу црту)"
+
+#: settingsform.sfailedtoapplysystemsettings
+msgid "Failed to apply system settings."
+msgstr "Неуспешна примена системског подешавања."
+
+#: settingsform.shinttryrunasadministrator
+msgid "(Try to start the program as administrator to apply these settings)"
+msgstr "(Покушати покренути програм као администратор за примену ових подешавања)"
+
+#: settingsform.srealtimepreviewwarning
+msgid ""
+"Real-time update of the preview can be dangerous and its use is not recommended!\n"
+"\n"
+"It will cause graphical updates to the GUI during preview for every processed file but will also respond to any user activity such as mouse clicks and keyboard button presses. Beware, any accidental actions generated during a preview as a result of user activity within the application will interfere with the preview process and can cause unpredictable behavior.\n"
+msgstr ""
+"Стварно време ажурирања прегледа је веома опасно и његова употреба није препоручљива!\n"
+"\n"
+"Проузроковаће графичка ажурирања GUI-а током прегледа за сваки процесуирани фајл али ће такође одговорити на сваку активност попут кликтања мишем и типкања на тастатури. Пажња, свака ненамерна радња генерисана током прегледа као последица активности корисника у склопу програма мешаће се са процесом прегледа и може проузроковати непредвидљиво понашање.\n"
+
+#: tform_about.caption
+msgctxt "tform_about.caption"
+msgid "About"
+msgstr "О Програму"
+
+#: tform_about.label_author2.caption
+msgid "Author:"
+msgstr "Аутор:"
+
+#: tform_about.label_date.caption
+msgid "Date:"
+msgstr "Датум:"
+
+#: tform_about.label_email2.caption
+msgid "Email:"
+msgstr "Имејл:"
+
+#: tform_about.label_version.caption
+msgid "Version:"
+msgstr "Верзија:"
+
+#: tform_about.label_website2.caption
+msgid "Website:"
+msgstr "Вебсајт:"
+
+#: tform_addpaths.bitbtn_add.caption
+msgctxt "tform_addpaths.bitbtn_add.caption"
+msgid "Add"
+msgstr "Додати"
+
+#: tform_addpaths.bitbtn_cancel.caption
+msgctxt "tform_addpaths.bitbtn_cancel.caption"
+msgid "Cancel"
+msgstr "Откажи"
+
+#: tform_addpaths.caption
+msgctxt "tform_addpaths.caption"
+msgid "Add Paths"
+msgstr "Додати Путање"
+
+#: tform_addpaths.checkbox_workingdir.caption
+msgctxt "tform_addpaths.checkbox_workingdir.caption"
+msgid "Working directory:"
+msgstr "Радни фолдер:"
+
+#: tform_addpaths.label_enterpaths.caption
+msgid "Enter file paths:"
+msgstr "Унети путање фајла:"
+
+#: tform_addrule.bitbtn_add.caption
+msgctxt "TFORM_ADDRULE.BITBTN_ADD.CAPTION"
+msgid "Add Rule"
+msgstr "Додати Правило"
+
+#: tform_addrule.bitbtn_close.caption
+msgctxt "tform_addrule.bitbtn_close.caption"
+msgid "Close"
+msgstr "Затворити"
+
+#: tform_addrule.caption
+msgctxt "TFORM_ADDRULE.CAPTION"
+msgid "Add Rule"
+msgstr "Додати Правило"
+
+#: tform_addrule.groupbox_config.caption
+msgid "Configuration:"
+msgstr "Изглед:"
+
+#: tform_addrule.menuitem_ruledescription.caption
+msgid "Description"
+msgstr "Опис"
+
+#: tform_analyze.bb_applyrules.caption
+msgid "Apply Rules"
+msgstr "Применити Правила"
+
+#: tform_analyze.caption
+msgctxt "tform_analyze.caption"
+msgid "Analyze"
+msgstr "Анализирати"
+
+#: tform_analyze.cb_applyrulesforeachline.caption
+msgid "Apply rules for each line"
+msgstr "Применити правила за сваки низ"
+
+#: tform_analyze.cb_autoapplyrules.caption
+msgid "Automatically apply rules"
+msgstr "Аутоматски применити правила"
+
+#: tform_analyze.cb_wordwrap.caption
+msgid "Line wrap"
+msgstr "Обмотати ред"
+
+#: tform_analyze.label_textin.caption
+msgid "Enter text that you wish to analyze:"
+msgstr "Унети текст који желите да анализирате:"
+
+#: tform_analyze.label_textout.caption
+msgid "Text after applying rules:"
+msgstr "Текст после примењивања правила:"
+
+#: tform_browse.bitbtn_cancel.caption
+msgctxt "TFORM_BROWSE.BITBTN_CANCEL.CAPTION"
+msgid "Close"
+msgstr "Затворити"
+
+#: tform_browse.bitbtn_ok.caption
+msgctxt "tform_browse.bitbtn_ok.caption"
+msgid "Add Folders"
+msgstr "Додати Фолдере"
+
+#: tform_browse.caption
+msgid "Browse"
+msgstr "Пребирати"
+
+#: tform_browse.checkbox_showhidden.caption
+msgid "Show hidden folders"
+msgstr "Приказати скривене фолдере"
+
+#: tform_browse.checkbox_showsystem.caption
+msgid "Show system folders"
+msgstr "Приказати системске фолдере"
+
+#: tform_browse.label_title.caption
+msgid "Select folders that you want to add:"
+msgstr "Изабрати фолдере које желите да додате:"
+
+#: tform_browse.menuitem_collapseall.caption
+msgid "Collapse All"
+msgstr "Срушити Све"
+
+#: tform_browse.menuitem_explorefolder.caption
+msgid "Explore selected folder"
+msgstr "Истражити изабрани фолдер"
+
+#: tform_browse.menuitem_gotofolder.caption
+msgctxt "TFORM_BROWSE.MENUITEM_GOTOFOLDER.CAPTION"
+msgid "Go To Folder"
+msgstr "Ићи На Фолдер"
+
+#: tform_browse.menuitem_refreshtree.caption
+msgid "Refresh Tree"
+msgstr "Освежити Структуру"
+
+#: tform_browse.sb_gotofolder.caption
+msgctxt "tform_browse.sb_gotofolder.caption"
+msgid "Go To"
+msgstr "Ићи До"
+
+#: tform_browse.speedbutton_filtersettings.caption
+msgctxt "tform_browse.speedbutton_filtersettings.caption"
+msgid "Filter Settings"
+msgstr "Подешавања Филтера"
+
+#: tform_filtersettings.bitbtn_cancel.caption
+msgctxt "tform_filtersettings.bitbtn_cancel.caption"
+msgid "Cancel"
+msgstr "Откажи"
+
+#: tform_filtersettings.bitbtn_save.caption
+msgctxt "tform_filtersettings.bitbtn_save.caption"
+msgid "Save"
+msgstr "Сачувати"
+
+#: tform_filtersettings.caption
+msgctxt "TFORM_FILTERSETTINGS.CAPTION"
+msgid "Filter Settings"
+msgstr "Подешавања Филтера"
+
+#: tform_filtersettings.cb_masksonfilename.caption
+msgid "Apply only to the file name, instead of full path."
+msgstr "Применити називима фајлова, уместо целој путањи."
+
+#: tform_filtersettings.checkbox_addfilesfromfolders.caption
+msgid "Add files within folders"
+msgstr "Додати фајлове унутар фолдера"
+
+#: tform_filtersettings.checkbox_addfoldersasfiles.caption
+msgid "Add folders as files"
+msgstr "Додати фолдере као фајлове"
+
+#: tform_filtersettings.checkbox_includehidden.caption
+msgid "Include hidden items"
+msgstr "Укључити скривене фајлове и фолдере"
+
+#: tform_filtersettings.checkbox_includesubfolders.caption
+msgid "Include subfolders"
+msgstr "Укључити подфолдере"
+
+#: tform_filtersettings.checkbox_includesystem.caption
+msgid "Include system items"
+msgstr "Укључити системске фајлове и фолдере"
+
+#: tform_filtersettings.checkbox_saveasdefault.caption
+msgctxt "tform_filtersettings.checkbox_saveasdefault.caption"
+msgid "Save as default for future sessions"
+msgstr "Сачувати као подразумевано за будуће сесије"
+
+#: tform_filtersettings.checkbox_skiprootfoldersasfiles.caption
+msgid "Skip root folders when added as files"
+msgstr "Прескочити фолдере када су додати као фајлови"
+
+#: tform_filtersettings.groupbox_folders.caption
+msgid "Default behavior for adding folders:"
+msgstr "Подразумевано понашање за додавање фолдера:"
+
+#: tform_filtersettings.groupbox_masks.caption
+msgid "Masks:"
+msgstr "Маске:"
+
+#: tform_filtersettings.label_masksexclude.caption
+msgid "Exclude:"
+msgstr "Искључити:"
+
+#: tform_filtersettings.label_masksinclude.caption
+msgid "Include:"
+msgstr "Укључити:"
+
+#: tform_filtersettings.label_masksnote.caption
+msgctxt "tform_filtersettings.label_masksnote.caption"
+msgid "Note: separate multiple masks with \";\" (semicolons)."
+msgstr "Важно: одвојити спојене маске са \";\" (тачка зарез)."
+
+#: tform_folderwarning.bb_cancel.caption
+msgctxt "TFORM_FOLDERWARNING.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Откажи"
+
+#: tform_folderwarning.bb_continue.caption
+msgid "Continue"
+msgstr "Наставити"
+
+#: tform_folderwarning.caption
+msgid "Warning: Renaming Folders"
+msgstr "Упозорење: Преименовање Фолдера"
+
+#: tform_folderwarning.cb_nevershowwarning.caption
+msgid "Never show this warning"
+msgstr "Никад не приказивати ово упозорење"
+
+#: tform_folderwarning.label_warning.caption
+msgid "Renaming a folder also affects all of its content. A problem can occur if you try to rename folders and their content in a single run. Items in the renaming list are processed from top to bottom. The order of items in this case is extremely important for successful renaming."
+msgstr "Преименовање фолдера утиче на сав његов садржај. Проблем се може појавити ако се покушају преименовати фолдери и њихов садржај у једном покушају. Садржај у листи за преименовање се обрађује од горе на доле. Редослед фајлова у овом случају је врло битан за успешно преименовање."
+
+#: tform_folderwarning.label_warning2.caption
+msgid "Parent folders must always appear below their contained items. This can be easily achieved by sorting items in descending order by the Folder or Path column."
+msgstr "Матични фолдери се увек морају појавити испод њихових садржаја. Ово се лако може постићи сортирањем садржаја у опадајућем редоследу Фолдер или Путања колоне."
+
+#: tform_main.action_about.caption
+msgctxt "TFORM_MAIN.ACTION_ABOUT.CAPTION"
+msgid "About"
+msgstr "О Програму"
+
+#: tform_main.action_addfiles.caption
+msgid "Add Files"
+msgstr "Додати Фајлове"
+
+#: tform_main.action_addfolders.caption
+msgctxt "TFORM_MAIN.ACTION_ADDFOLDERS.CAPTION"
+msgid "Add Folders"
+msgstr "Додати Фолдере"
+
+#: tform_main.action_addpaths.caption
+msgctxt "tform_main.action_addpaths.caption"
+msgid "Add Paths"
+msgstr "Додати Путање"
+
+#: tform_main.action_analyzesampletext.caption
+msgid "Analyze sample text"
+msgstr "Анализирати текст"
+
+#: tform_main.action_applyrulestoclipboard.caption
+msgid "Apply rules to the clipboard"
+msgstr "Применити правила на клипборд"
+
+#: tform_main.action_autosizecolumns.caption
+msgid "Autosize columns"
+msgstr "Аутоматски одмерити колоне"
+
+#: tform_main.action_countmarkedandselectedfiles.caption
+msgid "Count marked and selected files"
+msgstr "Избројати обележене и изабране фајлове"
+
+#: tform_main.action_exportasbatchfilefullpaths.caption
+msgid "Export as batch renaming file (full paths)"
+msgstr "Извести као скуп фајла за преименовање (целе путање)"
+
+#: tform_main.action_exportasbatchfileonlynames.caption
+msgid "Export as batch renaming file (only names)"
+msgstr "Извести као скуп фајла за преименовање (само називи)"
+
+#: tform_main.action_exportfilesandpreview.caption
+msgid "Export file paths and new names"
+msgstr "Извести путање фајла и нове називе"
+
+#: tform_main.action_exportfilesandundo.caption
+msgid "Export file paths and undo paths"
+msgstr "Извести путање фајла и поништити путање"
+
+#: tform_main.action_exportnewnamestoclipboard.caption
+msgid "Export new names to clipboard"
+msgstr "Извести нове називе у клипборд"
+
+#: tform_main.action_exportpathstoclipboard.caption
+msgid "Export paths to clipboard"
+msgstr "Извести путање у клипборд"
+
+#: tform_main.action_filters.caption
+msgctxt "TFORM_MAIN.ACTION_FILTERS.CAPTION"
+msgid "Filters"
+msgstr "Филтери"
+
+#: tform_main.action_fixconflictingnewnames.caption
+msgid "Fix conflicting new names"
+msgstr "Поправити сукобљене нове називе"
+
+#: tform_main.action_importfilesandpreview.caption
+msgid "Import file paths and new names"
+msgstr "Увести путање фајла и нове називе"
+
+#: tform_main.action_importlistoffiles.caption
+msgid "Import files from text-list or play-list"
+msgstr "Увести фајлове из текс листе или плеј листе"
+
+#: tform_main.action_importnewnamesfromclipboard.caption
+msgid "Import new names from clipboard"
+msgstr "Увести нове називе из клипборда"
+
+#: tform_main.action_managepresets.caption
+msgid "Manage..."
+msgstr "Удесити..."
+
+#: tform_main.action_newinstance.caption
+msgid "New Instance"
+msgstr "Нова инстанца"
+
+#: tform_main.action_newproject.caption
+msgid "New Project"
+msgstr "Нови Пројекат"
+
+#: tform_main.action_pastefiles.caption
+msgid "Paste Files"
+msgstr "Прилепити Фајлове"
+
+#: tform_main.action_presetsave.caption
+msgctxt "TFORM_MAIN.ACTION_PRESETSAVE.CAPTION"
+msgid "Save"
+msgstr "Сачувати"
+
+#: tform_main.action_presetsaveas.caption
+msgid "Save As"
+msgstr "Сачувати Као"
+
+#: tform_main.action_preview.caption
+msgctxt "TFORM_MAIN.ACTION_PREVIEW.CAPTION"
+msgid "Preview"
+msgstr "Преглед"
+
+#: tform_main.action_register.caption
+msgctxt "tform_main.action_register.caption"
+msgid "Register"
+msgstr "Регистровати"
+
+#: tform_main.action_rename.caption
+msgctxt "TFORM_MAIN.ACTION_RENAME.CAPTION"
+msgid "Rename"
+msgstr "Преименовати"
+
+#: tform_main.action_settings.caption
+msgid "All Settings"
+msgstr "Сва Подешавања"
+
+#: tform_main.action_sortforrenamingfolders.caption
+msgid "Sort by path for renaming folders"
+msgstr "Сортирати по путањи за преименовање фолдера"
+
+#: tform_main.action_undorename.caption
+msgid "Undo Renaming"
+msgstr "Поништити Преименовање"
+
+#: tform_main.action_unregister.caption
+msgid "Unregister"
+msgstr "Дерегистровати"
+
+#: tform_main.action_validatenewnames.caption
+msgid "Validate new names"
+msgstr "Потврдити нове називе"
+
+#: tform_main.listview_rules.columns[0].caption
+msgid "#"
+msgstr "#"
+
+#: tform_main.listview_rules.columns[1].caption
+msgid "Rule"
+msgstr "Правило"
+
+#: tform_main.listview_rules.columns[2].caption
+msgid "Statement"
+msgstr "Исказ"
+
+#: tform_main.menuitem_addrule.caption
+msgctxt "TFORM_MAIN.MENUITEM_ADDRULE.CAPTION"
+msgid "Add Rule"
+msgstr "Додати Правило"
+
+#: tform_main.menuitem_addruleabove.caption
+msgid "Add Rule (above)"
+msgstr "Додати правило (изнад)"
+
+#: tform_main.menuitem_addrulebelow.caption
+msgid "Add Rule (below)"
+msgstr "Додати правило (испод)"
+
+#: tform_main.menuitem_analyzename.caption
+msgid "Analyze Name"
+msgstr "Анализирати Назив"
+
+#: tform_main.menuitem_clearall.caption
+msgid "Clear All"
+msgstr "Очистити Све"
+
+#: tform_main.menuitem_clearfailed.caption
+msgid "Clear Failed"
+msgstr "Очистити Неуспешне"
+
+#: tform_main.menuitem_clearing.caption
+msgid "Clear"
+msgstr "Очистити"
+
+#: tform_main.menuitem_clearinvalid.caption
+msgid "Clear Invalid"
+msgstr "Очистити Неважеће"
+
+#: tform_main.menuitem_clearmarked.caption
+msgid "Clear Marked"
+msgstr "Очистити Обележене"
+
+#: tform_main.menuitem_clearnotmarked.caption
+msgid "Clear Not Marked"
+msgstr "Очистити Необележене"
+
+#: tform_main.menuitem_clearrenamed.caption
+msgid "Clear Renamed"
+msgstr "Очистити Преименоване"
+
+#: tform_main.menuitem_clearvalid.caption
+msgid "Clear Valid"
+msgstr "Очистити Важеће"
+
+#: tform_main.menuitem_duplicaterule.caption
+msgid "Duplicate Rule"
+msgstr "Удвостручи Правило"
+
+#: tform_main.menuitem_editnewname.caption
+msgid "Edit New Name"
+msgstr "Уредити Нови Назив"
+
+#: tform_main.menuitem_editrule.caption
+msgctxt "TFORM_MAIN.MENUITEM_EDITRULE.CAPTION"
+msgid "Edit Rule"
+msgstr "Уредити Правило"
+
+#: tform_main.menuitem_exit.caption
+msgid "Exit"
+msgstr "Излаз"
+
+#: tform_main.menuitem_file.caption
+msgid "File"
+msgstr "Фајл"
+
+#: tform_main.menuitem_help.caption
+msgctxt "tform_main.menuitem_help.caption"
+msgid "Help"
+msgstr "Помоћ"
+
+#: tform_main.menuitem_invertmarking.caption
+msgid "Invert Marking"
+msgstr "Преокренути Обележавање"
+
+#: tform_main.menuitem_invertselection.caption
+msgid "Invert Selection"
+msgstr "Преокренути Изабрано"
+
+#: tform_main.menuitem_mark.caption
+msgctxt "TFORM_MAIN.MENUITEM_MARK.CAPTION"
+msgid "Mark"
+msgstr "Обележити"
+
+#: tform_main.menuitem_markbymask.caption
+msgctxt "TFORM_MAIN.MENUITEM_MARKBYMASK.CAPTION"
+msgid "Mark by Mask"
+msgstr "Обележити по Маски"
+
+#: tform_main.menuitem_marking.caption
+msgctxt "tform_main.menuitem_marking.caption"
+msgid "Mark"
+msgstr "Обележити"
+
+#: tform_main.menuitem_markonlychangedexccase.caption
+msgid "Mark Only Changed (Exc. Case)"
+msgstr "Обележити Само Промењене (Искљ. Мала-Велика Слова)"
+
+#: tform_main.menuitem_markonlychangedinccase.caption
+msgid "Mark Only Changed (Inc. Case)"
+msgstr "Обележити Само Промењене (Укљ. Мала-Велика Слова)"
+
+#: tform_main.menuitem_markonlyselected.caption
+msgid "Mark Only Selected"
+msgstr "Обележити Само Изабране"
+
+#: tform_main.menuitem_movedown.caption
+msgctxt "TFORM_MAIN.MENUITEM_MOVEDOWN.CAPTION"
+msgid "Down"
+msgstr "Доле"
+
+#: tform_main.menuitem_moveup.caption
+msgctxt "TFORM_MAIN.MENUITEM_MOVEUP.CAPTION"
+msgid "Up"
+msgstr "Горе"
+
+#: tform_main.menuitem_moving.caption
+msgid "Move"
+msgstr "Преместити"
+
+#: tform_main.menuitem_presets.caption
+msgctxt "tform_main.menuitem_presets.caption"
+msgid "Presets"
+msgstr "Поставке"
+
+#: tform_main.menuitem_removeallrules.caption
+msgid "Remove All Rules"
+msgstr "Уклонити Сва Правила"
+
+#: tform_main.menuitem_removerule.caption
+msgid "Remove Rule"
+msgstr "Уклонити Правило"
+
+#: tform_main.menuitem_removeselecteditems.caption
+msgid "Remove Selected"
+msgstr "Уклонити Изабрано"
+
+#: tform_main.menuitem_rulemovedown.caption
+msgid "Move Down"
+msgstr "Помаћи Доле"
+
+#: tform_main.menuitem_rulemoveup.caption
+msgid "Move Up"
+msgstr "Помаћи Горе"
+
+#: tform_main.menuitem_rulesmarkall.caption
+msgid "Mark All"
+msgstr "Обележити Све"
+
+#: tform_main.menuitem_rulesselectall.caption
+msgctxt "tform_main.menuitem_rulesselectall.caption"
+msgid "Select All"
+msgstr "Изабрати Све"
+
+#: tform_main.menuitem_rulesunmarkall.caption
+msgid "Unmark All"
+msgstr "НеОбележити Све"
+
+#: tform_main.menuitem_selectall.caption
+msgctxt "tform_main.menuitem_selectall.caption"
+msgid "Select All"
+msgstr "Изабрати Све"
+
+#: tform_main.menuitem_selectbyextension.caption
+msgctxt "TFORM_MAIN.MENUITEM_SELECTBYEXTENSION.CAPTION"
+msgid "Select by Extension"
+msgstr "Изабрати по Екстензији"
+
+#: tform_main.menuitem_selectbymask.caption
+msgctxt "TFORM_MAIN.MENUITEM_SELECTBYMASK.CAPTION"
+msgid "Select by Mask"
+msgstr "Изабрати по Маски"
+
+#: tform_main.menuitem_selectbynamelength.caption
+msgid "Select by Name Length"
+msgstr "Изабрати по Дужини Назива"
+
+#: tform_main.menuitem_selecting.caption
+msgid "Select"
+msgstr "Изабрати"
+
+#: tform_main.menuitem_settings.caption
+msgctxt "tform_main.menuitem_settings.caption"
+msgid "Settings"
+msgstr "Подешавања"
+
+#: tform_main.menuitem_settingsgeneral.caption
+msgctxt "tform_main.menuitem_settingsgeneral.caption"
+msgid "General"
+msgstr "Главно"
+
+#: tform_main.menuitem_settingsmetatags.caption
+msgctxt "tform_main.menuitem_settingsmetatags.caption"
+msgid "Meta Tags"
+msgstr "Етикете"
+
+#: tform_main.menuitem_settingsmisc.caption
+msgid "Miscellaneous"
+msgstr "Разно"
+
+#: tform_main.menuitem_settingspreview.caption
+msgctxt "tform_main.menuitem_settingspreview.caption"
+msgid "Preview"
+msgstr "Преглед"
+
+#: tform_main.menuitem_settingsrename.caption
+msgctxt "TFORM_MAIN.MENUITEM_SETTINGSRENAME.CAPTION"
+msgid "Rename"
+msgstr "Преименовати"
+
+#: tform_main.menuitem_shell.caption
+msgid "Shell"
+msgstr "Изван"
+
+#: tform_main.menuitem_unmark.caption
+msgid "Unmark"
+msgstr "НеОбележити"
+
+#: tform_main.mi_addpresets.caption
+msgid "Import..."
+msgstr "Увести..."
+
+#: tform_main.mi_browsepresets.caption
+msgid "Browse..."
+msgstr "Пребирати..."
+
+#: tform_main.mi_clearnotchanged.caption
+msgid "Clear Not Changed"
+msgstr "Очистити Непромењене"
+
+#: tform_main.mi_copyfilestoclipboard.caption
+msgid "Copy Files to Clipboard"
+msgstr "Копирати Фајлове на Клипборд"
+
+#: tform_main.mi_copyrights.caption
+msgid "Copyrights"
+msgstr "Ауторска права"
+
+#: tform_main.mi_createpresetslinks.caption
+msgctxt "tform_main.mi_createpresetslinks.caption"
+msgid "Create Links"
+msgstr "Направити Линкове"
+
+#: tform_main.mi_cutfilestoclipboard.caption
+msgid "Cut Files to Clipboard"
+msgstr "Исећи Фајлове на Клипборд"
+
+#: tform_main.mi_deletefiles.caption
+msgid "Delete Files to Recycle Bin"
+msgstr "Избрисати Фајлове у \"Recycle Bin\""
+
+#: tform_main.mi_exportcolumnstoclipboard.caption
+msgid "Export all columns to clipboard"
+msgstr "Извести све колоне у клипборд"
+
+#: tform_main.mi_fileproperties.caption
+msgid "File Properties"
+msgstr "Особине фајла"
+
+#: tform_main.mi_filescolumns_cancelsorting.caption
+msgctxt "TFORM_MAIN.MI_FILESCOLUMNS_CANCELSORTING.CAPTION"
+msgid "Cancel Sorting"
+msgstr "Откажи Сортирање"
+
+#: tform_main.mi_forum.caption
+msgid "Forum (online)"
+msgstr "Форум (онлајн)"
+
+#: tform_main.mi_help.caption
+msgid "Help (online)"
+msgstr "Помоћ (онлајн)"
+
+#: tform_main.mi_history.caption
+msgid "Version History"
+msgstr "Измене у верзији"
+
+#: tform_main.mi_language.caption
+msgctxt "tform_main.mi_language.caption"
+msgid "Language"
+msgstr "Језик"
+
+#: tform_main.mi_litevspro.caption
+msgid "Lite vs Pro (online)"
+msgstr "Lite наспрам Pro (онлајн)"
+
+#: tform_main.mi_loadpreset.caption
+msgid "Load"
+msgstr "Учитати"
+
+#: tform_main.mi_opencontainingfolder.caption
+msgid "Open containing folder"
+msgstr "Отворити фолдер"
+
+#: tform_main.mi_openfile.caption
+msgid "Open File"
+msgstr "Отворити Фајл"
+
+#: tform_main.mi_openwithnotepad.caption
+msgid "Open with Notepad"
+msgstr "Отворити са \"Notepad\"-ом"
+
+#: tform_main.mi_purchase.caption
+msgid "Purchase (online)"
+msgstr "Купити (онлајн)"
+
+#: tform_main.mi_quickguide.caption
+msgid "Quick Guide"
+msgstr "Упутство"
+
+#: tform_main.mi_rescanpresets.caption
+msgid "Rescan"
+msgstr "Поново Скенирати"
+
+#: tform_main.mi_rulecomment.caption
+msgid "Comment..."
+msgstr "Коментар..."
+
+#: tform_main.mi_rulestoclipboard.caption
+msgid "Export to Clipboard"
+msgstr "Извести у Клипборд"
+
+#: tform_main.mi_usermanual.caption
+msgid "User Manual"
+msgstr "Приручник"
+
+#: tform_main.toolbutton_addrule.caption
+msgctxt "tform_main.toolbutton_addrule.caption"
+msgid "Add"
+msgstr "Додати"
+
+#: tform_main.toolbutton_analyze.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_ANALYZE.CAPTION"
+msgid "Analyze"
+msgstr "Анализирати"
+
+#: tform_main.toolbutton_columns.caption
+msgid "Columns"
+msgstr "Колоне"
+
+#: tform_main.toolbutton_export.caption
+msgid "Export"
+msgstr "Извести"
+
+#: tform_main.toolbutton_files.caption
+msgid "Files"
+msgstr "Фајлови"
+
+#: tform_main.toolbutton_filters.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_FILTERS.CAPTION"
+msgid "Filters"
+msgstr "Филтери"
+
+#: tform_main.toolbutton_movedownrule.caption
+msgctxt "tform_main.toolbutton_movedownrule.caption"
+msgid "Down"
+msgstr "Доле"
+
+#: tform_main.toolbutton_moveuprule.caption
+msgctxt "tform_main.toolbutton_moveuprule.caption"
+msgid "Up"
+msgstr "Горе"
+
+#: tform_main.toolbutton_options.caption
+msgctxt "tform_main.toolbutton_options.caption"
+msgid "Options"
+msgstr "Опције"
+
+#: tform_main.toolbutton_removerule.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_REMOVERULE.CAPTION"
+msgid "Remove"
+msgstr "Уклонити"
+
+#: tform_main.vst_files.header.columns[0].text
+msgid "State"
+msgstr "Стање"
+
+#: tform_main.vst_files.header.columns[10].text
+msgid "Modified"
+msgstr "Измењено"
+
+#: tform_main.vst_files.header.columns[11].text
+msgctxt "tform_main.vst_files.header.columns[11].text"
+msgid "Extension"
+msgstr "Екстензија"
+
+#: tform_main.vst_files.header.columns[12].text
+msgid "Name Digits"
+msgstr "Назив Цифара"
+
+#: tform_main.vst_files.header.columns[13].text
+msgid "Path Digits"
+msgstr "Путања Цифара"
+
+#: tform_main.vst_files.header.columns[14].text
+msgid "Name Length"
+msgstr "Назив Дужине"
+
+#: tform_main.vst_files.header.columns[15].text
+msgid "New Name Length"
+msgstr "Нови Назив Дужине"
+
+#: tform_main.vst_files.header.columns[16].text
+msgid "Path Length"
+msgstr ""
+
+#: tform_main.vst_files.header.columns[17].text
+msgid "New Path Length"
+msgstr ""
+
+#: tform_main.vst_files.header.columns[18].text
+msgid "Exif Date"
+msgstr "\"Exif\" Датум"
+
+#: tform_main.vst_files.header.columns[19].text
+msgid "Old Path"
+msgstr "Стара Путања"
+
+#: tform_main.vst_files.header.columns[1].text
+msgid "Path"
+msgstr "Путања"
+
+#: tform_main.vst_files.header.columns[20].text
+msgctxt "tform_main.vst_files.header.columns[20].text"
+msgid "Error"
+msgstr "Грешка"
+
+#: tform_main.vst_files.header.columns[2].text
+msgid "Folder"
+msgstr "Фолдер"
+
+#: tform_main.vst_files.header.columns[3].text
+msgid "Name"
+msgstr "Назив"
+
+#: tform_main.vst_files.header.columns[4].text
+msgid "New Name"
+msgstr "Нови Назив"
+
+#: tform_main.vst_files.header.columns[5].text
+msgid "New Path"
+msgstr "Нова Путања"
+
+#: tform_main.vst_files.header.columns[6].text
+msgid "Size"
+msgstr "Величина"
+
+#: tform_main.vst_files.header.columns[7].text
+msgid "Size KB"
+msgstr "Величина КБ"
+
+#: tform_main.vst_files.header.columns[8].text
+msgid "Size MB"
+msgstr "Величина МБ"
+
+#: tform_main.vst_files.header.columns[9].text
+msgid "Created"
+msgstr "Створено"
+
+#: tform_metatags.bitbtn_cancel.caption
+msgctxt "TFORM_METATAGS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Откажи"
+
+#: tform_metatags.bitbtn_insert.caption
+msgctxt "TFORM_METATAGS.BITBTN_INSERT.CAPTION"
+msgid "Insert"
+msgstr "Убацити"
+
+#: tform_metatags.caption
+msgctxt "TFORM_METATAGS.CAPTION"
+msgid "Meta Tags"
+msgstr "Етикете"
+
+#: tform_metatags.label_note.caption
+msgid "Note: Most of the tags can only work for files, not folders."
+msgstr "Важно: Већина етикета раде само за фајлове, не и за фолдере."
+
+#: tform_presetsave.bitbtn_save.caption
+msgid "&Save"
+msgstr "&Сачувати"
+
+#: tform_presetsave.caption
+msgid "Save Preset"
+msgstr "Сачувати Поставку"
+
+#: tform_presetsave.cb_presetsavefilters.caption
+msgid "Save Filter Settings with the preset?"
+msgstr "Сачувати Подешавања Филтера уз Поставку?"
+
+#: tform_presetsave.label1.caption
+msgid "Overwrite existing preset:"
+msgstr "Надписати постојећу поставку:"
+
+#: tform_presetsave.le_name.editlabel.caption
+msgid "Preset Name:"
+msgstr "Назив Поставке:"
+
+#: tform_presetslinks.bb_createlinks.caption
+msgctxt "TFORM_PRESETSLINKS.BB_CREATELINKS.CAPTION"
+msgid "Create Links"
+msgstr "Направити Линкове"
+
+#: tform_presetslinks.caption
+msgid "Presets Links"
+msgstr "Линкови Поставки"
+
+#: tform_presetslinks.label_folder.caption
+msgid "Please specify a folder where you want to place the links:"
+msgstr "Наведите фолдер где желите да сместите линкове:"
+
+#: tform_presetslinks.label_linktype.caption
+msgid "Type of links:"
+msgstr "Тип линкова:"
+
+#: tform_presetslinks.rb_load.caption
+msgctxt "TFORM_PRESETSLINKS.RB_LOAD.CAPTION"
+msgid "Load with Preset"
+msgstr "Учитати са Поставком"
+
+#: tform_presetslinks.rb_rename.caption
+msgctxt "TFORM_PRESETSLINKS.RB_RENAME.CAPTION"
+msgid "Rename with Preset"
+msgstr "Преименовати са Поставком"
+
+#: tform_presetslinks.sb_browse.hint
+msgid "Browse for Folder"
+msgstr "Пребирати за Фолдер"
+
+#: tform_presetslinks.sb_usesendto.hint
+msgid "Use \"Send To\" Folder"
+msgstr "Употребити \"Send To\" Фолдер"
+
+#: tform_presetsmanager.caption
+msgid "Presets Manager"
+msgstr "Управник Поставки"
+
+#: tform_presetsmanager.tb_append.hint
+msgctxt "tform_presetsmanager.tb_append.hint"
+msgid "Append Preset"
+msgstr "Придодати Поставку"
+
+#: tform_presetsmanager.tb_copy.hint
+msgctxt "tform_presetsmanager.tb_copy.hint"
+msgid "Duplicate Preset"
+msgstr "Удвостручити Поставку"
+
+#: tform_presetsmanager.tb_delete.hint
+msgctxt "tform_presetsmanager.tb_delete.hint"
+msgid "Delete Preset (Del)"
+msgstr "Избрисати Поставку (Del)"
+
+#: tform_presetsmanager.tb_edit.hint
+msgctxt "tform_presetsmanager.tb_edit.hint"
+msgid "Manually Edit Preset (F4)"
+msgstr "Ручно Уредити Поставку (F4)"
+
+#: tform_presetsmanager.tb_load.hint
+msgctxt "tform_presetsmanager.tb_load.hint"
+msgid "Load Preset (Enter)"
+msgstr "Учитати Поставку (Enter)"
+
+#: tform_presetsmanager.tb_rename.hint
+msgctxt "tform_presetsmanager.tb_rename.hint"
+msgid "Rename Preset (F2)"
+msgstr "Преименовати Поставку (F2)"
+
+#: tform_register.bb_cancel.caption
+msgctxt "TFORM_REGISTER.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Откажи"
+
+#: tform_register.bb_register.caption
+msgctxt "TFORM_REGISTER.BB_REGISTER.CAPTION"
+msgid "Register"
+msgstr "Регистровати"
+
+#: tform_register.caption
+msgid "Registration"
+msgstr "Регистрација"
+
+#: tform_register.label1.caption
+msgid "Please enter your registration code:"
+msgstr "Унети ваш регистрациони код:"
+
+#: tform_settings.bitbtn_cancel.caption
+msgctxt "TFORM_SETTINGS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Откажи"
+
+#: tform_settings.bitbtn_save.caption
+msgctxt "TFORM_SETTINGS.BITBTN_SAVE.CAPTION"
+msgid "Save"
+msgstr "Сачувати"
+
+#: tform_settings.caption
+msgctxt "TFORM_SETTINGS.CAPTION"
+msgid "Settings"
+msgstr "Подешавања"
+
+#: tform_settings.cb_allowprocessingextensionsinfolders.caption
+msgid "Folders also have extensions, process them as such"
+msgstr "Фолдери имају екстензију, тумачити их као такве"
+
+#: tform_settings.cb_highlightchangednames.caption
+msgid "Highlight changed file names"
+msgstr "Истакните промењене називе фајла"
+
+#: tform_settings.cb_overwritewithnewnameconfirm.caption
+msgid "Must be successfully confirmed by user"
+msgstr "Мора бити успешно потврђено од стране корисника"
+
+#: tform_settings.checkbox_addtofoldercontextmenu.caption
+msgid "Add to folders context menu"
+msgstr "Додати на мени фолдера"
+
+#: tform_settings.checkbox_addtosendtocontextmenu.caption
+msgid "Add to \"Send To\" context menu"
+msgstr "Додати на мени \"Send To\""
+
+#: tform_settings.checkbox_alwaysontop.caption
+msgid "Stay on top of other windows"
+msgstr "Остати изнад осталих прозора"
+
+#: tform_settings.checkbox_autopreviewonfilesadded.caption
+msgid "Auto preview when new files are added"
+msgstr "Аутоматски преглед када су додати нови фајлови"
+
+#: tform_settings.checkbox_autopreviewonruleschange.caption
+msgid "Auto preview on change of rules configurations"
+msgstr "Аутоматски преглед на промену изгледа правила"
+
+#: tform_settings.checkbox_autosizetable.caption
+msgid "Auto size table on change"
+msgstr "Аутоматски одмери табелу на промену"
+
+#: tform_settings.checkbox_clearfilestableonrename.caption
+msgid "Clear files table on rename"
+msgstr "Очистити табелу фајлова на преименовање"
+
+#: tform_settings.checkbox_clearrenamedfilesonrename.caption
+msgid "Clear renamed files on rename"
+msgstr "Очистити преименоване фајлове на преименовање"
+
+#: tform_settings.checkbox_clearruleslistonrename.caption
+msgid "Clear rules list on rename"
+msgstr "Очистити листу правила на преименовање"
+
+#: tform_settings.checkbox_closeprogramaftersuccessfulrename.caption
+msgid "Close program after successful rename"
+msgstr "Затворити програм након успешног преименовања"
+
+#: tform_settings.checkbox_displaymsgonsuccessfulrename.caption
+msgid "Display message on successful rename"
+msgstr "Приказати обавештење на успешно преименовање"
+
+#: tform_settings.checkbox_fixconflictingnewnamesonpreview.caption
+msgid "Fix conflicting new names on preview"
+msgstr "Поправити сукобљене нове називе на преглед"
+
+#: tform_settings.checkbox_metatagsupport.caption
+msgid "MetaTag support"
+msgstr "Подршка Етикете (Meta Tag)"
+
+#: tform_settings.checkbox_overwritewithnewname.caption
+msgid "Overwrite files with New Names"
+msgstr "Надписати фајлове са Новим Називима"
+
+#: tform_settings.checkbox_previewrealtimeupdate.caption
+msgid "Real-time update of the preview"
+msgstr "Стварно време ажурирања прегледа"
+
+#: tform_settings.checkbox_registerpresetextension.caption
+msgid "Register preset extension (*.rnp)"
+msgstr "Регистровати екстензију поставке (*.rnp)"
+
+#: tform_settings.checkbox_rememberlocation.caption
+msgid "Remember position and size of major windows"
+msgstr "Запамтити позицију и величину главних прозора"
+
+#: tform_settings.checkbox_saveandloaddefaultpreset.caption
+msgid "Save rules configuration on exit, load on startup"
+msgstr "Сачувати изглед правила на излаз, учитати при старту"
+
+#: tform_settings.checkbox_showmaintoolbar.caption
+msgid "Show main toolbar"
+msgstr "Приказати главну траку са алаткама"
+
+#: tform_settings.checkbox_skiprenamingunchangedfiles.caption
+msgid "Skip renaming of unchanged files"
+msgstr "Прескочити преимоневање непромењених фајлова"
+
+#: tform_settings.checkbox_sortingremember.caption
+msgid "Remember sorting options (files table)"
+msgstr "Запамтити опције сортирања (табела фајлова)"
+
+#: tform_settings.checkbox_usenaturalsort.caption
+msgid "Use natural order sorting algorithm (2-3 times slower)"
+msgstr "Употрeбити природни ред сорт. алгоритма (2-3 пута спорије)"
+
+#: tform_settings.checkbox_validateonpreview.caption
+msgid "Validate new filenames on preview"
+msgstr "Потврдити нове називе фајлова на преглед"
+
+#: tform_settings.label1.caption
+msgid "Date Format:"
+msgstr "Формат Датума:"
+
+#: tform_settings.label2.caption
+msgid "Preview:"
+msgstr "Преглед:"
+
+#: tform_settings.label3.caption
+msgid "Example: file1, file2 ... file9, file10, file11, and so on."
+msgstr "Пример: фајл1, фајл2 ... фајл9, фајл10, фајл11, и тако даље."
+
+#: tform_settings.label5.caption
+msgid "Note: disabling any of these options will increase performance when processing large amount of files."
+msgstr "Важно: искључивањем било које од ових опција повећаће се извршење када се обрађују велике количине фајлова."
+
+#: tform_settings.label_addrulestext.caption
+msgid "Change text of \"Click here to add a rule\":"
+msgstr "Променити текст \"Кликнути овде за додавање правила\":"
+
+#: tform_settings.label_dragfilestext.caption
+msgid "Change text of \"Drag your files here\":"
+msgstr "Променити текст \"Вуците ваше фајлове овде\":"
+
+#: tform_settings.label_metatagformatnote.caption
+msgid "Note: formats will be saved only if validated successfully."
+msgstr "Важно: формати ће бити сачувани само ако су успешно потвр."
+
+#: tform_settings.speedbutton_filtersettings.caption
+msgid "Configure Filter Settings"
+msgstr "Уобличити Подешавања Филтера"
+
+#: tform_settings.speedbutton_metatagformatsinfo.caption
+msgctxt "TFORM_SETTINGS.SPEEDBUTTON_METATAGFORMATSINFO.CAPTION"
+msgid "Help"
+msgstr "Помоћ"
+
+#: tform_settings.speedbutton_metatagformatsinfo.hint
+msgctxt "TFORM_SETTINGS.SPEEDBUTTON_METATAGFORMATSINFO.HINT"
+msgid "Online Help (F1)"
+msgstr "Помоћ Онлајн (F1)"
+
+#: tform_settings.statictext1.caption
+msgid "Note: Disabling MetaTag support will increase performance when processing large amount of files."
+msgstr "Важно: Искључивањем подршке етикета повећаће се извршење када се обрађују велике количине фајлова."
+
+#: tform_settings.statictext5.caption
+msgid "Warning: Overwritten files will be deleted permanently."
+msgstr "Упозорење: Надписани фајлови биће заувек избрисани."
+
+#: tform_settings.tabsheet_general.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_GENERAL.CAPTION"
+msgid "General"
+msgstr "Главно"
+
+#: tform_settings.tabsheet_metatags.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_METATAGS.CAPTION"
+msgid "Meta Tags"
+msgstr "Етикете"
+
+#: tform_settings.tabsheet_misc.caption
+msgid "Misc."
+msgstr "Разно"
+
+#: tform_settings.tabsheet_preview.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_PREVIEW.CAPTION"
+msgid "Preview"
+msgstr "Преглед"
+
+#: tform_settings.tabsheet_rename.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_RENAME.CAPTION"
+msgid "Rename"
+msgstr "Преименовати"
+
+#: tform_termsofuse.bb_accept.caption
+msgid "Accept"
+msgstr "Прихватити"
+
+#: tform_termsofuse.bb_litevspro.caption
+msgid "Lite vs Pro"
+msgstr "Lite или Pro"
+
+#: tform_termsofuse.bb_purchase.caption
+msgid "Purchase"
+msgstr "Купити"
+
+#: tform_termsofuse.bb_register.caption
+msgid "Enter registration code"
+msgstr "Унети регистрациони код"
+
+#: tform_termsofuse.caption
+msgid "Terms of Use"
+msgstr "Услови Коришћења"
+
+#: tform_termsofuse.groupbox.caption
+msgid "Please be aware of the terms of use of this application:"
+msgstr "Будите свесни услова коришћења ове апликације:"
+
+#: tform_termsofuse.label_commercial.caption
+msgid "For commercial use you must obtain a commercial license by going to the website. If you already hold a license please enter your registration code. Thank you for playing fair."
+msgstr "За комерцијалну употребу мора се добити комерцијална лиценца посећивањем вебсајта. Ако се већ поседује лиценца, унети ваш регистрациони код. Хвала на сарадњи."
+
+#: tform_termsofuse.label_noncommercial.caption
+msgctxt "TFORM_TERMSOFUSE.LABEL_NONCOMMERCIAL.CAPTION"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Ова апликација се може користити и дистрибуисати САМО за некомерцијалне сврхе и са одговарајућим ознакама."
+
+#: tform_termsofuse.label_supportdevelopment.caption
+msgid "Please also consider purchasing a \"Pro\" version to support the future development of this application."
+msgstr "Молимо размислите о куповини \"Про\" верзију да подржи будући развој ове апликације."
+
+#: tframe_rulecase.checkbox_caseextensionalwayslowercase.caption
+msgid "Extension always lower case"
+msgstr "Екстензија је увек мало слово"
+
+#: tframe_rulecase.checkbox_caseextensionalwaysuppercase.caption
+msgid "Extension always upper case"
+msgstr "Екстензија је увек велико слово"
+
+#: tframe_rulecase.checkbox_caseforce.caption
+msgid "Force case for fragments:"
+msgstr "Присилити слова за делове:"
+
+#: tframe_rulecase.checkbox_caseskipextension.caption
+msgctxt "tframe_rulecase.checkbox_caseskipextension.caption"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: tframe_rulecase.groupbox_casechange.caption
+msgid "Case change:"
+msgstr "Измена величине слова:"
+
+#: tframe_rulecase.label_caseforcehint.caption
+msgid "Hint: fragments separated with comma will be put in the same case as they are typed in this text box, for example: CD,DVD,DJ"
+msgstr "Савет: делови одвојени зарезом биће стављени у исту величину као што су утипкани у овом пољу, на пример: CD,DVD,DJ"
+
+#: tframe_rulecase.rb_casealllower.caption
+msgid "all lower case"
+msgstr "све малим словима"
+
+#: tframe_rulecase.rb_caseallupper.caption
+msgid "ALL UPPER CASE"
+msgstr "СВЕ ВЕЛИКИМ СЛОВИМА"
+
+#: tframe_rulecase.rb_casecapitalize.caption
+msgid "Capitalize Every Word"
+msgstr "Свака Реч Велико Слово"
+
+#: tframe_rulecase.rb_casecapitalizeandpreserve.caption
+msgid "Capitalize AND Preserve"
+msgstr "Увеличати И Сачувати"
+
+#: tframe_rulecase.rb_casefirstlettercapital.caption
+msgctxt "TFRAME_RULECASE.RB_CASEFIRSTLETTERCAPITAL.CAPTION"
+msgid "First letter capital"
+msgstr "Прво слово велико"
+
+#: tframe_rulecase.rb_caseinvert.caption
+msgid "iNVERT cASE"
+msgstr "пРЕОКРЕНУТИ сЛОВА"
+
+#: tframe_rulecase.rb_noneofabove.caption
+msgid "(none of the above)"
+msgstr "(ништа од горе наведеног)"
+
+#: tframe_rulecleanup.cb_insertspacebeforecapitals.caption
+msgid "Insert a space in front of capitalized letters (e.g. CamelCase)"
+msgstr "Убацити размак испред великих слова"
+
+#: tframe_rulecleanup.cb_normalizespaces.caption
+msgid "Normalize unicode spaces by replacing them with a standard space"
+msgstr "Нормализовати уникодне размаке мењајући их са уобичајеним размаком"
+
+#: tframe_rulecleanup.checkbox_prepareforsharepoint.caption
+msgid "Prepare for SharePoint (always inc. extension)"
+msgstr "Припремити за \"SharePoint\" (увек укључити екстензију)"
+
+#: tframe_rulecleanup.checkbox_skipextension.caption
+msgctxt "TFRAME_RULECLEANUP.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: tframe_rulecleanup.checkbox_spacescomma.caption
+msgid ", (comma)"
+msgstr ", (зарез)"
+
+#: tframe_rulecleanup.checkbox_spacesdot.caption
+msgid ". (dot)"
+msgstr ". (тачка)"
+
+#: tframe_rulecleanup.checkbox_spacesfix.caption
+msgid "Fix spaces: only one space at a time, no spaces on sides of basename"
+msgstr "Поправити размаке: само један размак, нема размака на боковима"
+
+#: tframe_rulecleanup.checkbox_spacesskipversions.caption
+msgid "Skip number sequences, for example version 1.2.3.4"
+msgstr "прескочити бројевни низ, на пример верзија 1.2.3.4"
+
+#: tframe_rulecleanup.checkbox_stripunicodemarks.caption
+msgid "Strip unicode marks (combining, diacritics, accents)"
+msgstr "Избрисати уникодне знаке (спојене, дијакритике, акценте)"
+
+#: tframe_rulecleanup.groupbox1.caption
+msgid "Replace these characters with spaces:"
+msgstr "Заменити ове знакове размацима:"
+
+#: tframe_rulecleanup.groupbox_brackets.caption
+msgid "Strip out content of brackets:"
+msgstr "Избрисати садржај из заграда:"
+
+#: tframe_ruledelete.checkbox_deletecurrentname.caption
+msgctxt "tframe_ruledelete.checkbox_deletecurrentname.caption"
+msgid "Delete current name"
+msgstr "Избрисати тренутни назив"
+
+#: tframe_ruledelete.checkbox_deleterighttoleft.caption
+msgctxt "tframe_ruledelete.checkbox_deleterighttoleft.caption"
+msgid "Right-to-left"
+msgstr "С десна на лево"
+
+#: tframe_ruledelete.checkbox_deleteskipextension.caption
+msgctxt "TFRAME_RULEDELETE.CHECKBOX_DELETESKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: tframe_ruledelete.checkbox_leavedelimiter.caption
+msgid "Do not remove delimiters"
+msgstr "Не уклањати граничнике"
+
+#: tframe_ruledelete.groupbox_from.caption
+msgid "From:"
+msgstr "Од:"
+
+#: tframe_ruledelete.groupbox_until.caption
+msgid "Until:"
+msgstr "До:"
+
+#: tframe_ruledelete.radiobutton_deletefromdelimiter.caption
+msgctxt "tframe_ruledelete.radiobutton_deletefromdelimiter.caption"
+msgid "Delimiter:"
+msgstr "Граничник:"
+
+#: tframe_ruledelete.radiobutton_deletefromposition.caption
+msgctxt "tframe_ruledelete.radiobutton_deletefromposition.caption"
+msgid "Position:"
+msgstr "Место:"
+
+#: tframe_ruledelete.radiobutton_deleteuntilcount.caption
+msgid "Count:"
+msgstr "Бројати:"
+
+#: tframe_ruledelete.radiobutton_deleteuntildelimiter.caption
+msgctxt "TFRAME_RULEDELETE.RADIOBUTTON_DELETEUNTILDELIMITER.CAPTION"
+msgid "Delimiter:"
+msgstr "Граничник:"
+
+#: tframe_ruledelete.radiobutton_deleteuntilend.caption
+msgid "Till the end"
+msgstr "До краја"
+
+#: tframe_ruleextension.checkbox_detectbinsign.caption
+msgid "Detect using \"binary signature\""
+msgstr "Открити употребом бинарног потписа"
+
+#: tframe_ruleextension.checkbox_extensionappend.caption
+msgid "Append to the original filename"
+msgstr "Придодати оригиналном називу фајла"
+
+#: tframe_ruleextension.label_extensionlabel.caption
+msgid "New Extension (without dot):"
+msgstr "Нова Екстензија (без тачке):"
+
+#: tframe_ruleextension.label_hint.caption
+msgid "Note: Some files may have multiple extensions matching their data type, for example: doc/ppt/xls have the same signature. Unrecognised files will remain unchanged. If this option is used, the new extension field is ignored."
+msgstr "Важно: Неки фајлови могу имати спојене екстензије упоредо са њиховим типом податка, на пример: doc/ppt/xls имају исти потпис. Непрепознати фајлови ће остати непромењени. Ако је ова опција употребљена, поље \"Нова Екстензија\" је игнорисано."
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.caption
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.caption"
+msgid "Insert Meta Tag"
+msgstr "Убацити Етикету"
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.hint
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.hint"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Убацити Етикету (Ctrl+Ins)"
+
+#: tframe_ruleinsert.checkbox_insertright.caption
+msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTRIGHT.CAPTION"
+msgid "Right-to-left"
+msgstr "С десна на лево"
+
+#: tframe_ruleinsert.checkbox_insertskipextension.caption
+msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTSKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: tframe_ruleinsert.label_insertwhat.caption
+msgid "Insert:"
+msgstr "Убацити:"
+
+#: tframe_ruleinsert.label_insertwhere.caption
+msgid "Where:"
+msgstr "Где:"
+
+#: tframe_ruleinsert.radiobutton_insertaftertext.caption
+msgid "After text:"
+msgstr "После текста:"
+
+#: tframe_ruleinsert.radiobutton_insertbeforetext.caption
+msgid "Before text:"
+msgstr "Пре текста:"
+
+#: tframe_ruleinsert.radiobutton_insertposition.caption
+msgctxt "TFRAME_RULEINSERT.RADIOBUTTON_INSERTPOSITION.CAPTION"
+msgid "Position:"
+msgstr "Место:"
+
+#: tframe_ruleinsert.radiobutton_insertprefix.caption
+msgctxt "tframe_ruleinsert.radiobutton_insertprefix.caption"
+msgid "Prefix"
+msgstr "Префикс"
+
+#: tframe_ruleinsert.radiobutton_insertsuffix.caption
+msgctxt "tframe_ruleinsert.radiobutton_insertsuffix.caption"
+msgid "Suffix"
+msgstr "Суфикс"
+
+#: tframe_ruleinsert.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleinsert.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "Заменити тренутни назив"
+
+#: tframe_rulepadding.checkbox_addtextpadding.caption
+msgid "Add padding to length:"
+msgstr "Додати попуњавање до дужине:"
+
+#: tframe_rulepadding.checkbox_addzeropadding.caption
+msgid "Add zero padding to length:"
+msgstr "Додати попуњавање нулом до дужине:"
+
+#: tframe_rulepadding.checkbox_removezeropadding.caption
+msgctxt "tframe_rulepadding.checkbox_removezeropadding.caption"
+msgid "Remove zero padding"
+msgstr "Уклонити попуњавање нулом"
+
+#: tframe_rulepadding.checkbox_skipextension.caption
+msgctxt "tframe_rulepadding.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: tframe_rulepadding.groupbox_numbersequences.caption
+msgid "Number sequences"
+msgstr "Бројчани низ"
+
+#: tframe_rulepadding.groupbox_textpadding.caption
+msgid "Text padding"
+msgstr "Попуњавање текстом"
+
+#: tframe_rulepadding.label_paddingcharacters.caption
+msgid "Padding characters:"
+msgstr "Знакови попуњавања:"
+
+#: tframe_rulepadding.label_position.caption
+msgctxt "tframe_rulepadding.label_position.caption"
+msgid "Position:"
+msgstr "Место:"
+
+#: tframe_rulepadding.radiobutton_positionleft.caption
+msgid "Left"
+msgstr "Лево"
+
+#: tframe_rulepadding.radiobutton_positionright.caption
+msgid "Right"
+msgstr "Десно"
+
+#: tframe_rulepascalscript.toolbutton_compile.caption
+msgctxt "tframe_rulepascalscript.toolbutton_compile.caption"
+msgid "Try to Compile"
+msgstr "Покушати Саставити"
+
+#: tframe_rulepascalscript.toolbutton_compile.hint
+msgctxt "tframe_rulepascalscript.toolbutton_compile.hint"
+msgid "Try to Compile (Ctrl+T)"
+msgstr "Покушати Саставити (Ctrl+T)"
+
+#: tframe_rulepascalscript.toolbutton_gotoline.caption
+msgctxt "tframe_rulepascalscript.toolbutton_gotoline.caption"
+msgid "Go To"
+msgstr "Ићи До"
+
+#: tframe_rulepascalscript.toolbutton_gotoline.hint
+msgctxt "tframe_rulepascalscript.toolbutton_gotoline.hint"
+msgid "Go To Line (Ctrl+G)"
+msgstr "Ићи До Реда (Ctrl+G)"
+
+#: tframe_rulepascalscript.toolbutton_help.caption
+msgctxt "tframe_rulepascalscript.toolbutton_help.caption"
+msgid "Help"
+msgstr "Помоћ"
+
+#: tframe_rulepascalscript.toolbutton_help.hint
+msgctxt "tframe_rulepascalscript.toolbutton_help.hint"
+msgid "Online Help (F1)"
+msgstr "Помоћ (F1)"
+
+#: tframe_rulepascalscript.toolbutton_scripts.caption
+msgctxt "tframe_rulepascalscript.toolbutton_scripts.caption"
+msgid "Scripts"
+msgstr "Скрипте"
+
+#: tframe_rulepascalscript.toolbutton_scripts.hint
+msgctxt "tframe_rulepascalscript.toolbutton_scripts.hint"
+msgid "Scripts (Ctrl+L)"
+msgstr "Скрипте (Ctrl+L)"
+
+#: tframe_rulerandomize.checkbox_skipextension.caption
+msgctxt "tframe_rulerandomize.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: tframe_rulerandomize.checkbox_unique.caption
+msgctxt "tframe_rulerandomize.checkbox_unique.caption"
+msgid "Unique if possible"
+msgstr "Јединствено ако је могуће"
+
+#: tframe_rulerandomize.checkbox_usedigits.caption
+msgctxt "tframe_rulerandomize.checkbox_usedigits.caption"
+msgid "Digits (0..9)"
+msgstr "Цифре (0..9)"
+
+#: tframe_rulerandomize.checkbox_useenglishletters.caption
+msgid "English letters (a..z)"
+msgstr "Енглеска слова (a..z)"
+
+#: tframe_rulerandomize.checkbox_useuserdefined.caption
+msgctxt "tframe_rulerandomize.checkbox_useuserdefined.caption"
+msgid "User defined:"
+msgstr "Одређени карактери:"
+
+#: tframe_rulerandomize.groupbox_characters.caption
+msgctxt "tframe_rulerandomize.groupbox_characters.caption"
+msgid "Characters to use:"
+msgstr "Употребити знакове:"
+
+#: tframe_rulerandomize.groupbox_insertwhere.caption
+msgctxt "tframe_rulerandomize.groupbox_insertwhere.caption"
+msgid "Insert where:"
+msgstr "Убацити као/на:"
+
+#: tframe_rulerandomize.label_length.caption
+msgctxt "tframe_rulerandomize.label_length.caption"
+msgid "Length of random sequence:"
+msgstr "Дужина насумичног низа:"
+
+#: tframe_rulerandomize.radiobutton_position.caption
+msgctxt "tframe_rulerandomize.radiobutton_position.caption"
+msgid "Position:"
+msgstr "Место:"
+
+#: tframe_rulerandomize.radiobutton_prefix.caption
+msgctxt "tframe_rulerandomize.radiobutton_prefix.caption"
+msgid "Prefix"
+msgstr "Префикс"
+
+#: tframe_rulerandomize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_rulerandomize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "Заменити тренутни назив"
+
+#: tframe_rulerandomize.radiobutton_suffix.caption
+msgctxt "tframe_rulerandomize.radiobutton_suffix.caption"
+msgid "Suffix"
+msgstr "Суфикс"
+
+#: tframe_rulerearrange.cb_righttoleft.caption
+msgctxt "TFRAME_RULEREARRANGE.CB_RIGHTTOLEFT.CAPTION"
+msgid "Right-to-left"
+msgstr "С десна на лево"
+
+#: tframe_rulerearrange.cb_skipextension.caption
+msgctxt "TFRAME_RULEREARRANGE.CB_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: tframe_rulerearrange.label1.caption
+msgid "Split using:"
+msgstr "Разделити користећи:"
+
+#: tframe_rulerearrange.label2.caption
+msgid "New pattern:"
+msgstr "Нови шаблон:"
+
+#: tframe_rulerearrange.label3.caption
+msgid "Hint: Use $1..$N to reference delimited parts in the new pattern, $-1..$-N to reference from the end, $0 for the original name."
+msgstr "Савет: Користити $1..$N за повезивање ограничених делова у новом шаблону, $-1..$-N за повезивање са краја, $0 за оригинални назив."
+
+#: tframe_rulerearrange.rb_usingdelimiters.caption
+msgid "Delimiters"
+msgstr "Граничнике"
+
+#: tframe_rulerearrange.rb_usingexactpatternofdelimiters.caption
+msgid "Exact pattern of delimiters"
+msgstr "Тачан шаблон граничника"
+
+#: tframe_rulerearrange.rb_usingpositions.caption
+msgid "Positions"
+msgstr "Места"
+
+#: tframe_rulerearrange.sb_addseparator.hint
+msgctxt "tframe_rulerearrange.sb_addseparator.hint"
+msgid "Separate multiple items"
+msgstr "Одвојити спојене ставке"
+
+#: tframe_rulerearrange.sb_insertmetatag.hint
+msgctxt "TFRAME_RULEREARRANGE.SB_INSERTMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Убацити Етикету (Ctrl+Ins)"
+
+#: tframe_rulereformatdate.checkbox_adjusttime.caption
+msgid "Adjust time by:"
+msgstr "Подесити време за:"
+
+#: tframe_rulereformatdate.checkbox_skipextension.caption
+msgctxt "tframe_rulereformatdate.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: tframe_rulereformatdate.checkbox_usecustomlongmonths.caption
+msgid "Use custom long months:"
+msgstr "Користити пун назив месеци:"
+
+#: tframe_rulereformatdate.checkbox_usecustomshortmonths.caption
+msgid "Use custom short months:"
+msgstr "Користити скраћени назив месеци:"
+
+#: tframe_rulereformatdate.checkbox_wholewordsonly.caption
+msgid "Match as whole words only"
+msgstr "Сврстати као целину речи"
+
+#: tframe_rulereformatdate.label_inputformats.caption
+msgid "Find date/time formats:"
+msgstr "Пронаћи формат датума/времена:"
+
+#: tframe_rulereformatdate.label_outputformat.caption
+msgid "Convert to date/time format:"
+msgstr "Претворити у формат датума/времена:"
+
+#: tframe_rulereformatdate.menuitem_addseparator.caption
+msgctxt "tframe_rulereformatdate.menuitem_addseparator.caption"
+msgid "Separate multiple items"
+msgstr "Одвојити спојене ставке"
+
+#: tframe_rulereformatdate.menuitem_datetimeformathelp.caption
+msgid "Date/time format reference (online)"
+msgstr "Референца"
+
+#: tframe_ruleregex.checkbox_casesensitive.caption
+msgid "Case-sensitive"
+msgstr "Осетљив на величину слова"
+
+#: tframe_ruleregex.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREGEX.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: tframe_ruleregex.label1.caption
+msgid "Hint: Use $1..$9 to reference subexpressions."
+msgstr "Савет: Користити $1..$9 за повезивање подизраза."
+
+#: tframe_ruleregex.label4.caption
+msgid "Expression:"
+msgstr "Израз:"
+
+#: tframe_ruleregex.label5.caption
+msgctxt "tframe_ruleregex.label5.caption"
+msgid "Replace:"
+msgstr "Заменити:"
+
+#: tframe_ruleregex.sb_insertexpression.hint
+msgid "Insert expression (Ctrl+Ins)"
+msgstr "Убацити израз (Ctrl+Ins)"
+
+#: tframe_ruleregex.speedbutton_help.caption
+msgctxt "TFRAME_RULEREGEX.SPEEDBUTTON_HELP.CAPTION"
+msgid "Help"
+msgstr "Помоћ"
+
+#: tframe_ruleregex.speedbutton_help.hint
+msgctxt "TFRAME_RULEREGEX.SPEEDBUTTON_HELP.HINT"
+msgid "Online Help (F1)"
+msgstr "Помоћ (F1)"
+
+#: tframe_ruleremove.checkbox_casesensitive.caption
+msgctxt "tframe_ruleremove.checkbox_casesensitive.caption"
+msgid "Case sensitive"
+msgstr "Осетљив на величину слова"
+
+#: tframe_ruleremove.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREMOVE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: tframe_ruleremove.checkbox_usewildcards.caption
+msgid "Interpret symbols '?', '*', '[', ']' as wildcards?"
+msgstr "Тумачити симболе '?', '*', '[', ']' као џокере?"
+
+#: tframe_ruleremove.checkbox_wholewordsonly.caption
+msgctxt "tframe_ruleremove.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "Само целе речи"
+
+#: tframe_ruleremove.label_removeoccurances.caption
+msgctxt "tframe_ruleremove.label_removeoccurances.caption"
+msgid "Occurrences:"
+msgstr "Налазишта:"
+
+#: tframe_ruleremove.label_removewhat.caption
+msgid "Remove:"
+msgstr "Уклонити:"
+
+#: tframe_ruleremove.radiobutton_removeall.caption
+msgctxt "tframe_ruleremove.radiobutton_removeall.caption"
+msgid "All"
+msgstr "Сва"
+
+#: tframe_ruleremove.radiobutton_removefirst.caption
+msgctxt "tframe_ruleremove.radiobutton_removefirst.caption"
+msgid "First"
+msgstr "Прва"
+
+#: tframe_ruleremove.radiobutton_removelast.caption
+msgctxt "tframe_ruleremove.radiobutton_removelast.caption"
+msgid "Last"
+msgstr "Последња"
+
+#: tframe_ruleremove.speedbutton_removeaddseparator.hint
+msgctxt "TFRAME_RULEREMOVE.SPEEDBUTTON_REMOVEADDSEPARATOR.HINT"
+msgid "Separate multiple items"
+msgstr "Одвојити спојене ставке"
+
+#: tframe_rulereplace.checkbox_casesensitive.caption
+msgctxt "TFRAME_RULEREPLACE.CHECKBOX_CASESENSITIVE.CAPTION"
+msgid "Case sensitive"
+msgstr "Осетљив на величину слова"
+
+#: tframe_rulereplace.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREPLACE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: tframe_rulereplace.checkbox_usewildcards.caption
+msgid "Interpret '?', '*', '[', ']' as wildcards and '$n' as backreferences?"
+msgstr "Тумачити ?, *, [', '] као џокере и '$n' као везу?"
+
+#: tframe_rulereplace.checkbox_wholewordsonly.caption
+msgctxt "tframe_rulereplace.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "Само целе речи"
+
+#: tframe_rulereplace.label_replaceoccurances.caption
+msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEOCCURANCES.CAPTION"
+msgid "Occurrences:"
+msgstr "Налазишта:"
+
+#: tframe_rulereplace.label_replacewhat.caption
+msgid "Find:"
+msgstr "Наћи:"
+
+#: tframe_rulereplace.label_replacewith.caption
+msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEWITH.CAPTION"
+msgid "Replace:"
+msgstr "Заменити:"
+
+#: tframe_rulereplace.radiobutton_replaceall.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACEALL.CAPTION"
+msgid "All"
+msgstr "Сва"
+
+#: tframe_rulereplace.radiobutton_replacefirst.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACEFIRST.CAPTION"
+msgid "First"
+msgstr "Прва"
+
+#: tframe_rulereplace.radiobutton_replacelast.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACELAST.CAPTION"
+msgid "Last"
+msgstr "Последња"
+
+#: tframe_rulereplace.speedbutton_replaceaddseparator.hint
+msgctxt "TFRAME_RULEREPLACE.SPEEDBUTTON_REPLACEADDSEPARATOR.HINT"
+msgid "Separate multiple items"
+msgstr "Одвојити спојене ставке"
+
+#: tframe_rulereplace.speedbutton_replacewithmetatag.hint
+msgctxt "TFRAME_RULEREPLACE.SPEEDBUTTON_REPLACEWITHMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Убацити Етикету (Ctrl+Ins)"
+
+#: tframe_ruleserialize.cb_resetevery.caption
+msgid "Reset every:"
+msgstr "Ресетовати сваких:"
+
+#: tframe_ruleserialize.checkbox_resetiffilenamechanges.caption
+msgid "Reset if file name changes"
+msgstr "Ресетовати ако се назив фајла измени"
+
+#: tframe_ruleserialize.checkbox_resetiffolderchanges.caption
+msgid "Reset if folder changes"
+msgstr "Вратити ако се фолдер промени"
+
+#: tframe_ruleserialize.checkbox_serializepadtolength.caption
+msgid "Pad with zeros to length:"
+msgstr "Продужити нулама до дужине:"
+
+#: tframe_ruleserialize.checkbox_skipextension.caption
+msgctxt "TFRAME_RULESERIALIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: tframe_ruleserialize.gb_insertwhere.caption
+msgctxt "tframe_ruleserialize.gb_insertwhere.caption"
+msgid "Insert where:"
+msgstr "Убацити као/на:"
+
+#: tframe_ruleserialize.label_customnumberingsymbols.caption
+msgid "Custom numbering symbols:"
+msgstr "Прилагођени бројчани симболи:"
+
+#: tframe_ruleserialize.label_indexstarts.caption
+msgid "Index starts:"
+msgstr "Попис почиње:"
+
+#: tframe_ruleserialize.label_numberingsystem.caption
+msgid "Numbering system:"
+msgstr "Бројчани систем:"
+
+#: tframe_ruleserialize.label_repeat.caption
+msgid "Repeat:"
+msgstr "Поновити:"
+
+#: tframe_ruleserialize.label_step.caption
+msgid "Step:"
+msgstr "Корак:"
+
+#: tframe_ruleserialize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleserialize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "Заменити тренутни назив"
+
+#: tframe_ruleserialize.radiobutton_serializeposition.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPOSITION.CAPTION"
+msgid "Position:"
+msgstr "Место:"
+
+#: tframe_ruleserialize.radiobutton_serializeprefix.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPREFIX.CAPTION"
+msgid "Prefix"
+msgstr "Префикс"
+
+#: tframe_ruleserialize.radiobutton_serializesuffix.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZESUFFIX.CAPTION"
+msgid "Suffix"
+msgstr "Суфикс"
+
+#: tframe_rulestrip.cb_stripallexceptselected.caption
+msgid "Strip all characters except selected"
+msgstr "Уклонити све знакове осим изабраних"
+
+#: tframe_rulestrip.cb_stripenglishletters.caption
+msgid "English:"
+msgstr "Енглески:"
+
+#: tframe_rulestrip.checkbox_casesensitive.caption
+msgctxt "tframe_rulestrip.checkbox_casesensitive.caption"
+msgid "Case sensitive"
+msgstr "Осетљив на величину слова"
+
+#: tframe_rulestrip.checkbox_stripbrackets.caption
+msgid "Brackets:"
+msgstr "Заграде:"
+
+#: tframe_rulestrip.checkbox_stripdigits.caption
+msgctxt "tframe_rulestrip.checkbox_stripdigits.caption"
+msgid "Digits:"
+msgstr "Цифре:"
+
+#: tframe_rulestrip.checkbox_stripskipextension.caption
+msgctxt "TFRAME_RULESTRIP.CHECKBOX_STRIPSKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: tframe_rulestrip.checkbox_stripsymbols.caption
+msgid "Symbols:"
+msgstr "Симболи:"
+
+#: tframe_rulestrip.checkbox_stripuserdefined.caption
+msgctxt "tframe_rulestrip.checkbox_stripuserdefined.caption"
+msgid "User defined:"
+msgstr "Одређени карактери:"
+
+#: tframe_rulestrip.rb_whereeverywhere.caption
+msgctxt "tframe_rulestrip.rb_whereeverywhere.caption"
+msgid "Everywhere"
+msgstr "Свуда"
+
+#: tframe_rulestrip.rb_whereleading.caption
+msgctxt "tframe_rulestrip.rb_whereleading.caption"
+msgid "Leading"
+msgstr "Водећи"
+
+#: tframe_rulestrip.rb_wheretrailing.caption
+msgctxt "tframe_rulestrip.rb_wheretrailing.caption"
+msgid "Trailing"
+msgstr "Пратећи"
+
+#: tframe_ruletranslit.bitbtn_translits.caption
+msgid "Alphabet"
+msgstr "Алфабет"
+
+#: tframe_ruletranslit.checkbox_adjustcase.caption
+msgctxt "tframe_ruletranslit.checkbox_adjustcase.caption"
+msgid "Auto case adjustment"
+msgstr "Аутоматско подешавање величине слова"
+
+#: tframe_ruletranslit.checkbox_skipextension.caption
+msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: tframe_ruletranslit.label2.caption
+msgid "Direction:"
+msgstr "Смер:"
+
+#: tframe_ruletranslit.label3.caption
+msgid "Hint:"
+msgstr "Савет:"
+
+#: tframe_ruletranslit.label_hinttext.caption
+msgid "Alphabet is a set of couples represented by letters and separated with an equal sign; they stand for translation of non-english characters to their english representation."
+msgstr "Алфабет је скуп парова представљен словима и одвојен је са знаком једнако; они стоје за превод неенглеских знакова на њихов енглески приказ."
+
+#: tframe_ruletranslit.radiobutton_directionbackward.caption
+msgid "Backward"
+msgstr "Уназад"
+
+#: tframe_ruletranslit.radiobutton_directionforward.caption
+msgid "Forward"
+msgstr "Унапред"
+
+#: tframe_ruleuserinput.cb_skipextension.caption
+msgctxt "TFRAME_RULEUSERINPUT.CB_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: tframe_ruleuserinput.label1.caption
+msgid "Type your new filenames here (one per line):"
+msgstr "Унети ваше нове називе фајлова (један по реду):"
+
+#: tframe_ruleuserinput.menuitem_load.caption
+msgid "Load from Text File"
+msgstr "Учитати из Текст Фајла"
+
+#: tframe_ruleuserinput.menuitem_paste.caption
+msgid "Paste from Clipboard"
+msgstr "Залепити са Клипборда"
+
+#: tframe_ruleuserinput.rb_insertafter.caption
+msgid "Insert after the current name"
+msgstr "Убацити после садашњег назива"
+
+#: tframe_ruleuserinput.rb_insertinfront.caption
+msgid "Insert in front of the current name"
+msgstr "Убацити испред садашњег назива"
+
+#: tframe_ruleuserinput.rb_replace.caption
+msgid "Replace the current name"
+msgstr "Заменити садашњи назив"
+
+#: tframe_ruleuserinput.sb_options.caption
+msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
+msgid "Options"
+msgstr "Опције"
+
+#: ufileutils.ssizebytes
+msgctxt "ufileutils.ssizebytes"
+msgid "bytes"
+msgstr "бајтова"
+
+#: ufileutils.ssizegigabyte
+msgctxt "ufileutils.ssizegigabyte"
+msgid "GB"
+msgstr "ГБ"
+
+#: ufileutils.ssizekilobyte
+msgctxt "ufileutils.ssizekilobyte"
+msgid "KB"
+msgstr "КБ"
+
+#: ufileutils.ssizemegabyte
+msgctxt "ufileutils.ssizemegabyte"
+msgid "MB"
+msgstr "МБ"
+
+#: ufileutils.ssizeterabyte
+msgctxt "ufileutils.ssizeterabyte"
+msgid "TB"
+msgstr "ТБ"
+
+#: umetatags.s_metatag_audio_duration
+msgid "Duration of an Audio file"
+msgstr "Трајање Аудио фајла"
+
+#: umetatags.s_metatag_audio_durationmins
+msgid "Duration of an Audio file in minutes"
+msgstr "Трајање Аудио фајла у минутима"
+
+#: umetatags.s_metatag_audio_durationsecs
+msgid "Duration of an Audio file in seconds"
+msgstr "Трајање Аудио фајла у секундама"
+
+#: umetatags.s_metatag_avi_duration
+msgid "AVI Duration in H:M:S format"
+msgstr "AVI Трајање у формату С:М:С"
+
+#: umetatags.s_metatag_avi_durationmins
+msgid "AVI Duration in Minutes"
+msgstr "AVI Трајање у Минутима"
+
+#: umetatags.s_metatag_avi_durationsecs
+msgid "AVI Duration in Seconds"
+msgstr "AVI Трајање у Секундама"
+
+#: umetatags.s_metatag_avi_framespersecond
+msgid "AVI Frames per Second"
+msgstr "AVI Фрејмова (рамова) по Секунди"
+
+#: umetatags.s_metatag_avi_height
+msgid "AVI Height in Pixels"
+msgstr "AVI Висина у Пикселима"
+
+#: umetatags.s_metatag_avi_totalframes
+msgid "AVI Total amount of Frames"
+msgstr "AVI укупан број Фрејмова (рамова)"
+
+#: umetatags.s_metatag_avi_videocodec
+msgid "AVI Video Codec"
+msgstr "AVI Видео Кодек"
+
+#: umetatags.s_metatag_avi_width
+msgid "AVI Width in Pixels"
+msgstr "AVI Ширина у Пикселима"
+
+#: umetatags.s_metatag_avi_widthandheight
+msgid "AVI Dimensions in WxH format"
+msgstr "AVI Димензије у формату ШхВ"
+
+#: umetatags.s_metatag_binarysign_description
+msgid "Binary File Information: Description"
+msgstr "Бинарна Информација Фајла: Опис"
+
+#: umetatags.s_metatag_binarysign_extension
+msgid "Binary File Signature: Extension"
+msgstr "Бинарни Потпис Фајла: Екстензија"
+
+#: umetatags.s_metatag_date_now
+msgid "Current Date"
+msgstr "Тренутни датум"
+
+#: umetatags.s_metatag_document_author
+msgid "Summary Information: Author"
+msgstr "Документ: Аутор"
+
+#: umetatags.s_metatag_document_pagecount
+msgid "Summary Information: Number of Pages"
+msgstr "Документ: Број Страна"
+
+#: umetatags.s_metatag_document_subject
+msgid "Summary Information: Subject"
+msgstr "Документ: Субјекат"
+
+#: umetatags.s_metatag_document_title
+msgid "Summary Information: Title"
+msgstr "Документ: Наслов"
+
+#: umetatags.s_metatag_email_datesent
+msgid "Email date sent in local time zone"
+msgstr "Датум слања имејла у локалној временској зони"
+
+#: umetatags.s_metatag_email_datesentoriginal
+msgid "Email date sent in original time zone"
+msgstr "Датум слања имејла у оригиналној временској зони"
+
+#: umetatags.s_metatag_email_datesentutc
+msgid "Email date sent in UTC time zone"
+msgstr "Датум слања имејла у UTC временској зони"
+
+#: umetatags.s_metatag_email_sender
+msgid "Email sender"
+msgstr "Пошиљалац имејла"
+
+#: umetatags.s_metatag_email_subject
+msgid "Email subject"
+msgstr "Субјекат имејла"
+
+#: umetatags.s_metatag_exif_date
+msgid "EXIF Original Date"
+msgstr "EXIF Оригиналан Датум"
+
+#: umetatags.s_metatag_exif_description
+msgid "EXIF Image Description"
+msgstr "EXIF Опис Слике"
+
+#: umetatags.s_metatag_exif_make
+msgid "EXIF Camera Make"
+msgstr "EXIF Произвођач Фотоапарата"
+
+#: umetatags.s_metatag_exif_model
+msgid "EXIF Camera Model"
+msgstr "EXIF Модел Фотоапарата"
+
+#: umetatags.s_metatag_file_basename
+msgid "Base name of the file"
+msgstr "Назив фајла без екстензије"
+
+#: umetatags.s_metatag_file_datecreated
+msgid "File created date"
+msgstr "Датум креирања фајла"
+
+#: umetatags.s_metatag_file_datemodified
+msgid "File last modified date"
+msgstr "Датум последње измене фајла"
+
+#: umetatags.s_metatag_file_dosname
+msgid "Short name in the 8.3 format"
+msgstr "Кратак назив у 8.3 формату"
+
+#: umetatags.s_metatag_file_extension
+msgid "Extension of the file"
+msgstr "Екстензија фајла"
+
+#: umetatags.s_metatag_file_filename
+msgid "Full name of the file"
+msgstr "Цео назив фајла"
+
+#: umetatags.s_metatag_file_filepath
+msgid "Full path of the file"
+msgstr "Цела путања фајла"
+
+#: umetatags.s_metatag_file_foldername
+msgid "Name of the parent folder"
+msgstr "Назив матичног фолдера"
+
+#: umetatags.s_metatag_file_folderpath
+msgid "Full path of the parent folder"
+msgstr "Пуна путања матичног фолдера"
+
+#: umetatags.s_metatag_file_size
+msgid "Size of file"
+msgstr "Величина фајла"
+
+#: umetatags.s_metatag_file_sizebytes
+msgid "Size of file in bytes"
+msgstr "Величина фајла у бајтима"
+
+#: umetatags.s_metatag_file_sizegb
+msgid "Size of file in GB"
+msgstr "Величина фајла у ГБ"
+
+#: umetatags.s_metatag_file_sizekb
+msgid "Size of file in KB"
+msgstr "Величина фајла у КБ"
+
+#: umetatags.s_metatag_file_sizemb
+msgid "Size of file in MB"
+msgstr "Величина фајла у МБ"
+
+#: umetatags.s_metatag_flac_album
+msgid "FLAC Album"
+msgstr "FLAC Албум"
+
+#: umetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr "FLAC Албум Уметника"
+
+#: umetatags.s_metatag_flac_artist
+msgid "FLAC Artist"
+msgstr "FLAC Уметник"
+
+#: umetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr "FLAC Број Диска"
+
+#: umetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
+msgstr "FLAC Укупно Дискова"
+
+#: umetatags.s_metatag_flac_genre
+msgid "FLAC Genre"
+msgstr "FLAC Жанр"
+
+#: umetatags.s_metatag_flac_title
+msgid "FLAC Title"
+msgstr "FLAC Наслов"
+
+#: umetatags.s_metatag_flac_trackno
+msgid "FLAC Track Number"
+msgstr "FLAC Број Песме"
+
+#: umetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
+msgstr "FLAC Укупно Песама"
+
+#: umetatags.s_metatag_flac_year
+msgid "FLAC Year"
+msgstr "FLAC Година"
+
+#: umetatags.s_metatag_hash_crc32
+msgid "CRC32 Checksum of a file"
+msgstr "CRC32 Checksum фајла"
+
+#: umetatags.s_metatag_hash_md5
+msgid "MD5 Hash of a file"
+msgstr "MD5 Hash фајла"
+
+#: umetatags.s_metatag_hash_sha1
+msgid "SHA1 Hash of a file"
+msgstr "SHA1 Hash фајла"
+
+#: umetatags.s_metatag_hash_sha256
+msgid "SHA256 Hash of a file"
+msgstr "SHA256 Hash фајла"
+
+#: umetatags.s_metatag_hash_sha512
+msgid "SHA512 Hash of a file"
+msgstr "SHA512 Hash фајла"
+
+#: umetatags.s_metatag_html_title
+msgid "Title tag extracted from an HTML file"
+msgstr "Наслов извучен из HTML фајла"
+
+#: umetatags.s_metatag_image_aspectratio
+msgid "Aspect Ratio of an image"
+msgstr "Однос димензија слике"
+
+#: umetatags.s_metatag_image_height
+msgid "Height of an image in pixels"
+msgstr "Висина слике у пикселима"
+
+#: umetatags.s_metatag_image_pixels
+msgid "Amount of pixels in the image"
+msgstr "Број пиксела у слици"
+
+#: umetatags.s_metatag_image_width
+msgid "Width of an image in pixels"
+msgstr "Ширина слике у пикселима"
+
+#: umetatags.s_metatag_image_widthandheight
+msgid "Width and Height of an image in pixels"
+msgstr "Ширина и Висина слике у пикселима"
+
+#: umetatags.s_metatag_iptc_caption
+msgid "IPTC Image Caption"
+msgstr "IPTC Заглавље Слике"
+
+#: umetatags.s_metatag_iptc_city
+msgid "IPTC City"
+msgstr "IPTC Град"
+
+#: umetatags.s_metatag_iptc_headline
+msgid "IPTC Image Headline"
+msgstr "IPTC Наслов Слике"
+
+#: umetatags.s_metatag_iptc_location
+msgid "IPTC Location Name"
+msgstr "IPTC Назив Локације"
+
+#: umetatags.s_metatag_iptc_objectname
+msgid "IPTC Object Name"
+msgstr "IPTC Назив Објекта"
+
+#: umetatags.s_metatag_mp3_album
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr "MP3 Албум"
+
+#: umetatags.s_metatag_mp3_albumartist
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr "MP3 Албум Уметника"
+
+#: umetatags.s_metatag_mp3_artist
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr "MP3 Уметник"
+
+#: umetatags.s_metatag_mp3_discno
+msgid "MP3 Disc Number"
+msgstr "MP3 Број Диска"
+
+#: umetatags.s_metatag_mp3_disctotal
+msgid "MP3 Total Discs"
+msgstr "MP3 Укупно Дискова"
+
+#: umetatags.s_metatag_mp3_genre
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr "MP3 Жанр"
+
+#: umetatags.s_metatag_mp3_title
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr "MP3 Наслов"
+
+#: umetatags.s_metatag_mp3_trackno
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr "MP3 Број Песме"
+
+#: umetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr "MP3 Укупно Песама"
+
+#: umetatags.s_metatag_mp3_year
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
+msgstr "MP3 Година"
+
+#: umetatags.s_metatag_outlook_body
+msgid "Outlook Message: Body Text"
+msgstr "Outlook порука: Тело Текста"
+
+#: umetatags.s_metatag_outlook_dateheader
+msgid "Outlook Message: Sent date from email header in local time zone"
+msgstr "Outlook порука: Датум слања из имејл заглавља у локалној временској зони"
+
+#: umetatags.s_metatag_outlook_dateheaderoriginal
+msgid "Outlook Message: Sent date from email header in original time zone"
+msgstr "Outlook порука: Датум слања из имејл заглавља у оригиналној временској зони"
+
+#: umetatags.s_metatag_outlook_dateheaderutc
+msgid "Outlook Message: Sent date from email header in UTC time zone"
+msgstr "Outlook порука: Датум слања из имејл заглавља у UTC временској зони"
+
+#: umetatags.s_metatag_outlook_datesent
+msgid "Outlook Message: Sent date in local time zone"
+msgstr "Outlook порука: Датум слања у локалној временској зони"
+
+#: umetatags.s_metatag_outlook_datesentutc
+msgid "Outlook Message: Sent date in UTC time zone"
+msgstr "Outlook порука: Датум слања у UTC временској зони"
+
+#: umetatags.s_metatag_outlook_messageid
+msgctxt "umetatags.s_metatag_outlook_messageid"
+msgid "Outlook Message: ID"
+msgstr "Outlook порука: ИД"
+
+#: umetatags.s_metatag_outlook_sender
+msgid "Outlook Message: Sender"
+msgstr "Outlook порука: Пошиљалац"
+
+#: umetatags.s_metatag_outlook_subject
+msgid "Outlook Message: Subject"
+msgstr "Outlook порука: Тема"
+
+#: umetatags.s_metatag_tiff_date
+msgid "TIFF Date"
+msgstr "TIFF Датум"
+
+#: umetatags.s_metatag_tiff_description
+msgid "TIFF Description"
+msgstr "TIFF Опис"
+
+#: umetatags.s_metatag_tiff_make
+msgid "TIFF Make"
+msgstr "TIFF Произвођач"
+
+#: umetatags.s_metatag_tiff_model
+msgid "TIFF Model"
+msgstr "TIFF Модел"
+
+#: umetatags.s_metatag_torrent_announce
+msgid "Torrent: Announce URL"
+msgstr "Торент: Објавити УРЛ"
+
+#: umetatags.s_metatag_torrent_comment
+msgid "Torrent: Comment"
+msgstr "Торент: Коментар"
+
+#: umetatags.s_metatag_torrent_countfiles
+msgid "Torrent: Number of files"
+msgstr "Торент: Број фајлова"
+
+#: umetatags.s_metatag_torrent_creationdatelocal
+msgid "Torrent: Creation date in local time zone"
+msgstr "Торент: Датум прављења у локалној временској зони"
+
+#: umetatags.s_metatag_torrent_creationdateutc
+msgid "Torrent: Creation date in UTC time zone"
+msgstr "Торент: Датум прављења у УТЦ временској зони"
+
+#: umetatags.s_metatag_torrent_hash
+msgid "Torrent: Hash"
+msgstr "Торент: Hash"
+
+#: umetatags.s_metatag_torrent_name
+msgid "Torrent: Name"
+msgstr "Торент: Назив"
+
+#: umetatags.s_metatag_torrent_publisher
+msgid "Torrent: Publisher"
+msgstr "Торент: Издавач"
+
+#: umetatags.s_metatag_torrent_totalsize
+msgid "Torrent: Total size"
+msgstr "Торент: Укупна величина"
+
+#: umetatags.s_metatag_torrent_totalsizebytes
+msgid "Torrent: Total size in bytes"
+msgstr "Торент: Укупна величина у бајтовима"
+
+#: umetatags.s_metatag_torrent_totalsizegb
+msgid "Torrent: Total size in GB"
+msgstr "Торент: Укупна величина у ГБ"
+
+#: umetatags.s_metatag_torrent_totalsizekb
+msgid "Torrent: Total size in KB"
+msgstr "Торент: Укупна величина у КБ"
+
+#: umetatags.s_metatag_torrent_totalsizemb
+msgid "Torrent: Total size in MB"
+msgstr "Торент: Укупна величина у МБ"
+
+#: umetatags.s_metatag_versioninfo_comments
+msgid "Version Information: Comments"
+msgstr "Информација о Верзији: Коментари"
+
+#: umetatags.s_metatag_versioninfo_company
+msgid "Version Information: Company"
+msgstr "Информација о Верзији: Компанија"
+
+#: umetatags.s_metatag_versioninfo_copyright
+msgid "Version Information: Copyright"
+msgstr "Информација о Верзији: Ауторско право"
+
+#: umetatags.s_metatag_versioninfo_description
+msgid "Version Information: Description"
+msgstr "Информација о Верзији: Опис"
+
+#: umetatags.s_metatag_versioninfo_fileversion
+msgid "Version Information: File Version"
+msgstr "Информација о Верзији: Верзија"
+
+#: umetatags.s_metatag_versioninfo_product
+msgid "Version Information: Product"
+msgstr "Информација о Верзији: Производ"
+
+#: umetatags.s_metatag_versioninfo_productversion
+msgid "Version Information: Product Version"
+msgstr "Информација о Верзији: Верзија Производа"
+
+#: umetatags.s_metatag_wma_album
+msgid "WMA Album"
+msgstr "WMA Албум"
+
+#: umetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr "WMA Албум Уметника"
+
+#: umetatags.s_metatag_wma_artist
+msgid "WMA Artist"
+msgstr "WMA Уметник"
+
+#: umetatags.s_metatag_wma_discno
+msgid "WMA Disc Number"
+msgstr "WMA Број Диска"
+
+#: umetatags.s_metatag_wma_disctotal
+msgid "WMA Total Discs"
+msgstr "WMA Укупно Дискова"
+
+#: umetatags.s_metatag_wma_genre
+msgid "WMA Genre"
+msgstr "WMA Жанр"
+
+#: umetatags.s_metatag_wma_title
+msgid "WMA Title"
+msgstr "WMA Наслов"
+
+#: umetatags.s_metatag_wma_trackno
+msgid "WMA Track Number"
+msgstr "WMA Број Песме"
+
+#: umetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
+msgstr "WMA Укупно Песама"
+
+#: umetatags.s_metatag_wma_year
+msgid "WMA Year"
+msgstr "WMA Година"
+
+#: unumeralsystems.nsc_customalphabetic
+msgid "Custom alphabetic"
+msgstr "Прилагођени алфабет"
+
+#: unumeralsystems.nsc_customnumeric
+msgid "Custom numeric"
+msgstr "Прилагођени бројчани"
+
+#: unumeralsystems.nsc_decimaldigits
+msgid "Decimal digits"
+msgstr "Децимални бројеви"
+
+#: unumeralsystems.nsc_englishletters
+msgid "English letters"
+msgstr "Енглеска слова"
+
+#: unumeralsystems.nsc_romannumerals
+msgid "Roman numerals"
+msgstr "Римски бројеви"
+
+#: unumeralsystems.nsc_simplifiedchinese
+msgid "Simplified Chinese"
+msgstr "Поједностављени кинески"
+
+#: upascalscript.spscompile
+msgid "Pascal Script Compile"
+msgstr "Саставити Pascal Скрипту"
+
+#: upascalscript.spsexception
+msgid "Exception"
+msgstr "Изузетак"
+
+#: upascalscript.spsexecute
+msgid "Pascal Script Execute"
+msgstr "Извршити Pascal Скрипту"
+
+#: upascalscript.spsincludedfilenotfound
+msgid "Included file not found: %s"
+msgstr "Укључени фајл није пронађен: %s"
+
+#: upascalscript.spsline
+msgid "Line"
+msgstr "Линија"
+
+#: upascalscript.spsunknowncompileerror
+msgid "Unknown error (check units and libraries)"
+msgstr "Непозната грешка (проверити јединице и библиотеке)"
+
+#: upresets.spresetfilenotfound
+msgid "Preset file not found:"
+msgstr "Фајл поставке није пронађен:"
+
+#: upresets.spresetloadfailed
+msgid "Failed to load a preset."
+msgstr "Неуспешно учитавање поставке."
+
+#: upresets.spresetsavefailed
+msgid "Failed to save a preset."
+msgstr "Неуспешно чување поставке."
+
+#: uregistration.s_cannot_create_license_dir
+msgctxt "uregistration.s_cannot_create_license_dir"
+msgid "Not able to create a directory for a license file."
+msgstr "Не може се створити директоријум за фајл лиценце."
+
+#: uregistration.s_contact_email
+msgctxt "uregistration.s_contact_email"
+msgid "Contact email"
+msgstr "Контакт имејл"
+
+#: uregistration.s_contact_name
+msgctxt "uregistration.s_contact_name"
+msgid "Contact name"
+msgstr "Контакт име"
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr "Неуспешно брисање фајла:"
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr "Неуспешно учитавање лиценце:"
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr "Неуспешно чување лиценце:"
+
+#: uregistration.s_issue_date
+msgctxt "uregistration.s_issue_date"
+msgid "Issue date"
+msgstr "Датум издавања"
+
+#: uregistration.s_license
+msgctxt "uregistration.s_license"
+msgid "License"
+msgstr "Лиценца"
+
+#: uregistration.s_licensed_to
+msgctxt "uregistration.s_licensed_to"
+msgid "Licensed to"
+msgstr "Лиценцирано на"
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr "Лиценца је на црној листи."
+
+#: uregistration.s_license_expiry
+msgctxt "uregistration.s_license_expiry"
+msgid "License expiry"
+msgstr "Лиценца истиче"
+
+#: uregistration.s_license_has_expired
+msgctxt "uregistration.s_license_has_expired"
+msgid "License has expired."
+msgstr "Лиценца је истекла."
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr "Лиценца је неважећа!"
+
+#: uregistration.s_license_load_failed
+msgctxt "uregistration.s_license_load_failed"
+msgid "Failed to load the license."
+msgstr "Неуспешно учитавање лиценце."
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr "Потребно је обновити лиценцу како би се програм активирао."
+
+#: uregistration.s_license_remove_failed
+msgctxt "uregistration.s_license_remove_failed"
+msgid "Failed to remove the license."
+msgstr "Неуспешно уклањање лиценце."
+
+#: uregistration.s_license_remove_ok
+msgctxt "uregistration.s_license_remove_ok"
+msgid "License has been removed."
+msgstr "Лиценца је уклоњена."
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr "Ваша лиценца је изван надограђеног периода."
+
+#: uregistration.s_number_of_computers
+msgctxt "uregistration.s_number_of_computers"
+msgid "Number of computers"
+msgstr "Број рачунара"
+
+#: uregistration.s_registration_error
+msgctxt "uregistration.s_registration_error"
+msgid "Registration code is invalid."
+msgstr "Регистрациони код је неважећи."
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr "Регистрациони фајл није пронађен."
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr "Неуспешно читање регистрационог фајла."
+
+#: uregistration.s_registration_ok
+msgctxt "uregistration.s_registration_ok"
+msgid "Registration has been successful!"
+msgstr "Регистација је успешна!"
+
+#: uregistration.s_upgrade_expiry
+msgctxt "uregistration.s_upgrade_expiry"
+msgid "Upgrade expiry"
+msgstr "Надоградити лиценцу"
+
+#: urenfiles.srenstatusok
+msgctxt "urenfiles.srenstatusok"
+msgid "OK"
+msgstr "У реду"
+
+#: urenfiles.svalidationduplicated
+msgctxt "myrenfiles.svalidationduplicated"
+msgid "Duplicate in the list"
+msgstr "Дупликат у листи"
+
+#: urenfiles.svalidationexceeds
+msgctxt "myrenfiles.svalidationexceeds"
+msgid "New path exceeds the length limit"
+msgstr "Нова путања премашује ограничење дужине"
+
+#: urenfiles.svalidationexists
+msgctxt "myrenfiles.svalidationexists"
+msgid "Destination file already exists"
+msgstr "Одредишни фајл већ постоји"
+
+#: urenfiles.svalidationinvalid
+msgctxt "myrenfiles.svalidationinvalid"
+msgid "Contains invalid characters"
+msgstr "Садржи неважеће знакове"
+
+#: urenfiles.svalidationmovedparent
+msgid "Parent path changed earlier in the list"
+msgstr "Путања је промењена раније у листи"
+
+#: urulesex.s_rules_addtextpaddingtolength
+msgid "Add text padding to length %s with \"%s\" characters"
+msgstr "Додати попуњавање текстом до дужине %s са \"%s\" знака"
+
+#: urulesex.s_rules_addzeropaddingtolength
+msgid "Add zero padding to length %s"
+msgstr "Додати попуњавање нулом до дужине %s"
+
+#: urulesex.s_rules_adjusttimebynumdays
+msgid "Adjust time by %d days"
+msgstr "Подесити време за %d дана"
+
+#: urulesex.s_rules_adjusttimebynumhours
+msgid "Adjust time by %d hours"
+msgstr "Подесити време за %d сати"
+
+#: urulesex.s_rules_adjusttimebynummilliseconds
+msgid "Adjust time by %d milliseconds"
+msgstr "Подесити време за %d милисекунди"
+
+#: urulesex.s_rules_adjusttimebynumminutes
+msgid "Adjust time by %d minutes"
+msgstr "Подесити време за %d минута"
+
+#: urulesex.s_rules_adjusttimebynummonths
+msgid "Adjust time by %d months"
+msgstr "Подесити време за %d месеца"
+
+#: urulesex.s_rules_adjusttimebynumseconds
+msgid "Adjust time by %d seconds"
+msgstr "Подесити време за %d секунди"
+
+#: urulesex.s_rules_adjusttimebynumyears
+msgid "Adjust time by %d years"
+msgstr "Подесити време за %d године"
+
+#: urulesex.s_rules_after
+msgid "after"
+msgstr "после"
+
+#: urulesex.s_rules_all
+msgid "all"
+msgstr "Сва"
+
+#: urulesex.s_rules_all_characters_except
+msgid "all characters except"
+msgstr "сви знакови осим"
+
+#: urulesex.s_rules_all_lower_case
+msgid "All lower case"
+msgstr "све малим словима"
+
+#: urulesex.s_rules_all_upper_case
+msgid "All upper case"
+msgstr "СВЕ ВЕЛИКИМ СЛОВИМА"
+
+#: urulesex.s_rules_and_pad_to_length
+msgid "and pad to length"
+msgstr "и продужити до дужине"
+
+#: urulesex.s_rules_append
+msgid "append"
+msgstr "Придодати"
+
+#: urulesex.s_rules_append_new_extension
+msgid "Append new extension"
+msgstr "Придодати нову екстензију"
+
+#: urulesex.s_rules_as_prefix
+msgid "as Prefix"
+msgstr "као Префикс"
+
+#: urulesex.s_rules_as_suffix
+msgid "as Suffix"
+msgstr "као Суфикс"
+
+#: urulesex.s_rules_at_position
+msgid "at Position"
+msgstr "на Позицији"
+
+#: urulesex.s_rules_autocaseadjustment
+msgctxt "urulesex.s_rules_autocaseadjustment"
+msgid "Auto case adjustment"
+msgstr "Аутоматско подешавање величине слова"
+
+#: urulesex.s_rules_before
+msgid "before"
+msgstr "пре"
+
+#: urulesex.s_rules_cannoteditruleconfiguration
+msgid "Cannot edit rule configuration."
+msgstr "Не може се уредити поставка правила."
+
+#: urulesex.s_rules_capitalize_and_preserve
+msgid "Capitalize and preserve"
+msgstr "Увеличати и одржати"
+
+#: urulesex.s_rules_capitalize_every_word
+msgid "Capitalize every word"
+msgstr "Свака Реч Велико Слово"
+
+#: urulesex.s_rules_case_sensitive
+msgid "case sensitive"
+msgstr "Осетљив на величину слова"
+
+#: urulesex.s_rules_change_extension_to
+msgid "Change extension to"
+msgstr "Променити екстензију на"
+
+#: urulesex.s_rules_characters
+msgid "characters"
+msgstr "знакова"
+
+#: urulesex.s_rules_converttovaluefromvalue
+msgid "Convert to %s from %s"
+msgstr "Претворити у %s од %s"
+
+#: urulesex.s_rules_customlongmonths
+msgid "Custom long months"
+msgstr "Пун назив месеци"
+
+#: urulesex.s_rules_customshortmonths
+msgid "Custom short months"
+msgstr "Скраћени назив месеци"
+
+#: urulesex.s_rules_delete
+msgctxt "myrulesex.s_rules_delete"
+msgid "Delete"
+msgstr "Избрисати"
+
+#: urulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr "Избрисати тренутни назив"
+
+#: urulesex.s_rules_delimiters
+msgid "delimiters"
+msgstr "Граничнике"
+
+#: urulesex.s_rules_detect_using_binary_signature
+msgid "Detect using binary signature"
+msgstr "Открити употребом бинарног потписа"
+
+#: urulesex.s_rules_everywhere
+msgid "everywhere"
+msgstr "свуда"
+
+#: urulesex.s_rules_exact_pattern_of_delimiters
+msgid "exact pattern of delimiters"
+msgstr "Тачан шаблон граничника"
+
+#: urulesex.s_rules_extension_lower_case
+msgid "Extension lower case"
+msgstr "Екстензија мало слово"
+
+#: urulesex.s_rules_extension_upper_case
+msgid "Extension upper case"
+msgstr "Екстензија велико слово"
+
+#: urulesex.s_rules_files
+msgid "files"
+msgstr "фајла"
+
+#: urulesex.s_rules_files_to
+msgid "file(s) to"
+msgstr "фајл(а) до"
+
+#: urulesex.s_rules_files_with
+msgid "file(s) with"
+msgstr "фајл(а) са"
+
+#: urulesex.s_rules_first
+msgid "first"
+msgstr "Прва"
+
+#: urulesex.s_rules_first_letter_capital
+msgctxt "myrulesex.s_rules_first_letter_capital"
+msgid "First letter capital"
+msgstr "Прво слово велико"
+
+#: urulesex.s_rules_fix_spaces
+msgid "Fix spaces"
+msgstr "Поправити размаке"
+
+#: urulesex.s_rules_force_case_fragments
+msgid "Force case fragments"
+msgstr "Присилити слова са делове"
+
+#: urulesex.s_rules_from_delimiter
+msgid "from Delimiter"
+msgstr "од Граничника"
+
+#: urulesex.s_rules_from_position
+msgid "from Position"
+msgstr "од Позиције"
+
+#: urulesex.s_rules_insert
+msgctxt "myrulesex.s_rules_insert"
+msgid "Insert"
+msgstr "Убацити"
+
+#: urulesex.s_rules_insert_space_in_front_of_capitals
+msgid "Insert space in front of capitals"
+msgstr "Убацити размак испред великих слова"
+
+#: urulesex.s_rules_invert_case
+msgid "Invert case"
+msgstr "пРЕОКРЕНУТИ сЛОВА"
+
+#: urulesex.s_rules_last
+msgid "last"
+msgstr "последње"
+
+#: urulesex.s_rules_leading
+msgctxt "myrulesex.s_rules_leading"
+msgid "leading"
+msgstr "водеће"
+
+#: urulesex.s_rules_leave_delimiter
+msgid "leave delimiter"
+msgstr "оставити граничник"
+
+#: urulesex.s_rules_leftside
+msgid "Left side"
+msgstr "Лева страна"
+
+#: urulesex.s_rules_new_names_are_not_defined
+msgid "new names are not defined"
+msgstr "нови називи нису одређени"
+
+#: urulesex.s_rules_new_pattern
+msgid "New pattern"
+msgstr "Нов шаблон"
+
+#: urulesex.s_rules_normalize_spaces
+msgid "Normalize spaces"
+msgstr "Нормализовати размаке"
+
+#: urulesex.s_rules_parts
+msgid "parts"
+msgstr "делови"
+
+#: urulesex.s_rules_positions
+msgid "positions"
+msgstr "места"
+
+#: urulesex.s_rules_prefix_names_of
+msgid "Prefix names of"
+msgstr "Префикс назива од"
+
+#: urulesex.s_rules_prepare_for_sharepoint
+msgid "Prepare for SharePoint"
+msgstr "Припремити за \"SharePoint\""
+
+#: urulesex.s_rules_randomwithlengthusingcharacters
+msgctxt "urulesex.s_rules_randomwithlengthusingcharacters"
+msgid "Random with length %s using characters \"%s\""
+msgstr "Насумично са дужином %s користећи знакове \"%s\""
+
+#: urulesex.s_rules_remove
+msgctxt "myrulesex.s_rules_remove"
+msgid "Remove"
+msgstr "Уклонити"
+
+#: urulesex.s_rules_removezeropadding
+msgctxt "urulesex.s_rules_removezeropadding"
+msgid "Remove zero padding"
+msgstr "Уклонити попуњавање нулама"
+
+#: urulesex.s_rules_remove_extension
+msgid "Remove extension"
+msgstr "Уклонити екстензију"
+
+#: urulesex.s_rules_repeat
+msgid "repeat"
+msgstr "поновити"
+
+#: urulesex.s_rules_replace
+msgctxt "myrulesex.s_rules_replace"
+msgid "Replace"
+msgstr "Заменити"
+
+#: urulesex.s_rules_replace_expression
+msgid "Replace expression"
+msgstr "Заменити екстензију"
+
+#: urulesex.s_rules_replace_with_spaces
+msgid "Replace with spaces"
+msgstr "Заменити са размацима"
+
+#: urulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr "замењује тренутни назив"
+
+#: urulesex.s_rules_reset_index_every
+msgid "reset index every"
+msgstr "ресетовати попис сваких"
+
+#: urulesex.s_rules_reset_index_if_file_name_changes
+msgid "reset index if file name changes"
+msgstr "ресетовати попис ако се назив фајла измени"
+
+#: urulesex.s_rules_reset_index_if_folder_changes
+msgid "reset index if folder changes"
+msgstr "ресетовати попис ако се фолдер промени"
+
+#: urulesex.s_rules_rightside
+msgid "Right side"
+msgstr "Десна страна"
+
+#: urulesex.s_rules_right_to_left
+msgid "right-to-left"
+msgstr "С десна на лево"
+
+#: urulesex.s_rules_serialize_incremental_from
+msgid "Incremental from"
+msgstr "Постепено од"
+
+#: urulesex.s_rules_serialize_random_with_length
+msgid "Random with length"
+msgstr "Насумично са дужином"
+
+#: urulesex.s_rules_set_names_of
+msgid "Set names of"
+msgstr "Поставити називе од"
+
+#: urulesex.s_rules_skipextension
+msgctxt "urulesex.s_rules_skipextension"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: urulesex.s_rules_skip_extension
+msgid "skip extension"
+msgstr "Прескочити екстензију"
+
+#: urulesex.s_rules_skip_versions
+msgid "skip versions"
+msgstr "прескочити верзије"
+
+#: urulesex.s_rules_split_by
+msgid "Split by"
+msgstr "Разделити по"
+
+#: urulesex.s_rules_step
+msgid "step"
+msgstr "корак"
+
+#: urulesex.s_rules_strip
+msgctxt "myrulesex.s_rules_strip"
+msgid "Strip"
+msgstr "Одстранити"
+
+#: urulesex.s_rules_strip_out_contents_of_brackets
+msgid "Strip out contents of brackets"
+msgstr "Одстранити садржај заграда"
+
+#: urulesex.s_rules_strip_unicode_marks
+msgid "Strip unicode marks"
+msgstr "Избрисати уникодне знакове"
+
+#: urulesex.s_rules_suffix_names_of
+msgid "Suffix names of"
+msgstr "Суфиксовати назив од"
+
+#: urulesex.s_rules_trailing
+msgctxt "myrulesex.s_rules_trailing"
+msgid "trailing"
+msgstr "пратеће"
+
+#: urulesex.s_rules_transliterate
+msgid "Transliterate"
+msgstr "Превести"
+
+#: urulesex.s_rules_try_unique
+msgid "try unique"
+msgstr "покушати јединствено"
+
+#: urulesex.s_rules_until_count_reaches
+msgid "until Count reaches"
+msgstr "док Бројање достигне"
+
+#: urulesex.s_rules_until_delimiter
+msgid "until Delimiter"
+msgstr "до Граничника"
+
+#: urulesex.s_rules_until_the_end
+msgid "until the End"
+msgstr "до Краја"
+
+#: urulesex.s_rules_usingcustomnumeralsymbols
+msgid "using \"%s\" system with \"%s\" symbols"
+msgstr "користећи \"%s\" систем са \"%s\" симбола"
+
+#: urulesex.s_rules_usingnamednumeralsystem
+msgid "using \"%s\" system"
+msgstr "користећи \"%s\" систем"
+
+#: urulesex.s_rules_using_wildcards
+msgid "using wildcards"
+msgstr "користећи џокере"
+
+#: urulesex.s_rules_warndeprecatedrandomserialize
+msgid "Rule configuration uses deprecated random serialization, please use a separate dedicated rule instead."
+msgstr "Поставка правила користи застарелу насумичну нумеризацију, уместо ње користити одвојено за то намењено правило."
+
+#: urulesex.s_rules_wholewordsonly
+msgctxt "urulesex.s_rules_wholewordsonly"
+msgid "Whole words only"
+msgstr "Само целе речи"
+
+#: urulesex.s_rules_whole_words
+msgid "whole words"
+msgstr "целе речи"
+
+#: urulesex.s_rules_with
+msgid "with"
+msgstr "са"
+
+#: ustrings.msg_addfoldernotexist
+msgid ""
+"Selected folder does not exist!\n"
+"\n"
+"%s\n"
+msgstr ""
+"Изабрани фолдер не постоји!\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_addmetatagconfirm
+msgid ""
+"Meta tags are currently disabled.\n"
+"\n"
+"Do you want to enable them?\n"
+msgstr ""
+"Подршка Етикета је искључена!\n"
+"\n"
+"Желите ли да је укључите?\n"
+
+#: ustrings.msg_ask_open_quick_guide
+msgid "Would you like to open a Quick Guide?"
+msgstr "Желите ли да отворите упутство?"
+
+#: ustrings.msg_browsefoldersstatus
+msgid "Folders: %d scanned, %d selected."
+msgstr "Фолдери: %d скениран(а), %d изабран(а)."
+
+#: ustrings.msg_browsegotofoldercaption
+msgctxt "mystrings.msg_browsegotofoldercaption"
+msgid "Go To Folder"
+msgstr "Ићи На Фолдер"
+
+#: ustrings.msg_browsegotofolderprompt
+msgid "Enter a full path to the folder that you want to go to:"
+msgstr "Унети целу путању ка фолдеру ком желите да приступите:"
+
+#: ustrings.msg_changeworkingdirfailed
+msgid "Failed to change current working directory."
+msgstr "Неуспешна промена тренутног радног фолдера."
+
+#: ustrings.msg_copyandcutfilesprompt
+msgid ""
+"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
+"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
+"\n"
+"Are you sure you want to proceed?\n"
+msgstr ""
+"Операција Копирања и Сечења Фајлова поставиће изабране фајлове у Клипборд за каснију употребу.\n"
+"Важно: Сви фајлови ће бити прилепљени у исти директоријум без обзира где су се првобитно налазили!\n"
+"\n"
+"Да ли сте сигурни да желите да наставите?\n"
+
+#: ustrings.msg_datetimeinvalidformat
+msgid "INVALID FORMAT"
+msgstr "НЕВАЖЕЋИ ФОРМАТ"
+
+#: ustrings.msg_editrulecommentcaption
+msgid "Rule Comment"
+msgstr "Коментар Правила"
+
+#: ustrings.msg_editrulecommentprompt
+msgid "Enter a comment for the rule:"
+msgstr "Унети коментар за правило:"
+
+#: ustrings.msg_fileexistsoverwriteprompt
+msgid ""
+"File already exists!\n"
+"Overwrite it?\n"
+msgstr ""
+"Фајл већ постоји!\n"
+"Надписати га?\n"
+
+#: ustrings.msg_filescountinfo
+msgid ""
+"Total: %d\n"
+"Marked: %d\n"
+"Selected: %d\n"
+msgstr ""
+"Укупно: %d\n"
+"Обележено: %d\n"
+"Изабрано: %d\n"
+
+#: ustrings.msg_fixcollidewarninglimit
+msgid ""
+"Do you want to fix conflicting new names for %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"Има %s фајл(а)(ова) на табели, сигурни сте да желите да поправите сукобљене нове називе?\n"
+"\n"
+"Овај поступак може потрајати неколико минута...\n"
+
+#: ustrings.msg_gotolinecaption
+msgid "Go To Line"
+msgstr "Ићи До Реда"
+
+#: ustrings.msg_gotolineprompt
+msgid "Enter the line number:"
+msgstr "Унети број реда:"
+
+#: ustrings.msg_hinterrorcolumn
+msgid "Hint: You can check the details by enabling the \"Error\" column."
+msgstr "Савет: Могу се проверити детаљи укључујући \"Грешка\" колону."
+
+#: ustrings.msg_launching_first_time
+msgid "You are launching ReNamer for the first time."
+msgstr "Покреће се ReNamer по први пут."
+
+#: ustrings.msg_loadnewnamesresult
+msgid "%d new filename(s) out of %d in the list were changed!"
+msgstr "%d нових назива фајлова од %d у листи је измењено!"
+
+#: ustrings.msg_nothingtorename
+msgid "Nothing to rename!"
+msgstr "Ништа за Преименовање!"
+
+#: ustrings.msg_operationfailedduetoerror
+msgid "Operation failed due to an error:"
+msgstr "Поступак је неуспешан због грешке:"
+
+#: ustrings.msg_overwritefilewithnewname
+msgid ""
+"Original Path: %s\n"
+"New Path: %s\n"
+"\n"
+"New Name is already taken by another file, delete that file permanently?\n"
+msgstr ""
+"Оригинална Путања: %s\n"
+"Нова Путања: %s\n"
+"\n"
+"Други фајл је већ узео нови назив, избрисати тај фајл заувек?\n"
+
+#: ustrings.msg_pascalscriptcompiledsuccesfully
+msgid "Compiled successfully!"
+msgstr "Успешно састављено!"
+
+#: ustrings.msg_pascalscriptnoscripts
+msgid "No Saved Scripts were found!"
+msgstr "Нема Сачуваних Скрипти!"
+
+#: ustrings.msg_pascalscriptsaveinvalid
+msgctxt "mystrings.msg_pascalscriptsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "Неисправан Назив!"
+
+#: ustrings.msg_pascalscriptsavetext
+msgid "Enter a name for a script:"
+msgstr "Унети назив за скрипту:"
+
+#: ustrings.msg_pascalscriptsavetitle
+msgid "Save Script"
+msgstr "Сачувати Скрипту"
+
+#: ustrings.msg_presetsmanagerdeletepresetprompt
+msgid "Delete \"%s\" preset?"
+msgstr "Избрисати \"%s\" поставку?"
+
+#: ustrings.msg_presetsmanagereditwarning
+msgid ""
+"You are about to edit Preset file(s) manualy!\n"
+"If you are not sure in what you're doing - press Cancel.\n"
+"\n"
+"Proceed with this action?\n"
+msgstr ""
+"На корак сте да ручно уредите фајл(ове) Поставке!\n"
+"Ако нисте сигурни шта радите - притисните Откажи.\n"
+"\n"
+"Наставити са радњом?\n"
+
+#: ustrings.msg_presetsmanagerfailedcopy
+msgid "Could not copy the \"%s\" preset!"
+msgstr "Поставка \"%s\" се не може копирати!"
+
+#: ustrings.msg_presetsmanagerfaileddelete
+msgid "Could not delete the \"%s\" preset!"
+msgstr "Поставка \"%s\" се не може избрисати!"
+
+#: ustrings.msg_presetsmanagerfailedrename
+msgid "Could not rename the \"%s\" preset!"
+msgstr "Поставка \"%s\" се не може преименовати!"
+
+#: ustrings.msg_presetsmanagernewnamequerytext
+msgid "New Name:"
+msgstr "Нови Назив:"
+
+#: ustrings.msg_presetsmanagernewnamequerytitle
+msgid "Rename Preset"
+msgstr "Преименовати Поставку"
+
+#: ustrings.msg_previewexception
+msgid ""
+"Preview process has been terminated due to a critical error:\n"
+"\n"
+"%s\n"
+msgstr ""
+"Поступак прегледа је угашен због критичне грешке:\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_renamefailedfiles
+msgid "%d file(s) failed to rename!"
+msgstr "%d фајл(а) неуспешно преименована!"
+
+#: ustrings.msg_renamenewnamesareempty
+msgid ""
+"All New Names are empty!\n"
+"\n"
+"Hint: Configure the Rules and click Preview button.\n"
+msgstr ""
+"Сви Нови Називи су празни!\n"
+"\n"
+"Савет: Уобличите Правила и кликните на тастер Преглед.\n"
+
+#: ustrings.msg_renameskippedunchangedfiles
+msgid "%d file(s) skipped because unchanged."
+msgstr "%d фајл(а) је/су прескочен(а) јер је/су непромењен(и)."
+
+#: ustrings.msg_renameskippedunmarkedfiles
+msgid "%d file(s) skipped because unmarked."
+msgstr "%d фајл(а) је/су прескочен(а) јер је/су необележен(и)."
+
+#: ustrings.msg_renamesuccessfulfiles
+msgid "%d file(s) successfully renamed."
+msgstr "Успешно преименован(а) %d фајл(а)."
+
+#: ustrings.msg_rulecasedescription
+msgid "Use this rule to change the case of the filename."
+msgstr "Употребите ово правило да измените величину слова у називу фајла."
+
+#: ustrings.msg_rulecleanupdescription
+msgid "Use this rule to clean up the filename."
+msgstr "Употребите ово правило да очистите назив фајла."
+
+#: ustrings.msg_ruledeletedescription
+msgid "Use this rule to delete text from the filename."
+msgstr "Употребите ово правило да избришете текст из назива фајла."
+
+#: ustrings.msg_ruleextensiondescription
+msgid "Use this rule to change extension of the file."
+msgstr "Употребите ово правило да промените екстензију фајла."
+
+#: ustrings.msg_ruleinsertdescription
+msgid "Use this rule to insert text into the filename."
+msgstr "Употребите ово правило да убаците текст у назив фајла."
+
+#: ustrings.msg_rulepaddingdescription
+msgid "Use this rule to add or remove padding in number sequences."
+msgstr "Употребите ово правило да додате или уклоните попуњавање у низу бројева."
+
+#: ustrings.msg_rulepascalscriptdescription
+msgid "Use this rule to script a user defined manipulations with filename."
+msgstr "Употребите ово правило да руководите са називом фајла."
+
+#: ustrings.msg_rulerandomizedescription
+msgid "Use this rule to insert random sequences of characters into the filename."
+msgstr "Употребите ово правило да убаците насумичан низ знакова у назив фајла."
+
+#: ustrings.msg_rulerearrangedescription
+msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
+msgstr "Употребите ово правило да раздвојите делове назива фајла и преуредите их у нови шаблон."
+
+#: ustrings.msg_rulereformatdatedescription
+msgid "Use this rule to change format of date/time values in the filename."
+msgstr "Употребите ово правило да промените формат датума/времена у називу фајла."
+
+#: ustrings.msg_ruleregexdescription
+msgid "Use this rule to replace text in the filename using regular expressions."
+msgstr "Употребите ово правило да замените текст у називу фајла користећи званичне изразе."
+
+#: ustrings.msg_ruleremovedescription
+msgid "Use this rule to remove text from the filename."
+msgstr "Употребите ово правило да уклоните текст из назива фајла."
+
+#: ustrings.msg_rulereplacedescription
+msgid "Use this rule to replace text in the filename."
+msgstr "Употребите ово правило да замените текст у називу фајла."
+
+#: ustrings.msg_ruleserializedescription
+msgid "Use this rule to serialize the filename (add incremental numbers)."
+msgstr "Употребите ово правило да нумеришете назив фајла (додати растуће бројеве)."
+
+#: ustrings.msg_rulestripdescription
+msgid "Use this rule to strip sets of characters from the filename."
+msgstr "Употребите ово правило да одстраните мноштво знакова из назива фајла."
+
+#: ustrings.msg_ruletranslitdescription
+msgid "Use this rule to transliterate letters in the filename from one language into another."
+msgstr "Употребите ово правило да преведете слова из једног језика у други."
+
+#: ustrings.msg_ruleuserinputdescription
+msgid "Use this rule to assign names of files to the lines of text."
+msgstr "Употребите ово правило да доделите називе фајла редовима текста."
+
+#: ustrings.msg_selectfolder
+msgid "Please select a folder:"
+msgstr "Изабрати фолдер:"
+
+#: ustrings.msg_shellactionwarninglimit
+msgid "Are you sure you want to execute shell action on %d files?"
+msgstr "Сигурни сте да желите да извршите вањску радњу на %d фајл(а)"
+
+#: ustrings.msg_shell_execute_error
+msgid ""
+"Could not open the following file:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+msgstr ""
+"Не може се отворити следећи фајл:\n"
+"\n"
+"%s\n"
+"\n"
+"Грешка: %s (%d).\n"
+
+#: ustrings.msg_translitsaveinvalid
+msgctxt "mystrings.msg_translitsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "Неисправан Назив!"
+
+#: ustrings.msg_translitsavetext
+msgid "Enter a name for a translit:"
+msgstr "Унети назив за превод:"
+
+#: ustrings.msg_translitsavetitle
+msgid "Save Translit"
+msgstr "Сачувати Превод"
+
+#: ustrings.msg_undoconfirmfiles
+msgid ""
+"Are you sure you want to undo renaming operation for %d file(s)?\n"
+"\n"
+"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
+msgstr ""
+"Да ли сте сигурни да желите да вратите последицу преименовања за %d фајл(а)(ова)?\n"
+"\n"
+"Савет: Можете проверити старе путање укључивши колону \"Стара Путања\".\n"
+
+#: ustrings.msg_undoempty
+msgid "Nothing to undo!"
+msgstr "Ништа за Поништавање!"
+
+#: ustrings.msg_undoresult
+msgid ""
+"Undo operation results:\n"
+"\n"
+"%d out of %d file(s) restored successfully!\n"
+msgstr ""
+"Резултат последице поништења:\n"
+"\n"
+"%d од %d фајл(а) је успешно враћено!\n"
+
+#: ustrings.msg_uninstallapplicationisrunning
+msgid ""
+"Seems that ReNamer is currently running.\n"
+"Please close it, before continuing...\n"
+msgstr ""
+"Изгледа да ReNamer сада ради.\n"
+"Затворити га, пре наставка...\n"
+
+#: ustrings.msg_validatedduplicatedfound
+msgid "%d of which have a duplicate in the list."
+msgstr "%d који су дупликат у листи."
+
+#: ustrings.msg_validatedexceededfound
+msgid "%d of which exceed max path length limitation."
+msgstr "%d који премашују максимално ограничење дужине путање."
+
+#: ustrings.msg_validatedexistingfound
+msgid "%d of which conflict with an existing file."
+msgstr "%d који се сукобљавају са постојећ(и)(о)м путањ(ама)(ом) фајла."
+
+#: ustrings.msg_validatedinvalidfound
+msgid "%d of which contain invalid characters."
+msgstr "%d који садрже неважеће знакове."
+
+#: ustrings.msg_validatedmovedparentfound
+msgid "%d of which have a parent path changed earlier in the list."
+msgstr "%d којима је путања промењена раније у листи."
+
+#: ustrings.msg_validatedsuccessfuly
+msgid "Successfully validated!"
+msgstr "Успешно проверено!"
+
+#: ustrings.msg_validatewarninglimit
+msgid ""
+"Do you want to validate %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"Има %s фајл(а)(ова) на табели, сигурни сте да желите да их Потврдите?\n"
+"\n"
+"Овај поступак може потрајати неколико минута...\n"
+
+#: ustrings.msg_validationissuesdetected
+msgid "Validation has failed due to issues with %d file(s)."
+msgstr "Провера није успела због проблема са %d фајл(ом)(а)(ова)."
+
+#: ustrings.name_addrule
+msgctxt "mystrings.name_addrule"
+msgid "Add Rule"
+msgstr "Додати Правило"
+
+#: ustrings.name_addrulestext
+msgctxt "mystrings.name_addrulestext"
+msgid "Click here to add a rule"
+msgstr "Кликнути овде за додавање правила"
+
+#: ustrings.name_addtorenamer
+msgid "Add to ReNamer"
+msgstr "Додати у ReNamer"
+
+#: ustrings.name_analyzetextcursor
+msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
+msgstr "Ред = %d, Лево = %d, Десно = %d, Изабран = %d"
+
+#: ustrings.name_browsescripts
+msgid "Browse Scripts..."
+msgstr "Пребирати Скрипте..."
+
+#: ustrings.name_browsetranslits
+msgid "Browse Translits..."
+msgstr "Пребирати Преводе..."
+
+#: ustrings.name_cancelsorting
+msgctxt "mystrings.name_cancelsorting"
+msgid "Cancel Sorting"
+msgstr "Откажи Сортирање"
+
+#: ustrings.name_dragfilestext
+msgctxt "mystrings.name_dragfilestext"
+msgid "Drag your files here"
+msgstr "Вуците ваше фајлове овде"
+
+#: ustrings.name_editrule
+msgctxt "mystrings.name_editrule"
+msgid "Edit Rule"
+msgstr "Уредити Правило"
+
+#: ustrings.name_filescounter
+msgid "%s files"
+msgstr "%s фајл(а)"
+
+#: ustrings.name_filescounterwithsize
+msgid "%s files (%s)"
+msgstr "%s фајл(а) (%s)"
+
+#: ustrings.name_filters
+msgctxt "mystrings.name_filters"
+msgid "Filters"
+msgstr "Филтери"
+
+#: ustrings.name_folderscounter
+msgid "%s folders"
+msgstr "%s фолдера"
+
+#: ustrings.name_loadwithpreset
+msgctxt "mystrings.name_loadwithpreset"
+msgid "Load with Preset"
+msgstr "Учитати са Поставком"
+
+#: ustrings.name_markbymaskcaption
+msgctxt "mystrings.name_markbymaskcaption"
+msgid "Mark by Mask"
+msgstr "Обележити по Маски"
+
+#: ustrings.name_markbymaskprompt
+msgctxt "mystrings.name_markbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Спојене маске могу бити раздојене тачка-зарезом. На пример: *.jpg;*.doc\n"
+"\n"
+"Маске:\n"
+
+#: ustrings.name_overwrite
+msgid "Overwrite"
+msgstr "Надписати"
+
+#: ustrings.name_rename
+msgctxt "mystrings.name_rename"
+msgid "Rename"
+msgstr "Преименовати"
+
+#: ustrings.name_renamewithpreset
+msgctxt "mystrings.name_renamewithpreset"
+msgid "Rename with Preset"
+msgstr "Преименовати са Поставком"
+
+#: ustrings.name_rule_case
+msgid "Case"
+msgstr "Величина слова"
+
+#: ustrings.name_rule_cleanup
+#| msgid "CleanUp"
+msgid "Clean Up"
+msgstr "Очистити"
+
+#: ustrings.name_rule_delete
+msgctxt "mystrings.name_rule_delete"
+msgid "Delete"
+msgstr "Избрисати"
+
+#: ustrings.name_rule_extension
+msgctxt "mystrings.name_rule_extension"
+msgid "Extension"
+msgstr "Екстензија"
+
+#: ustrings.name_rule_insert
+msgctxt "mystrings.name_rule_insert"
+msgid "Insert"
+msgstr "Убацити"
+
+#: ustrings.name_rule_padding
+msgid "Padding"
+msgstr "Попуњавање"
+
+#: ustrings.name_rule_pascalscript
+#| msgid "PascalScript"
+msgid "Pascal Script"
+msgstr "ПаскалСкрипта"
+
+#: ustrings.name_rule_randomize
+msgid "Randomize"
+msgstr "Насумично"
+
+#: ustrings.name_rule_rearrange
+msgid "Rearrange"
+msgstr "Преуредити"
+
+#: ustrings.name_rule_reformatdate
+msgid "Reformat Date"
+msgstr "Реформирати Датум"
+
+#: ustrings.name_rule_regex
+#| msgid "RegEx"
+msgid "Regular Expressions"
+msgstr "Званични изрази"
+
+#: ustrings.name_rule_remove
+msgctxt "mystrings.name_rule_remove"
+msgid "Remove"
+msgstr "Уклонити"
+
+#: ustrings.name_rule_replace
+msgctxt "mystrings.name_rule_replace"
+msgid "Replace"
+msgstr "Заменити"
+
+#: ustrings.name_rule_serialize
+msgid "Serialize"
+msgstr "Нумерисати"
+
+#: ustrings.name_rule_strip
+msgctxt "mystrings.name_rule_strip"
+msgid "Strip"
+msgstr "Одстранити"
+
+#: ustrings.name_rule_translit
+msgid "Translit"
+msgstr "Превести"
+
+#: ustrings.name_rule_userinput
+#| msgid "UserInput"
+msgid "User Input"
+msgstr "Унос по реду"
+
+#: ustrings.name_saverule
+msgid "Save Rule"
+msgstr "Сачувати Правило"
+
+#: ustrings.name_savescript
+msgid "Save Script..."
+msgstr "Сачувати Скрипту..."
+
+#: ustrings.name_savetranslit
+msgid "Save Translit..."
+msgstr "Сачувати Превод..."
+
+#: ustrings.name_selectbyextensioncaption
+msgctxt "mystrings.name_selectbyextensioncaption"
+msgid "Select by Extension"
+msgstr "Изабрати по Екстензији"
+
+#: ustrings.name_selectbyextensionprompt
+msgid ""
+"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
+"\n"
+"Extensions (without dots):\n"
+msgstr ""
+"Спојене екстензије могу бити раздојене тачка-зарезом. На пример: jpg;doc\n"
+"\n"
+"Екстензије (без тачака):\n"
+
+#: ustrings.name_selectbyfilenamelengthcaption
+msgid "Select by Filename Length"
+msgstr "Изабрати по Дужини Назива фајла"
+
+#: ustrings.name_selectbyfilenamelengthprompt
+msgid "More than N characters:"
+msgstr "Више од N знакова:"
+
+#: ustrings.name_selectbymaskcaption
+msgctxt "mystrings.name_selectbymaskcaption"
+msgid "Select by Mask"
+msgstr "Изабрати по Маски"
+
+#: ustrings.name_selectbymaskprompt
+msgctxt "mystrings.name_selectbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Спојене маске могу бити раздојене тачка-зарезом. На пример: *.jpg;*.doc\n"
+"\n"
+"Маске:\n"
+
+#: ustrings.name_undo
+msgid "Undo"
+msgstr "Поништити"
+
+#: ustrings.name_undofiles
+msgid "Undo %d file(s)"
+msgstr "Поништити %d фајл(а)(ова)"
+
+#: ustrings.sdatetimedays
+msgctxt "ustrings.sdatetimedays"
+msgid "Days"
+msgstr "Дана"
+
+#: ustrings.sdatetimehours
+msgctxt "ustrings.sdatetimehours"
+msgid "Hours"
+msgstr "Сати"
+
+#: ustrings.sdatetimemilliseconds
+msgctxt "ustrings.sdatetimemilliseconds"
+msgid "Milliseconds"
+msgstr "Милисекунди"
+
+#: ustrings.sdatetimeminutes
+msgctxt "ustrings.sdatetimeminutes"
+msgid "Minutes"
+msgstr "Минута"
+
+#: ustrings.sdatetimemonths
+msgctxt "ustrings.sdatetimemonths"
+msgid "Months"
+msgstr "Месеци"
+
+#: ustrings.sdatetimeseconds
+msgctxt "ustrings.sdatetimeseconds"
+msgid "Seconds"
+msgstr "Секунди"
+
+#: ustrings.sdatetimeyears
+msgctxt "ustrings.sdatetimeyears"
+msgid "Years"
+msgstr "Година"
+
+#: ustrings.sfiltersallfiles
+msgid "All files"
+msgstr "Сви фајлови"
+
+#: ustrings.sfiltersanyfile
+msgid "Any file"
+msgstr "Било који фајл"
+
+#: ustrings.sfiltersarchives
+msgid "Archives"
+msgstr "Архиве"
+
+#: ustrings.sfiltersbatchfile
+msgid "Batch file"
+msgstr "Низ фајла"
+
+#: ustrings.sfilterscommaseparated
+msgid "comma separated"
+msgstr "раздвојени зарезом"
+
+#: ustrings.sfiltersdocuments
+msgid "Documents"
+msgstr "Документи"
+
+#: ustrings.sfiltersmusic
+msgid "Music"
+msgstr "Музика"
+
+#: ustrings.sfilterspictures
+msgid "Pictures"
+msgstr "Слике"
+
+#: ustrings.sfiltersplaylist
+msgid "Play list"
+msgstr "Плејлиста"
+
+#: ustrings.sfilterspresets
+msgctxt "ustrings.sfilterspresets"
+msgid "Presets"
+msgstr "Поставке"
+
+#: ustrings.sfilterstabseparated
+msgid "tab separated"
+msgstr "раздвојени табулатором"
+
+#: ustrings.sfilterstextfiles
+msgid "Text files"
+msgstr "Текст фајлови"
+
+#: ustrings.sfilterstextlist
+msgid "Text list"
+msgstr "Текст листа"
+

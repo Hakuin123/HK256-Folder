@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window size="415,250" mininfo="415,250" maxinfo="415,250" caption="0,0,0,33">
+  <Include source="style.xml"/>
+  <VerticalLayout name="bg" bkimage="file='imgs/bg.png' corner='1,33,1,1'" childalign="center" childpadding="20">
+    <HorizontalLayout height="33">
+      <Container width="20" height="13" bkimage="file='icon.png'" padding="8,10,0,0"/>
+      <Label name="app_title" text="IDS_94" font="14" padding="7,0,0,0"/>
+      <Button name="closebtn" width="11" height="11" padding="0,11,12,0"
+              normalimage="file='btns/close.png' source='0,0,11,11'"
+              hotimage="file='btns/close.png' source='11,0,22,11'"
+              pushedimage="file='btns/close.png' source='22,0,33,11'"/>
+    </HorizontalLayout>
+    <Label name="title" height="30" text="IDS_95" font="20" align="center" padding="0,12,0,0"/>
+    <Label name="tip" height="30" text="" font="14" align="center" padding="0,1,0,0"/>
+    <HorizontalLayout name="confirm_window" height="42" width="295" padding="0,18,0,0">
+      <Button name="cancel_btn" font="14" width="125" text="IDS_93"
+              normalimage="file='btns/common_btn.png' source='0,0,142,42' corner='10,10,10,10'"
+              hotimage="file='btns/common_btn.png' source='142,0,284,42' corner='10,10,10,10'"
+              pushedimage="file='btns/common_btn.png' source='284,0,426,42' corner='10,10,10,10'"/>
+      <Button name="confirm_btn" font="14" width="125" text="IDS_94" padding="45,0,0,0"
+              normalimage="file='btns/common_btn.png' source='0,0,142,42' corner='10,10,10,10'"
+              hotimage="file='btns/common_btn.png' source='142,0,284,42' corner='10,10,10,10'"
+              pushedimage="file='btns/common_btn.png' source='284,0,426,42' corner='10,10,10,10'"/>
+    </HorizontalLayout>
+  </VerticalLayout>
+</Window>

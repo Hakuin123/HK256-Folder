@@ -1,0 +1,9 @@
+关于“.基于musl-libc的系统挂载的目录文件可能存在显示不全，包括openwrt、Alpine Linux等，Web界面不受影响”的临时解决办法
+
+目前测试可以用docker安装一个共享软件的方式解决，本文以webdav举例说明：
+安装方法很简单，直接在OP的ssh下输入如下命令：docker run  --name=webda -d -v /opt/CloudNAS/CloudDrive:/var/webdav -e USERNAME=test -e PASSWORD=test -p 8888:80 morrisjobke/webdav
+
+命令说明：1、/opt/CloudNAS/CloudDrive是你挂载CloudDrive的目录，需要替换成你自己的。
+                2、USERNAME=test -e PASSWORD=test，这里是用户名和密码，按需修改
+                3、8888:80，前面的8888是本地访问端口，按需修改
+docker版webdav安装好之后，就可以通过http://IP:8888/webdav 访问了。播放软件和文件浏览器支持webdav协议的也可以添加，记得路径/webdav是必须的。

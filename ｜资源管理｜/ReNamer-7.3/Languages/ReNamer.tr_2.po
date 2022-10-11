@@ -1,0 +1,4015 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: ReNamer\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ferhat Bakıroğlu <ferhatbakiroglu@gmail.com>\n"
+"Language-Team: den4b Team <support@den4b.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr_2\n"
+"X-Country: tr\n"
+"X-Country-Name: Turkey\n"
+"X-Language-Name: Turkish (2)\n"
+"X-Language-Name-Native: Türkçe\n"
+"X-Translators: Ferhat Bakıroğlu <ferhatbakiroglu@gmail.com>\n"
+"X-Generator: Poedit 2.2\n"
+
+#: mainform.ssavecurrentpresetconfirm
+msgid "Save current preset?"
+msgstr "Geçerli şablon kaydedilsin mi?"
+
+#: mainform.s_askpurchaseremovelimit
+msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
+msgstr "Bu sınırlamayı kaldırmak için \"Pro\" sürümü satın almak ister misiniz?"
+
+#: mainform.s_askpurchaseunlockfeature
+msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
+msgstr "Bu özelliğin kilidini açmak için \"Pro\" sürümü satın almak ister misiniz?"
+
+#: mainform.s_confirmunregister
+msgid ""
+"Are you sure you want to unregister the product?\n"
+"\n"
+"This will remove your license and deactivate the \"Pro\" version.\n"
+msgstr ""
+"Programın kaydını silmek istediğinize emin misiniz?\n"
+"\n"
+"Bu, lisansınızı kaldıracak ve \"Pro\" özelliklerini devre dışı bırakacak.\n"
+
+#: mainform.s_featurenotavailable
+msgid "This feature is not available in this version."
+msgstr "Bu özellik, bu sürümde kullanılamıyor."
+
+#: mainform.s_free_license_note
+msgctxt "mainform.s_free_license_note"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Bu uygulama YALNIZCA ticari olmayan amaçlar için ve buna uygun özelliklerle kullanılabilir ve dağıtılabilir."
+
+#: mainform.s_maxallowedpresets
+msgid "This version is limited to a maximum of %s presets."
+msgstr "Bu sürüm en fazla %s şablon ile sınırlanmıştır."
+
+#: mainform.s_maxallowedrules
+msgid "This version is limited to a maximum of %s rules."
+msgstr "Bu sürüm en fazla %s kural ile sınırlanmıştır."
+
+#: mainform.s_no_license_caption
+msgid "(non-commercial use only)"
+msgstr "(yalnızca ticari olmayan kullanım)"
+
+#: mainform.s_please_read_full_license
+msgid "For more information please read full license code"
+msgstr "Daha fazla bilgi için lütfen tüm lisans koşullarını okuyun"
+
+#: mainform.s_presetdirstructurelimitation
+msgid "This version does not support presets directory structure."
+msgstr "Bu sürüm şablon dizin yapısını desteklemez."
+
+#: mainform.s_statusbar_hint_filters
+msgid "Active filter settings"
+msgstr "Etkin filtre ayarları"
+
+#: mainform.s_statusbar_hint_presets
+msgid "Loaded preset"
+msgstr "Yüklü şablon"
+
+#: mainform.s_statusbar_hint_presets_modified
+msgid "Loaded preset (modified)"
+msgstr "Yüklü şablon (değiştirildi)"
+
+#: presetslinksform.screatednumpresetlinks
+msgid "Created %d preset links."
+msgstr "Oluşturulan %d şablon bağlantısı:"
+
+#: presetsmanagerform.sduplicatepresetsuffix
+msgid "COPY"
+msgstr "KOPYALA"
+
+#: rulepascalscriptframe.saddyourcodehere
+msgid "Add your code here"
+msgstr "Kodunuzu buraya ekleyin"
+
+#: rulepascalscriptframe.sholdtoinsertscriptinline
+msgid "Hold %s when loading a script to insert it inline"
+msgstr "Satır içi yerleştirme için bir betik yüklerken %s tut"
+
+#: rulepascalscriptframe.spressforcodecompletion
+msgid "Press %s for code completion"
+msgstr "Tamamlama için %s düğmesine basın"
+
+#: ruleregexframe.sregexanychar
+msgid "Any single character"
+msgstr "Herhangi bir tekil karakter"
+
+#: ruleregexframe.sregexanycharexact3
+msgid "A set of 3 of any characters"
+msgstr "3 karakterlik herhangi bir set"
+
+#: ruleregexframe.sregexanycharplus
+msgid "One or more of any characters"
+msgstr "Herhangi bir ya da daha fazla karakter"
+
+#: ruleregexframe.sregexanycharplusgrouped
+msgid "One or more of any characters, grouped into subexpression"
+msgstr "Alt ifadede gruplandırılmış bir ya da daha fazla karakter"
+
+#: ruleregexframe.sregexanycharplusnogreedy
+msgid "One or more of any characters, but fewer as possible"
+msgstr "Herhangi bir ya da daha fazla karakter, olduğunca az"
+
+#: ruleregexframe.sregexanycharset2to4
+msgid "A set of 2 to 4 of any characters"
+msgstr "2'den 4'e herhangi bir karakter seti"
+
+#: ruleregexframe.sregexanycharset3ormore
+msgid "A set of 3 or more of any characters"
+msgstr "3 ya da daha çok herhangi bir karakter seti"
+
+#: ruleregexframe.sregexanycharstar
+msgid "Zero or more of any characters"
+msgstr "Sıfır ya da daha çok herhangi karakter"
+
+#: ruleregexframe.sregexcharlistabc
+msgid "Any single character from the list (e.g. \"a\" or \"b\" or \"c\")"
+msgstr "Listeden herhangi bir tekil karakter (örn: \"a\", \"b\" veya \"c\")"
+
+#: ruleregexframe.sregexcharlistaorborc
+msgid "Any one occurrence of the alternatives (e.g. \"aa\" or \"bb\" or \"cc\")"
+msgstr "Alternatif oluşumdan herhangi biri (örn: \"aa\", \"bb\" veya \"cc\")"
+
+#: ruleregexframe.sregexcharlistatoz
+msgid "Any single character from the range (e.g. \"a\" to \"z\")"
+msgstr "Aralıktaki herhangi bir karakter (örn: \"a\" ila \"z\")"
+
+#: ruleregexframe.sregexend
+msgid "End of the input text"
+msgstr "Girdi metninin sonu"
+
+#: ruleregexframe.sregexescapedslash
+msgid "Use an escape character to match an actual backslash \"\\\""
+msgstr "Bir kaçış karakteri için ters eğik çizgiyle birlikte kullan \"\\\""
+
+#: ruleregexframe.sregexnotcharlistabc
+msgid "Any single character except the ones from the list"
+msgstr "Listedekiler hariç herhangi bir tekil karakter"
+
+#: ruleregexframe.sregexspacechars
+msgid "Any single space character (space, tab, new line)"
+msgstr "Herhangi bir tekil boşluk karakteri (boşluk, sekme, yeni satır)"
+
+#: ruleregexframe.sregexstart
+msgid "Start of the input text"
+msgstr "Girilen metnin başı"
+
+#: ruleregexframe.sregexwordboundary
+msgid "Word boundary"
+msgstr "Sözcük sınırı"
+
+#: ruleregexframe.sregexwordchars
+msgid "Any single alphanumeric character (including an underscore)"
+msgstr "Herhangi bir tekil alfasayısal karakter (alt tire dahil)"
+
+#: settingsform.sfailedtoapplysystemsettings
+msgid "Failed to apply system settings."
+msgstr "Sistem ayarlarının uygulanması başarısız."
+
+#: settingsform.shinttryrunasadministrator
+msgid "(Try to start the program as administrator to apply these settings)"
+msgstr "(Bu ayarları uygulamak için uygulamayı yönetici olarak çalıştırmayı deneyin)"
+
+#: settingsform.srealtimepreviewwarning
+msgid ""
+"Real-time update of the preview can be dangerous and its use is not recommended!\n"
+"\n"
+"It will cause graphical updates to the GUI during preview for every processed file but will also respond to any user activity such as mouse clicks and keyboard button presses. Beware, any accidental actions generated during a preview as a result of user activity within the application will interfere with the preview process and can cause unpredictable behavior.\n"
+msgstr ""
+"Önizlemenin gerçek zamanlı güncellenmesi tehlikeli olabilir ve bu kullanım önerilmez!\n"
+"\n"
+"İşlenen her dosya için önizleme sırasında GUI'de görsel güncellemelere neden olur, ancak fare tıklamaları ve klavye düğmesine basma gibi herhangi bir kullanıcı etkinliğine de yanıt verir. Dikkat edin, uygulamadaki kullanıcı etkinliğinin bir sonucu olarak bir önizleme sırasında gerçekleştirilen her türlü eylem, önizleme işlemine engel olur ve öngörülemeyen davranışlara neden olabilir.\n"
+
+#: tform_about.caption
+msgctxt "tform_about.caption"
+msgid "About"
+msgstr "Hakkında"
+
+#: tform_about.label_author2.caption
+msgid "Author:"
+msgstr "Yazar:"
+
+#: tform_about.label_date.caption
+msgid "Date:"
+msgstr "Tarih:"
+
+#: tform_about.label_email2.caption
+msgid "Email:"
+msgstr "E-posta:"
+
+#: tform_about.label_version.caption
+msgid "Version:"
+msgstr "Sürüm:"
+
+#: tform_about.label_website2.caption
+msgid "Website:"
+msgstr "Web Sitesi:"
+
+#: tform_addpaths.bitbtn_add.caption
+msgctxt "TFORM_ADDPATHS.BITBTN_ADD.CAPTION"
+msgid "Add"
+msgstr "Ekle"
+
+#: tform_addpaths.bitbtn_cancel.caption
+msgctxt "TFORM_ADDPATHS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "İptal"
+
+#: tform_addpaths.caption
+msgctxt "tform_addpaths.caption"
+msgid "Add Paths"
+msgstr "Yol Ekle"
+
+#: tform_addpaths.checkbox_workingdir.caption
+msgctxt "TFORM_ADDPATHS.CHECKBOX_WORKINGDIR.CAPTION"
+msgid "Working directory:"
+msgstr "Çalışma dizini:"
+
+#: tform_addpaths.label_enterpaths.caption
+msgid "Enter file paths:"
+msgstr "Dosya yollarını gir:"
+
+#: tform_addrule.bitbtn_add.caption
+msgctxt "TFORM_ADDRULE.BITBTN_ADD.CAPTION"
+msgid "Add Rule"
+msgstr "Kural Ekle"
+
+#: tform_addrule.bitbtn_close.caption
+msgctxt "tform_addrule.bitbtn_close.caption"
+msgid "Close"
+msgstr "Kapat"
+
+#: tform_addrule.caption
+msgctxt "TFORM_ADDRULE.CAPTION"
+msgid "Add Rule"
+msgstr "Kural Ekle"
+
+#: tform_addrule.groupbox_config.caption
+msgid "Configuration:"
+msgstr "Yapılandırma:"
+
+#: tform_addrule.menuitem_ruledescription.caption
+msgid "Description"
+msgstr "Açıklama"
+
+#: tform_analyze.bb_applyrules.caption
+msgid "Apply Rules"
+msgstr "Kuralları Uygula"
+
+#: tform_analyze.caption
+msgctxt "tform_analyze.caption"
+msgid "Analyze"
+msgstr "İncele"
+
+#: tform_analyze.cb_applyrulesforeachline.caption
+msgid "Apply rules for each line"
+msgstr "Kuralları her satır için uygula"
+
+#: tform_analyze.cb_autoapplyrules.caption
+msgid "Automatically apply rules"
+msgstr "Kuralları otomatik uygula"
+
+#: tform_analyze.cb_wordwrap.caption
+msgid "Line wrap"
+msgstr "Sözcük kaydır"
+
+#: tform_analyze.label_textin.caption
+msgid "Enter text that you wish to analyze:"
+msgstr "İncelenecek metni gir:"
+
+#: tform_analyze.label_textout.caption
+msgid "Text after applying rules:"
+msgstr "Kuralların uygulanması sonrası metin:"
+
+#: tform_browse.bitbtn_cancel.caption
+msgctxt "TFORM_BROWSE.BITBTN_CANCEL.CAPTION"
+msgid "Close"
+msgstr "Kapat"
+
+#: tform_browse.bitbtn_ok.caption
+msgctxt "tform_browse.bitbtn_ok.caption"
+msgid "Add Folders"
+msgstr "Klasör Ekle"
+
+#: tform_browse.caption
+msgid "Browse"
+msgstr "Gözat"
+
+#: tform_browse.checkbox_showhidden.caption
+msgid "Show hidden folders"
+msgstr "Gizli klasörleri göster"
+
+#: tform_browse.checkbox_showsystem.caption
+msgid "Show system folders"
+msgstr "Sistem klasörlerini göster"
+
+#: tform_browse.label_title.caption
+msgid "Select folders that you want to add:"
+msgstr "Eklemek istediğiniz klasörleri seçin:"
+
+#: tform_browse.menuitem_collapseall.caption
+msgid "Collapse All"
+msgstr "Tümünü daralt"
+
+#: tform_browse.menuitem_explorefolder.caption
+msgid "Explore selected folder"
+msgstr "Seçilen klasöre gözat"
+
+#: tform_browse.menuitem_gotofolder.caption
+msgctxt "TFORM_BROWSE.MENUITEM_GOTOFOLDER.CAPTION"
+msgid "Go To Folder"
+msgstr "Klasöre Git"
+
+#: tform_browse.menuitem_refreshtree.caption
+msgid "Refresh Tree"
+msgstr "Ağacı Yenile"
+
+#: tform_browse.sb_gotofolder.caption
+msgctxt "tform_browse.sb_gotofolder.caption"
+msgid "Go To"
+msgstr "Git"
+
+#: tform_browse.speedbutton_filtersettings.caption
+msgctxt "tform_browse.speedbutton_filtersettings.caption"
+msgid "Filter Settings"
+msgstr "Filtre Ayarları"
+
+#: tform_filtersettings.bitbtn_cancel.caption
+msgctxt "tform_filtersettings.bitbtn_cancel.caption"
+msgid "Cancel"
+msgstr "İptal"
+
+#: tform_filtersettings.bitbtn_save.caption
+msgctxt "tform_filtersettings.bitbtn_save.caption"
+msgid "Save"
+msgstr "Kaydet"
+
+#: tform_filtersettings.caption
+msgctxt "TFORM_FILTERSETTINGS.CAPTION"
+msgid "Filter Settings"
+msgstr "Filtre Ayarları"
+
+#: tform_filtersettings.cb_masksonfilename.caption
+msgid "Apply only to the file name, instead of full path."
+msgstr "Tam yol yerine yalnızca dosya isimlerine uygula."
+
+#: tform_filtersettings.checkbox_addfilesfromfolders.caption
+msgid "Add files within folders"
+msgstr "Klasörler içindeki dosyalarla ekle"
+
+#: tform_filtersettings.checkbox_addfoldersasfiles.caption
+msgid "Add folders as files"
+msgstr "Klasörleri dosya olarak ekle"
+
+#: tform_filtersettings.checkbox_includehidden.caption
+msgid "Include hidden items"
+msgstr "Gizli öğeleri dahil et"
+
+#: tform_filtersettings.checkbox_includesubfolders.caption
+msgid "Include subfolders"
+msgstr "Alt klasörleri dahil et"
+
+#: tform_filtersettings.checkbox_includesystem.caption
+msgid "Include system items"
+msgstr "Sistem öğelerini dahil et"
+
+#: tform_filtersettings.checkbox_saveasdefault.caption
+msgctxt "TFORM_FILTERSETTINGS.CHECKBOX_SAVEASDEFAULT.CAPTION"
+msgid "Save as default for future sessions"
+msgstr "İlerdeki oturumlar için varsayılan olarak kaydet"
+
+#: tform_filtersettings.checkbox_skiprootfoldersasfiles.caption
+msgid "Skip root folders when added as files"
+msgstr "Dosya olarak eklerken kök klasörleri atla"
+
+#: tform_filtersettings.groupbox_folders.caption
+msgid "Default behavior for adding folders:"
+msgstr "Eklenen klasörler için varsayılan davranış:"
+
+#: tform_filtersettings.groupbox_masks.caption
+msgid "Masks:"
+msgstr "Maske:"
+
+#: tform_filtersettings.label_masksexclude.caption
+msgid "Exclude:"
+msgstr "Hariç:"
+
+#: tform_filtersettings.label_masksinclude.caption
+msgid "Include:"
+msgstr "Dahil:"
+
+#: tform_filtersettings.label_masksnote.caption
+msgctxt "TFORM_FILTERSETTINGS.LABEL_MASKSNOTE.CAPTION"
+msgid "Note: separate multiple masks with \";\" (semicolons)."
+msgstr "Not: maskeleri \";\" ile birbirinden ayırın (noktalı virgül)."
+
+#: tform_folderwarning.bb_cancel.caption
+msgctxt "TFORM_FOLDERWARNING.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "İptal"
+
+#: tform_folderwarning.bb_continue.caption
+msgid "Continue"
+msgstr "Devam"
+
+#: tform_folderwarning.caption
+msgid "Warning: Renaming Folders"
+msgstr "Uyarı: Klasörler Yeniden Adlandırılıyor"
+
+#: tform_folderwarning.cb_nevershowwarning.caption
+msgid "Never show this warning"
+msgstr "Bu uyarıyı asla gösterme"
+
+#: tform_folderwarning.label_warning.caption
+msgid "Renaming a folder also affects all of its content. A problem can occur if you try to rename folders and their content in a single run. Items in the renaming list are processed from top to bottom. The order of items in this case is extremely important for successful renaming."
+msgstr "Bir klasörü yeniden adlandırmak, tüm içeriğini de etkiler. Klasörleri ve içeriklerini tek bir çalıştırmada yeniden adlandırmayı denerseniz bir sorun oluşabilir. Yeniden adlandırma listesindeki öğeler yukarıdan aşağıya doğru işlenir. Bu durumda, öğelerin sırası başarılı bir şekilde yeniden adlandırma için son derece önemlidir."
+
+#: tform_folderwarning.label_warning2.caption
+msgid "Parent folders must always appear below their contained items. This can be easily achieved by sorting items in descending order by the Folder or Path column."
+msgstr "Ana klasörler her zaman içerdikleri öğelerin altında görünmelidir. Bu, Klasör veya Yol sütununa göre öğeleri azalan düzende sıralayarak kolayca elde edilebilir."
+
+#: tform_main.action_about.caption
+msgctxt "TFORM_MAIN.ACTION_ABOUT.CAPTION"
+msgid "About"
+msgstr "Hakkında"
+
+#: tform_main.action_addfiles.caption
+msgid "Add Files"
+msgstr "Dosya Ekle"
+
+#: tform_main.action_addfolders.caption
+msgctxt "TFORM_MAIN.ACTION_ADDFOLDERS.CAPTION"
+msgid "Add Folders"
+msgstr "Klasör Ekle"
+
+#: tform_main.action_addpaths.caption
+msgctxt "tform_main.action_addpaths.caption"
+msgid "Add Paths"
+msgstr "Yol Ekle"
+
+#: tform_main.action_analyzesampletext.caption
+msgid "Analyze sample text"
+msgstr "Örnek metin incele"
+
+#: tform_main.action_applyrulestoclipboard.caption
+msgid "Apply rules to the clipboard"
+msgstr "Kuralları panoya uygula"
+
+#: tform_main.action_autosizecolumns.caption
+msgid "Autosize columns"
+msgstr "Sütunları otomatik boyutlandır"
+
+#: tform_main.action_countmarkedandselectedfiles.caption
+msgid "Count marked and selected files"
+msgstr "İşaretlenen ve seçilen dosyaları say"
+
+#: tform_main.action_exportasbatchfilefullpaths.caption
+msgid "Export as batch renaming file (full paths)"
+msgstr "Toplu adlandırma dosyası olarak dışa aktar (tam yol)"
+
+#: tform_main.action_exportasbatchfileonlynames.caption
+msgid "Export as batch renaming file (only names)"
+msgstr "Toplu adlandırma dosyası olarak dışa aktar (yalnızca ad)"
+
+#: tform_main.action_exportfilesandpreview.caption
+msgid "Export file paths and new names"
+msgstr "Yeni dosya yol ve adlarını dışa aktar"
+
+#: tform_main.action_exportfilesandundo.caption
+msgid "Export file paths and undo paths"
+msgstr "Dosya yollarını dışa aktar ve geri al"
+
+#: tform_main.action_exportnewnamestoclipboard.caption
+msgid "Export new names to clipboard"
+msgstr "Yeni adları panoya aktar"
+
+#: tform_main.action_exportpathstoclipboard.caption
+msgid "Export paths to clipboard"
+msgstr "Yeni yolları panoya aktar"
+
+#: tform_main.action_filters.caption
+msgctxt "TFORM_MAIN.ACTION_FILTERS.CAPTION"
+msgid "Filters"
+msgstr "Filtreler"
+
+#: tform_main.action_fixconflictingnewnames.caption
+msgid "Fix conflicting new names"
+msgstr "Çakışan yeni adları düzelt"
+
+#: tform_main.action_importfilesandpreview.caption
+msgid "Import file paths and new names"
+msgstr "Dosya yolu ve yeni adları içe aktar"
+
+#: tform_main.action_importlistoffiles.caption
+msgid "Import files from text-list or play-list"
+msgstr "Dosyaları metin veya çalma listelerinden içe aktar"
+
+#: tform_main.action_importnewnamesfromclipboard.caption
+msgid "Import new names from clipboard"
+msgstr "Yeni adları panodan aktar"
+
+#: tform_main.action_managepresets.caption
+msgid "Manage..."
+msgstr "Yönet..."
+
+#: tform_main.action_newinstance.caption
+msgid "New Instance"
+msgstr "Yeni Örnek"
+
+#: tform_main.action_newproject.caption
+msgid "New Project"
+msgstr "Yeni Proje"
+
+#: tform_main.action_pastefiles.caption
+msgid "Paste Files"
+msgstr "Dosyaları Yapıştır"
+
+#: tform_main.action_presetsave.caption
+msgctxt "TFORM_MAIN.ACTION_PRESETSAVE.CAPTION"
+msgid "Save"
+msgstr "Kaydet"
+
+#: tform_main.action_presetsaveas.caption
+msgid "Save As"
+msgstr "Farklı Kaydet"
+
+#: tform_main.action_preview.caption
+msgctxt "TFORM_MAIN.ACTION_PREVIEW.CAPTION"
+msgid "Preview"
+msgstr "Önizle"
+
+#: tform_main.action_register.caption
+msgctxt "tform_main.action_register.caption"
+msgid "Register"
+msgstr "Kayıt ol"
+
+#: tform_main.action_rename.caption
+msgctxt "TFORM_MAIN.ACTION_RENAME.CAPTION"
+msgid "Rename"
+msgstr "Yeniden Adlandır"
+
+#: tform_main.action_settings.caption
+msgid "All Settings"
+msgstr "Tüm Ayarlar"
+
+#: tform_main.action_sortforrenamingfolders.caption
+msgid "Sort by path for renaming folders"
+msgstr "Klasörleri yeniden adlandırmak için yola göre sırala"
+
+#: tform_main.action_undorename.caption
+msgid "Undo Renaming"
+msgstr "Yeniden Adlandırmayı Geri Al"
+
+#: tform_main.action_unregister.caption
+msgid "Unregister"
+msgstr "Kaydı sil"
+
+#: tform_main.action_validatenewnames.caption
+msgid "Validate new names"
+msgstr "Yeni adları doğrula"
+
+#: tform_main.listview_rules.columns[0].caption
+msgid "#"
+msgstr "#"
+
+#: tform_main.listview_rules.columns[1].caption
+msgid "Rule"
+msgstr "Kural"
+
+#: tform_main.listview_rules.columns[2].caption
+msgid "Statement"
+msgstr "İfade"
+
+#: tform_main.menuitem_addrule.caption
+msgctxt "TFORM_MAIN.MENUITEM_ADDRULE.CAPTION"
+msgid "Add Rule"
+msgstr "Kural Ekle"
+
+#: tform_main.menuitem_addruleabove.caption
+msgid "Add Rule (above)"
+msgstr ""
+
+#: tform_main.menuitem_addrulebelow.caption
+msgid "Add Rule (below)"
+msgstr ""
+
+#: tform_main.menuitem_analyzename.caption
+msgid "Analyze Name"
+msgstr "Adı İncele"
+
+#: tform_main.menuitem_clearall.caption
+msgid "Clear All"
+msgstr "Tümünü Temizle"
+
+#: tform_main.menuitem_clearfailed.caption
+msgid "Clear Failed"
+msgstr "Başarısızları Temizle"
+
+#: tform_main.menuitem_clearing.caption
+msgid "Clear"
+msgstr "Temizle"
+
+#: tform_main.menuitem_clearinvalid.caption
+msgid "Clear Invalid"
+msgstr "Geçersizleri Temizle"
+
+#: tform_main.menuitem_clearmarked.caption
+msgid "Clear Marked"
+msgstr "İşaretlenenleri Temizle"
+
+#: tform_main.menuitem_clearnotmarked.caption
+msgid "Clear Not Marked"
+msgstr "İşaretlenmeyenleri Temizle"
+
+#: tform_main.menuitem_clearrenamed.caption
+msgid "Clear Renamed"
+msgstr "Ad Değiştirilenleri Temizle"
+
+#: tform_main.menuitem_clearvalid.caption
+msgid "Clear Valid"
+msgstr "Doğrulananları Temizle"
+
+#: tform_main.menuitem_duplicaterule.caption
+msgid "Duplicate Rule"
+msgstr "Kural Yinele"
+
+#: tform_main.menuitem_editnewname.caption
+msgid "Edit New Name"
+msgstr "Yeni Adı Düzenle"
+
+#: tform_main.menuitem_editrule.caption
+msgctxt "TFORM_MAIN.MENUITEM_EDITRULE.CAPTION"
+msgid "Edit Rule"
+msgstr "Kuralı Düzenle"
+
+#: tform_main.menuitem_exit.caption
+msgid "Exit"
+msgstr "Çıkış"
+
+#: tform_main.menuitem_file.caption
+msgid "File"
+msgstr "Dosya"
+
+#: tform_main.menuitem_help.caption
+msgctxt "tform_main.menuitem_help.caption"
+msgid "Help"
+msgstr "Yardım"
+
+#: tform_main.menuitem_invertmarking.caption
+msgid "Invert Marking"
+msgstr "İşaretlemeyi Ters Çevir"
+
+#: tform_main.menuitem_invertselection.caption
+msgid "Invert Selection"
+msgstr "Seçimi Ters Çevir"
+
+#: tform_main.menuitem_mark.caption
+msgctxt "TFORM_MAIN.MENUITEM_MARK.CAPTION"
+msgid "Mark"
+msgstr "İşaretle"
+
+#: tform_main.menuitem_markbymask.caption
+msgctxt "TFORM_MAIN.MENUITEM_MARKBYMASK.CAPTION"
+msgid "Mark by Mask"
+msgstr "Maskeye Göre İşaretle"
+
+#: tform_main.menuitem_marking.caption
+msgctxt "tform_main.menuitem_marking.caption"
+msgid "Mark"
+msgstr "İşaretle"
+
+#: tform_main.menuitem_markonlychangedexccase.caption
+msgid "Mark Only Changed (Exc. Case)"
+msgstr "Yalnızca Değişeni İşaretle (Büyük/Küçük Hariç)"
+
+#: tform_main.menuitem_markonlychangedinccase.caption
+msgid "Mark Only Changed (Inc. Case)"
+msgstr "Yalnızca Değişeni İşaretle (Büyük/Küçük Dahil)"
+
+#: tform_main.menuitem_markonlyselected.caption
+msgid "Mark Only Selected"
+msgstr "Yalnızca Seçimi İşaretle"
+
+#: tform_main.menuitem_movedown.caption
+msgctxt "TFORM_MAIN.MENUITEM_MOVEDOWN.CAPTION"
+msgid "Down"
+msgstr "Aşağı"
+
+#: tform_main.menuitem_moveup.caption
+msgctxt "TFORM_MAIN.MENUITEM_MOVEUP.CAPTION"
+msgid "Up"
+msgstr "Yukarı"
+
+#: tform_main.menuitem_moving.caption
+msgid "Move"
+msgstr "Taşı"
+
+#: tform_main.menuitem_presets.caption
+msgctxt "tform_main.menuitem_presets.caption"
+msgid "Presets"
+msgstr "Şablonlar"
+
+#: tform_main.menuitem_removeallrules.caption
+msgid "Remove All Rules"
+msgstr "Tüm Kuralları Kaldır"
+
+#: tform_main.menuitem_removerule.caption
+msgid "Remove Rule"
+msgstr "Kuralı Kaldır"
+
+#: tform_main.menuitem_removeselecteditems.caption
+msgid "Remove Selected"
+msgstr "Seçileni Kaldır"
+
+#: tform_main.menuitem_rulemovedown.caption
+msgid "Move Down"
+msgstr "Aşağı Taşı"
+
+#: tform_main.menuitem_rulemoveup.caption
+msgid "Move Up"
+msgstr "Yukarı Taşı"
+
+#: tform_main.menuitem_rulesmarkall.caption
+msgid "Mark All"
+msgstr "Tümünü İşaretle"
+
+#: tform_main.menuitem_rulesselectall.caption
+msgctxt "TFORM_MAIN.MENUITEM_RULESSELECTALL.CAPTION"
+msgid "Select All"
+msgstr "Tümünü Seç"
+
+#: tform_main.menuitem_rulesunmarkall.caption
+msgid "Unmark All"
+msgstr "Tüm İşaretlemeyi Kaldır"
+
+#: tform_main.menuitem_selectall.caption
+msgctxt "tform_main.menuitem_selectall.caption"
+msgid "Select All"
+msgstr "Tümünü Seç"
+
+#: tform_main.menuitem_selectbyextension.caption
+msgctxt "TFORM_MAIN.MENUITEM_SELECTBYEXTENSION.CAPTION"
+msgid "Select by Extension"
+msgstr "Uzantıya Göre Seç"
+
+#: tform_main.menuitem_selectbymask.caption
+msgctxt "TFORM_MAIN.MENUITEM_SELECTBYMASK.CAPTION"
+msgid "Select by Mask"
+msgstr "Maskeye Göre Seç"
+
+#: tform_main.menuitem_selectbynamelength.caption
+msgid "Select by Name Length"
+msgstr "Ad Uzunluğuna Göre Seç"
+
+#: tform_main.menuitem_selecting.caption
+msgid "Select"
+msgstr "Seç"
+
+#: tform_main.menuitem_settings.caption
+msgctxt "tform_main.menuitem_settings.caption"
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: tform_main.menuitem_settingsgeneral.caption
+msgctxt "tform_main.menuitem_settingsgeneral.caption"
+msgid "General"
+msgstr "Genel"
+
+#: tform_main.menuitem_settingsmetatags.caption
+msgctxt "tform_main.menuitem_settingsmetatags.caption"
+msgid "Meta Tags"
+msgstr "Meta Etiketler"
+
+#: tform_main.menuitem_settingsmisc.caption
+msgid "Miscellaneous"
+msgstr "Çeşitli"
+
+#: tform_main.menuitem_settingspreview.caption
+msgctxt "tform_main.menuitem_settingspreview.caption"
+msgid "Preview"
+msgstr "Önizle"
+
+#: tform_main.menuitem_settingsrename.caption
+msgctxt "TFORM_MAIN.MENUITEM_SETTINGSRENAME.CAPTION"
+msgid "Rename"
+msgstr "Yeniden Adlandır"
+
+#: tform_main.menuitem_shell.caption
+msgid "Shell"
+msgstr "Kabuk"
+
+#: tform_main.menuitem_unmark.caption
+msgid "Unmark"
+msgstr "İşareti Kaldır"
+
+#: tform_main.mi_addpresets.caption
+msgid "Import..."
+msgstr "İçe Aktar..."
+
+#: tform_main.mi_browsepresets.caption
+msgid "Browse..."
+msgstr "Gözat..."
+
+#: tform_main.mi_clearnotchanged.caption
+msgid "Clear Not Changed"
+msgstr "Değiştirilmeyeni Temizle"
+
+#: tform_main.mi_copyfilestoclipboard.caption
+msgid "Copy Files to Clipboard"
+msgstr "Dosyaları Panoya Kopyala"
+
+#: tform_main.mi_copyrights.caption
+msgid "Copyrights"
+msgstr "Telif hakkı"
+
+#: tform_main.mi_createpresetslinks.caption
+msgctxt "tform_main.mi_createpresetslinks.caption"
+msgid "Create Links"
+msgstr "Bağlantı Oluştur"
+
+#: tform_main.mi_cutfilestoclipboard.caption
+msgid "Cut Files to Clipboard"
+msgstr "Dosyaları Panoya Taşı"
+
+#: tform_main.mi_deletefiles.caption
+msgid "Delete Files to Recycle Bin"
+msgstr "Dosyaları Geri Dönüşüm Kutusu'na Taşı"
+
+#: tform_main.mi_exportcolumnstoclipboard.caption
+msgid "Export all columns to clipboard"
+msgstr "Tüm Sütunları Panoya Aktar"
+
+#: tform_main.mi_fileproperties.caption
+msgid "File Properties"
+msgstr "Dosya Özellikleri"
+
+#: tform_main.mi_filescolumns_cancelsorting.caption
+msgctxt "TFORM_MAIN.MI_FILESCOLUMNS_CANCELSORTING.CAPTION"
+msgid "Cancel Sorting"
+msgstr "Sıralamayı İptal Et"
+
+#: tform_main.mi_forum.caption
+msgid "Forum (online)"
+msgstr "Forum (çevrimiçi)"
+
+#: tform_main.mi_help.caption
+msgid "Help (online)"
+msgstr "Yardım (çevrimiçi)"
+
+#: tform_main.mi_history.caption
+msgid "Version History"
+msgstr "Sürüm Geçmişi"
+
+#: tform_main.mi_language.caption
+msgctxt "tform_main.mi_language.caption"
+msgid "Language"
+msgstr "Dil"
+
+#: tform_main.mi_litevspro.caption
+msgid "Lite vs Pro (online)"
+msgstr "Lite ve Pro Karşılaştır (çevrimiçi)"
+
+#: tform_main.mi_loadpreset.caption
+msgid "Load"
+msgstr "Yükle"
+
+#: tform_main.mi_opencontainingfolder.caption
+msgid "Open containing folder"
+msgstr "İçeren Klasörü Aç"
+
+#: tform_main.mi_openfile.caption
+msgid "Open File"
+msgstr "Dosya Aç"
+
+#: tform_main.mi_openwithnotepad.caption
+msgid "Open with Notepad"
+msgstr "Not Defteri ile Aç"
+
+#: tform_main.mi_purchase.caption
+msgid "Purchase (online)"
+msgstr "Satın Al (çevrimiçi)"
+
+#: tform_main.mi_quickguide.caption
+msgid "Quick Guide"
+msgstr "Hızlı Kılavuz"
+
+#: tform_main.mi_rescanpresets.caption
+msgid "Rescan"
+msgstr "Yeniden Tara"
+
+#: tform_main.mi_rulecomment.caption
+msgid "Comment..."
+msgstr "Yorum..."
+
+#: tform_main.mi_rulestoclipboard.caption
+msgid "Export to Clipboard"
+msgstr "Panoya Aktar"
+
+#: tform_main.mi_usermanual.caption
+msgid "User Manual"
+msgstr "Kullanım Kılavuzu"
+
+#: tform_main.toolbutton_addrule.caption
+msgctxt "tform_main.toolbutton_addrule.caption"
+msgid "Add"
+msgstr "Ekle"
+
+#: tform_main.toolbutton_analyze.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_ANALYZE.CAPTION"
+msgid "Analyze"
+msgstr "İncele"
+
+#: tform_main.toolbutton_columns.caption
+msgid "Columns"
+msgstr "Sütunlar"
+
+#: tform_main.toolbutton_export.caption
+msgid "Export"
+msgstr "Dışa Aktar"
+
+#: tform_main.toolbutton_files.caption
+msgid "Files"
+msgstr "Dosya"
+
+#: tform_main.toolbutton_filters.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_FILTERS.CAPTION"
+msgid "Filters"
+msgstr "Filtre"
+
+#: tform_main.toolbutton_movedownrule.caption
+msgctxt "tform_main.toolbutton_movedownrule.caption"
+msgid "Down"
+msgstr "Aşağı"
+
+#: tform_main.toolbutton_moveuprule.caption
+msgctxt "tform_main.toolbutton_moveuprule.caption"
+msgid "Up"
+msgstr "Yukarı"
+
+#: tform_main.toolbutton_options.caption
+msgctxt "tform_main.toolbutton_options.caption"
+msgid "Options"
+msgstr "Seçenekler"
+
+#: tform_main.toolbutton_removerule.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_REMOVERULE.CAPTION"
+msgid "Remove"
+msgstr "Kaldır"
+
+#: tform_main.vst_files.header.columns[0].text
+msgid "State"
+msgstr "Durum"
+
+#: tform_main.vst_files.header.columns[10].text
+msgid "Modified"
+msgstr "Değiştirme"
+
+#: tform_main.vst_files.header.columns[11].text
+msgctxt "TFORM_MAIN.VST_FILES.HEADER.COLUMNS[11].TEXT"
+msgid "Extension"
+msgstr "Uzantı"
+
+#: tform_main.vst_files.header.columns[12].text
+msgid "Name Digits"
+msgstr "Ad Sayıları"
+
+#: tform_main.vst_files.header.columns[13].text
+msgid "Path Digits"
+msgstr "Yol Sayıları"
+
+#: tform_main.vst_files.header.columns[14].text
+msgid "Name Length"
+msgstr "Ad Uzunluğu"
+
+#: tform_main.vst_files.header.columns[15].text
+msgid "New Name Length"
+msgstr "Yeni Ad Uzunluğu"
+
+#: tform_main.vst_files.header.columns[16].text
+msgid "Path Length"
+msgstr ""
+
+#: tform_main.vst_files.header.columns[17].text
+msgid "New Path Length"
+msgstr ""
+
+#: tform_main.vst_files.header.columns[18].text
+msgid "Exif Date"
+msgstr "EXIF Tarihi"
+
+#: tform_main.vst_files.header.columns[19].text
+msgid "Old Path"
+msgstr "Eski Yol"
+
+#: tform_main.vst_files.header.columns[1].text
+msgid "Path"
+msgstr "Yol"
+
+#: tform_main.vst_files.header.columns[20].text
+msgctxt "tform_main.vst_files.header.columns[20].text"
+msgid "Error"
+msgstr "Hata"
+
+#: tform_main.vst_files.header.columns[2].text
+msgid "Folder"
+msgstr "Klasör"
+
+#: tform_main.vst_files.header.columns[3].text
+msgid "Name"
+msgstr "Ad"
+
+#: tform_main.vst_files.header.columns[4].text
+msgid "New Name"
+msgstr "Yeni Ad"
+
+#: tform_main.vst_files.header.columns[5].text
+msgid "New Path"
+msgstr "Yeni Yol"
+
+#: tform_main.vst_files.header.columns[6].text
+msgid "Size"
+msgstr "Boyut"
+
+#: tform_main.vst_files.header.columns[7].text
+msgid "Size KB"
+msgstr "Boyut KB"
+
+#: tform_main.vst_files.header.columns[8].text
+msgid "Size MB"
+msgstr "Boyut MB"
+
+#: tform_main.vst_files.header.columns[9].text
+msgid "Created"
+msgstr "Oluşturma"
+
+#: tform_metatags.bitbtn_cancel.caption
+msgctxt "TFORM_METATAGS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "İptal"
+
+#: tform_metatags.bitbtn_insert.caption
+msgctxt "TFORM_METATAGS.BITBTN_INSERT.CAPTION"
+msgid "Insert"
+msgstr "Ekle"
+
+#: tform_metatags.caption
+msgctxt "TFORM_METATAGS.CAPTION"
+msgid "Meta Tags"
+msgstr "Meta Etiketler"
+
+#: tform_metatags.label_note.caption
+msgid "Note: Most of the tags can only work for files, not folders."
+msgstr "Not: Etiketlerin çoğu dosyalarla çalışır, klasörlerle çalışmaz."
+
+#: tform_presetsave.bitbtn_save.caption
+msgid "&Save"
+msgstr "&Kaydet"
+
+#: tform_presetsave.caption
+msgid "Save Preset"
+msgstr "Şablon Kaydet"
+
+#: tform_presetsave.cb_presetsavefilters.caption
+msgid "Save Filter Settings with the preset?"
+msgstr "Şablon ile birlikte Filtre Ayarlarını da kaydet?"
+
+#: tform_presetsave.label1.caption
+msgid "Overwrite existing preset:"
+msgstr "Var olan şablonun üstüne yaz:"
+
+#: tform_presetsave.le_name.editlabel.caption
+msgid "Preset Name:"
+msgstr "Şablon Adı:"
+
+#: tform_presetslinks.bb_createlinks.caption
+msgctxt "TFORM_PRESETSLINKS.BB_CREATELINKS.CAPTION"
+msgid "Create Links"
+msgstr "Bağlantı Oluştur"
+
+#: tform_presetslinks.caption
+msgid "Presets Links"
+msgstr "Şablon Bağlantıları"
+
+#: tform_presetslinks.label_folder.caption
+msgid "Please specify a folder where you want to place the links:"
+msgstr "Lütfen bağlantıları yerleştirmek istediğiniz klasörü belirtin:"
+
+#: tform_presetslinks.label_linktype.caption
+msgid "Type of links:"
+msgstr "Bağlantı tipi:"
+
+#: tform_presetslinks.rb_load.caption
+msgctxt "TFORM_PRESETSLINKS.RB_LOAD.CAPTION"
+msgid "Load with Preset"
+msgstr "Şablon ile Yükle"
+
+#: tform_presetslinks.rb_rename.caption
+msgctxt "TFORM_PRESETSLINKS.RB_RENAME.CAPTION"
+msgid "Rename with Preset"
+msgstr "Şablon ile Adlandır"
+
+#: tform_presetslinks.sb_browse.hint
+msgid "Browse for Folder"
+msgstr "Klasöre Gözat"
+
+#: tform_presetslinks.sb_usesendto.hint
+msgid "Use \"Send To\" Folder"
+msgstr "\"Gönder\" klasörünü kullan"
+
+#: tform_presetsmanager.caption
+msgid "Presets Manager"
+msgstr "Şablon Yöneticisi"
+
+#: tform_presetsmanager.tb_append.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_APPEND.HINT"
+msgid "Append Preset"
+msgstr "Şablon İliştir"
+
+#: tform_presetsmanager.tb_copy.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_COPY.HINT"
+msgid "Duplicate Preset"
+msgstr "Şablonu Yinele"
+
+#: tform_presetsmanager.tb_delete.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_DELETE.HINT"
+msgid "Delete Preset (Del)"
+msgstr "Şablonu Sil (Del)"
+
+#: tform_presetsmanager.tb_edit.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_EDIT.HINT"
+msgid "Manually Edit Preset (F4)"
+msgstr "Şablonu Elle Düzenle (F4)"
+
+#: tform_presetsmanager.tb_load.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_LOAD.HINT"
+msgid "Load Preset (Enter)"
+msgstr "Şablon Yükle (Enter)"
+
+#: tform_presetsmanager.tb_rename.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_RENAME.HINT"
+msgid "Rename Preset (F2)"
+msgstr "Şablonu Yeniden Adlandır (F2)"
+
+#: tform_register.bb_cancel.caption
+msgctxt "TFORM_REGISTER.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "İptal"
+
+#: tform_register.bb_register.caption
+msgctxt "TFORM_REGISTER.BB_REGISTER.CAPTION"
+msgid "Register"
+msgstr "Kayıt ol"
+
+#: tform_register.caption
+msgid "Registration"
+msgstr "Kayıt"
+
+#: tform_register.label1.caption
+msgid "Please enter your registration code:"
+msgstr "Lütfen kayıt kodunuzu girin:"
+
+#: tform_settings.bitbtn_cancel.caption
+msgctxt "TFORM_SETTINGS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "İptal"
+
+#: tform_settings.bitbtn_save.caption
+msgctxt "TFORM_SETTINGS.BITBTN_SAVE.CAPTION"
+msgid "Save"
+msgstr "Kaydet"
+
+#: tform_settings.caption
+msgctxt "TFORM_SETTINGS.CAPTION"
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: tform_settings.cb_allowprocessingextensionsinfolders.caption
+msgid "Folders also have extensions, process them as such"
+msgstr "Klasörlerin uzantısı var, bunlar da işlensin"
+
+#: tform_settings.cb_highlightchangednames.caption
+msgid "Highlight changed file names"
+msgstr "Değişen dosya adlarını vurgula"
+
+#: tform_settings.cb_overwritewithnewnameconfirm.caption
+msgid "Must be successfully confirmed by user"
+msgstr "Kullanıcı tarafından başarıyla onaylanmalı"
+
+#: tform_settings.checkbox_addtofoldercontextmenu.caption
+msgid "Add to folders context menu"
+msgstr "Klasör içerik menüsüne ekle"
+
+#: tform_settings.checkbox_addtosendtocontextmenu.caption
+msgid "Add to \"Send To\" context menu"
+msgstr "\"Gönder\" içerik menüsüne ekle"
+
+#: tform_settings.checkbox_alwaysontop.caption
+msgid "Stay on top of other windows"
+msgstr "Diğer pencerelerin üstünde tut"
+
+#: tform_settings.checkbox_autopreviewonfilesadded.caption
+msgid "Auto preview when new files are added"
+msgstr "Yeni dosyalar eklendikçe otomatik önizle"
+
+#: tform_settings.checkbox_autopreviewonruleschange.caption
+msgid "Auto preview on change of rules configurations"
+msgstr "Kuralların yapılandırması değiştikçe otomatik önizle"
+
+#: tform_settings.checkbox_autosizetable.caption
+msgid "Auto size table on change"
+msgstr "Değişikliklerde tabloyu otomatik boyutlandır"
+
+#: tform_settings.checkbox_clearfilestableonrename.caption
+msgid "Clear files table on rename"
+msgstr "Yeniden adlandırınca dosya tablosunu temizle"
+
+#: tform_settings.checkbox_clearrenamedfilesonrename.caption
+msgid "Clear renamed files on rename"
+msgstr "Yeniden adlandırılanları işlem sonrasında temizle"
+
+#: tform_settings.checkbox_clearruleslistonrename.caption
+msgid "Clear rules list on rename"
+msgstr "Yeniden adlandırınca kural listesini temizle"
+
+#: tform_settings.checkbox_closeprogramaftersuccessfulrename.caption
+msgid "Close program after successful rename"
+msgstr "Başarıyla yeniden adlandırmayla uygulamayı kapat"
+
+#: tform_settings.checkbox_displaymsgonsuccessfulrename.caption
+msgid "Display message on successful rename"
+msgstr "Başarılı yeniden adlandırma sonrası ileti göster"
+
+#: tform_settings.checkbox_fixconflictingnewnamesonpreview.caption
+msgid "Fix conflicting new names on preview"
+msgstr "Çakışan yeni adları önizlemede düzelt"
+
+#: tform_settings.checkbox_metatagsupport.caption
+msgid "MetaTag support"
+msgstr "Meta Etiket Desteği"
+
+#: tform_settings.checkbox_overwritewithnewname.caption
+msgid "Overwrite files with New Names"
+msgstr "Yeni adlarla dosyaların üzerine yaz"
+
+#: tform_settings.checkbox_previewrealtimeupdate.caption
+msgid "Real-time update of the preview"
+msgstr "Önizlemeyi gerçek zamanlı olarak güncelle"
+
+#: tform_settings.checkbox_registerpresetextension.caption
+msgid "Register preset extension (*.rnp)"
+msgstr "Şablon uzantısını kaydet (*.rnp)"
+
+#: tform_settings.checkbox_rememberlocation.caption
+#, fuzzy
+#| msgid "Remember last position and size (main window only)"
+msgid "Remember position and size of major windows"
+msgstr "Son konumu ve boyutu hatırla (yalnızca ana pencere)"
+
+#: tform_settings.checkbox_saveandloaddefaultpreset.caption
+msgid "Save rules configuration on exit, load on startup"
+msgstr "Çıkışta kural yapılandırmalarını kaydet ve açılışta yükle"
+
+#: tform_settings.checkbox_showmaintoolbar.caption
+msgid "Show main toolbar"
+msgstr ""
+
+#: tform_settings.checkbox_skiprenamingunchangedfiles.caption
+msgid "Skip renaming of unchanged files"
+msgstr "Değiştirilmeyen dosyaları yeniden adlandırma"
+
+#: tform_settings.checkbox_sortingremember.caption
+msgid "Remember sorting options (files table)"
+msgstr "Sıralama seçeneklerini hatırla (dosya tablosu)"
+
+#: tform_settings.checkbox_usenaturalsort.caption
+msgid "Use natural order sorting algorithm (2-3 times slower)"
+msgstr "Doğal sıralama ölçütlerini kullan (2-3 kat yavaş)"
+
+#: tform_settings.checkbox_validateonpreview.caption
+msgid "Validate new filenames on preview"
+msgstr "Yeni dosya adlarını önizlemede doğrula"
+
+#: tform_settings.label1.caption
+msgid "Date Format:"
+msgstr "Tarih Biçimi:"
+
+#: tform_settings.label2.caption
+msgid "Preview:"
+msgstr "Önizle:"
+
+#: tform_settings.label3.caption
+msgid "Example: file1, file2 ... file9, file10, file11, and so on."
+msgstr "Örnek: dosya1, dosya2, ... dosya9, dosya10, dosya11 ve benzeri."
+
+#: tform_settings.label5.caption
+msgid "Note: disabling any of these options will increase performance when processing large amount of files."
+msgstr "Not: bu seçeneklerden herhangi birinin devre dışı bırakılması büyük miktarda dosyayla çalışırken performansı arttıracaktır."
+
+#: tform_settings.label_addrulestext.caption
+msgid "Change text of \"Click here to add a rule\":"
+msgstr "\"Kural eklemek için buraya tıklayın\" metnini değiştir:"
+
+#: tform_settings.label_dragfilestext.caption
+msgid "Change text of \"Drag your files here\":"
+msgstr "\"Dosyaları buraya sürükleyin\" metnini değiştir:"
+
+#: tform_settings.label_metatagformatnote.caption
+msgid "Note: formats will be saved only if validated successfully."
+msgstr "Not: biçim, yalnızca başarıyla doğrulandığında kaydedilir."
+
+#: tform_settings.speedbutton_filtersettings.caption
+msgid "Configure Filter Settings"
+msgstr "Filtre Ayarlarını Yapılandır"
+
+#: tform_settings.speedbutton_metatagformatsinfo.caption
+msgctxt "TFORM_SETTINGS.SPEEDBUTTON_METATAGFORMATSINFO.CAPTION"
+msgid "Help"
+msgstr "Yardım"
+
+#: tform_settings.speedbutton_metatagformatsinfo.hint
+msgctxt "TFORM_SETTINGS.SPEEDBUTTON_METATAGFORMATSINFO.HINT"
+msgid "Online Help (F1)"
+msgstr "Çevrimiçi yardım (F1)"
+
+#: tform_settings.statictext1.caption
+msgid "Note: Disabling MetaTag support will increase performance when processing large amount of files."
+msgstr "Not: Meta Etiket desteğinin devre dışı bırakılması büyük miktarda dosyayla çalışırken performansı arttıracaktır."
+
+#: tform_settings.statictext5.caption
+msgid "Warning: Overwritten files will be deleted permanently."
+msgstr "Uyarı: Üzerine yazılan dosyalar kalıcı olarak silinecek."
+
+#: tform_settings.tabsheet_general.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_GENERAL.CAPTION"
+msgid "General"
+msgstr "Genel"
+
+#: tform_settings.tabsheet_metatags.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_METATAGS.CAPTION"
+msgid "Meta Tags"
+msgstr "Meta Etiketler"
+
+#: tform_settings.tabsheet_misc.caption
+msgid "Misc."
+msgstr "Çeşitli"
+
+#: tform_settings.tabsheet_preview.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_PREVIEW.CAPTION"
+msgid "Preview"
+msgstr "Önizle"
+
+#: tform_settings.tabsheet_rename.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_RENAME.CAPTION"
+msgid "Rename"
+msgstr "Yeniden Adlandır"
+
+#: tform_termsofuse.bb_accept.caption
+msgid "Accept"
+msgstr "Kabul et"
+
+#: tform_termsofuse.bb_litevspro.caption
+msgid "Lite vs Pro"
+msgstr "Lite ile Pro farkı"
+
+#: tform_termsofuse.bb_purchase.caption
+msgid "Purchase"
+msgstr "Satın al"
+
+#: tform_termsofuse.bb_register.caption
+msgid "Enter registration code"
+msgstr "Kayıt kodu gir"
+
+#: tform_termsofuse.caption
+msgid "Terms of Use"
+msgstr "Kullanım Koşulları"
+
+#: tform_termsofuse.groupbox.caption
+msgid "Please be aware of the terms of use of this application:"
+msgstr "Lütfen, uygulamanın kullanım koşullarına dikkat edin:"
+
+#: tform_termsofuse.label_commercial.caption
+msgid "For commercial use you must obtain a commercial license by going to the website. If you already hold a license please enter your registration code. Thank you for playing fair."
+msgstr "Ticari kullanım için, web sitesine giderek ticari bir lisans almanız gerekir. Zaten bir lisansınız varsa, lütfen kayıt kodunuzu girin. Adil oynadığınız için teşekkürler."
+
+#: tform_termsofuse.label_noncommercial.caption
+msgctxt "TFORM_TERMSOFUSE.LABEL_NONCOMMERCIAL.CAPTION"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Bu uygulama YALNIZCA ticari olmayan amaçlar için ve buna uygun özelliklerle kullanılabilir ve dağıtılabilir."
+
+#: tform_termsofuse.label_supportdevelopment.caption
+msgid "Please also consider purchasing a \"Pro\" version to support the future development of this application."
+msgstr "Lütfen, uygulamanın gelecekteki geliştirmesi için \"Pro\" sürümü satın almayı ayrıca düşünün."
+
+#: tframe_rulecase.checkbox_caseextensionalwayslowercase.caption
+msgid "Extension always lower case"
+msgstr "Uzantılar daima küçük harfli"
+
+#: tframe_rulecase.checkbox_caseextensionalwaysuppercase.caption
+msgid "Extension always upper case"
+msgstr "Uzantılar daima büyük harfli"
+
+#: tframe_rulecase.checkbox_caseforce.caption
+msgid "Force case for fragments:"
+msgstr "Harfleri bölümler için zorla:"
+
+#: tframe_rulecase.checkbox_caseskipextension.caption
+msgctxt "tframe_rulecase.checkbox_caseskipextension.caption"
+msgid "Skip extension"
+msgstr "Uzantıyı atla"
+
+#: tframe_rulecase.groupbox_casechange.caption
+msgid "Case change:"
+msgstr "Harf değişimi:"
+
+#: tframe_rulecase.label_caseforcehint.caption
+msgid "Hint: fragments separated with comma will be put in the same case as they are typed in this text box, for example: CD,DVD,DJ"
+msgstr "İpucu: virgülle ayrılmış parçalar bu metin kutusuna yazılanlarla aynı duruma getirilir, örneğin: CD,DVD,DJ"
+
+#: tframe_rulecase.rb_casealllower.caption
+msgid "all lower case"
+msgstr "tümü küçük harf"
+
+#: tframe_rulecase.rb_caseallupper.caption
+msgid "ALL UPPER CASE"
+msgstr "TÜMÜ BÜYÜK HARF"
+
+#: tframe_rulecase.rb_casecapitalize.caption
+msgid "Capitalize Every Word"
+msgstr "Sözcüklerin İlk Harfi Büyük"
+
+#: tframe_rulecase.rb_casecapitalizeandpreserve.caption
+msgid "Capitalize AND Preserve"
+msgstr "İlk Harf Büyüt VE Koru"
+
+#: tframe_rulecase.rb_casefirstlettercapital.caption
+msgctxt "TFRAME_RULECASE.RB_CASEFIRSTLETTERCAPITAL.CAPTION"
+msgid "First letter capital"
+msgstr "İlk harf büyük"
+
+#: tframe_rulecase.rb_caseinvert.caption
+msgid "iNVERT cASE"
+msgstr "bÜYÜK/kÜÇÜK dÖNÜŞTÜR"
+
+#: tframe_rulecase.rb_noneofabove.caption
+msgid "(none of the above)"
+msgstr "(yukarıdakilerin hiçbiri)"
+
+#: tframe_rulecleanup.cb_insertspacebeforecapitals.caption
+msgid "Insert a space in front of capitalized letters (e.g. CamelCase)"
+msgstr "Büyük harflerin önüne boşluk ekle (örn: CamelCase)"
+
+#: tframe_rulecleanup.cb_normalizespaces.caption
+msgid "Normalize unicode spaces by replacing them with a standard space"
+msgstr "Unicode boşlukları standart bir boşlukla değiştirerek normalleştir"
+
+#: tframe_rulecleanup.checkbox_prepareforsharepoint.caption
+msgid "Prepare for SharePoint (always inc. extension)"
+msgstr "SharePoint için hazırla (uzantıyı daima dahil et)"
+
+#: tframe_rulecleanup.checkbox_skipextension.caption
+msgctxt "TFRAME_RULECLEANUP.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Uzantıyı atla"
+
+#: tframe_rulecleanup.checkbox_spacescomma.caption
+msgid ", (comma)"
+msgstr ", (virgül)"
+
+#: tframe_rulecleanup.checkbox_spacesdot.caption
+msgid ". (dot)"
+msgstr ". (nokta)"
+
+#: tframe_rulecleanup.checkbox_spacesfix.caption
+msgid "Fix spaces: only one space at a time, no spaces on sides of basename"
+msgstr "Boşlukları düzelt: bir kerede yalnız bir boşluk, temel adın kenarlarında boşluk yok"
+
+#: tframe_rulecleanup.checkbox_spacesskipversions.caption
+msgid "Skip number sequences, for example version 1.2.3.4"
+msgstr "Sayı dizilerini atla, örneğin sürüm 1.2.3.4"
+
+#: tframe_rulecleanup.checkbox_stripunicodemarks.caption
+msgid "Strip unicode marks (combining, diacritics, accents)"
+msgstr ""
+
+#: tframe_rulecleanup.groupbox1.caption
+msgid "Replace these characters with spaces:"
+msgstr "Bu karakterleri boşluk ile değiştir:"
+
+#: tframe_rulecleanup.groupbox_brackets.caption
+msgid "Strip out content of brackets:"
+msgstr "Parantez içeriğini çıkart:"
+
+#: tframe_ruledelete.checkbox_deletecurrentname.caption
+msgctxt "TFRAME_RULEDELETE.CHECKBOX_DELETECURRENTNAME.CAPTION"
+msgid "Delete current name"
+msgstr "Geçerli adı sil"
+
+#: tframe_ruledelete.checkbox_deleterighttoleft.caption
+msgctxt "tframe_ruledelete.checkbox_deleterighttoleft.caption"
+msgid "Right-to-left"
+msgstr "Sağdan sola"
+
+#: tframe_ruledelete.checkbox_deleteskipextension.caption
+msgctxt "TFRAME_RULEDELETE.CHECKBOX_DELETESKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Uzantıyı atla"
+
+#: tframe_ruledelete.checkbox_leavedelimiter.caption
+msgid "Do not remove delimiters"
+msgstr "Ayırıcıyı kaldırma"
+
+#: tframe_ruledelete.groupbox_from.caption
+msgid "From:"
+msgstr "Buradan:"
+
+#: tframe_ruledelete.groupbox_until.caption
+msgid "Until:"
+msgstr "Şuraya:"
+
+#: tframe_ruledelete.radiobutton_deletefromdelimiter.caption
+msgctxt "tframe_ruledelete.radiobutton_deletefromdelimiter.caption"
+msgid "Delimiter:"
+msgstr "Ayırıcı:"
+
+#: tframe_ruledelete.radiobutton_deletefromposition.caption
+msgctxt "tframe_ruledelete.radiobutton_deletefromposition.caption"
+msgid "Position:"
+msgstr "Konum:"
+
+#: tframe_ruledelete.radiobutton_deleteuntilcount.caption
+msgid "Count:"
+msgstr "Miktar:"
+
+#: tframe_ruledelete.radiobutton_deleteuntildelimiter.caption
+msgctxt "TFRAME_RULEDELETE.RADIOBUTTON_DELETEUNTILDELIMITER.CAPTION"
+msgid "Delimiter:"
+msgstr "Ayırıcı:"
+
+#: tframe_ruledelete.radiobutton_deleteuntilend.caption
+msgid "Till the end"
+msgstr "Sona kadar"
+
+#: tframe_ruleextension.checkbox_detectbinsign.caption
+msgid "Detect using \"binary signature\""
+msgstr "\"İkilik imza\" kullanarak algıla"
+
+#: tframe_ruleextension.checkbox_extensionappend.caption
+msgid "Append to the original filename"
+msgstr "Özgün dosya adına ekle"
+
+#: tframe_ruleextension.label_extensionlabel.caption
+msgid "New Extension (without dot):"
+msgstr "Yeni Uzantı (nokta olmadan):"
+
+#: tframe_ruleextension.label_hint.caption
+msgid "Note: Some files may have multiple extensions matching their data type, for example: doc/ppt/xls have the same signature. Unrecognised files will remain unchanged. If this option is used, the new extension field is ignored."
+msgstr "Not: Bazı dosyalar, veri türleriyle eşleşen birden fazla uzantıya sahip olabilir, örneğin: DOC/PPT/XLS aynı imzayı taşır. Tanınmayan dosyalar değişmeden kalacaktır. Bu seçenek kullanılırsa, yeni uzantı alanı dikkate alınmaz."
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.caption
+msgctxt "TFRAME_RULEINSERT.BITBTN_INSERTMETATAG.CAPTION"
+msgid "Insert Meta Tag"
+msgstr "Meta Etiket Ekle"
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.hint
+msgctxt "TFRAME_RULEINSERT.BITBTN_INSERTMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Meta Etiket Ekle (Ctrl+Ins)"
+
+#: tframe_ruleinsert.checkbox_insertright.caption
+msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTRIGHT.CAPTION"
+msgid "Right-to-left"
+msgstr "Sağdan sola"
+
+#: tframe_ruleinsert.checkbox_insertskipextension.caption
+msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTSKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Uzantıyı atla"
+
+#: tframe_ruleinsert.label_insertwhat.caption
+msgid "Insert:"
+msgstr "Ekle:"
+
+#: tframe_ruleinsert.label_insertwhere.caption
+msgid "Where:"
+msgstr "Konum:"
+
+#: tframe_ruleinsert.radiobutton_insertaftertext.caption
+msgid "After text:"
+msgstr "Metnin ardına:"
+
+#: tframe_ruleinsert.radiobutton_insertbeforetext.caption
+msgid "Before text:"
+msgstr "Metnin önüne:"
+
+#: tframe_ruleinsert.radiobutton_insertposition.caption
+msgctxt "TFRAME_RULEINSERT.RADIOBUTTON_INSERTPOSITION.CAPTION"
+msgid "Position:"
+msgstr "Konum:"
+
+#: tframe_ruleinsert.radiobutton_insertprefix.caption
+msgctxt "tframe_ruleinsert.radiobutton_insertprefix.caption"
+msgid "Prefix"
+msgstr "Önek"
+
+#: tframe_ruleinsert.radiobutton_insertsuffix.caption
+msgctxt "tframe_ruleinsert.radiobutton_insertsuffix.caption"
+msgid "Suffix"
+msgstr "Sonek"
+
+#: tframe_ruleinsert.radiobutton_replacecurrentname.caption
+msgctxt "TFRAME_RULEINSERT.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
+msgid "Replace current name"
+msgstr "Geçerli adı değiştir"
+
+#: tframe_rulepadding.checkbox_addtextpadding.caption
+msgid "Add padding to length:"
+msgstr "Uzunluğa dolgu ekle:"
+
+#: tframe_rulepadding.checkbox_addzeropadding.caption
+msgid "Add zero padding to length:"
+msgstr "Uzunluğa sıfır dolgu ekle:"
+
+#: tframe_rulepadding.checkbox_removezeropadding.caption
+msgctxt "tframe_rulepadding.checkbox_removezeropadding.caption"
+msgid "Remove zero padding"
+msgstr "Sıfır dolgu kaldır"
+
+#: tframe_rulepadding.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEPADDING.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Uzantıyı atla"
+
+#: tframe_rulepadding.groupbox_numbersequences.caption
+msgid "Number sequences"
+msgstr "Sayı dizileri"
+
+#: tframe_rulepadding.groupbox_textpadding.caption
+msgid "Text padding"
+msgstr "Metin dolgusu"
+
+#: tframe_rulepadding.label_paddingcharacters.caption
+msgid "Padding characters:"
+msgstr "Dolgu karakterleri:"
+
+#: tframe_rulepadding.label_position.caption
+msgctxt "TFRAME_RULEPADDING.LABEL_POSITION.CAPTION"
+msgid "Position:"
+msgstr "Konum:"
+
+#: tframe_rulepadding.radiobutton_positionleft.caption
+msgid "Left"
+msgstr "Sol"
+
+#: tframe_rulepadding.radiobutton_positionright.caption
+msgid "Right"
+msgstr "Sağ"
+
+#: tframe_rulepascalscript.toolbutton_compile.caption
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_COMPILE.CAPTION"
+msgid "Try to Compile"
+msgstr "Derlemeye Çalış"
+
+#: tframe_rulepascalscript.toolbutton_compile.hint
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_COMPILE.HINT"
+msgid "Try to Compile (Ctrl+T)"
+msgstr "Derlemeye Çalış (Ctrl+T)"
+
+#: tframe_rulepascalscript.toolbutton_gotoline.caption
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_GOTOLINE.CAPTION"
+msgid "Go To"
+msgstr "Git"
+
+#: tframe_rulepascalscript.toolbutton_gotoline.hint
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_GOTOLINE.HINT"
+msgid "Go To Line (Ctrl+G)"
+msgstr "Satıra Git (Ctrl+G)"
+
+#: tframe_rulepascalscript.toolbutton_help.caption
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_HELP.CAPTION"
+msgid "Help"
+msgstr "Yardım"
+
+#: tframe_rulepascalscript.toolbutton_help.hint
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_HELP.HINT"
+msgid "Online Help (F1)"
+msgstr "Çevrimiçi Yardım (F1)"
+
+#: tframe_rulepascalscript.toolbutton_scripts.caption
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_SCRIPTS.CAPTION"
+msgid "Scripts"
+msgstr "Betik"
+
+#: tframe_rulepascalscript.toolbutton_scripts.hint
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_SCRIPTS.HINT"
+msgid "Scripts (Ctrl+L)"
+msgstr "Betik (Ctrl+L)"
+
+#: tframe_rulerandomize.checkbox_skipextension.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Uzantıyı atla"
+
+#: tframe_rulerandomize.checkbox_unique.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_UNIQUE.CAPTION"
+msgid "Unique if possible"
+msgstr "Mümkünse benzersiz"
+
+#: tframe_rulerandomize.checkbox_usedigits.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_USEDIGITS.CAPTION"
+msgid "Digits (0..9)"
+msgstr "Sayı (0..9)"
+
+#: tframe_rulerandomize.checkbox_useenglishletters.caption
+msgid "English letters (a..z)"
+msgstr "İngiliz alfabesi (a..z)"
+
+#: tframe_rulerandomize.checkbox_useuserdefined.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_USEUSERDEFINED.CAPTION"
+msgid "User defined:"
+msgstr "Kullanıcı tanımlı:"
+
+#: tframe_rulerandomize.groupbox_characters.caption
+msgctxt "TFRAME_RULERANDOMIZE.GROUPBOX_CHARACTERS.CAPTION"
+msgid "Characters to use:"
+msgstr "Kullanılacak karakterler:"
+
+#: tframe_rulerandomize.groupbox_insertwhere.caption
+msgctxt "TFRAME_RULERANDOMIZE.GROUPBOX_INSERTWHERE.CAPTION"
+msgid "Insert where:"
+msgstr "Ekleme konumu:"
+
+#: tframe_rulerandomize.label_length.caption
+msgctxt "TFRAME_RULERANDOMIZE.LABEL_LENGTH.CAPTION"
+msgid "Length of random sequence:"
+msgstr "Rastgele dizi uzunluğu:"
+
+#: tframe_rulerandomize.radiobutton_position.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_POSITION.CAPTION"
+msgid "Position:"
+msgstr "Konum:"
+
+#: tframe_rulerandomize.radiobutton_prefix.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_PREFIX.CAPTION"
+msgid "Prefix"
+msgstr "Önek"
+
+#: tframe_rulerandomize.radiobutton_replacecurrentname.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
+msgid "Replace current name"
+msgstr "Geçerli adı değiştir"
+
+#: tframe_rulerandomize.radiobutton_suffix.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_SUFFIX.CAPTION"
+msgid "Suffix"
+msgstr "Sonek"
+
+#: tframe_rulerearrange.cb_righttoleft.caption
+msgctxt "TFRAME_RULEREARRANGE.CB_RIGHTTOLEFT.CAPTION"
+msgid "Right-to-left"
+msgstr "Sağdan sola"
+
+#: tframe_rulerearrange.cb_skipextension.caption
+msgctxt "TFRAME_RULEREARRANGE.CB_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Uzantıyı atla"
+
+#: tframe_rulerearrange.label1.caption
+msgid "Split using:"
+msgstr "Kullanımı ayır:"
+
+#: tframe_rulerearrange.label2.caption
+msgid "New pattern:"
+msgstr "Yeni düzen:"
+
+#: tframe_rulerearrange.label3.caption
+msgid "Hint: Use $1..$N to reference delimited parts in the new pattern, $-1..$-N to reference from the end, $0 for the original name."
+msgstr "İpucu: Yeni düzende ayrık parçalara baştan başvuru için $1..$N, sondan başvuru için $-1..$-N ve özgün ada başvuru için $0 kullanın."
+
+#: tframe_rulerearrange.rb_usingdelimiters.caption
+msgid "Delimiters"
+msgstr "Ayırıcılar"
+
+#: tframe_rulerearrange.rb_usingexactpatternofdelimiters.caption
+msgid "Exact pattern of delimiters"
+msgstr "Ayırıcıların tam düzeni"
+
+#: tframe_rulerearrange.rb_usingpositions.caption
+msgid "Positions"
+msgstr "Konumlar"
+
+#: tframe_rulerearrange.sb_addseparator.hint
+msgctxt "tframe_rulerearrange.sb_addseparator.hint"
+msgid "Separate multiple items"
+msgstr "Birden çok öğeyi ayır"
+
+#: tframe_rulerearrange.sb_insertmetatag.hint
+msgctxt "TFRAME_RULEREARRANGE.SB_INSERTMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Meta Etiket Ekle (Ctrl+Ins)"
+
+#: tframe_rulereformatdate.checkbox_adjusttime.caption
+msgid "Adjust time by:"
+msgstr ""
+
+#: tframe_rulereformatdate.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREFORMATDATE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Uzantıyı atla"
+
+#: tframe_rulereformatdate.checkbox_usecustomlongmonths.caption
+msgid "Use custom long months:"
+msgstr "Özel uzun ay kullan:"
+
+#: tframe_rulereformatdate.checkbox_usecustomshortmonths.caption
+msgid "Use custom short months:"
+msgstr "Özel kısa ay kullan:"
+
+#: tframe_rulereformatdate.checkbox_wholewordsonly.caption
+msgid "Match as whole words only"
+msgstr "Yalnızca tüm sözcüğü eşleştir"
+
+#: tframe_rulereformatdate.label_inputformats.caption
+msgid "Find date/time formats:"
+msgstr "Tarih/saat biçimi bul:"
+
+#: tframe_rulereformatdate.label_outputformat.caption
+msgid "Convert to date/time format:"
+msgstr "Tarih/saat biçimine dönüştür:"
+
+#: tframe_rulereformatdate.menuitem_addseparator.caption
+msgctxt "TFRAME_RULEREFORMATDATE.MENUITEM_ADDSEPARATOR.CAPTION"
+msgid "Separate multiple items"
+msgstr "Birden çok öğeyi ayır"
+
+#: tframe_rulereformatdate.menuitem_datetimeformathelp.caption
+msgid "Date/time format reference (online)"
+msgstr "Tarih/saat biçimi başvuruları (çevrimiçi)"
+
+#: tframe_ruleregex.checkbox_casesensitive.caption
+msgid "Case-sensitive"
+msgstr "Büyük/küçük duyarlı"
+
+#: tframe_ruleregex.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREGEX.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Uzantıyı atla"
+
+#: tframe_ruleregex.label1.caption
+msgid "Hint: Use $1..$9 to reference subexpressions."
+msgstr "İpucu: Alt ifadelere başvuru için $1..$9 kullanın."
+
+#: tframe_ruleregex.label4.caption
+msgid "Expression:"
+msgstr "İfade:"
+
+#: tframe_ruleregex.label5.caption
+msgctxt "tframe_ruleregex.label5.caption"
+msgid "Replace:"
+msgstr "Değiştir:"
+
+#: tframe_ruleregex.sb_insertexpression.hint
+msgid "Insert expression (Ctrl+Ins)"
+msgstr "İfade ekle (Ctrl+Ins)"
+
+#: tframe_ruleregex.speedbutton_help.caption
+msgctxt "TFRAME_RULEREGEX.SPEEDBUTTON_HELP.CAPTION"
+msgid "Help"
+msgstr "Yardım"
+
+#: tframe_ruleregex.speedbutton_help.hint
+msgctxt "TFRAME_RULEREGEX.SPEEDBUTTON_HELP.HINT"
+msgid "Online Help (F1)"
+msgstr "Çevrimiçi Yardım (F1)"
+
+#: tframe_ruleremove.checkbox_casesensitive.caption
+msgctxt "tframe_ruleremove.checkbox_casesensitive.caption"
+msgid "Case sensitive"
+msgstr "Büyük/küçük duyarlı"
+
+#: tframe_ruleremove.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREMOVE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Uzantıyı atla"
+
+#: tframe_ruleremove.checkbox_usewildcards.caption
+msgid "Interpret symbols '?', '*', '[', ']' as wildcards?"
+msgstr "'?', '*', '[', ']' gibi sembolleri joker karakter olarak yorumla?"
+
+#: tframe_ruleremove.checkbox_wholewordsonly.caption
+msgctxt "TFRAME_RULEREMOVE.CHECKBOX_WHOLEWORDSONLY.CAPTION"
+msgid "Whole words only"
+msgstr "Sözcüğün tamamı"
+
+#: tframe_ruleremove.label_removeoccurances.caption
+msgctxt "tframe_ruleremove.label_removeoccurances.caption"
+msgid "Occurrences:"
+msgstr "Oluşumlar:"
+
+#: tframe_ruleremove.label_removewhat.caption
+msgid "Remove:"
+msgstr "Kaldır:"
+
+#: tframe_ruleremove.radiobutton_removeall.caption
+msgctxt "tframe_ruleremove.radiobutton_removeall.caption"
+msgid "All"
+msgstr "Tümü"
+
+#: tframe_ruleremove.radiobutton_removefirst.caption
+msgctxt "tframe_ruleremove.radiobutton_removefirst.caption"
+msgid "First"
+msgstr "İlk"
+
+#: tframe_ruleremove.radiobutton_removelast.caption
+msgctxt "tframe_ruleremove.radiobutton_removelast.caption"
+msgid "Last"
+msgstr "Son"
+
+#: tframe_ruleremove.speedbutton_removeaddseparator.hint
+msgctxt "TFRAME_RULEREMOVE.SPEEDBUTTON_REMOVEADDSEPARATOR.HINT"
+msgid "Separate multiple items"
+msgstr "Birden çok öğeyi ayır"
+
+#: tframe_rulereplace.checkbox_casesensitive.caption
+msgctxt "TFRAME_RULEREPLACE.CHECKBOX_CASESENSITIVE.CAPTION"
+msgid "Case sensitive"
+msgstr "Büyük/küçük duyarlı"
+
+#: tframe_rulereplace.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREPLACE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Uzantıyı atla"
+
+#: tframe_rulereplace.checkbox_usewildcards.caption
+msgid "Interpret '?', '*', '[', ']' as wildcards and '$n' as backreferences?"
+msgstr "'?', '*', '[', ']' joker karakterler olarak ve '$n' ise art başvuru olarak yorumlansın?"
+
+#: tframe_rulereplace.checkbox_wholewordsonly.caption
+msgctxt "tframe_rulereplace.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "Sözcüğün tamamı"
+
+#: tframe_rulereplace.label_replaceoccurances.caption
+msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEOCCURANCES.CAPTION"
+msgid "Occurrences:"
+msgstr "Oluşumlar:"
+
+#: tframe_rulereplace.label_replacewhat.caption
+msgid "Find:"
+msgstr "Bul:"
+
+#: tframe_rulereplace.label_replacewith.caption
+msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEWITH.CAPTION"
+msgid "Replace:"
+msgstr "Değiştir:"
+
+#: tframe_rulereplace.radiobutton_replaceall.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACEALL.CAPTION"
+msgid "All"
+msgstr "Tümü"
+
+#: tframe_rulereplace.radiobutton_replacefirst.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACEFIRST.CAPTION"
+msgid "First"
+msgstr "İlk"
+
+#: tframe_rulereplace.radiobutton_replacelast.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACELAST.CAPTION"
+msgid "Last"
+msgstr "Son"
+
+#: tframe_rulereplace.speedbutton_replaceaddseparator.hint
+msgctxt "TFRAME_RULEREPLACE.SPEEDBUTTON_REPLACEADDSEPARATOR.HINT"
+msgid "Separate multiple items"
+msgstr "Birden çok öğeyi ayır"
+
+#: tframe_rulereplace.speedbutton_replacewithmetatag.hint
+msgctxt "TFRAME_RULEREPLACE.SPEEDBUTTON_REPLACEWITHMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Meta Etiket Ekle (Ctrl+Ins)"
+
+#: tframe_ruleserialize.cb_resetevery.caption
+msgid "Reset every:"
+msgstr "Tümünü sıfırla:"
+
+#: tframe_ruleserialize.checkbox_resetiffilenamechanges.caption
+msgid "Reset if file name changes"
+msgstr "Dosya adı değişirse sıfırla"
+
+#: tframe_ruleserialize.checkbox_resetiffolderchanges.caption
+msgid "Reset if folder changes"
+msgstr "Klasör değişirse sıfırla"
+
+#: tframe_ruleserialize.checkbox_serializepadtolength.caption
+msgid "Pad with zeros to length:"
+msgstr "Uzunluğa kadar sıfırla doldur:"
+
+#: tframe_ruleserialize.checkbox_skipextension.caption
+msgctxt "TFRAME_RULESERIALIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Uzantıyı atla"
+
+#: tframe_ruleserialize.gb_insertwhere.caption
+msgctxt "tframe_ruleserialize.gb_insertwhere.caption"
+msgid "Insert where:"
+msgstr "Ekleme konumu:"
+
+#: tframe_ruleserialize.label_customnumberingsymbols.caption
+msgid "Custom numbering symbols:"
+msgstr "Özel numaralandırma sembolleri:"
+
+#: tframe_ruleserialize.label_indexstarts.caption
+msgid "Index starts:"
+msgstr "Dizi başlangıcı:"
+
+#: tframe_ruleserialize.label_numberingsystem.caption
+msgctxt "TFRAME_RULESERIALIZE.LABEL_NUMBERINGSYSTEM.CAPTION"
+msgid "Numbering system:"
+msgstr "Numaralandırma sistemi:"
+
+#: tframe_ruleserialize.label_repeat.caption
+msgid "Repeat:"
+msgstr "Yineleme:"
+
+#: tframe_ruleserialize.label_step.caption
+msgid "Step:"
+msgstr "Adım:"
+
+#: tframe_ruleserialize.radiobutton_replacecurrentname.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
+msgid "Replace current name"
+msgstr "Geçerli adı değiştir"
+
+#: tframe_ruleserialize.radiobutton_serializeposition.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPOSITION.CAPTION"
+msgid "Position:"
+msgstr "Konum:"
+
+#: tframe_ruleserialize.radiobutton_serializeprefix.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPREFIX.CAPTION"
+msgid "Prefix"
+msgstr "Önek"
+
+#: tframe_ruleserialize.radiobutton_serializesuffix.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZESUFFIX.CAPTION"
+msgid "Suffix"
+msgstr "Sonek"
+
+#: tframe_rulestrip.cb_stripallexceptselected.caption
+msgid "Strip all characters except selected"
+msgstr "Seçilenler hariç tüm karakterleri çıkart"
+
+#: tframe_rulestrip.cb_stripenglishletters.caption
+msgid "English:"
+msgstr "İngilizce:"
+
+#: tframe_rulestrip.checkbox_casesensitive.caption
+msgctxt "TFRAME_RULESTRIP.CHECKBOX_CASESENSITIVE.CAPTION"
+msgid "Case sensitive"
+msgstr "Büyük/küçük duyarlı"
+
+#: tframe_rulestrip.checkbox_stripbrackets.caption
+msgid "Brackets:"
+msgstr "Parantezler:"
+
+#: tframe_rulestrip.checkbox_stripdigits.caption
+msgctxt "tframe_rulestrip.checkbox_stripdigits.caption"
+msgid "Digits:"
+msgstr "Sayılar:"
+
+#: tframe_rulestrip.checkbox_stripskipextension.caption
+msgctxt "TFRAME_RULESTRIP.CHECKBOX_STRIPSKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Uzantıyı atla"
+
+#: tframe_rulestrip.checkbox_stripsymbols.caption
+msgid "Symbols:"
+msgstr "Simgeler:"
+
+#: tframe_rulestrip.checkbox_stripuserdefined.caption
+msgctxt "tframe_rulestrip.checkbox_stripuserdefined.caption"
+msgid "User defined:"
+msgstr "Kullanıcı tanımlı:"
+
+#: tframe_rulestrip.rb_whereeverywhere.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHEREEVERYWHERE.CAPTION"
+msgid "Everywhere"
+msgstr "Her yer"
+
+#: tframe_rulestrip.rb_whereleading.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHERELEADING.CAPTION"
+msgid "Leading"
+msgstr "Başlangıç"
+
+#: tframe_rulestrip.rb_wheretrailing.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHERETRAILING.CAPTION"
+msgid "Trailing"
+msgstr "Bitiş"
+
+#: tframe_ruletranslit.bitbtn_translits.caption
+msgid "Alphabet"
+msgstr "Alfabe"
+
+#: tframe_ruletranslit.checkbox_adjustcase.caption
+msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_ADJUSTCASE.CAPTION"
+msgid "Auto case adjustment"
+msgstr "Otomatik harf boyutu"
+
+#: tframe_ruletranslit.checkbox_skipextension.caption
+msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Uzantıyı atla"
+
+#: tframe_ruletranslit.label2.caption
+msgid "Direction:"
+msgstr "Yön:"
+
+#: tframe_ruletranslit.label3.caption
+msgid "Hint:"
+msgstr "İpucu:"
+
+#: tframe_ruletranslit.label_hinttext.caption
+msgid "Alphabet is a set of couples represented by letters and separated with an equal sign; they stand for translation of non-english characters to their english representation."
+msgstr "Alfabe, harflerle karşılanan bir çiftler kümesidir ve İngilizce olmayan harflerin eşittir işaretiyle ayrılmış İngilizce karşılıklarını gösterir."
+
+#: tframe_ruletranslit.radiobutton_directionbackward.caption
+msgid "Backward"
+msgstr "Geri"
+
+#: tframe_ruletranslit.radiobutton_directionforward.caption
+msgid "Forward"
+msgstr "İleri"
+
+#: tframe_ruleuserinput.cb_skipextension.caption
+msgctxt "TFRAME_RULEUSERINPUT.CB_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Uzantıyı atla"
+
+#: tframe_ruleuserinput.label1.caption
+msgid "Type your new filenames here (one per line):"
+msgstr "Yeni dosya adlarını buraya girin (satır başına bir adet):"
+
+#: tframe_ruleuserinput.menuitem_load.caption
+msgid "Load from Text File"
+msgstr "Metin Dosyasından Yükle"
+
+#: tframe_ruleuserinput.menuitem_paste.caption
+msgid "Paste from Clipboard"
+msgstr "Panodan Yapıştır"
+
+#: tframe_ruleuserinput.rb_insertafter.caption
+msgid "Insert after the current name"
+msgstr "Geçerli adın sonuna ekle"
+
+#: tframe_ruleuserinput.rb_insertinfront.caption
+msgid "Insert in front of the current name"
+msgstr "Geçerli adın önüne ekle"
+
+#: tframe_ruleuserinput.rb_replace.caption
+msgid "Replace the current name"
+msgstr "Geçerli adı değiştir"
+
+#: tframe_ruleuserinput.sb_options.caption
+msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
+msgid "Options"
+msgstr "Seçenekler"
+
+#: ufileutils.ssizebytes
+msgctxt "ufileutils.ssizebytes"
+msgid "bytes"
+msgstr "bayt"
+
+#: ufileutils.ssizegigabyte
+msgctxt "ufileutils.ssizegigabyte"
+msgid "GB"
+msgstr "GB"
+
+#: ufileutils.ssizekilobyte
+msgctxt "ufileutils.ssizekilobyte"
+msgid "KB"
+msgstr "KB"
+
+#: ufileutils.ssizemegabyte
+msgctxt "ufileutils.ssizemegabyte"
+msgid "MB"
+msgstr "MB"
+
+#: ufileutils.ssizeterabyte
+msgctxt "ufileutils.ssizeterabyte"
+msgid "TB"
+msgstr "TB"
+
+#: umetatags.s_metatag_audio_duration
+msgid "Duration of an Audio file"
+msgstr "Ses dosyası süresi"
+
+#: umetatags.s_metatag_audio_durationmins
+msgid "Duration of an Audio file in minutes"
+msgstr "Bir ses dosyasının dakika olarak süresi"
+
+#: umetatags.s_metatag_audio_durationsecs
+msgid "Duration of an Audio file in seconds"
+msgstr "Bir ses dosyasının saniye olarak süresi"
+
+#: umetatags.s_metatag_avi_duration
+msgid "AVI Duration in H:M:S format"
+msgstr "AVI'nin SA:DK:SN biçimindeki süresi"
+
+#: umetatags.s_metatag_avi_durationmins
+msgid "AVI Duration in Minutes"
+msgstr "AVI'nin dakika olarak süresi"
+
+#: umetatags.s_metatag_avi_durationsecs
+msgid "AVI Duration in Seconds"
+msgstr "AVI'nin saniye olarak süresi"
+
+#: umetatags.s_metatag_avi_framespersecond
+msgid "AVI Frames per Second"
+msgstr "AVI'nin saniye başına kare sayısı"
+
+#: umetatags.s_metatag_avi_height
+msgid "AVI Height in Pixels"
+msgstr "AVI'nin piksel olarak yüksekliği"
+
+#: umetatags.s_metatag_avi_totalframes
+msgid "AVI Total amount of Frames"
+msgstr "AVI'nin toplam kare sayısı"
+
+#: umetatags.s_metatag_avi_videocodec
+msgid "AVI Video Codec"
+msgstr "AVI Video Çözücü"
+
+#: umetatags.s_metatag_avi_width
+msgid "AVI Width in Pixels"
+msgstr "AVI'nin piksel olarak genişliği"
+
+#: umetatags.s_metatag_avi_widthandheight
+msgid "AVI Dimensions in WxH format"
+msgstr "AVI'nin GxY biçiminde boyutları"
+
+#: umetatags.s_metatag_binarysign_description
+msgid "Binary File Information: Description"
+msgstr "İkili Dosya Bilgileri: Açıklama"
+
+#: umetatags.s_metatag_binarysign_extension
+msgid "Binary File Signature: Extension"
+msgstr "İkili Dosya İmzası: Eklenti"
+
+#: umetatags.s_metatag_date_now
+msgid "Current Date"
+msgstr "Geçerli Tarih"
+
+#: umetatags.s_metatag_document_author
+msgid "Summary Information: Author"
+msgstr "Özet Bilgi: Yazar"
+
+#: umetatags.s_metatag_document_pagecount
+msgid "Summary Information: Number of Pages"
+msgstr "Özet Bilgi: Sayfa Sayısı"
+
+#: umetatags.s_metatag_document_subject
+msgid "Summary Information: Subject"
+msgstr "Özet Bilgi: Konu"
+
+#: umetatags.s_metatag_document_title
+msgid "Summary Information: Title"
+msgstr "Özet Bilgi: Başlık"
+
+#: umetatags.s_metatag_email_datesent
+msgid "Email date sent in local time zone"
+msgstr "Yerel saat diliminde e-posta gönderim tarihi"
+
+#: umetatags.s_metatag_email_datesentoriginal
+msgid "Email date sent in original time zone"
+msgstr "Özgün saat diliminde e-posta gönderim tarihi"
+
+#: umetatags.s_metatag_email_datesentutc
+msgid "Email date sent in UTC time zone"
+msgstr "GMT saat diliminde e-posta gönderim tarihi"
+
+#: umetatags.s_metatag_email_sender
+msgid "Email sender"
+msgstr "E-posta göndereni"
+
+#: umetatags.s_metatag_email_subject
+msgid "Email subject"
+msgstr "E-posta konusu"
+
+#: umetatags.s_metatag_exif_date
+msgid "EXIF Original Date"
+msgstr "EXIF Özgün Tarih"
+
+#: umetatags.s_metatag_exif_description
+msgid "EXIF Image Description"
+msgstr "EXIF Resim Açıklaması"
+
+#: umetatags.s_metatag_exif_make
+msgid "EXIF Camera Make"
+msgstr "EXIF Kamera Yapım"
+
+#: umetatags.s_metatag_exif_model
+msgid "EXIF Camera Model"
+msgstr "EXIF Kamera Modeli"
+
+#: umetatags.s_metatag_file_basename
+msgid "Base name of the file"
+msgstr "Dosyanın temel adı"
+
+#: umetatags.s_metatag_file_datecreated
+msgid "File created date"
+msgstr "Dosya oluşturma tarihi"
+
+#: umetatags.s_metatag_file_datemodified
+msgid "File last modified date"
+msgstr "Dosya son değişim tarihi"
+
+#: umetatags.s_metatag_file_dosname
+msgid "Short name in the 8.3 format"
+msgstr "8.3 biçiminde kısa ad"
+
+#: umetatags.s_metatag_file_extension
+msgid "Extension of the file"
+msgstr "Dosya adı uzantısı"
+
+#: umetatags.s_metatag_file_filename
+msgid "Full name of the file"
+msgstr "Dosya tam adı"
+
+#: umetatags.s_metatag_file_filepath
+msgid "Full path of the file"
+msgstr "Dosya tam yolu"
+
+#: umetatags.s_metatag_file_foldername
+msgid "Name of the parent folder"
+msgstr "Üst klasör adı"
+
+#: umetatags.s_metatag_file_folderpath
+msgid "Full path of the parent folder"
+msgstr ""
+
+#: umetatags.s_metatag_file_size
+msgid "Size of file"
+msgstr "Dosya boyutu"
+
+#: umetatags.s_metatag_file_sizebytes
+msgid "Size of file in bytes"
+msgstr "Bayt olarak dosya boyutu"
+
+#: umetatags.s_metatag_file_sizegb
+msgid "Size of file in GB"
+msgstr "GB olarak dosya boyutu"
+
+#: umetatags.s_metatag_file_sizekb
+msgid "Size of file in KB"
+msgstr "KB olarak dosya boyutu"
+
+#: umetatags.s_metatag_file_sizemb
+msgid "Size of file in MB"
+msgstr "MB olarak dosya boyutu"
+
+#: umetatags.s_metatag_flac_album
+msgid "FLAC Album"
+msgstr "FLAC Albüm"
+
+#: umetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr "FLAC Albüm Sanatçısı"
+
+#: umetatags.s_metatag_flac_artist
+msgid "FLAC Artist"
+msgstr "FLAC Sanatçı"
+
+#: umetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr "FLAC Disk Numarası"
+
+#: umetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
+msgstr "FLAC Toplam Disk"
+
+#: umetatags.s_metatag_flac_genre
+msgid "FLAC Genre"
+msgstr "FLAC Tarz"
+
+#: umetatags.s_metatag_flac_title
+msgid "FLAC Title"
+msgstr "FLAC Başlık"
+
+#: umetatags.s_metatag_flac_trackno
+msgid "FLAC Track Number"
+msgstr "FLAC Parça Numarası"
+
+#: umetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
+msgstr "FLAC Toplam Parça"
+
+#: umetatags.s_metatag_flac_year
+msgid "FLAC Year"
+msgstr "FLAC Yıl"
+
+#: umetatags.s_metatag_hash_crc32
+msgid "CRC32 Checksum of a file"
+msgstr "Dosya CRC32 sağlaması"
+
+#: umetatags.s_metatag_hash_md5
+msgid "MD5 Hash of a file"
+msgstr "Dosya MD5 sağlaması"
+
+#: umetatags.s_metatag_hash_sha1
+msgid "SHA1 Hash of a file"
+msgstr "Dosya SHA1 sağlaması"
+
+#: umetatags.s_metatag_hash_sha256
+msgid "SHA256 Hash of a file"
+msgstr "Dosya SHA256 sağlaması"
+
+#: umetatags.s_metatag_hash_sha512
+msgid "SHA512 Hash of a file"
+msgstr "Dosya SHA512 sağlaması"
+
+#: umetatags.s_metatag_html_title
+msgid "Title tag extracted from an HTML file"
+msgstr "HTML dosyasından çıkarılan başlık etiketi"
+
+#: umetatags.s_metatag_image_aspectratio
+msgid "Aspect Ratio of an image"
+msgstr "Görüntünün en/boy oranı"
+
+#: umetatags.s_metatag_image_height
+msgid "Height of an image in pixels"
+msgstr "Görüntünün piksel olarak yüksekliği"
+
+#: umetatags.s_metatag_image_pixels
+msgid "Amount of pixels in the image"
+msgstr "Görüntüdeki piksel miktarı"
+
+#: umetatags.s_metatag_image_width
+msgid "Width of an image in pixels"
+msgstr "Görüntünün piksel olarak genişliği"
+
+#: umetatags.s_metatag_image_widthandheight
+msgid "Width and Height of an image in pixels"
+msgstr "Görüntünün piksel olarak yükseklik ve genişliği"
+
+#: umetatags.s_metatag_iptc_caption
+msgid "IPTC Image Caption"
+msgstr "IPTC Resim Yazısı"
+
+#: umetatags.s_metatag_iptc_city
+msgid "IPTC City"
+msgstr "IPTC Şehir"
+
+#: umetatags.s_metatag_iptc_headline
+msgid "IPTC Image Headline"
+msgstr "IPTC Resim Başlığı"
+
+#: umetatags.s_metatag_iptc_location
+msgid "IPTC Location Name"
+msgstr "IPTC Konum Adı"
+
+#: umetatags.s_metatag_iptc_objectname
+msgid "IPTC Object Name"
+msgstr "IPTC Nesne Adı"
+
+#: umetatags.s_metatag_mp3_album
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr "MP3 Albüm"
+
+#: umetatags.s_metatag_mp3_albumartist
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr "MP3 Albüm Sanatçısı"
+
+#: umetatags.s_metatag_mp3_artist
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr "MP3 Sanatçı"
+
+#: umetatags.s_metatag_mp3_discno
+msgid "MP3 Disc Number"
+msgstr "MP3 Disk Numarası"
+
+#: umetatags.s_metatag_mp3_disctotal
+msgid "MP3 Total Discs"
+msgstr "MP3 Toplam Disk"
+
+#: umetatags.s_metatag_mp3_genre
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr "MP3 Tarz"
+
+#: umetatags.s_metatag_mp3_title
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr "MP3 Başlık"
+
+#: umetatags.s_metatag_mp3_trackno
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr "MP3 Parça Numarası"
+
+#: umetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr "MP3 Toplam Parça"
+
+#: umetatags.s_metatag_mp3_year
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
+msgstr "MP3 Yıl"
+
+#: umetatags.s_metatag_outlook_body
+msgid "Outlook Message: Body Text"
+msgstr "Outlook İletisi: Gövde Metni"
+
+#: umetatags.s_metatag_outlook_dateheader
+msgid "Outlook Message: Sent date from email header in local time zone"
+msgstr "Outlook İletisi: e-posta başlığından yerel saat diliminde gönderim tarihi"
+
+#: umetatags.s_metatag_outlook_dateheaderoriginal
+msgid "Outlook Message: Sent date from email header in original time zone"
+msgstr "Outlook İletisi: e-posta başlığından özgün saat diliminde gönderim tarihi"
+
+#: umetatags.s_metatag_outlook_dateheaderutc
+msgid "Outlook Message: Sent date from email header in UTC time zone"
+msgstr "Outlook İletisi: e-posta başlığından GMT saat diliminde gönderim tarihi"
+
+#: umetatags.s_metatag_outlook_datesent
+msgid "Outlook Message: Sent date in local time zone"
+msgstr "Outlook İletisi: yerel saat diliminde gönderim tarihi"
+
+#: umetatags.s_metatag_outlook_datesentutc
+msgid "Outlook Message: Sent date in UTC time zone"
+msgstr "Outlook İletisi: GMT saat diliminde gönderim tarihi"
+
+#: umetatags.s_metatag_outlook_messageid
+msgctxt "umetatags.s_metatag_outlook_messageid"
+msgid "Outlook Message: ID"
+msgstr "Outlook İletisi: Kimlik"
+
+#: umetatags.s_metatag_outlook_sender
+msgid "Outlook Message: Sender"
+msgstr "Outlook İletisi: Gönderen"
+
+#: umetatags.s_metatag_outlook_subject
+msgid "Outlook Message: Subject"
+msgstr "Outlook İletisi: Konu"
+
+#: umetatags.s_metatag_tiff_date
+msgid "TIFF Date"
+msgstr "TIFF Tarih"
+
+#: umetatags.s_metatag_tiff_description
+msgid "TIFF Description"
+msgstr "TIFF Açıklama"
+
+#: umetatags.s_metatag_tiff_make
+msgid "TIFF Make"
+msgstr "TIFF Yapım"
+
+#: umetatags.s_metatag_tiff_model
+msgid "TIFF Model"
+msgstr "TIFF Model"
+
+#: umetatags.s_metatag_torrent_announce
+msgid "Torrent: Announce URL"
+msgstr "Torrent: Duyuru URL'si"
+
+#: umetatags.s_metatag_torrent_comment
+msgid "Torrent: Comment"
+msgstr "Torrent: Yorum"
+
+#: umetatags.s_metatag_torrent_countfiles
+msgid "Torrent: Number of files"
+msgstr "Torrent: Dosya Sayısı"
+
+#: umetatags.s_metatag_torrent_creationdatelocal
+msgid "Torrent: Creation date in local time zone"
+msgstr "Torrent: Yerel saat diliminde oluşturma tarihi"
+
+#: umetatags.s_metatag_torrent_creationdateutc
+msgid "Torrent: Creation date in UTC time zone"
+msgstr "Torrent: GMT saat diliminde oluşturma tarihi"
+
+#: umetatags.s_metatag_torrent_hash
+msgid "Torrent: Hash"
+msgstr "Torrent: Sağlama"
+
+#: umetatags.s_metatag_torrent_name
+msgid "Torrent: Name"
+msgstr "Torrent: Ad"
+
+#: umetatags.s_metatag_torrent_publisher
+msgid "Torrent: Publisher"
+msgstr "Torrent: Yayımlayan"
+
+#: umetatags.s_metatag_torrent_totalsize
+msgid "Torrent: Total size"
+msgstr "Torrent: Toplam boyut"
+
+#: umetatags.s_metatag_torrent_totalsizebytes
+msgid "Torrent: Total size in bytes"
+msgstr "Torrent: Bayt olarak toplam boyut"
+
+#: umetatags.s_metatag_torrent_totalsizegb
+msgid "Torrent: Total size in GB"
+msgstr "Torrent: GB olarak toplam boyut"
+
+#: umetatags.s_metatag_torrent_totalsizekb
+msgid "Torrent: Total size in KB"
+msgstr "Torrent: KB olarak toplam boyut"
+
+#: umetatags.s_metatag_torrent_totalsizemb
+msgid "Torrent: Total size in MB"
+msgstr "Torrent: MB olarak toplam boyut"
+
+#: umetatags.s_metatag_versioninfo_comments
+msgid "Version Information: Comments"
+msgstr "Sürüm Bilgisi: Yorum"
+
+#: umetatags.s_metatag_versioninfo_company
+msgid "Version Information: Company"
+msgstr "Sürüm Bilgisi: Şirket"
+
+#: umetatags.s_metatag_versioninfo_copyright
+msgid "Version Information: Copyright"
+msgstr "Sürüm Bilgisi: Telif hakkı"
+
+#: umetatags.s_metatag_versioninfo_description
+msgid "Version Information: Description"
+msgstr "Sürüm Bilgisi: Açıklama"
+
+#: umetatags.s_metatag_versioninfo_fileversion
+msgid "Version Information: File Version"
+msgstr "Sürüm Bilgisi: Dosya sürümü"
+
+#: umetatags.s_metatag_versioninfo_product
+msgid "Version Information: Product"
+msgstr "Sürüm Bilgisi: Ürün"
+
+#: umetatags.s_metatag_versioninfo_productversion
+msgid "Version Information: Product Version"
+msgstr "Sürüm Bilgisi: Ürün sürümü"
+
+#: umetatags.s_metatag_wma_album
+msgid "WMA Album"
+msgstr "WMA Albüm"
+
+#: umetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr "WMA Albüm Sanatçısı"
+
+#: umetatags.s_metatag_wma_artist
+msgid "WMA Artist"
+msgstr "WMA Sanatçı"
+
+#: umetatags.s_metatag_wma_discno
+msgid "WMA Disc Number"
+msgstr "WMA Disk Numarası"
+
+#: umetatags.s_metatag_wma_disctotal
+msgid "WMA Total Discs"
+msgstr "WMA Toplam Disk"
+
+#: umetatags.s_metatag_wma_genre
+msgid "WMA Genre"
+msgstr "WMA Tarz"
+
+#: umetatags.s_metatag_wma_title
+msgid "WMA Title"
+msgstr "WMA Başlık"
+
+#: umetatags.s_metatag_wma_trackno
+msgid "WMA Track Number"
+msgstr "WMA Parça Numarası"
+
+#: umetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
+msgstr "WMA Toplam Parça"
+
+#: umetatags.s_metatag_wma_year
+msgid "WMA Year"
+msgstr "WMA Yıl"
+
+#: unumeralsystems.nsc_customalphabetic
+msgid "Custom alphabetic"
+msgstr "Özel alfabe"
+
+#: unumeralsystems.nsc_customnumeric
+msgid "Custom numeric"
+msgstr "Özel rakamlar"
+
+#: unumeralsystems.nsc_decimaldigits
+msgid "Decimal digits"
+msgstr "Onluk rakamlar"
+
+#: unumeralsystems.nsc_englishletters
+msgid "English letters"
+msgstr "İngilizce harfler"
+
+#: unumeralsystems.nsc_romannumerals
+msgid "Roman numerals"
+msgstr "Romen rakamları"
+
+#: unumeralsystems.nsc_simplifiedchinese
+msgid "Simplified Chinese"
+msgstr "Basitleştirilmiş Çince"
+
+#: upascalscript.spscompile
+msgid "Pascal Script Compile"
+msgstr "Pascal Betik Derleme"
+
+#: upascalscript.spsexception
+msgid "Exception"
+msgstr "İstisna"
+
+#: upascalscript.spsexecute
+msgid "Pascal Script Execute"
+msgstr "Pascal Betik Yürütme"
+
+#: upascalscript.spsincludedfilenotfound
+msgid "Included file not found: %s"
+msgstr "İçeren dosya bulunmadı: %s"
+
+#: upascalscript.spsline
+msgid "Line"
+msgstr "Satır"
+
+#: upascalscript.spsunknowncompileerror
+msgid "Unknown error (check units and libraries)"
+msgstr "Bilinmeyen hata (birim ve kitaplıkları denetleyin)"
+
+#: upresets.spresetfilenotfound
+msgid "Preset file not found:"
+msgstr "Şablon dosyası bulunmadı:"
+
+#: upresets.spresetloadfailed
+msgid "Failed to load a preset."
+msgstr "Şablon yükleme başarısız oldu."
+
+#: upresets.spresetsavefailed
+msgid "Failed to save a preset."
+msgstr "Şablon kaydetme başarısız oldu."
+
+#: uregistration.s_cannot_create_license_dir
+msgid "Not able to create a directory for a license file."
+msgstr "Lisans dosyası için dizin oluşturulamıyor."
+
+#: uregistration.s_contact_email
+msgid "Contact email"
+msgstr "İletişim e-postası"
+
+#: uregistration.s_contact_name
+msgid "Contact name"
+msgstr "İletişim adı"
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr "Dosya silme başarısız:"
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr "Lisans tarihi yüklemesi başarısız:"
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr "Lisans tarihi kaydetme başarısız:"
+
+#: uregistration.s_issue_date
+msgid "Issue date"
+msgstr "Hata tarihi"
+
+#: uregistration.s_license
+msgid "License"
+msgstr "Lisans"
+
+#: uregistration.s_licensed_to
+msgid "Licensed to"
+msgstr "Lisans sahibi"
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr "Lisans kara listeye alınmış."
+
+#: uregistration.s_license_expiry
+msgid "License expiry"
+msgstr "Lisans süresi sonu"
+
+#: uregistration.s_license_has_expired
+msgid "License has expired."
+msgstr "Lisansın süresi doldu."
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr "Lisans geçersiz!"
+
+#: uregistration.s_license_load_failed
+msgid "Failed to load the license."
+msgstr "Lisan yükleme başarısız oldu."
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr "Ürünü etkinleştirmek için lisansı yenilemeniz gerekli."
+
+#: uregistration.s_license_remove_failed
+msgid "Failed to remove the license."
+msgstr "Lisans kaldırma başarısız oldu."
+
+#: uregistration.s_license_remove_ok
+msgid "License has been removed."
+msgstr "Lisans başarıyla kaldırıldı."
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr "Lisansınız yükseltme dönemi dışında."
+
+#: uregistration.s_number_of_computers
+msgid "Number of computers"
+msgstr "Bilgisayar sayısı"
+
+#: uregistration.s_registration_error
+msgid "Registration code is invalid."
+msgstr "Kayıt kodu geçersiz."
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr "Kayıt dosyası bulunmadı."
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr "Kayıt dosyasının okunması başarısız oldu."
+
+#: uregistration.s_registration_ok
+msgid "Registration has been successful!"
+msgstr "Kayıt başarıyla gerçekleştirildi!"
+
+#: uregistration.s_upgrade_expiry
+msgid "Upgrade expiry"
+msgstr "Yükseltme süresi sonu"
+
+#: urenfiles.srenstatusok
+msgctxt "urenfiles.srenstatusok"
+msgid "OK"
+msgstr "Tamam"
+
+#: urenfiles.svalidationduplicated
+msgid "Duplicate in the list"
+msgstr "Listede yinelenen"
+
+#: urenfiles.svalidationexceeds
+msgid "New path exceeds the length limit"
+msgstr "Yeni yol uzunluk sınırını aşıyor"
+
+#: urenfiles.svalidationexists
+msgid "Destination file already exists"
+msgstr "Hedef dosya zaten var"
+
+#: urenfiles.svalidationinvalid
+msgid "Contains invalid characters"
+msgstr "Geçersiz karakter içeriyor"
+
+#: urenfiles.svalidationmovedparent
+msgid "Parent path changed earlier in the list"
+msgstr "Üst dizin listede daha önce değiştirildi"
+
+#: urulesex.s_rules_addtextpaddingtolength
+msgid "Add text padding to length %s with \"%s\" characters"
+msgstr "%s uzunluğu \"%s\" karakteriyle doldur"
+
+#: urulesex.s_rules_addzeropaddingtolength
+msgid "Add zero padding to length %s"
+msgstr "%s uzunluğu sıfır ile doldur"
+
+#: urulesex.s_rules_adjusttimebynumdays
+msgid "Adjust time by %d days"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynumhours
+msgid "Adjust time by %d hours"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynummilliseconds
+msgid "Adjust time by %d milliseconds"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynumminutes
+msgid "Adjust time by %d minutes"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynummonths
+msgid "Adjust time by %d months"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynumseconds
+msgid "Adjust time by %d seconds"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynumyears
+msgid "Adjust time by %d years"
+msgstr ""
+
+#: urulesex.s_rules_after
+msgid "after"
+msgstr "sonuna"
+
+#: urulesex.s_rules_all
+msgid "all"
+msgstr "tümü"
+
+#: urulesex.s_rules_all_characters_except
+msgid "all characters except"
+msgstr "bunlar hariç tümü"
+
+#: urulesex.s_rules_all_lower_case
+msgid "All lower case"
+msgstr "Tümü küçük harf"
+
+#: urulesex.s_rules_all_upper_case
+msgid "All upper case"
+msgstr "Tümü büyük harf"
+
+#: urulesex.s_rules_and_pad_to_length
+msgid "and pad to length"
+msgstr "ve uzunluğa doldur"
+
+#: urulesex.s_rules_append
+msgid "append"
+msgstr "ilave et"
+
+#: urulesex.s_rules_append_new_extension
+msgid "Append new extension"
+msgstr "Yeni uzantı ekle"
+
+#: urulesex.s_rules_as_prefix
+msgid "as Prefix"
+msgstr "Önek olarak"
+
+#: urulesex.s_rules_as_suffix
+msgid "as Suffix"
+msgstr "Sonek olarak"
+
+#: urulesex.s_rules_at_position
+msgid "at Position"
+msgstr "Konumuna"
+
+#: urulesex.s_rules_autocaseadjustment
+msgctxt "urulesex.s_rules_autocaseadjustment"
+msgid "Auto case adjustment"
+msgstr "Otomatik harf boyutu"
+
+#: urulesex.s_rules_before
+msgid "before"
+msgstr "önüne"
+
+#: urulesex.s_rules_cannoteditruleconfiguration
+msgid "Cannot edit rule configuration."
+msgstr "Kural yapılandırması düzenlenemiyor."
+
+#: urulesex.s_rules_capitalize_and_preserve
+msgid "Capitalize and preserve"
+msgstr "İlk harfi büyüt ve koru"
+
+#: urulesex.s_rules_capitalize_every_word
+msgid "Capitalize every word"
+msgstr "Sözcüklerin ilk harfini büyüt"
+
+#: urulesex.s_rules_case_sensitive
+msgid "case sensitive"
+msgstr "büyük/küçük duyarlı"
+
+#: urulesex.s_rules_change_extension_to
+msgid "Change extension to"
+msgstr "Uzantıyı şöyle değiştir"
+
+#: urulesex.s_rules_characters
+msgid "characters"
+msgstr "karakter"
+
+#: urulesex.s_rules_converttovaluefromvalue
+msgid "Convert to %s from %s"
+msgstr " %s dönüştür %s'den"
+
+#: urulesex.s_rules_customlongmonths
+msgid "Custom long months"
+msgstr "Özel uzun ay"
+
+#: urulesex.s_rules_customshortmonths
+msgid "Custom short months"
+msgstr "Özel kısa ay"
+
+#: urulesex.s_rules_delete
+msgctxt "myrulesex.s_rules_delete"
+msgid "Delete"
+msgstr "Sil"
+
+#: urulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr "Geçerli adı sil"
+
+#: urulesex.s_rules_delimiters
+msgid "delimiters"
+msgstr "ayırıcı"
+
+#: urulesex.s_rules_detect_using_binary_signature
+msgid "Detect using binary signature"
+msgstr "İkili imza kullanarak algıla"
+
+#: urulesex.s_rules_everywhere
+msgid "everywhere"
+msgstr "her yer"
+
+#: urulesex.s_rules_exact_pattern_of_delimiters
+msgid "exact pattern of delimiters"
+msgstr "Ayırıcıların tam düzeni"
+
+#: urulesex.s_rules_extension_lower_case
+msgid "Extension lower case"
+msgstr "Uzantı küçük harfli"
+
+#: urulesex.s_rules_extension_upper_case
+msgid "Extension upper case"
+msgstr "Uzantı büyük harfli"
+
+#: urulesex.s_rules_files
+msgid "files"
+msgstr "dosya"
+
+#: urulesex.s_rules_files_to
+msgid "file(s) to"
+msgstr "dosya(lar) şuna"
+
+#: urulesex.s_rules_files_with
+msgid "file(s) with"
+msgstr "dosya(lar) ile"
+
+#: urulesex.s_rules_first
+msgid "first"
+msgstr "ilk"
+
+#: urulesex.s_rules_first_letter_capital
+msgctxt "myrulesex.s_rules_first_letter_capital"
+msgid "First letter capital"
+msgstr "İlk harfi büyük"
+
+#: urulesex.s_rules_fix_spaces
+msgid "Fix spaces"
+msgstr "Boşlukları düzelt"
+
+#: urulesex.s_rules_force_case_fragments
+msgid "Force case fragments"
+msgstr "Harf bölümlerini zorla"
+
+#: urulesex.s_rules_from_delimiter
+msgid "from Delimiter"
+msgstr "Ayırıcıdan"
+
+#: urulesex.s_rules_from_position
+msgid "from Position"
+msgstr "Konumdan"
+
+#: urulesex.s_rules_insert
+msgctxt "myrulesex.s_rules_insert"
+msgid "Insert"
+msgstr "Ekle"
+
+#: urulesex.s_rules_insert_space_in_front_of_capitals
+msgid "Insert space in front of capitals"
+msgstr "Büyük harften önce boşluk ekle"
+
+#: urulesex.s_rules_invert_case
+msgid "Invert case"
+msgstr "Harf dönüştür"
+
+#: urulesex.s_rules_last
+msgid "last"
+msgstr "son"
+
+#: urulesex.s_rules_leading
+msgctxt "myrulesex.s_rules_leading"
+msgid "leading"
+msgstr "başlangıç"
+
+#: urulesex.s_rules_leave_delimiter
+msgid "leave delimiter"
+msgstr "ayırıcı bırak"
+
+#: urulesex.s_rules_leftside
+msgid "Left side"
+msgstr "Sol taraf"
+
+#: urulesex.s_rules_new_names_are_not_defined
+msgid "new names are not defined"
+msgstr "yeni adlar tanımlanmadı"
+
+#: urulesex.s_rules_new_pattern
+msgid "New pattern"
+msgstr "Yeni düzen"
+
+#: urulesex.s_rules_normalize_spaces
+msgid "Normalize spaces"
+msgstr "Boşlukları normalleştir"
+
+#: urulesex.s_rules_parts
+msgid "parts"
+msgstr "parça"
+
+#: urulesex.s_rules_positions
+msgid "positions"
+msgstr "konum"
+
+#: urulesex.s_rules_prefix_names_of
+msgid "Prefix names of"
+msgstr "Adının öneki"
+
+#: urulesex.s_rules_prepare_for_sharepoint
+msgid "Prepare for SharePoint"
+msgstr "SharePoint için hazırla"
+
+#: urulesex.s_rules_randomwithlengthusingcharacters
+msgctxt "urulesex.s_rules_randomwithlengthusingcharacters"
+msgid "Random with length %s using characters \"%s\""
+msgstr "%s uzunluğa \"%s\" karakterleriyle rasgele doldur"
+
+#: urulesex.s_rules_remove
+msgctxt "myrulesex.s_rules_remove"
+msgid "Remove"
+msgstr "Kaldır"
+
+#: urulesex.s_rules_removezeropadding
+msgctxt "urulesex.s_rules_removezeropadding"
+msgid "Remove zero padding"
+msgstr "Sıfır dolgusunu kaldır"
+
+#: urulesex.s_rules_remove_extension
+msgid "Remove extension"
+msgstr "Uzantıyı kaldır"
+
+#: urulesex.s_rules_repeat
+msgid "repeat"
+msgstr "yinele"
+
+#: urulesex.s_rules_replace
+msgctxt "myrulesex.s_rules_replace"
+msgid "Replace"
+msgstr "Değiştir"
+
+#: urulesex.s_rules_replace_expression
+msgid "Replace expression"
+msgstr "İfade değiştir"
+
+#: urulesex.s_rules_replace_with_spaces
+msgid "Replace with spaces"
+msgstr "Boşluk ile değiştir"
+
+#: urulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr "geçerli adın değişimi"
+
+#: urulesex.s_rules_reset_index_every
+msgid "reset index every"
+msgstr "tüm dizini sıfırla"
+
+#: urulesex.s_rules_reset_index_if_file_name_changes
+msgid "reset index if file name changes"
+msgstr "dosya adı değişirse dizini sıfırla"
+
+#: urulesex.s_rules_reset_index_if_folder_changes
+msgid "reset index if folder changes"
+msgstr "klasör değişirse dizini sıfırla"
+
+#: urulesex.s_rules_rightside
+msgid "Right side"
+msgstr "Sağ taraf"
+
+#: urulesex.s_rules_right_to_left
+msgid "right-to-left"
+msgstr "sağdan sola"
+
+#: urulesex.s_rules_serialize_incremental_from
+msgid "Incremental from"
+msgstr "Artış başlangıcı"
+
+#: urulesex.s_rules_serialize_random_with_length
+msgid "Random with length"
+msgstr "Uzunlukla rasgele"
+
+#: urulesex.s_rules_set_names_of
+msgid "Set names of"
+msgstr "Adlarını düzenle"
+
+#: urulesex.s_rules_skipextension
+msgctxt "urulesex.s_rules_skipextension"
+msgid "Skip extension"
+msgstr "Uzantıyı atla"
+
+#: urulesex.s_rules_skip_extension
+msgid "skip extension"
+msgstr "uzantıyı atla"
+
+#: urulesex.s_rules_skip_versions
+msgid "skip versions"
+msgstr "sürümleri atla"
+
+#: urulesex.s_rules_split_by
+msgid "Split by"
+msgstr "Şununla böl"
+
+#: urulesex.s_rules_step
+msgid "step"
+msgstr "adım"
+
+#: urulesex.s_rules_strip
+msgctxt "myrulesex.s_rules_strip"
+msgid "Strip"
+msgstr "Çıkart"
+
+#: urulesex.s_rules_strip_out_contents_of_brackets
+msgid "Strip out contents of brackets"
+msgstr "Parantez içeriğini çıkart"
+
+#: urulesex.s_rules_strip_unicode_marks
+msgid "Strip unicode marks"
+msgstr ""
+
+#: urulesex.s_rules_suffix_names_of
+msgid "Suffix names of"
+msgstr "Adlarının soneki"
+
+#: urulesex.s_rules_trailing
+msgctxt "myrulesex.s_rules_trailing"
+msgid "trailing"
+msgstr "bitiş"
+
+#: urulesex.s_rules_transliterate
+msgid "Transliterate"
+msgstr "Farklı Alfabe"
+
+#: urulesex.s_rules_try_unique
+msgid "try unique"
+msgstr "bağımsız dene"
+
+#: urulesex.s_rules_until_count_reaches
+msgid "until Count reaches"
+msgstr "Miktara ulaşınca"
+
+#: urulesex.s_rules_until_delimiter
+msgid "until Delimiter"
+msgstr "Ayırıcıya kadar"
+
+#: urulesex.s_rules_until_the_end
+msgid "until the End"
+msgstr "Sonuna kadar"
+
+#: urulesex.s_rules_usingcustomnumeralsymbols
+msgid "using \"%s\" system with \"%s\" symbols"
+msgstr "\"%s\" sistemini \"%s\" simgeleriyle kullan"
+
+#: urulesex.s_rules_usingnamednumeralsystem
+msgid "using \"%s\" system"
+msgstr "\"%s\" sistemini kullan"
+
+#: urulesex.s_rules_using_wildcards
+msgid "using wildcards"
+msgstr "joker karakter kullan"
+
+#: urulesex.s_rules_warndeprecatedrandomserialize
+msgid "Rule configuration uses deprecated random serialization, please use a separate dedicated rule instead."
+msgstr "Kural yapılandırması kullanımdan kaldırılmış rasgele numaralandırma kullanıyor, lütfen bunun yerine ayrı bir özel kural kullanın."
+
+#: urulesex.s_rules_wholewordsonly
+msgctxt "urulesex.s_rules_wholewordsonly"
+msgid "Whole words only"
+msgstr "Sözcüğün tamamı"
+
+#: urulesex.s_rules_whole_words
+msgid "whole words"
+msgstr "sözcüğün tamamı"
+
+#: urulesex.s_rules_with
+msgid "with"
+msgstr "şununla"
+
+#: ustrings.msg_addfoldernotexist
+msgid ""
+"Selected folder does not exist!\n"
+"\n"
+"%s\n"
+msgstr ""
+"Seçilen klasör mevcut değil!\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_addmetatagconfirm
+msgid ""
+"Meta tags are currently disabled.\n"
+"\n"
+"Do you want to enable them?\n"
+msgstr ""
+"Meta etiketler devre dışı.\n"
+"\n"
+"Bunu etkinleştirmek ister misiniz?\n"
+
+#: ustrings.msg_ask_open_quick_guide
+msgid "Would you like to open a Quick Guide?"
+msgstr "Hızlı Kılavuz'u açmak ister misiniz?"
+
+#: ustrings.msg_browsefoldersstatus
+msgid "Folders: %d scanned, %d selected."
+msgstr "Klasör: %d tarandı, %d seçildi."
+
+#: ustrings.msg_browsegotofoldercaption
+msgctxt "mystrings.msg_browsegotofoldercaption"
+msgid "Go To Folder"
+msgstr "Klasöre Git"
+
+#: ustrings.msg_browsegotofolderprompt
+msgid "Enter a full path to the folder that you want to go to:"
+msgstr "Gitmek istediğiniz klasöre tam bir yol girin:"
+
+#: ustrings.msg_changeworkingdirfailed
+msgid "Failed to change current working directory."
+msgstr "Geçerli çalışma dizini değiştirilemedi."
+
+#: ustrings.msg_copyandcutfilesprompt
+msgid ""
+"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
+"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
+"\n"
+"Are you sure you want to proceed?\n"
+msgstr ""
+"Dosyaların Kopyalanması ve Kesilmesi İşlemi, daha sonra kullanmak üzere seçilen dosyaları Pano'ya yerleştirir.\n"
+"Not: Tüm dosyalar başlangıçta nerede olduklarına bakılmaksızın aynı dizine yapıştırılır!\n"
+"\n"
+"Devam etmek istediğinizden emin misiniz?\n"
+
+#: ustrings.msg_datetimeinvalidformat
+msgid "INVALID FORMAT"
+msgstr "GEÇERSİZ BİÇİM"
+
+#: ustrings.msg_editrulecommentcaption
+msgid "Rule Comment"
+msgstr "Kural Yorumu"
+
+#: ustrings.msg_editrulecommentprompt
+msgid "Enter a comment for the rule:"
+msgstr "Kural için bir yorum gir:"
+
+#: ustrings.msg_fileexistsoverwriteprompt
+msgid ""
+"File already exists!\n"
+"Overwrite it?\n"
+msgstr ""
+"Dosya zaten var!\n"
+"Üzerine yazılsın mı?\n"
+
+#: ustrings.msg_filescountinfo
+msgid ""
+"Total: %d\n"
+"Marked: %d\n"
+"Selected: %d\n"
+msgstr ""
+"Toplam: %d\n"
+"İşaretlenen: %d\n"
+"Seçilen: %d\n"
+
+#: ustrings.msg_fixcollidewarninglimit
+msgid ""
+"Do you want to fix conflicting new names for %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"Çakışan %s dosyanın yeni adlarını düzeltmek ister misiniz?\n"
+"\n"
+"Bu işlem birkaç dakika sürebilir...\n"
+
+#: ustrings.msg_gotolinecaption
+msgid "Go To Line"
+msgstr "Satıra Git"
+
+#: ustrings.msg_gotolineprompt
+msgid "Enter the line number:"
+msgstr "Satır numarasını gir:"
+
+#: ustrings.msg_hinterrorcolumn
+msgid "Hint: You can check the details by enabling the \"Error\" column."
+msgstr "İpucu: \"Hata\" sütununu etkinleştirerek ayrıntıları kontrol edebilirsiniz."
+
+#: ustrings.msg_launching_first_time
+msgid "You are launching ReNamer for the first time."
+msgstr "ReNamer'ı ilk defa başlatıyorsunuz."
+
+#: ustrings.msg_loadnewnamesresult
+msgid "%d new filename(s) out of %d in the list were changed!"
+msgstr "%d yeni dosya adı %d adetlik listeden değiştirildi!"
+
+#: ustrings.msg_nothingtorename
+msgid "Nothing to rename!"
+msgstr "Hiçbir ad değiştirilmedi!"
+
+#: ustrings.msg_operationfailedduetoerror
+msgid "Operation failed due to an error:"
+msgstr "İşlem bir hata sonucu başarısız oldu:"
+
+#: ustrings.msg_overwritefilewithnewname
+msgid ""
+"Original Path: %s\n"
+"New Path: %s\n"
+"\n"
+"New Name is already taken by another file, delete that file permanently?\n"
+msgstr ""
+"Özgün Yol: %s\n"
+"Yeni Yol: %s\n"
+"\n"
+"Yeni ad başka bir dosya tarafından alındı, bu dosya kalıcı olarak silinsin mi?\n"
+
+#: ustrings.msg_pascalscriptcompiledsuccesfully
+msgid "Compiled successfully!"
+msgstr "Başarıyla derlendi!"
+
+#: ustrings.msg_pascalscriptnoscripts
+msgid "No Saved Scripts were found!"
+msgstr "Kayıtlı Betik bulunamadı!"
+
+#: ustrings.msg_pascalscriptsaveinvalid
+msgctxt "mystrings.msg_pascalscriptsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "Hatalı Ad!"
+
+#: ustrings.msg_pascalscriptsavetext
+msgid "Enter a name for a script:"
+msgstr "Betik için bir ad gir:"
+
+#: ustrings.msg_pascalscriptsavetitle
+msgid "Save Script"
+msgstr "Betiği Kaydet"
+
+#: ustrings.msg_presetsmanagerdeletepresetprompt
+msgid "Delete \"%s\" preset?"
+msgstr "Şablon \"%s\" silinsin mi?"
+
+#: ustrings.msg_presetsmanagereditwarning
+msgid ""
+"You are about to edit Preset file(s) manualy!\n"
+"If you are not sure in what you're doing - press Cancel.\n"
+"\n"
+"Proceed with this action?\n"
+msgstr ""
+"Şablon dosya(lar)ını el ile değiştirmek üzeresiniz.\n"
+"Ne yaptığınızdan tam olarak emin değilseniz İptal'e basın.\n"
+"\n"
+"Bu eyleme devam edilsin mi?\n"
+
+#: ustrings.msg_presetsmanagerfailedcopy
+msgid "Could not copy the \"%s\" preset!"
+msgstr "Şablon \"%s\" kopyalanamıyor!"
+
+#: ustrings.msg_presetsmanagerfaileddelete
+msgid "Could not delete the \"%s\" preset!"
+msgstr "Şablon \"%s\" silinemiyor!"
+
+#: ustrings.msg_presetsmanagerfailedrename
+msgid "Could not rename the \"%s\" preset!"
+msgstr "Şablon \"%s\" yeniden adlandırılamıyor!"
+
+#: ustrings.msg_presetsmanagernewnamequerytext
+msgid "New Name:"
+msgstr "Yeni Ad:"
+
+#: ustrings.msg_presetsmanagernewnamequerytitle
+msgid "Rename Preset"
+msgstr "Şablon Adını Değiştir"
+
+#: ustrings.msg_previewexception
+msgid ""
+"Preview process has been terminated due to a critical error:\n"
+"\n"
+"%s\n"
+msgstr ""
+"Kritik bir hata nedeniyle önizleme işlemi sonlandırıldı:\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_renamefailedfiles
+msgid "%d file(s) failed to rename!"
+msgstr "%d dosya adının değişimi başarısız oldu!"
+
+#: ustrings.msg_renamenewnamesareempty
+msgid ""
+"All New Names are empty!\n"
+"\n"
+"Hint: Configure the Rules and click Preview button.\n"
+msgstr ""
+"Tüm Yeni Adlar boş!\n"
+"\n"
+"İpucu: Kuralları yapılandırıp Önizle'ye basın.\n"
+
+#: ustrings.msg_renameskippedunchangedfiles
+msgid "%d file(s) skipped because unchanged."
+msgstr "%d dosya atlandı çünkü değişiklik yapılmadı."
+
+#: ustrings.msg_renameskippedunmarkedfiles
+msgid "%d file(s) skipped because unmarked."
+msgstr "%d dosya atlandı çünkü bunlar işaretlenmedi."
+
+#: ustrings.msg_renamesuccessfulfiles
+msgid "%d file(s) successfully renamed."
+msgstr "%d dosya başarıyla yeniden adlandırıldı."
+
+#: ustrings.msg_rulecasedescription
+msgid "Use this rule to change the case of the filename."
+msgstr "Dosya adının harflerini değiştirmek için bu kuralı kullanın."
+
+#: ustrings.msg_rulecleanupdescription
+msgid "Use this rule to clean up the filename."
+msgstr "Dosya adını temizlemek için bu kuralı kullanın."
+
+#: ustrings.msg_ruledeletedescription
+msgid "Use this rule to delete text from the filename."
+msgstr "Dosya adlarından metin silmek için bu kuralı kullanın."
+
+#: ustrings.msg_ruleextensiondescription
+msgid "Use this rule to change extension of the file."
+msgstr "Dosya adı uzantısını değiştirmek için bu kuralı kullanın."
+
+#: ustrings.msg_ruleinsertdescription
+msgid "Use this rule to insert text into the filename."
+msgstr "Dosya adına metin eklemek için bu kuralı kullanın."
+
+#: ustrings.msg_rulepaddingdescription
+msgid "Use this rule to add or remove padding in number sequences."
+msgstr "Dosya adı için sayı dizisi dolgusu eklemek veya kaldırmak için bu kuralı kullanın."
+
+#: ustrings.msg_rulepascalscriptdescription
+msgid "Use this rule to script a user defined manipulations with filename."
+msgstr "Dosya adını kullanıcı tanımlı müdahalelerle kodlamak için bu kuralı kullanın."
+
+#: ustrings.msg_rulerandomizedescription
+msgid "Use this rule to insert random sequences of characters into the filename."
+msgstr "Dosya adı için rasgele dizi dolgusu eklemek veya kaldırmak için bu kuralı kullanın."
+
+#: ustrings.msg_rulerearrangedescription
+msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
+msgstr "Dosya adının bölümlerini ayırmak ve yeni bir düzende yeniden oluşturmak için bu kuralı kullanın."
+
+#: ustrings.msg_rulereformatdatedescription
+msgid "Use this rule to change format of date/time values in the filename."
+msgstr "Dosya adındaki tarih/saat değerlerinin biçimini değiştirmek için bu kuralı kullanın."
+
+#: ustrings.msg_ruleregexdescription
+msgid "Use this rule to replace text in the filename using regular expressions."
+msgstr "Dosya adındaki metni Düzenli İfadeler kullanarak değiştirmek için bu kuralı kullanın."
+
+#: ustrings.msg_ruleremovedescription
+msgid "Use this rule to remove text from the filename."
+msgstr "Dosya adından metin kaldırmak için bu kuralı kullanın."
+
+#: ustrings.msg_rulereplacedescription
+msgid "Use this rule to replace text in the filename."
+msgstr "Dosya adındaki metni değiştirmek için bu kuralı kullanın."
+
+#: ustrings.msg_ruleserializedescription
+msgid "Use this rule to serialize the filename (add incremental numbers)."
+msgstr "Dosya adını seri hale getirmek için bu kuralı kullanın (artan sayılar ekleyin)."
+
+#: ustrings.msg_rulestripdescription
+msgid "Use this rule to strip sets of characters from the filename."
+msgstr "Dosya adından karakter kümelerini çıkarmak için bu kuralı kullanın."
+
+#: ustrings.msg_ruletranslitdescription
+msgid "Use this rule to transliterate letters in the filename from one language into another."
+msgstr "Dosya adındaki harfleri bir dilden diğerine çevirmek için bu kuralı kullanın."
+
+#: ustrings.msg_ruleuserinputdescription
+msgid "Use this rule to assign names of files to the lines of text."
+msgstr "Dosyaların adlarını metin satırlarına atamak için bu kuralı kullanın."
+
+#: ustrings.msg_selectfolder
+msgid "Please select a folder:"
+msgstr "Lütfen bir klasör seçin:"
+
+#: ustrings.msg_shellactionwarninglimit
+msgid "Are you sure you want to execute shell action on %d files?"
+msgstr "%d dosyada kabuk eylemi yürütmek istediğinize emin misiniz?"
+
+#: ustrings.msg_shell_execute_error
+msgid ""
+"Could not open the following file:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+msgstr ""
+"Aşağıdaki dosya açılamıyor:\n"
+"\n"
+"%s\n"
+"\n"
+"Hata: %s (%d).\n"
+
+#: ustrings.msg_translitsaveinvalid
+msgctxt "mystrings.msg_translitsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "Hatalı Ad!"
+
+#: ustrings.msg_translitsavetext
+msgid "Enter a name for a translit:"
+msgstr "Dönüşüm için bir ad girin:"
+
+#: ustrings.msg_translitsavetitle
+msgid "Save Translit"
+msgstr "Dönüşümü Kaydet"
+
+#: ustrings.msg_undoconfirmfiles
+msgid ""
+"Are you sure you want to undo renaming operation for %d file(s)?\n"
+"\n"
+"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
+msgstr ""
+"%d dosya için yeniden adlandırma işlemini geri almak istediğinize emin misiniz?\n"
+"\n"
+"İpucu: \"Eski Yol\" sütununu etkinleştirerek geri alma yollarını kontrol edebilirsiniz.\n"
+
+#: ustrings.msg_undoempty
+msgid "Nothing to undo!"
+msgstr "Hiçbir şey geri alınmadı!"
+
+#: ustrings.msg_undoresult
+msgid ""
+"Undo operation results:\n"
+"\n"
+"%d out of %d file(s) restored successfully!\n"
+msgstr ""
+"Geri alma işleminin sonucu:\n"
+"\n"
+"%d dosya geri yüklendi, toplam %d dosyadan!\n"
+
+#: ustrings.msg_uninstallapplicationisrunning
+msgid ""
+"Seems that ReNamer is currently running.\n"
+"Please close it, before continuing...\n"
+msgstr ""
+"Görünen o ki ReNamer halihazırda çalışıyor.\n"
+"Lütfen, devam etmeden önce bunu kapatın.\n"
+
+#: ustrings.msg_validatedduplicatedfound
+msgid "%d of which have a duplicate in the list."
+msgstr "%d adetinin listede bir kopyası var."
+
+#: ustrings.msg_validatedexceededfound
+#, fuzzy
+#| msgid "%d of which exceed MAX_PATH limitation."
+msgid "%d of which exceed max path length limitation."
+msgstr "%d, adedi MAX_PATH sınırlamasını aşıyor."
+
+#: ustrings.msg_validatedexistingfound
+msgid "%d of which conflict with an existing file."
+msgstr "%d adedi bir başka doysa ile çakışıyor."
+
+#: ustrings.msg_validatedinvalidfound
+msgid "%d of which contain invalid characters."
+msgstr "%d adedi geçersiz karakter içeriyor."
+
+#: ustrings.msg_validatedmovedparentfound
+msgid "%d of which have a parent path changed earlier in the list."
+msgstr "%d adedinin üst dizini, listede daha öncesinden değiştirildi."
+
+#: ustrings.msg_validatedsuccessfuly
+msgid "Successfully validated!"
+msgstr "Başarıyla doğrulandı!"
+
+#: ustrings.msg_validatewarninglimit
+msgid ""
+"Do you want to validate %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"%s dosyayı doğrulamak istiyor musunuz?\n"
+"\n"
+"Bu işlem, birkaç dakika sürebilir...\n"
+
+#: ustrings.msg_validationissuesdetected
+msgid "Validation has failed due to issues with %d file(s)."
+msgstr "%d dosya için doğrulama işlemi, bir hata sonucu başarısız oldu."
+
+#: ustrings.name_addrule
+msgctxt "mystrings.name_addrule"
+msgid "Add Rule"
+msgstr "Kural Ekle"
+
+#: ustrings.name_addrulestext
+msgctxt "mystrings.name_addrulestext"
+msgid "Click here to add a rule"
+msgstr "Kural eklemek için buraya tıklayın"
+
+#: ustrings.name_addtorenamer
+msgid "Add to ReNamer"
+msgstr "ReNamer'a ekle"
+
+#: ustrings.name_analyzetextcursor
+msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
+msgstr "Satır = %d, Konum = %d, Hak = %d, Seçim = %d"
+
+#: ustrings.name_browsescripts
+msgid "Browse Scripts..."
+msgstr "Betiklere Gözat..."
+
+#: ustrings.name_browsetranslits
+msgid "Browse Translits..."
+msgstr "Dönüşümlere Gözat..."
+
+#: ustrings.name_cancelsorting
+msgctxt "mystrings.name_cancelsorting"
+msgid "Cancel Sorting"
+msgstr "Sıralamayı İptal Et"
+
+#: ustrings.name_dragfilestext
+msgctxt "mystrings.name_dragfilestext"
+msgid "Drag your files here"
+msgstr "Dosyaları buraya sürükleyin"
+
+#: ustrings.name_editrule
+msgctxt "mystrings.name_editrule"
+msgid "Edit Rule"
+msgstr "Kuralı Düzenle"
+
+#: ustrings.name_filescounter
+msgid "%s files"
+msgstr "%s dosya"
+
+#: ustrings.name_filescounterwithsize
+msgid "%s files (%s)"
+msgstr "%s dosya (%s)"
+
+#: ustrings.name_filters
+msgctxt "mystrings.name_filters"
+msgid "Filters"
+msgstr "Filtreler"
+
+#: ustrings.name_folderscounter
+msgid "%s folders"
+msgstr ""
+
+#: ustrings.name_loadwithpreset
+msgctxt "mystrings.name_loadwithpreset"
+msgid "Load with Preset"
+msgstr "Şablon ile Yükle"
+
+#: ustrings.name_markbymaskcaption
+msgctxt "mystrings.name_markbymaskcaption"
+msgid "Mark by Mask"
+msgstr "Maske ile İşaretle"
+
+#: ustrings.name_markbymaskprompt
+msgctxt "mystrings.name_markbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Birden çok maske noktalı virgülle ayrılabilir. Örneğin: *.jpg;*.doc\n"
+"\n"
+"Maske:\n"
+
+#: ustrings.name_overwrite
+msgid "Overwrite"
+msgstr "Üzerine Yaz"
+
+#: ustrings.name_rename
+msgctxt "mystrings.name_rename"
+msgid "Rename"
+msgstr "Yeniden Adlandır"
+
+#: ustrings.name_renamewithpreset
+msgctxt "mystrings.name_renamewithpreset"
+msgid "Rename with Preset"
+msgstr "Şablon ile Adlandır"
+
+#: ustrings.name_rule_case
+msgid "Case"
+msgstr "Harf"
+
+#: ustrings.name_rule_cleanup
+msgid "Clean Up"
+msgstr "Temizle"
+
+#: ustrings.name_rule_delete
+msgctxt "mystrings.name_rule_delete"
+msgid "Delete"
+msgstr "Sil"
+
+#: ustrings.name_rule_extension
+msgctxt "mystrings.name_rule_extension"
+msgid "Extension"
+msgstr "Uzantı"
+
+#: ustrings.name_rule_insert
+msgctxt "mystrings.name_rule_insert"
+msgid "Insert"
+msgstr "Ekle"
+
+#: ustrings.name_rule_padding
+msgid "Padding"
+msgstr "Dolgu"
+
+#: ustrings.name_rule_pascalscript
+msgid "Pascal Script"
+msgstr "Pascal Betiği"
+
+#: ustrings.name_rule_randomize
+msgid "Randomize"
+msgstr "Rasgele"
+
+#: ustrings.name_rule_rearrange
+msgid "Rearrange"
+msgstr "Sırala"
+
+#: ustrings.name_rule_reformatdate
+msgid "Reformat Date"
+msgstr "Tarih Biçimi"
+
+#: ustrings.name_rule_regex
+msgid "Regular Expressions"
+msgstr "Düzenli İfadeler"
+
+#: ustrings.name_rule_remove
+msgctxt "mystrings.name_rule_remove"
+msgid "Remove"
+msgstr "Kaldır"
+
+#: ustrings.name_rule_replace
+msgctxt "mystrings.name_rule_replace"
+msgid "Replace"
+msgstr "Değiştir"
+
+#: ustrings.name_rule_serialize
+msgid "Serialize"
+msgstr "Numaralandır"
+
+#: ustrings.name_rule_strip
+msgctxt "mystrings.name_rule_strip"
+msgid "Strip"
+msgstr "Çıkart"
+
+#: ustrings.name_rule_translit
+msgid "Translit"
+msgstr "Dönüştür"
+
+#: ustrings.name_rule_userinput
+msgid "User Input"
+msgstr "Kullanıcı Girişi"
+
+#: ustrings.name_saverule
+msgid "Save Rule"
+msgstr "Kuralı Kaydet"
+
+#: ustrings.name_savescript
+msgid "Save Script..."
+msgstr "Betiği Kaydet..."
+
+#: ustrings.name_savetranslit
+msgid "Save Translit..."
+msgstr "Dönüşümü Kaydet..."
+
+#: ustrings.name_selectbyextensioncaption
+msgctxt "mystrings.name_selectbyextensioncaption"
+msgid "Select by Extension"
+msgstr "Uzantıyla Seç"
+
+#: ustrings.name_selectbyextensionprompt
+msgid ""
+"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
+"\n"
+"Extensions (without dots):\n"
+msgstr ""
+"Birden çok uzantı noktalı virgülle ayrılabilir. Örneğin: jpg;doc\n"
+"\n"
+"Uzantı (nokta olmadan):\n"
+
+#: ustrings.name_selectbyfilenamelengthcaption
+msgid "Select by Filename Length"
+msgstr "Dosya Adı Uzunluğuyla Seç"
+
+#: ustrings.name_selectbyfilenamelengthprompt
+msgid "More than N characters:"
+msgstr "N Adet Karakterden Fazla:"
+
+#: ustrings.name_selectbymaskcaption
+msgctxt "mystrings.name_selectbymaskcaption"
+msgid "Select by Mask"
+msgstr "Maskeyle Seç"
+
+#: ustrings.name_selectbymaskprompt
+msgctxt "mystrings.name_selectbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Birden çok maske noktalı virgülle ayrılabilir. Örneğin: *.jpg;*.doc\n"
+"\n"
+"Maske:\n"
+
+#: ustrings.name_undo
+msgid "Undo"
+msgstr "Geri Al"
+
+#: ustrings.name_undofiles
+msgid "Undo %d file(s)"
+msgstr "%d dosyayı geri al"
+
+#: ustrings.sdatetimedays
+msgctxt "ustrings.sdatetimedays"
+msgid "Days"
+msgstr ""
+
+#: ustrings.sdatetimehours
+msgctxt "ustrings.sdatetimehours"
+msgid "Hours"
+msgstr ""
+
+#: ustrings.sdatetimemilliseconds
+msgctxt "ustrings.sdatetimemilliseconds"
+msgid "Milliseconds"
+msgstr ""
+
+#: ustrings.sdatetimeminutes
+msgctxt "ustrings.sdatetimeminutes"
+msgid "Minutes"
+msgstr ""
+
+#: ustrings.sdatetimemonths
+msgctxt "ustrings.sdatetimemonths"
+msgid "Months"
+msgstr ""
+
+#: ustrings.sdatetimeseconds
+msgctxt "ustrings.sdatetimeseconds"
+msgid "Seconds"
+msgstr ""
+
+#: ustrings.sdatetimeyears
+msgctxt "ustrings.sdatetimeyears"
+msgid "Years"
+msgstr ""
+
+#: ustrings.sfiltersallfiles
+msgid "All files"
+msgstr "Tüm dosyalar"
+
+#: ustrings.sfiltersanyfile
+msgid "Any file"
+msgstr "Herhangi bir dosya"
+
+#: ustrings.sfiltersarchives
+msgid "Archives"
+msgstr "Arşivler"
+
+#: ustrings.sfiltersbatchfile
+msgid "Batch file"
+msgstr "Topli İş dosyaları"
+
+#: ustrings.sfilterscommaseparated
+msgid "comma separated"
+msgstr "virgülle ayrılmış"
+
+#: ustrings.sfiltersdocuments
+msgid "Documents"
+msgstr "Belgeler"
+
+#: ustrings.sfiltersmusic
+msgid "Music"
+msgstr "Müzik"
+
+#: ustrings.sfilterspictures
+msgid "Pictures"
+msgstr "Resimler"
+
+#: ustrings.sfiltersplaylist
+msgid "Play list"
+msgstr "Çalma listeleri"
+
+#: ustrings.sfilterspresets
+msgctxt "ustrings.sfilterspresets"
+msgid "Presets"
+msgstr "Şablonlar"
+
+#: ustrings.sfilterstabseparated
+msgid "tab separated"
+msgstr "sekmeyle ayrılmış"
+
+#: ustrings.sfilterstextfiles
+msgid "Text files"
+msgstr "Metin belgeleri"
+
+#: ustrings.sfilterstextlist
+msgid "Text list"
+msgstr "Metin listeleri"
+

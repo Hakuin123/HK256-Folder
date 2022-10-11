@@ -1,0 +1,4 @@
+OldCpuSpeed=2785
+NewCpuSpeedCount=1
+NewCpuSpeed=2583
+ComputerGUID=c279076885bd70170ae287cc15c838fb

@@ -1,0 +1,4011 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: ReNamer\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: den4b Team <support@den4b.com>\n"
+"Language-Team: den4b Team <support@den4b.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"X-Country: ua\n"
+"X-Country-Name: Ukraine\n"
+"X-Language-Name: Ukrainian\n"
+"X-Language-Name-Native: Українська\n"
+"X-Translators: Роман Старих <zerobit@ex.ua>\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+#: mainform.ssavecurrentpresetconfirm
+msgid "Save current preset?"
+msgstr "Зберегти поточний пресет?"
+
+#: mainform.s_askpurchaseremovelimit
+msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
+msgstr "Ви хочете придбати версію \"Pro\", щоб усунути це обмеження?"
+
+#: mainform.s_askpurchaseunlockfeature
+msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
+msgstr "Ви хочете придбати версію \"Pro\", щоб розблокувати цю функцію?"
+
+#: mainform.s_confirmunregister
+msgid ""
+"Are you sure you want to unregister the product?\n"
+"\n"
+"This will remove your license and deactivate the \"Pro\" version.\n"
+msgstr ""
+"Ви впевнені, що хочете скасувати реєстрацію продукту?\n"
+"\n"
+"Це видалить вашу ліцензію та деактивує версію \"Pro\".\n"
+
+#: mainform.s_featurenotavailable
+msgid "This feature is not available in this version."
+msgstr "Ця функція недоступна в даній версії."
+
+#: mainform.s_free_license_note
+msgctxt "mainform.s_free_license_note"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Цю програму можна використовувати й поширювати ТІЛЬКИ в некомерційних цілях, і з відповідним посиланням на автора."
+
+#: mainform.s_maxallowedpresets
+msgid "This version is limited to a maximum of %s presets."
+msgstr "Ця версія обмежена максимум %s пресетами."
+
+#: mainform.s_maxallowedrules
+msgid "This version is limited to a maximum of %s rules."
+msgstr "Ця версія обмежена максимум %s правилами."
+
+#: mainform.s_no_license_caption
+msgid "(non-commercial use only)"
+msgstr "(тільки некомерційне використання)"
+
+#: mainform.s_please_read_full_license
+msgid "For more information please read full license code"
+msgstr "Додаткову інформацію дивіться у повному ліцензійному коді"
+
+#: mainform.s_presetdirstructurelimitation
+msgid "This version does not support presets directory structure."
+msgstr "Ця версія не підтримує структуру каталогів для пресетів."
+
+#: mainform.s_statusbar_hint_filters
+msgid "Active filter settings"
+msgstr "Активні налаштування фільтрів"
+
+#: mainform.s_statusbar_hint_presets
+msgid "Loaded preset"
+msgstr "Завантажений пресет"
+
+#: mainform.s_statusbar_hint_presets_modified
+msgid "Loaded preset (modified)"
+msgstr "Завантажений пресет (змінений)"
+
+#: presetslinksform.screatednumpresetlinks
+msgid "Created %d preset links."
+msgstr "Створено %d ярликів пресетів."
+
+#: presetsmanagerform.sduplicatepresetsuffix
+msgid "COPY"
+msgstr "КОПІЯ"
+
+#: rulepascalscriptframe.saddyourcodehere
+msgid "Add your code here"
+msgstr "Додайте свій код тут"
+
+#: rulepascalscriptframe.sholdtoinsertscriptinline
+msgid "Hold %s when loading a script to insert it inline"
+msgstr "Утримуйте %s під час завантаження скрипта, щоб вставити його в рядок"
+
+#: rulepascalscriptframe.spressforcodecompletion
+msgid "Press %s for code completion"
+msgstr "Натисніть %s для доповнення коду"
+
+#: ruleregexframe.sregexanychar
+msgid "Any single character"
+msgstr "Будь-який символ"
+
+#: ruleregexframe.sregexanycharexact3
+msgid "A set of 3 of any characters"
+msgstr "Набір з 3-ох символів"
+
+#: ruleregexframe.sregexanycharplus
+msgid "One or more of any characters"
+msgstr "Один або кілька символів"
+
+#: ruleregexframe.sregexanycharplusgrouped
+msgid "One or more of any characters, grouped into subexpression"
+msgstr "Один або кілька символів, згрупованих у підвираз"
+
+#: ruleregexframe.sregexanycharplusnogreedy
+msgid "One or more of any characters, but fewer as possible"
+msgstr "Один або кілька символів, але якомога менше"
+
+#: ruleregexframe.sregexanycharset2to4
+msgid "A set of 2 to 4 of any characters"
+msgstr "Набір від 2-ох до 4-ох символів"
+
+#: ruleregexframe.sregexanycharset3ormore
+msgid "A set of 3 or more of any characters"
+msgstr "Набір з 3-ох або більше символів"
+
+#: ruleregexframe.sregexanycharstar
+msgid "Zero or more of any characters"
+msgstr "Нуль або більше символів"
+
+#: ruleregexframe.sregexcharlistabc
+msgid "Any single character from the list (e.g. \"a\" or \"b\" or \"c\")"
+msgstr "Будь-який символ зі списку (напр. \"a\" або \"b\" або \"c\")"
+
+#: ruleregexframe.sregexcharlistaorborc
+msgid "Any one occurrence of the alternatives (e.g. \"aa\" or \"bb\" or \"cc\")"
+msgstr "Будь-яке альтернативне входження (напр. \"aa\" або \"bb\" або \"cc\")"
+
+#: ruleregexframe.sregexcharlistatoz
+msgid "Any single character from the range (e.g. \"a\" to \"z\")"
+msgstr "Будь-який символ з діапазону (напр. від \"a\" до \"z\")"
+
+#: ruleregexframe.sregexend
+msgid "End of the input text"
+msgstr "Кінець вводу тексту"
+
+#: ruleregexframe.sregexescapedslash
+msgid "Use an escape character to match an actual backslash \"\\\""
+msgstr "Використовуйте escape-символ для відповідності зворотного слешу \"\\\""
+
+#: ruleregexframe.sregexnotcharlistabc
+msgid "Any single character except the ones from the list"
+msgstr "Будь-який символ, крім тих, що зі списку"
+
+#: ruleregexframe.sregexspacechars
+msgid "Any single space character (space, tab, new line)"
+msgstr "Будь-який символ пробілу (пробіл, tab, новий рядок)"
+
+#: ruleregexframe.sregexstart
+msgid "Start of the input text"
+msgstr "Початок вводу тексту"
+
+#: ruleregexframe.sregexwordboundary
+msgid "Word boundary"
+msgstr "Межа слова"
+
+#: ruleregexframe.sregexwordchars
+msgid "Any single alphanumeric character (including an underscore)"
+msgstr "Будь-який алфавітно-цифровий символ (включаючи підкреслення)"
+
+#: settingsform.sfailedtoapplysystemsettings
+msgid "Failed to apply system settings."
+msgstr "Не вдалося застосувати системні налаштування."
+
+#: settingsform.shinttryrunasadministrator
+msgid "(Try to start the program as administrator to apply these settings)"
+msgstr "(Щоб застосувати ці налаштування, спробуйте запустити програму як адміністратор)"
+
+#: settingsform.srealtimepreviewwarning
+msgid ""
+"Real-time update of the preview can be dangerous and its use is not recommended!\n"
+"\n"
+"It will cause graphical updates to the GUI during preview for every processed file but will also respond to any user activity such as mouse clicks and keyboard button presses. Beware, any accidental actions generated during a preview as a result of user activity within the application will interfere with the preview process and can cause unpredictable behavior.\n"
+msgstr ""
+"Оновлення перегляду в реальному часі дуже небезпечно, і його використання не рекомендується!\n"
+"\n"
+"Це не тільки призведе до оновлення графічного інтерфейсу під час перегляду кожного оброблюваного файлу, але також буде реагувати на будь-які дії користувача, такі як клацання мишею або натискання кнопок клавіатури. Пам’ятайте, що будь-які випадкові дії під час перегляду, які генеруються в результаті діяльності користувача у межах програми, будуть перешкоджати процесу перегляду, і можуть спричинити непередбачуване поводження.\n"
+
+#: tform_about.caption
+msgctxt "tform_about.caption"
+msgid "About"
+msgstr "Про програму"
+
+#: tform_about.label_author2.caption
+msgid "Author:"
+msgstr "Автор:"
+
+#: tform_about.label_date.caption
+msgid "Date:"
+msgstr "Дата:"
+
+#: tform_about.label_email2.caption
+msgid "Email:"
+msgstr "Email:"
+
+#: tform_about.label_version.caption
+msgid "Version:"
+msgstr "Версія:"
+
+#: tform_about.label_website2.caption
+msgid "Website:"
+msgstr "Сайт:"
+
+#: tform_addpaths.bitbtn_add.caption
+msgctxt "TFORM_ADDPATHS.BITBTN_ADD.CAPTION"
+msgid "Add"
+msgstr "Додати"
+
+#: tform_addpaths.bitbtn_cancel.caption
+msgctxt "TFORM_ADDPATHS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: tform_addpaths.caption
+msgctxt "tform_addpaths.caption"
+msgid "Add Paths"
+msgstr "Додати шляхи"
+
+#: tform_addpaths.checkbox_workingdir.caption
+msgctxt "TFORM_ADDPATHS.CHECKBOX_WORKINGDIR.CAPTION"
+msgid "Working directory:"
+msgstr "Робочий каталог:"
+
+#: tform_addpaths.label_enterpaths.caption
+msgid "Enter file paths:"
+msgstr "Введіть шляхи до файлів:"
+
+#: tform_addrule.bitbtn_add.caption
+msgctxt "TFORM_ADDRULE.BITBTN_ADD.CAPTION"
+msgid "Add Rule"
+msgstr "Додати правило"
+
+#: tform_addrule.bitbtn_close.caption
+msgctxt "tform_addrule.bitbtn_close.caption"
+msgid "Close"
+msgstr "Закрити"
+
+#: tform_addrule.caption
+msgctxt "TFORM_ADDRULE.CAPTION"
+msgid "Add Rule"
+msgstr "Додати правило"
+
+#: tform_addrule.groupbox_config.caption
+msgid "Configuration:"
+msgstr "Конфігурація:"
+
+#: tform_addrule.menuitem_ruledescription.caption
+msgid "Description"
+msgstr "Опис"
+
+#: tform_analyze.bb_applyrules.caption
+msgid "Apply Rules"
+msgstr "Застосувати правила"
+
+#: tform_analyze.caption
+msgctxt "tform_analyze.caption"
+msgid "Analyze"
+msgstr "Аналізувати"
+
+#: tform_analyze.cb_applyrulesforeachline.caption
+msgid "Apply rules for each line"
+msgstr "Застосовувати порядково"
+
+#: tform_analyze.cb_autoapplyrules.caption
+msgid "Automatically apply rules"
+msgstr "Застосовувати автоматично"
+
+#: tform_analyze.cb_wordwrap.caption
+msgid "Line wrap"
+msgstr "Перенесення рядків"
+
+#: tform_analyze.label_textin.caption
+msgid "Enter text that you wish to analyze:"
+msgstr "Введіть текст для його аналізу:"
+
+#: tform_analyze.label_textout.caption
+msgid "Text after applying rules:"
+msgstr "Текст після застосування правил:"
+
+#: tform_browse.bitbtn_cancel.caption
+msgctxt "TFORM_BROWSE.BITBTN_CANCEL.CAPTION"
+msgid "Close"
+msgstr "Закрити"
+
+#: tform_browse.bitbtn_ok.caption
+msgctxt "tform_browse.bitbtn_ok.caption"
+msgid "Add Folders"
+msgstr "Додати папки"
+
+#: tform_browse.caption
+msgid "Browse"
+msgstr "Вибрати"
+
+#: tform_browse.checkbox_showhidden.caption
+msgid "Show hidden folders"
+msgstr "Приховані папки"
+
+#: tform_browse.checkbox_showsystem.caption
+msgid "Show system folders"
+msgstr "Системні папки"
+
+#: tform_browse.label_title.caption
+msgid "Select folders that you want to add:"
+msgstr "Виберіть папки, які ви бажаєте додати:"
+
+#: tform_browse.menuitem_collapseall.caption
+msgid "Collapse All"
+msgstr "Згорнути всі"
+
+#: tform_browse.menuitem_explorefolder.caption
+msgid "Explore selected folder"
+msgstr "Відкрити вибрану папку"
+
+#: tform_browse.menuitem_gotofolder.caption
+msgctxt "TFORM_BROWSE.MENUITEM_GOTOFOLDER.CAPTION"
+msgid "Go To Folder"
+msgstr "Перейти до папки"
+
+#: tform_browse.menuitem_refreshtree.caption
+msgid "Refresh Tree"
+msgstr "Оновити дерево"
+
+#: tform_browse.sb_gotofolder.caption
+msgctxt "tform_browse.sb_gotofolder.caption"
+msgid "Go To"
+msgstr "Перейти до папки"
+
+#: tform_browse.speedbutton_filtersettings.caption
+msgctxt "tform_browse.speedbutton_filtersettings.caption"
+msgid "Filter Settings"
+msgstr "Параметри фільтрування"
+
+#: tform_filtersettings.bitbtn_cancel.caption
+msgctxt "tform_filtersettings.bitbtn_cancel.caption"
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: tform_filtersettings.bitbtn_save.caption
+msgctxt "tform_filtersettings.bitbtn_save.caption"
+msgid "Save"
+msgstr "Зберегти"
+
+#: tform_filtersettings.caption
+msgctxt "TFORM_FILTERSETTINGS.CAPTION"
+msgid "Filter Settings"
+msgstr "Параметри фільтрування"
+
+#: tform_filtersettings.cb_masksonfilename.caption
+msgid "Apply only to the file name, instead of full path."
+msgstr "Застосовувати лише до імені файлу, а не шляху."
+
+#: tform_filtersettings.checkbox_addfilesfromfolders.caption
+msgid "Add files within folders"
+msgstr "Додавати файли з папок"
+
+#: tform_filtersettings.checkbox_addfoldersasfiles.caption
+msgid "Add folders as files"
+msgstr "Додавати папки як файли"
+
+#: tform_filtersettings.checkbox_includehidden.caption
+msgid "Include hidden items"
+msgstr "Включити приховані об'єкти"
+
+#: tform_filtersettings.checkbox_includesubfolders.caption
+msgid "Include subfolders"
+msgstr "Включити вкладені папки"
+
+#: tform_filtersettings.checkbox_includesystem.caption
+msgid "Include system items"
+msgstr "Включити системні об'єкти"
+
+#: tform_filtersettings.checkbox_saveasdefault.caption
+msgctxt "TFORM_FILTERSETTINGS.CHECKBOX_SAVEASDEFAULT.CAPTION"
+msgid "Save as default for future sessions"
+msgstr "Зберегти як стандартні для майбутніх сеансів"
+
+#: tform_filtersettings.checkbox_skiprootfoldersasfiles.caption
+msgid "Skip root folders when added as files"
+msgstr "Пропускати кореневі папки"
+
+#: tform_filtersettings.groupbox_folders.caption
+msgid "Default behavior for adding folders:"
+msgstr "При додаванні папок:"
+
+#: tform_filtersettings.groupbox_masks.caption
+msgid "Masks:"
+msgstr "Маски:"
+
+#: tform_filtersettings.label_masksexclude.caption
+msgid "Exclude:"
+msgstr "Виключити:"
+
+#: tform_filtersettings.label_masksinclude.caption
+msgid "Include:"
+msgstr "Включити:"
+
+#: tform_filtersettings.label_masksnote.caption
+msgctxt "TFORM_FILTERSETTINGS.LABEL_MASKSNOTE.CAPTION"
+msgid "Note: separate multiple masks with \";\" (semicolons)."
+msgstr "Примітка: Розділяйте маски \";\" (крапкою з комою)."
+
+#: tform_folderwarning.bb_cancel.caption
+msgctxt "TFORM_FOLDERWARNING.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: tform_folderwarning.bb_continue.caption
+msgid "Continue"
+msgstr "Продовжити"
+
+#: tform_folderwarning.caption
+msgid "Warning: Renaming Folders"
+msgstr "Увага: Перейменування папок"
+
+#: tform_folderwarning.cb_nevershowwarning.caption
+msgid "Never show this warning"
+msgstr "Більше не показувати"
+
+#: tform_folderwarning.label_warning.caption
+msgid "Renaming a folder also affects all of its content. A problem can occur if you try to rename folders and their content in a single run. Items in the renaming list are processed from top to bottom. The order of items in this case is extremely important for successful renaming."
+msgstr "Перейменування папки впливає на її вміст. Отже, якщо ви спробуєте перейменувати відразу й папки і їх вміст, це може викликати проблеми. Оскільки список перейменування обробляється зверху вниз, порядок файлів і папок у списку дуже важливий для успішного перейменування."
+
+#: tform_folderwarning.label_warning2.caption
+msgid "Parent folders must always appear below their contained items. This can be easily achieved by sorting items in descending order by the Folder or Path column."
+msgstr "Тому батьківські папки завжди мають розташовуватися після їх вмісту. Цього можна легко досягти відсортувавши список в порядку спадання за стовпцем \"Папка\" або \"Шлях\"."
+
+#: tform_main.action_about.caption
+msgctxt "TFORM_MAIN.ACTION_ABOUT.CAPTION"
+msgid "About"
+msgstr "Про програму"
+
+#: tform_main.action_addfiles.caption
+msgid "Add Files"
+msgstr "Додати файли"
+
+#: tform_main.action_addfolders.caption
+msgctxt "TFORM_MAIN.ACTION_ADDFOLDERS.CAPTION"
+msgid "Add Folders"
+msgstr "Додати папки"
+
+#: tform_main.action_addpaths.caption
+msgctxt "tform_main.action_addpaths.caption"
+msgid "Add Paths"
+msgstr "Додати шляхи"
+
+#: tform_main.action_analyzesampletext.caption
+msgid "Analyze sample text"
+msgstr "Проаналізувати зразок тексту"
+
+#: tform_main.action_applyrulestoclipboard.caption
+msgid "Apply rules to the clipboard"
+msgstr "Застосувати правила до буфера обміну"
+
+#: tform_main.action_autosizecolumns.caption
+msgid "Autosize columns"
+msgstr "Авто-розмір стовпців таблиці"
+
+#: tform_main.action_countmarkedandselectedfiles.caption
+msgid "Count marked and selected files"
+msgstr "Підрахувати позначені та вибрані файли"
+
+#: tform_main.action_exportasbatchfilefullpaths.caption
+msgid "Export as batch renaming file (full paths)"
+msgstr "Експорт у файл пакетного перейменування (повні шляхи)"
+
+#: tform_main.action_exportasbatchfileonlynames.caption
+msgid "Export as batch renaming file (only names)"
+msgstr "Експорт у файл пакетного перейменування (тільки імена)"
+
+#: tform_main.action_exportfilesandpreview.caption
+msgid "Export file paths and new names"
+msgstr "Експорт шляхів до файлів та нових імен"
+
+#: tform_main.action_exportfilesandundo.caption
+msgid "Export file paths and undo paths"
+msgstr "Експорт шляхів до файлів та шляхів для скасування"
+
+#: tform_main.action_exportnewnamestoclipboard.caption
+msgid "Export new names to clipboard"
+msgstr "Експорт нових імен до буфера обміну"
+
+#: tform_main.action_exportpathstoclipboard.caption
+msgid "Export paths to clipboard"
+msgstr "Експорт шляхів до файлів у буфер обміну"
+
+#: tform_main.action_filters.caption
+msgctxt "TFORM_MAIN.ACTION_FILTERS.CAPTION"
+msgid "Filters"
+msgstr "Фільтри"
+
+#: tform_main.action_fixconflictingnewnames.caption
+msgid "Fix conflicting new names"
+msgstr "Виправити конфліктні нові імена"
+
+#: tform_main.action_importfilesandpreview.caption
+msgid "Import file paths and new names"
+msgstr "Імпорт шляхів до файлів та нових імен"
+
+#: tform_main.action_importlistoffiles.caption
+msgid "Import files from text-list or play-list"
+msgstr "Імпорт файлів з текстового списку або плейлиста"
+
+#: tform_main.action_importnewnamesfromclipboard.caption
+msgid "Import new names from clipboard"
+msgstr "Імпорт нових імен з буфера обміну"
+
+#: tform_main.action_managepresets.caption
+msgid "Manage..."
+msgstr "Впорядкувати..."
+
+#: tform_main.action_newinstance.caption
+msgid "New Instance"
+msgstr "Нове вікно"
+
+#: tform_main.action_newproject.caption
+msgid "New Project"
+msgstr "Новий проект"
+
+#: tform_main.action_pastefiles.caption
+msgid "Paste Files"
+msgstr "Вставити файли"
+
+#: tform_main.action_presetsave.caption
+msgctxt "TFORM_MAIN.ACTION_PRESETSAVE.CAPTION"
+msgid "Save"
+msgstr "Зберегти"
+
+#: tform_main.action_presetsaveas.caption
+msgid "Save As"
+msgstr "Зберегти як"
+
+#: tform_main.action_preview.caption
+msgctxt "TFORM_MAIN.ACTION_PREVIEW.CAPTION"
+msgid "Preview"
+msgstr "Переглянути"
+
+#: tform_main.action_register.caption
+msgctxt "tform_main.action_register.caption"
+msgid "Register"
+msgstr "Реєстрація"
+
+#: tform_main.action_rename.caption
+msgctxt "TFORM_MAIN.ACTION_RENAME.CAPTION"
+msgid "Rename"
+msgstr "Перейменувати"
+
+#: tform_main.action_settings.caption
+msgid "All Settings"
+msgstr "Усі налаштування"
+
+#: tform_main.action_sortforrenamingfolders.caption
+msgid "Sort by path for renaming folders"
+msgstr "Сортувати по шляху для перейменування папок"
+
+#: tform_main.action_undorename.caption
+msgid "Undo Renaming"
+msgstr "Скасувати дію"
+
+#: tform_main.action_unregister.caption
+msgid "Unregister"
+msgstr "Скасування реєстрації"
+
+#: tform_main.action_validatenewnames.caption
+msgid "Validate new names"
+msgstr "Перевірити нові імена"
+
+#: tform_main.listview_rules.columns[0].caption
+msgid "#"
+msgstr "№"
+
+#: tform_main.listview_rules.columns[1].caption
+msgid "Rule"
+msgstr "Правило"
+
+#: tform_main.listview_rules.columns[2].caption
+msgid "Statement"
+msgstr "Оператор"
+
+#: tform_main.menuitem_addrule.caption
+msgctxt "TFORM_MAIN.MENUITEM_ADDRULE.CAPTION"
+msgid "Add Rule"
+msgstr "Додати правило"
+
+#: tform_main.menuitem_addruleabove.caption
+msgid "Add Rule (above)"
+msgstr "Додати правило (вище)"
+
+#: tform_main.menuitem_addrulebelow.caption
+msgid "Add Rule (below)"
+msgstr "Додати правило (нижче)"
+
+#: tform_main.menuitem_analyzename.caption
+msgid "Analyze Name"
+msgstr "Аналізувати ім'я"
+
+#: tform_main.menuitem_clearall.caption
+msgid "Clear All"
+msgstr "Очистити всі"
+
+#: tform_main.menuitem_clearfailed.caption
+msgid "Clear Failed"
+msgstr "Очистити невдалі"
+
+#: tform_main.menuitem_clearing.caption
+msgid "Clear"
+msgstr "Очистити"
+
+#: tform_main.menuitem_clearinvalid.caption
+msgid "Clear Invalid"
+msgstr "Очистити недійсні"
+
+#: tform_main.menuitem_clearmarked.caption
+msgid "Clear Marked"
+msgstr "Очистити позначені"
+
+#: tform_main.menuitem_clearnotmarked.caption
+msgid "Clear Not Marked"
+msgstr "Очистити не позначені"
+
+#: tform_main.menuitem_clearrenamed.caption
+msgid "Clear Renamed"
+msgstr "Очистити перейменовані"
+
+#: tform_main.menuitem_clearvalid.caption
+msgid "Clear Valid"
+msgstr "Очистити дійсні"
+
+#: tform_main.menuitem_duplicaterule.caption
+msgid "Duplicate Rule"
+msgstr "Дублювати правило"
+
+#: tform_main.menuitem_editnewname.caption
+msgid "Edit New Name"
+msgstr "Змінити нове ім'я"
+
+#: tform_main.menuitem_editrule.caption
+msgctxt "TFORM_MAIN.MENUITEM_EDITRULE.CAPTION"
+msgid "Edit Rule"
+msgstr "Редагувати правило"
+
+#: tform_main.menuitem_exit.caption
+msgid "Exit"
+msgstr "Вихід"
+
+#: tform_main.menuitem_file.caption
+msgid "File"
+msgstr "Файл"
+
+#: tform_main.menuitem_help.caption
+msgctxt "tform_main.menuitem_help.caption"
+msgid "Help"
+msgstr "Довідка"
+
+#: tform_main.menuitem_invertmarking.caption
+msgid "Invert Marking"
+msgstr "Інвертувати позначки"
+
+#: tform_main.menuitem_invertselection.caption
+msgid "Invert Selection"
+msgstr "Інвертувати вибір"
+
+#: tform_main.menuitem_mark.caption
+msgctxt "TFORM_MAIN.MENUITEM_MARK.CAPTION"
+msgid "Mark"
+msgstr "Позначити"
+
+#: tform_main.menuitem_markbymask.caption
+msgctxt "TFORM_MAIN.MENUITEM_MARKBYMASK.CAPTION"
+msgid "Mark by Mask"
+msgstr "Позначити за маскою"
+
+#: tform_main.menuitem_marking.caption
+msgctxt "tform_main.menuitem_marking.caption"
+msgid "Mark"
+msgstr "Позначити"
+
+#: tform_main.menuitem_markonlychangedexccase.caption
+msgid "Mark Only Changed (Exc. Case)"
+msgstr "Позначити лише змінені (викл. регістр)"
+
+#: tform_main.menuitem_markonlychangedinccase.caption
+msgid "Mark Only Changed (Inc. Case)"
+msgstr "Позначити лише змінені (вкл. регістр)"
+
+#: tform_main.menuitem_markonlyselected.caption
+msgid "Mark Only Selected"
+msgstr "Позначити лише вибрані"
+
+#: tform_main.menuitem_movedown.caption
+msgctxt "TFORM_MAIN.MENUITEM_MOVEDOWN.CAPTION"
+msgid "Down"
+msgstr "Вниз"
+
+#: tform_main.menuitem_moveup.caption
+msgctxt "TFORM_MAIN.MENUITEM_MOVEUP.CAPTION"
+msgid "Up"
+msgstr "Вгору"
+
+#: tform_main.menuitem_moving.caption
+msgid "Move"
+msgstr "Пересунути"
+
+#: tform_main.menuitem_presets.caption
+msgctxt "tform_main.menuitem_presets.caption"
+msgid "Presets"
+msgstr "Пресети"
+
+#: tform_main.menuitem_removeallrules.caption
+msgid "Remove All Rules"
+msgstr "Видалити всі правила"
+
+#: tform_main.menuitem_removerule.caption
+msgid "Remove Rule"
+msgstr "Видалити правило"
+
+#: tform_main.menuitem_removeselecteditems.caption
+msgid "Remove Selected"
+msgstr "Видалити вибрані"
+
+#: tform_main.menuitem_rulemovedown.caption
+msgid "Move Down"
+msgstr "Пересунути вниз"
+
+#: tform_main.menuitem_rulemoveup.caption
+msgid "Move Up"
+msgstr "Пересунути вгору"
+
+#: tform_main.menuitem_rulesmarkall.caption
+msgid "Mark All"
+msgstr "Позначити всі"
+
+#: tform_main.menuitem_rulesselectall.caption
+msgctxt "TFORM_MAIN.MENUITEM_RULESSELECTALL.CAPTION"
+msgid "Select All"
+msgstr "Вибрати всі"
+
+#: tform_main.menuitem_rulesunmarkall.caption
+msgid "Unmark All"
+msgstr "Зняти всі позначки"
+
+#: tform_main.menuitem_selectall.caption
+msgctxt "tform_main.menuitem_selectall.caption"
+msgid "Select All"
+msgstr "Вибрати всі"
+
+#: tform_main.menuitem_selectbyextension.caption
+msgctxt "TFORM_MAIN.MENUITEM_SELECTBYEXTENSION.CAPTION"
+msgid "Select by Extension"
+msgstr "Вибрати за розширенням"
+
+#: tform_main.menuitem_selectbymask.caption
+msgctxt "TFORM_MAIN.MENUITEM_SELECTBYMASK.CAPTION"
+msgid "Select by Mask"
+msgstr "Вибрати за маскою"
+
+#: tform_main.menuitem_selectbynamelength.caption
+msgid "Select by Name Length"
+msgstr "Вибрати за довжиною імені"
+
+#: tform_main.menuitem_selecting.caption
+msgid "Select"
+msgstr "Вибрати"
+
+#: tform_main.menuitem_settings.caption
+msgctxt "tform_main.menuitem_settings.caption"
+msgid "Settings"
+msgstr "Налаштування"
+
+#: tform_main.menuitem_settingsgeneral.caption
+msgctxt "tform_main.menuitem_settingsgeneral.caption"
+msgid "General"
+msgstr "Загальні"
+
+#: tform_main.menuitem_settingsmetatags.caption
+msgctxt "tform_main.menuitem_settingsmetatags.caption"
+msgid "Meta Tags"
+msgstr "Мета-Теги"
+
+#: tform_main.menuitem_settingsmisc.caption
+msgid "Miscellaneous"
+msgstr "Різне"
+
+#: tform_main.menuitem_settingspreview.caption
+msgctxt "tform_main.menuitem_settingspreview.caption"
+msgid "Preview"
+msgstr "Перегляд"
+
+#: tform_main.menuitem_settingsrename.caption
+msgctxt "TFORM_MAIN.MENUITEM_SETTINGSRENAME.CAPTION"
+msgid "Rename"
+msgstr "Перейменування"
+
+#: tform_main.menuitem_shell.caption
+msgid "Shell"
+msgstr "Оболонка"
+
+#: tform_main.menuitem_unmark.caption
+msgid "Unmark"
+msgstr "Зняти позначки"
+
+#: tform_main.mi_addpresets.caption
+msgid "Import..."
+msgstr "Імпортувати..."
+
+#: tform_main.mi_browsepresets.caption
+msgid "Browse..."
+msgstr "Переглянути..."
+
+#: tform_main.mi_clearnotchanged.caption
+msgid "Clear Not Changed"
+msgstr "Очистити не змінені"
+
+#: tform_main.mi_copyfilestoclipboard.caption
+msgid "Copy Files to Clipboard"
+msgstr "Скопіювати файл у буфер обміну"
+
+#: tform_main.mi_copyrights.caption
+msgid "Copyrights"
+msgstr "Авторські права"
+
+#: tform_main.mi_createpresetslinks.caption
+msgctxt "tform_main.mi_createpresetslinks.caption"
+msgid "Create Links"
+msgstr "Створити ярлики"
+
+#: tform_main.mi_cutfilestoclipboard.caption
+msgid "Cut Files to Clipboard"
+msgstr "Вирізати файл у буфер обміну"
+
+#: tform_main.mi_deletefiles.caption
+msgid "Delete Files to Recycle Bin"
+msgstr "Видалити файли у Кошик"
+
+#: tform_main.mi_exportcolumnstoclipboard.caption
+msgid "Export all columns to clipboard"
+msgstr "Експорт усіх стовпців до буфера обміну"
+
+#: tform_main.mi_fileproperties.caption
+msgid "File Properties"
+msgstr "Властивості файлу"
+
+#: tform_main.mi_filescolumns_cancelsorting.caption
+msgctxt "TFORM_MAIN.MI_FILESCOLUMNS_CANCELSORTING.CAPTION"
+msgid "Cancel Sorting"
+msgstr "Скасувати сортування"
+
+#: tform_main.mi_forum.caption
+msgid "Forum (online)"
+msgstr "Форум (онлайн)"
+
+#: tform_main.mi_help.caption
+msgid "Help (online)"
+msgstr "Довідка (онлайн)"
+
+#: tform_main.mi_history.caption
+msgid "Version History"
+msgstr "Історія версій"
+
+#: tform_main.mi_language.caption
+msgctxt "tform_main.mi_language.caption"
+msgid "Language"
+msgstr "Мова"
+
+#: tform_main.mi_litevspro.caption
+msgid "Lite vs Pro (online)"
+msgstr "Порівняти Lite і Pro (онлайн)"
+
+#: tform_main.mi_loadpreset.caption
+msgid "Load"
+msgstr "Завантажити"
+
+#: tform_main.mi_opencontainingfolder.caption
+msgid "Open containing folder"
+msgstr "Відкрити папку із вмістом"
+
+#: tform_main.mi_openfile.caption
+msgid "Open File"
+msgstr "Відкрити файл"
+
+#: tform_main.mi_openwithnotepad.caption
+msgid "Open with Notepad"
+msgstr "Відкрити файл у Блокноті"
+
+#: tform_main.mi_purchase.caption
+msgid "Purchase (online)"
+msgstr "Купити (онлайн)"
+
+#: tform_main.mi_quickguide.caption
+msgid "Quick Guide"
+msgstr "Короткий посібник"
+
+#: tform_main.mi_rescanpresets.caption
+msgid "Rescan"
+msgstr "Пересканувати"
+
+#: tform_main.mi_rulecomment.caption
+msgid "Comment..."
+msgstr "Додати коментар..."
+
+#: tform_main.mi_rulestoclipboard.caption
+msgid "Export to Clipboard"
+msgstr "Експорт в буфер обміну"
+
+#: tform_main.mi_usermanual.caption
+msgid "User Manual"
+msgstr "Посібник користувача"
+
+#: tform_main.toolbutton_addrule.caption
+msgctxt "tform_main.toolbutton_addrule.caption"
+msgid "Add"
+msgstr "Додати"
+
+#: tform_main.toolbutton_analyze.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_ANALYZE.CAPTION"
+msgid "Analyze"
+msgstr "Аналізувати"
+
+#: tform_main.toolbutton_columns.caption
+msgid "Columns"
+msgstr "Стовпці"
+
+#: tform_main.toolbutton_export.caption
+msgid "Export"
+msgstr "Експорт"
+
+#: tform_main.toolbutton_files.caption
+msgid "Files"
+msgstr "Файли"
+
+#: tform_main.toolbutton_filters.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_FILTERS.CAPTION"
+msgid "Filters"
+msgstr "Фільтри"
+
+#: tform_main.toolbutton_movedownrule.caption
+msgctxt "tform_main.toolbutton_movedownrule.caption"
+msgid "Down"
+msgstr "Вниз"
+
+#: tform_main.toolbutton_moveuprule.caption
+msgctxt "tform_main.toolbutton_moveuprule.caption"
+msgid "Up"
+msgstr "Вгору"
+
+#: tform_main.toolbutton_options.caption
+msgctxt "tform_main.toolbutton_options.caption"
+msgid "Options"
+msgstr "Опції"
+
+#: tform_main.toolbutton_removerule.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_REMOVERULE.CAPTION"
+msgid "Remove"
+msgstr "Видалити"
+
+#: tform_main.vst_files.header.columns[0].text
+msgid "State"
+msgstr "Стан"
+
+#: tform_main.vst_files.header.columns[10].text
+msgid "Modified"
+msgstr "Змінено"
+
+#: tform_main.vst_files.header.columns[11].text
+msgctxt "TFORM_MAIN.VST_FILES.HEADER.COLUMNS[11].TEXT"
+msgid "Extension"
+msgstr "Розширення"
+
+#: tform_main.vst_files.header.columns[12].text
+msgid "Name Digits"
+msgstr "Цифри імені"
+
+#: tform_main.vst_files.header.columns[13].text
+msgid "Path Digits"
+msgstr "Цифри шляху"
+
+#: tform_main.vst_files.header.columns[14].text
+msgid "Name Length"
+msgstr "Довжина імені"
+
+#: tform_main.vst_files.header.columns[15].text
+msgid "New Name Length"
+msgstr "Довжина нового імені"
+
+#: tform_main.vst_files.header.columns[16].text
+msgid "Path Length"
+msgstr ""
+
+#: tform_main.vst_files.header.columns[17].text
+msgid "New Path Length"
+msgstr ""
+
+#: tform_main.vst_files.header.columns[18].text
+msgid "Exif Date"
+msgstr "EXIF дата"
+
+#: tform_main.vst_files.header.columns[19].text
+msgid "Old Path"
+msgstr "Старий шлях"
+
+#: tform_main.vst_files.header.columns[1].text
+msgid "Path"
+msgstr "Шлях"
+
+#: tform_main.vst_files.header.columns[20].text
+msgctxt "tform_main.vst_files.header.columns[20].text"
+msgid "Error"
+msgstr "Помилка"
+
+#: tform_main.vst_files.header.columns[2].text
+msgid "Folder"
+msgstr "Папка"
+
+#: tform_main.vst_files.header.columns[3].text
+msgid "Name"
+msgstr "Ім'я"
+
+#: tform_main.vst_files.header.columns[4].text
+msgid "New Name"
+msgstr "Нове ім'я"
+
+#: tform_main.vst_files.header.columns[5].text
+msgid "New Path"
+msgstr "Новий шлях"
+
+#: tform_main.vst_files.header.columns[6].text
+msgid "Size"
+msgstr "Розмір"
+
+#: tform_main.vst_files.header.columns[7].text
+msgid "Size KB"
+msgstr "Розмір КБ"
+
+#: tform_main.vst_files.header.columns[8].text
+msgid "Size MB"
+msgstr "Розмір МБ"
+
+#: tform_main.vst_files.header.columns[9].text
+msgid "Created"
+msgstr "Створено"
+
+#: tform_metatags.bitbtn_cancel.caption
+msgctxt "TFORM_METATAGS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: tform_metatags.bitbtn_insert.caption
+msgctxt "TFORM_METATAGS.BITBTN_INSERT.CAPTION"
+msgid "Insert"
+msgstr "Вставити"
+
+#: tform_metatags.caption
+msgctxt "TFORM_METATAGS.CAPTION"
+msgid "Meta Tags"
+msgstr "Мета-Теги"
+
+#: tform_metatags.label_note.caption
+msgid "Note: Most of the tags can only work for files, not folders."
+msgstr "Увага: Більшість Мета-Тегів можуть працювати тільки з файлами, а не з папками."
+
+#: tform_presetsave.bitbtn_save.caption
+msgid "&Save"
+msgstr "&Зберегти"
+
+#: tform_presetsave.caption
+msgid "Save Preset"
+msgstr "Зберегти пресет"
+
+#: tform_presetsave.cb_presetsavefilters.caption
+msgid "Save Filter Settings with the preset?"
+msgstr "Зберегти налаштування фільтра з пресетом?"
+
+#: tform_presetsave.label1.caption
+msgid "Overwrite existing preset:"
+msgstr "Перезаписати наявний пресет:"
+
+#: tform_presetsave.le_name.editlabel.caption
+msgid "Preset Name:"
+msgstr "Ім'я пресету:"
+
+#: tform_presetslinks.bb_createlinks.caption
+msgctxt "TFORM_PRESETSLINKS.BB_CREATELINKS.CAPTION"
+msgid "Create Links"
+msgstr "Створити ярлики"
+
+#: tform_presetslinks.caption
+msgid "Presets Links"
+msgstr "Ярлики пресетів"
+
+#: tform_presetslinks.label_folder.caption
+msgid "Please specify a folder where you want to place the links:"
+msgstr "Будь ласка, вкажіть папку для розміщення ярликів:"
+
+#: tform_presetslinks.label_linktype.caption
+msgid "Type of links:"
+msgstr "Тип ярликів:"
+
+#: tform_presetslinks.rb_load.caption
+msgctxt "TFORM_PRESETSLINKS.RB_LOAD.CAPTION"
+msgid "Load with Preset"
+msgstr "Завантажити"
+
+#: tform_presetslinks.rb_rename.caption
+msgctxt "TFORM_PRESETSLINKS.RB_RENAME.CAPTION"
+msgid "Rename with Preset"
+msgstr "Перейменувати"
+
+#: tform_presetslinks.sb_browse.hint
+msgid "Browse for Folder"
+msgstr "Пошук папки"
+
+#: tform_presetslinks.sb_usesendto.hint
+msgid "Use \"Send To\" Folder"
+msgstr "Використовувати папку \"Надіслати до\""
+
+#: tform_presetsmanager.caption
+msgid "Presets Manager"
+msgstr "Управління пресетами"
+
+#: tform_presetsmanager.tb_append.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_APPEND.HINT"
+msgid "Append Preset"
+msgstr "Додати пресет"
+
+#: tform_presetsmanager.tb_copy.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_COPY.HINT"
+msgid "Duplicate Preset"
+msgstr "Дублювати пресет"
+
+#: tform_presetsmanager.tb_delete.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_DELETE.HINT"
+msgid "Delete Preset (Del)"
+msgstr "Видалити пресет (Del)"
+
+#: tform_presetsmanager.tb_edit.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_EDIT.HINT"
+msgid "Manually Edit Preset (F4)"
+msgstr "Вручну редагувати пресет (F4)"
+
+#: tform_presetsmanager.tb_load.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_LOAD.HINT"
+msgid "Load Preset (Enter)"
+msgstr "Завантажити пресет (Enter)"
+
+#: tform_presetsmanager.tb_rename.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_RENAME.HINT"
+msgid "Rename Preset (F2)"
+msgstr "Перейменувати пресет (F2)"
+
+#: tform_register.bb_cancel.caption
+msgctxt "TFORM_REGISTER.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: tform_register.bb_register.caption
+msgctxt "TFORM_REGISTER.BB_REGISTER.CAPTION"
+msgid "Register"
+msgstr "Зареєструвати"
+
+#: tform_register.caption
+msgid "Registration"
+msgstr "Реєстрація"
+
+#: tform_register.label1.caption
+msgid "Please enter your registration code:"
+msgstr "Введіть свій реєстраційний код:"
+
+#: tform_settings.bitbtn_cancel.caption
+msgctxt "TFORM_SETTINGS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: tform_settings.bitbtn_save.caption
+msgctxt "TFORM_SETTINGS.BITBTN_SAVE.CAPTION"
+msgid "Save"
+msgstr "Зберегти"
+
+#: tform_settings.caption
+msgctxt "TFORM_SETTINGS.CAPTION"
+msgid "Settings"
+msgstr "Налаштування"
+
+#: tform_settings.cb_allowprocessingextensionsinfolders.caption
+msgid "Folders also have extensions, process them as such"
+msgstr "Обробляти папки, що теж мають розширення, як файли"
+
+#: tform_settings.cb_highlightchangednames.caption
+msgid "Highlight changed file names"
+msgstr "Виділяти змінені імена файлів"
+
+#: tform_settings.cb_overwritewithnewnameconfirm.caption
+msgid "Must be successfully confirmed by user"
+msgstr "Має бути підтверджено користувачем"
+
+#: tform_settings.checkbox_addtofoldercontextmenu.caption
+msgid "Add to folders context menu"
+msgstr "Додати до контекстного меню папок"
+
+#: tform_settings.checkbox_addtosendtocontextmenu.caption
+msgid "Add to \"Send To\" context menu"
+msgstr "Додати до контекстного меню \"Надіслати до\""
+
+#: tform_settings.checkbox_alwaysontop.caption
+msgid "Stay on top of other windows"
+msgstr "Завжди тримати поверх інших вікон"
+
+#: tform_settings.checkbox_autopreviewonfilesadded.caption
+msgid "Auto preview when new files are added"
+msgstr "Автоматичний перегляд у разі додавання нових файлів"
+
+#: tform_settings.checkbox_autopreviewonruleschange.caption
+msgid "Auto preview on change of rules configurations"
+msgstr "Автоматичний перегляд у разі зміни конфігурації правил"
+
+#: tform_settings.checkbox_autosizetable.caption
+msgid "Auto size table on change"
+msgstr "Автоматично підбирати розмір стовпців таблиці у разі змін"
+
+#: tform_settings.checkbox_clearfilestableonrename.caption
+msgid "Clear files table on rename"
+msgstr "Очищати таблицю файлів після перейменування"
+
+#: tform_settings.checkbox_clearrenamedfilesonrename.caption
+msgid "Clear renamed files on rename"
+msgstr "Очищати перейменовані файли після перейменування"
+
+#: tform_settings.checkbox_clearruleslistonrename.caption
+msgid "Clear rules list on rename"
+msgstr "Очищати список правил після перейменування"
+
+#: tform_settings.checkbox_closeprogramaftersuccessfulrename.caption
+msgid "Close program after successful rename"
+msgstr "Закривати програму після успішного перейменування"
+
+#: tform_settings.checkbox_displaymsgonsuccessfulrename.caption
+msgid "Display message on successful rename"
+msgstr "Показувати повідомлення після успішного перейменування"
+
+#: tform_settings.checkbox_fixconflictingnewnamesonpreview.caption
+msgid "Fix conflicting new names on preview"
+msgstr "Виправляти конфліктні нові імена під час перегляду"
+
+#: tform_settings.checkbox_metatagsupport.caption
+msgid "MetaTag support"
+msgstr "Підтримка Мета-Тегів"
+
+#: tform_settings.checkbox_overwritewithnewname.caption
+msgid "Overwrite files with New Names"
+msgstr "Перезаписувати файли з новими іменами"
+
+#: tform_settings.checkbox_previewrealtimeupdate.caption
+msgid "Real-time update of the preview"
+msgstr "Оновлювати перегляд у режимі реального часу"
+
+#: tform_settings.checkbox_registerpresetextension.caption
+msgid "Register preset extension (*.rnp)"
+msgstr "Асоціювати з файлами пресетів (*.rnp)"
+
+#: tform_settings.checkbox_rememberlocation.caption
+msgid "Remember position and size of major windows"
+msgstr "Пам'ятати розташування та розмір основних вікон"
+
+#: tform_settings.checkbox_saveandloaddefaultpreset.caption
+msgid "Save rules configuration on exit, load on startup"
+msgstr "Зберігати конфігурацію правил під час виходу"
+
+#: tform_settings.checkbox_showmaintoolbar.caption
+msgid "Show main toolbar"
+msgstr "Показати головну панель інструментів"
+
+#: tform_settings.checkbox_skiprenamingunchangedfiles.caption
+msgid "Skip renaming of unchanged files"
+msgstr "Пропускати перейменування незмінних файлів"
+
+#: tform_settings.checkbox_sortingremember.caption
+msgid "Remember sorting options (files table)"
+msgstr "Пам'ятати параметри сортування (таблиця файлів)"
+
+#: tform_settings.checkbox_usenaturalsort.caption
+msgid "Use natural order sorting algorithm (2-3 times slower)"
+msgstr "Сортувати за природним порядком (у 2-3 рази повільніше)"
+
+#: tform_settings.checkbox_validateonpreview.caption
+msgid "Validate new filenames on preview"
+msgstr "Перевіряти нові імена файлів під час перегляду"
+
+#: tform_settings.label1.caption
+msgid "Date Format:"
+msgstr "Формат дати:"
+
+#: tform_settings.label2.caption
+msgid "Preview:"
+msgstr "Перегляд:"
+
+#: tform_settings.label3.caption
+msgid "Example: file1, file2 ... file9, file10, file11, and so on."
+msgstr "Приклад: file1, file2 ... file9, file10, file11 і так далі."
+
+#: tform_settings.label5.caption
+msgid "Note: disabling any of these options will increase performance when processing large amount of files."
+msgstr "Примітка: вимкнення будь-якого з цих параметрів збільшить швидкодію під час обробки великої кількості файлів."
+
+#: tform_settings.label_addrulestext.caption
+msgid "Change text of \"Click here to add a rule\":"
+msgstr "Змінити текст \"Натисніть тут, щоб додати правило\":"
+
+#: tform_settings.label_dragfilestext.caption
+msgid "Change text of \"Drag your files here\":"
+msgstr "Змінити текст \"Перетягніть ваші файли сюди\":"
+
+#: tform_settings.label_metatagformatnote.caption
+msgid "Note: formats will be saved only if validated successfully."
+msgstr "Примітка: формати буде збережено лише за умови успішної перевірки."
+
+#: tform_settings.speedbutton_filtersettings.caption
+msgid "Configure Filter Settings"
+msgstr "Налаштувати параметри фільтра"
+
+#: tform_settings.speedbutton_metatagformatsinfo.caption
+msgctxt "TFORM_SETTINGS.SPEEDBUTTON_METATAGFORMATSINFO.CAPTION"
+msgid "Help"
+msgstr "Довідка"
+
+#: tform_settings.speedbutton_metatagformatsinfo.hint
+msgctxt "TFORM_SETTINGS.SPEEDBUTTON_METATAGFORMATSINFO.HINT"
+msgid "Online Help (F1)"
+msgstr "Онлайн довідка (F1)"
+
+#: tform_settings.statictext1.caption
+msgid "Note: Disabling MetaTag support will increase performance when processing large amount of files."
+msgstr "Примітка: Вимкнення підтримки Мета-Тегів збільшить швидкодію під час обробки великої кількості файлів."
+
+#: tform_settings.statictext5.caption
+msgid "Warning: Overwritten files will be deleted permanently."
+msgstr "Увага: Перезаписані файли будуть видалені остаточно."
+
+#: tform_settings.tabsheet_general.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_GENERAL.CAPTION"
+msgid "General"
+msgstr "Загальні"
+
+#: tform_settings.tabsheet_metatags.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_METATAGS.CAPTION"
+msgid "Meta Tags"
+msgstr "Мета-Теги"
+
+#: tform_settings.tabsheet_misc.caption
+msgid "Misc."
+msgstr "Різне"
+
+#: tform_settings.tabsheet_preview.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_PREVIEW.CAPTION"
+msgid "Preview"
+msgstr "Перегляд"
+
+#: tform_settings.tabsheet_rename.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_RENAME.CAPTION"
+msgid "Rename"
+msgstr "Перейменування"
+
+#: tform_termsofuse.bb_accept.caption
+msgid "Accept"
+msgstr "Прийняти"
+
+#: tform_termsofuse.bb_litevspro.caption
+msgid "Lite vs Pro"
+msgstr "Lite або Pro"
+
+#: tform_termsofuse.bb_purchase.caption
+msgid "Purchase"
+msgstr "Придбати"
+
+#: tform_termsofuse.bb_register.caption
+msgid "Enter registration code"
+msgstr "Введіть реєстраційний код"
+
+#: tform_termsofuse.caption
+msgid "Terms of Use"
+msgstr "Умови використання"
+
+#: tform_termsofuse.groupbox.caption
+msgid "Please be aware of the terms of use of this application:"
+msgstr "Будь ласка, пам’ятайте про умови використання цієї програми:"
+
+#: tform_termsofuse.label_commercial.caption
+msgid "For commercial use you must obtain a commercial license by going to the website. If you already hold a license please enter your registration code. Thank you for playing fair."
+msgstr "Для комерційного використання ви повинні отримати на веб-сайті комерційну ліцензію. Якщо ви вже маєте ліцензію, будь ласка, введіть ваш реєстраційний код. Дякуємо за чесну гру."
+
+#: tform_termsofuse.label_noncommercial.caption
+msgctxt "TFORM_TERMSOFUSE.LABEL_NONCOMMERCIAL.CAPTION"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Цю програму можна використовувати й поширювати тільки в некомерційних цілях, і з відповідним посиланням на автора."
+
+#: tform_termsofuse.label_supportdevelopment.caption
+msgid "Please also consider purchasing a \"Pro\" version to support the future development of this application."
+msgstr "Будь ласка, розгляньте можливість придбання \"Pro\" версії для підтримки майбутнього розвитку цієї програми."
+
+#: tframe_rulecase.checkbox_caseextensionalwayslowercase.caption
+msgid "Extension always lower case"
+msgstr "Розширення в нижньому регістрі"
+
+#: tframe_rulecase.checkbox_caseextensionalwaysuppercase.caption
+msgid "Extension always upper case"
+msgstr "Розширення в верхньому регістрі"
+
+#: tframe_rulecase.checkbox_caseforce.caption
+msgid "Force case for fragments:"
+msgstr "Регістр фрагментів за шаблоном:"
+
+#: tframe_rulecase.checkbox_caseskipextension.caption
+msgctxt "tframe_rulecase.checkbox_caseskipextension.caption"
+msgid "Skip extension"
+msgstr "Пропускати розширення"
+
+#: tframe_rulecase.groupbox_casechange.caption
+msgid "Case change:"
+msgstr "Змінити регістр:"
+
+#: tframe_rulecase.label_caseforcehint.caption
+msgid "Hint: fragments separated with comma will be put in the same case as they are typed in this text box, for example: CD,DVD,DJ"
+msgstr "Підказка: регістр фрагментів розділених комою буде змінено відповідно до вище введеного шаблону, наприклад: CD,DVD,DJ"
+
+#: tframe_rulecase.rb_casealllower.caption
+msgid "all lower case"
+msgstr "все у нижньому регістрі"
+
+#: tframe_rulecase.rb_caseallupper.caption
+msgid "ALL UPPER CASE"
+msgstr "ВСЕ У ВЕРХНЬОМУ РЕГІСТРІ"
+
+#: tframe_rulecase.rb_casecapitalize.caption
+msgid "Capitalize Every Word"
+msgstr "Кожне Слово З Великої Літери"
+
+#: tframe_rulecase.rb_casecapitalizeandpreserve.caption
+msgid "Capitalize AND Preserve"
+msgstr "З Великої ТА Зберегти Регістр"
+
+#: tframe_rulecase.rb_casefirstlettercapital.caption
+msgctxt "TFRAME_RULECASE.RB_CASEFIRSTLETTERCAPITAL.CAPTION"
+msgid "First letter capital"
+msgstr "Перше слово з великої літери"
+
+#: tframe_rulecase.rb_caseinvert.caption
+msgid "iNVERT cASE"
+msgstr "іНВЕРТУВАТИ рЕГІСТР сЛІВ"
+
+#: tframe_rulecase.rb_noneofabove.caption
+msgid "(none of the above)"
+msgstr "(нічого з вище вказаного)"
+
+#: tframe_rulecleanup.cb_insertspacebeforecapitals.caption
+msgid "Insert a space in front of capitalized letters (e.g. CamelCase)"
+msgstr "Вставити пробіл перед великими літерами (напр, CamelCase)"
+
+#: tframe_rulecleanup.cb_normalizespaces.caption
+msgid "Normalize unicode spaces by replacing them with a standard space"
+msgstr "Замінити символи пробілу Юнікод стандартними пробілами"
+
+#: tframe_rulecleanup.checkbox_prepareforsharepoint.caption
+msgid "Prepare for SharePoint (always inc. extension)"
+msgstr "Підготувати для SharePoint (завжди включати розширення)"
+
+#: tframe_rulecleanup.checkbox_skipextension.caption
+msgctxt "TFRAME_RULECLEANUP.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Пропускати розширення"
+
+#: tframe_rulecleanup.checkbox_spacescomma.caption
+msgid ", (comma)"
+msgstr ", (кома)"
+
+#: tframe_rulecleanup.checkbox_spacesdot.caption
+msgid ". (dot)"
+msgstr ". (крапка)"
+
+#: tframe_rulecleanup.checkbox_spacesfix.caption
+msgid "Fix spaces: only one space at a time, no spaces on sides of basename"
+msgstr "Виправити пробіли: тільки один за раз, без пробілів із боків"
+
+#: tframe_rulecleanup.checkbox_spacesskipversions.caption
+msgid "Skip number sequences, for example version 1.2.3.4"
+msgstr "Пропускати послідовності чисел, наприклад, версію 1.2.3.4"
+
+#: tframe_rulecleanup.checkbox_stripunicodemarks.caption
+msgid "Strip unicode marks (combining, diacritics, accents)"
+msgstr ""
+
+#: tframe_rulecleanup.groupbox1.caption
+msgid "Replace these characters with spaces:"
+msgstr "Замінити пробілами ці символи:"
+
+#: tframe_rulecleanup.groupbox_brackets.caption
+msgid "Strip out content of brackets:"
+msgstr "Видалити вміст дужок:"
+
+#: tframe_ruledelete.checkbox_deletecurrentname.caption
+msgctxt "TFRAME_RULEDELETE.CHECKBOX_DELETECURRENTNAME.CAPTION"
+msgid "Delete current name"
+msgstr "Видалити поточне ім'я"
+
+#: tframe_ruledelete.checkbox_deleterighttoleft.caption
+msgctxt "tframe_ruledelete.checkbox_deleterighttoleft.caption"
+msgid "Right-to-left"
+msgstr "Справа наліво"
+
+#: tframe_ruledelete.checkbox_deleteskipextension.caption
+msgctxt "TFRAME_RULEDELETE.CHECKBOX_DELETESKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Пропускати розширення"
+
+#: tframe_ruledelete.checkbox_leavedelimiter.caption
+msgid "Do not remove delimiters"
+msgstr "Не видаляти роздільники"
+
+#: tframe_ruledelete.groupbox_from.caption
+msgid "From:"
+msgstr "Від:"
+
+#: tframe_ruledelete.groupbox_until.caption
+msgid "Until:"
+msgstr "До:"
+
+#: tframe_ruledelete.radiobutton_deletefromdelimiter.caption
+msgctxt "tframe_ruledelete.radiobutton_deletefromdelimiter.caption"
+msgid "Delimiter:"
+msgstr "Роздільник:"
+
+#: tframe_ruledelete.radiobutton_deletefromposition.caption
+msgctxt "tframe_ruledelete.radiobutton_deletefromposition.caption"
+msgid "Position:"
+msgstr "Позиція:"
+
+#: tframe_ruledelete.radiobutton_deleteuntilcount.caption
+msgid "Count:"
+msgstr "Кількість:"
+
+#: tframe_ruledelete.radiobutton_deleteuntildelimiter.caption
+msgctxt "TFRAME_RULEDELETE.RADIOBUTTON_DELETEUNTILDELIMITER.CAPTION"
+msgid "Delimiter:"
+msgstr "Роздільник:"
+
+#: tframe_ruledelete.radiobutton_deleteuntilend.caption
+msgid "Till the end"
+msgstr "До кінця"
+
+#: tframe_ruleextension.checkbox_detectbinsign.caption
+msgid "Detect using \"binary signature\""
+msgstr "Виявляти за допомогою \"двійкового підпису\""
+
+#: tframe_ruleextension.checkbox_extensionappend.caption
+msgid "Append to the original filename"
+msgstr "Додати до оригінального імені файлу"
+
+#: tframe_ruleextension.label_extensionlabel.caption
+msgid "New Extension (without dot):"
+msgstr "Нове розширення (без крапки):"
+
+#: tframe_ruleextension.label_hint.caption
+msgid "Note: Some files may have multiple extensions matching their data type, for example: doc/ppt/xls have the same signature. Unrecognised files will remain unchanged. If this option is used, the new extension field is ignored."
+msgstr "Примітка: Деякі файли можуть мати кілька розширень, що відповідають їхньому типу даних. Наприклад: doc/ppt/xls мають однаковий підпис. Нерозпізнані файли залишиться без змін. Якщо використовується цей параметр, поле нового розширення буде проігноровано."
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.caption
+msgctxt "TFRAME_RULEINSERT.BITBTN_INSERTMETATAG.CAPTION"
+msgid "Insert Meta Tag"
+msgstr "Вставити Мета-Тег"
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.hint
+msgctxt "TFRAME_RULEINSERT.BITBTN_INSERTMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Вставити Мета-Тег (Ctrl+Ins)"
+
+#: tframe_ruleinsert.checkbox_insertright.caption
+msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTRIGHT.CAPTION"
+msgid "Right-to-left"
+msgstr "Справа наліво"
+
+#: tframe_ruleinsert.checkbox_insertskipextension.caption
+msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTSKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Пропускати розширення"
+
+#: tframe_ruleinsert.label_insertwhat.caption
+msgid "Insert:"
+msgstr "Вставити:"
+
+#: tframe_ruleinsert.label_insertwhere.caption
+msgid "Where:"
+msgstr "Куди:"
+
+#: tframe_ruleinsert.radiobutton_insertaftertext.caption
+msgid "After text:"
+msgstr "Після:"
+
+#: tframe_ruleinsert.radiobutton_insertbeforetext.caption
+msgid "Before text:"
+msgstr "Перед:"
+
+#: tframe_ruleinsert.radiobutton_insertposition.caption
+msgctxt "TFRAME_RULEINSERT.RADIOBUTTON_INSERTPOSITION.CAPTION"
+msgid "Position:"
+msgstr "Позиція:"
+
+#: tframe_ruleinsert.radiobutton_insertprefix.caption
+msgctxt "tframe_ruleinsert.radiobutton_insertprefix.caption"
+msgid "Prefix"
+msgstr "Префікс"
+
+#: tframe_ruleinsert.radiobutton_insertsuffix.caption
+msgctxt "tframe_ruleinsert.radiobutton_insertsuffix.caption"
+msgid "Suffix"
+msgstr "Суфікс"
+
+#: tframe_ruleinsert.radiobutton_replacecurrentname.caption
+msgctxt "TFRAME_RULEINSERT.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
+msgid "Replace current name"
+msgstr "Замінити поточне ім'я"
+
+#: tframe_rulepadding.checkbox_addtextpadding.caption
+msgid "Add padding to length:"
+msgstr "Додати заповнення до довжини:"
+
+#: tframe_rulepadding.checkbox_addzeropadding.caption
+msgid "Add zero padding to length:"
+msgstr "Додати заповнення нулями до довжини:"
+
+#: tframe_rulepadding.checkbox_removezeropadding.caption
+msgctxt "tframe_rulepadding.checkbox_removezeropadding.caption"
+msgid "Remove zero padding"
+msgstr "Видалити заповнення нулями"
+
+#: tframe_rulepadding.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEPADDING.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Пропускати розширення"
+
+#: tframe_rulepadding.groupbox_numbersequences.caption
+msgid "Number sequences"
+msgstr "Числа"
+
+#: tframe_rulepadding.groupbox_textpadding.caption
+msgid "Text padding"
+msgstr "Текст"
+
+#: tframe_rulepadding.label_paddingcharacters.caption
+msgid "Padding characters:"
+msgstr "Символи для заповнення:"
+
+#: tframe_rulepadding.label_position.caption
+msgctxt "TFRAME_RULEPADDING.LABEL_POSITION.CAPTION"
+msgid "Position:"
+msgstr "Позиція:"
+
+#: tframe_rulepadding.radiobutton_positionleft.caption
+msgid "Left"
+msgstr "Ліворуч"
+
+#: tframe_rulepadding.radiobutton_positionright.caption
+msgid "Right"
+msgstr "Праворуч"
+
+#: tframe_rulepascalscript.toolbutton_compile.caption
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_COMPILE.CAPTION"
+msgid "Try to Compile"
+msgstr "Скомпілювати"
+
+#: tframe_rulepascalscript.toolbutton_compile.hint
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_COMPILE.HINT"
+msgid "Try to Compile (Ctrl+T)"
+msgstr "Спробуйте скомпілювати (Ctrl+T)"
+
+#: tframe_rulepascalscript.toolbutton_gotoline.caption
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_GOTOLINE.CAPTION"
+msgid "Go To"
+msgstr "Перейти"
+
+#: tframe_rulepascalscript.toolbutton_gotoline.hint
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_GOTOLINE.HINT"
+msgid "Go To Line (Ctrl+G)"
+msgstr "Перейти до рядка (Ctrl+G)"
+
+#: tframe_rulepascalscript.toolbutton_help.caption
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_HELP.CAPTION"
+msgid "Help"
+msgstr "Довідка"
+
+#: tframe_rulepascalscript.toolbutton_help.hint
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_HELP.HINT"
+msgid "Online Help (F1)"
+msgstr "Онлайн довідка (F1)"
+
+#: tframe_rulepascalscript.toolbutton_scripts.caption
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_SCRIPTS.CAPTION"
+msgid "Scripts"
+msgstr "Скрипти"
+
+#: tframe_rulepascalscript.toolbutton_scripts.hint
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_SCRIPTS.HINT"
+msgid "Scripts (Ctrl+L)"
+msgstr "Скрипти (Ctrl+L)"
+
+#: tframe_rulerandomize.checkbox_skipextension.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Пропускати розширення"
+
+#: tframe_rulerandomize.checkbox_unique.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_UNIQUE.CAPTION"
+msgid "Unique if possible"
+msgstr "Бажано унікальні"
+
+#: tframe_rulerandomize.checkbox_usedigits.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_USEDIGITS.CAPTION"
+msgid "Digits (0..9)"
+msgstr "Цифри (0..9)"
+
+#: tframe_rulerandomize.checkbox_useenglishletters.caption
+msgid "English letters (a..z)"
+msgstr "Англійські літери (a..z)"
+
+#: tframe_rulerandomize.checkbox_useuserdefined.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_USEUSERDEFINED.CAPTION"
+msgid "User defined:"
+msgstr "Визначені користувачем:"
+
+#: tframe_rulerandomize.groupbox_characters.caption
+msgctxt "TFRAME_RULERANDOMIZE.GROUPBOX_CHARACTERS.CAPTION"
+msgid "Characters to use:"
+msgstr "Використовувати символи:"
+
+#: tframe_rulerandomize.groupbox_insertwhere.caption
+msgctxt "TFRAME_RULERANDOMIZE.GROUPBOX_INSERTWHERE.CAPTION"
+msgid "Insert where:"
+msgstr "Куди вставити:"
+
+#: tframe_rulerandomize.label_length.caption
+msgctxt "TFRAME_RULERANDOMIZE.LABEL_LENGTH.CAPTION"
+msgid "Length of random sequence:"
+msgstr "Довжина випадкової послідовності:"
+
+#: tframe_rulerandomize.radiobutton_position.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_POSITION.CAPTION"
+msgid "Position:"
+msgstr "Позиція:"
+
+#: tframe_rulerandomize.radiobutton_prefix.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_PREFIX.CAPTION"
+msgid "Prefix"
+msgstr "Префікс"
+
+#: tframe_rulerandomize.radiobutton_replacecurrentname.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
+msgid "Replace current name"
+msgstr "Замінити поточне ім'я"
+
+#: tframe_rulerandomize.radiobutton_suffix.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_SUFFIX.CAPTION"
+msgid "Suffix"
+msgstr "Суфікс"
+
+#: tframe_rulerearrange.cb_righttoleft.caption
+msgctxt "TFRAME_RULEREARRANGE.CB_RIGHTTOLEFT.CAPTION"
+msgid "Right-to-left"
+msgstr "Справа наліво"
+
+#: tframe_rulerearrange.cb_skipextension.caption
+msgctxt "TFRAME_RULEREARRANGE.CB_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Пропускати розширення"
+
+#: tframe_rulerearrange.label1.caption
+msgid "Split using:"
+msgstr "Розділити за:"
+
+#: tframe_rulerearrange.label2.caption
+msgid "New pattern:"
+msgstr "Новий шаблон:"
+
+#: tframe_rulerearrange.label3.caption
+msgid "Hint: Use $1..$N to reference delimited parts in the new pattern, $-1..$-N to reference from the end, $0 for the original name."
+msgstr "Підказка: Використовуйте $1..$N щоб посилатися у новому шаблоні на окремі частини оригінального імені, $-1..$-N - задля посилання з кінця, $0 - замість оригінального імені."
+
+#: tframe_rulerearrange.rb_usingdelimiters.caption
+msgid "Delimiters"
+msgstr "Роздільниками"
+
+#: tframe_rulerearrange.rb_usingexactpatternofdelimiters.caption
+msgid "Exact pattern of delimiters"
+msgstr "Шаблоном роздільників"
+
+#: tframe_rulerearrange.rb_usingpositions.caption
+msgid "Positions"
+msgstr "Позицією"
+
+#: tframe_rulerearrange.sb_addseparator.hint
+msgctxt "tframe_rulerearrange.sb_addseparator.hint"
+msgid "Separate multiple items"
+msgstr "Розділити декілька елементів"
+
+#: tframe_rulerearrange.sb_insertmetatag.hint
+msgctxt "TFRAME_RULEREARRANGE.SB_INSERTMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Вставити Мета-Тег (Ctrl+Ins)"
+
+#: tframe_rulereformatdate.checkbox_adjusttime.caption
+msgid "Adjust time by:"
+msgstr "Скорегувати час на:"
+
+#: tframe_rulereformatdate.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREFORMATDATE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Пропускати розширення"
+
+#: tframe_rulereformatdate.checkbox_usecustomlongmonths.caption
+msgid "Use custom long months:"
+msgstr "Довгі назви місяців:"
+
+#: tframe_rulereformatdate.checkbox_usecustomshortmonths.caption
+msgid "Use custom short months:"
+msgstr "Короткі назви місяців:"
+
+#: tframe_rulereformatdate.checkbox_wholewordsonly.caption
+msgid "Match as whole words only"
+msgstr "Лише слова повністю"
+
+#: tframe_rulereformatdate.label_inputformats.caption
+msgid "Find date/time formats:"
+msgstr "Знайти формати дати/часу:"
+
+#: tframe_rulereformatdate.label_outputformat.caption
+msgid "Convert to date/time format:"
+msgstr "Замінити на формат дати/часу:"
+
+#: tframe_rulereformatdate.menuitem_addseparator.caption
+msgctxt "TFRAME_RULEREFORMATDATE.MENUITEM_ADDSEPARATOR.CAPTION"
+msgid "Separate multiple items"
+msgstr "Розділити декілька елементів"
+
+#: tframe_rulereformatdate.menuitem_datetimeformathelp.caption
+msgid "Date/time format reference (online)"
+msgstr "Довідка по формату дати й часу (онлайн)"
+
+#: tframe_ruleregex.checkbox_casesensitive.caption
+msgid "Case-sensitive"
+msgstr "Враховувати регістр"
+
+#: tframe_ruleregex.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREGEX.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Пропускати розширення"
+
+#: tframe_ruleregex.label1.caption
+msgid "Hint: Use $1..$9 to reference subexpressions."
+msgstr "Порада: Використовуйте $1..$9 як посилання на частини виразів."
+
+#: tframe_ruleregex.label4.caption
+msgid "Expression:"
+msgstr "Вираз:"
+
+#: tframe_ruleregex.label5.caption
+msgctxt "tframe_ruleregex.label5.caption"
+msgid "Replace:"
+msgstr "Замінити:"
+
+#: tframe_ruleregex.sb_insertexpression.hint
+msgid "Insert expression (Ctrl+Ins)"
+msgstr "Вставити вираз (Ctrl+Ins)"
+
+#: tframe_ruleregex.speedbutton_help.caption
+msgctxt "TFRAME_RULEREGEX.SPEEDBUTTON_HELP.CAPTION"
+msgid "Help"
+msgstr "Довідка"
+
+#: tframe_ruleregex.speedbutton_help.hint
+msgctxt "TFRAME_RULEREGEX.SPEEDBUTTON_HELP.HINT"
+msgid "Online Help (F1)"
+msgstr "Онлайн довідка (F1)"
+
+#: tframe_ruleremove.checkbox_casesensitive.caption
+msgctxt "tframe_ruleremove.checkbox_casesensitive.caption"
+msgid "Case sensitive"
+msgstr "Враховувати регістр"
+
+#: tframe_ruleremove.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREMOVE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Пропускати розширення"
+
+#: tframe_ruleremove.checkbox_usewildcards.caption
+msgid "Interpret symbols '?', '*', '[', ']' as wildcards?"
+msgstr "Розглядати символи '?', '*', '[', ']' як знаки підстановки?"
+
+#: tframe_ruleremove.checkbox_wholewordsonly.caption
+msgctxt "TFRAME_RULEREMOVE.CHECKBOX_WHOLEWORDSONLY.CAPTION"
+msgid "Whole words only"
+msgstr "Лише слова повністю"
+
+#: tframe_ruleremove.label_removeoccurances.caption
+msgctxt "tframe_ruleremove.label_removeoccurances.caption"
+msgid "Occurrences:"
+msgstr "Випадки:"
+
+#: tframe_ruleremove.label_removewhat.caption
+msgid "Remove:"
+msgstr "Прибрати:"
+
+#: tframe_ruleremove.radiobutton_removeall.caption
+msgctxt "tframe_ruleremove.radiobutton_removeall.caption"
+msgid "All"
+msgstr "Усі"
+
+#: tframe_ruleremove.radiobutton_removefirst.caption
+msgctxt "tframe_ruleremove.radiobutton_removefirst.caption"
+msgid "First"
+msgstr "Перший"
+
+#: tframe_ruleremove.radiobutton_removelast.caption
+msgctxt "tframe_ruleremove.radiobutton_removelast.caption"
+msgid "Last"
+msgstr "Останній"
+
+#: tframe_ruleremove.speedbutton_removeaddseparator.hint
+msgctxt "TFRAME_RULEREMOVE.SPEEDBUTTON_REMOVEADDSEPARATOR.HINT"
+msgid "Separate multiple items"
+msgstr "Розділити декілька елементів"
+
+#: tframe_rulereplace.checkbox_casesensitive.caption
+msgctxt "TFRAME_RULEREPLACE.CHECKBOX_CASESENSITIVE.CAPTION"
+msgid "Case sensitive"
+msgstr "Враховувати регістр"
+
+#: tframe_rulereplace.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREPLACE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Пропускати розширення"
+
+#: tframe_rulereplace.checkbox_usewildcards.caption
+msgid "Interpret '?', '*', '[', ']' as wildcards and '$n' as backreferences?"
+msgstr "Розглядати '?', '*', '[', ']' як знаки підстановки, а '$n' як зворотні посилання?"
+
+#: tframe_rulereplace.checkbox_wholewordsonly.caption
+msgctxt "tframe_rulereplace.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "Лише слова повністю"
+
+#: tframe_rulereplace.label_replaceoccurances.caption
+msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEOCCURANCES.CAPTION"
+msgid "Occurrences:"
+msgstr "Випадки:"
+
+#: tframe_rulereplace.label_replacewhat.caption
+msgid "Find:"
+msgstr "Знайти:"
+
+#: tframe_rulereplace.label_replacewith.caption
+msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEWITH.CAPTION"
+msgid "Replace:"
+msgstr "Замінити:"
+
+#: tframe_rulereplace.radiobutton_replaceall.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACEALL.CAPTION"
+msgid "All"
+msgstr "Усі"
+
+#: tframe_rulereplace.radiobutton_replacefirst.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACEFIRST.CAPTION"
+msgid "First"
+msgstr "Перший"
+
+#: tframe_rulereplace.radiobutton_replacelast.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACELAST.CAPTION"
+msgid "Last"
+msgstr "Останній"
+
+#: tframe_rulereplace.speedbutton_replaceaddseparator.hint
+msgctxt "TFRAME_RULEREPLACE.SPEEDBUTTON_REPLACEADDSEPARATOR.HINT"
+msgid "Separate multiple items"
+msgstr "Розділити декілька елементів"
+
+#: tframe_rulereplace.speedbutton_replacewithmetatag.hint
+msgctxt "TFRAME_RULEREPLACE.SPEEDBUTTON_REPLACEWITHMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Вставити Мета-Тег (Ctrl+Ins)"
+
+#: tframe_ruleserialize.cb_resetevery.caption
+msgid "Reset every:"
+msgstr "Скинути після:"
+
+#: tframe_ruleserialize.checkbox_resetiffilenamechanges.caption
+msgid "Reset if file name changes"
+msgstr "Скинути у разі зміни імені файлу"
+
+#: tframe_ruleserialize.checkbox_resetiffolderchanges.caption
+msgid "Reset if folder changes"
+msgstr "Скинути у разі зміни папки"
+
+#: tframe_ruleserialize.checkbox_serializepadtolength.caption
+msgid "Pad with zeros to length:"
+msgstr "Додати нулі до довжини:"
+
+#: tframe_ruleserialize.checkbox_skipextension.caption
+msgctxt "TFRAME_RULESERIALIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Пропускати розширення"
+
+#: tframe_ruleserialize.gb_insertwhere.caption
+msgctxt "tframe_ruleserialize.gb_insertwhere.caption"
+msgid "Insert where:"
+msgstr "Куди вставити:"
+
+#: tframe_ruleserialize.label_customnumberingsymbols.caption
+msgid "Custom numbering symbols:"
+msgstr "Символи нумерації:"
+
+#: tframe_ruleserialize.label_indexstarts.caption
+msgid "Index starts:"
+msgstr "Починати з:"
+
+#: tframe_ruleserialize.label_numberingsystem.caption
+msgctxt "TFRAME_RULESERIALIZE.LABEL_NUMBERINGSYSTEM.CAPTION"
+msgid "Numbering system:"
+msgstr "Система нумерації:"
+
+#: tframe_ruleserialize.label_repeat.caption
+msgid "Repeat:"
+msgstr "Повторити:"
+
+#: tframe_ruleserialize.label_step.caption
+msgid "Step:"
+msgstr "Крок:"
+
+#: tframe_ruleserialize.radiobutton_replacecurrentname.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
+msgid "Replace current name"
+msgstr "Замінити поточне ім'я"
+
+#: tframe_ruleserialize.radiobutton_serializeposition.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPOSITION.CAPTION"
+msgid "Position:"
+msgstr "Позиція:"
+
+#: tframe_ruleserialize.radiobutton_serializeprefix.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPREFIX.CAPTION"
+msgid "Prefix"
+msgstr "Префікс"
+
+#: tframe_ruleserialize.radiobutton_serializesuffix.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZESUFFIX.CAPTION"
+msgid "Suffix"
+msgstr "Суфікс"
+
+#: tframe_rulestrip.cb_stripallexceptselected.caption
+msgid "Strip all characters except selected"
+msgstr "Все, окрім обраного"
+
+#: tframe_rulestrip.cb_stripenglishletters.caption
+msgid "English:"
+msgstr "Англійські:"
+
+#: tframe_rulestrip.checkbox_casesensitive.caption
+msgctxt "TFRAME_RULESTRIP.CHECKBOX_CASESENSITIVE.CAPTION"
+msgid "Case sensitive"
+msgstr "Враховувати регістр"
+
+#: tframe_rulestrip.checkbox_stripbrackets.caption
+msgid "Brackets:"
+msgstr "Дужки:"
+
+#: tframe_rulestrip.checkbox_stripdigits.caption
+msgctxt "tframe_rulestrip.checkbox_stripdigits.caption"
+msgid "Digits:"
+msgstr "Цифри:"
+
+#: tframe_rulestrip.checkbox_stripskipextension.caption
+msgctxt "TFRAME_RULESTRIP.CHECKBOX_STRIPSKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Пропускати розширення"
+
+#: tframe_rulestrip.checkbox_stripsymbols.caption
+msgid "Symbols:"
+msgstr "Символи:"
+
+#: tframe_rulestrip.checkbox_stripuserdefined.caption
+msgctxt "tframe_rulestrip.checkbox_stripuserdefined.caption"
+msgid "User defined:"
+msgstr "Зазначене:"
+
+#: tframe_rulestrip.rb_whereeverywhere.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHEREEVERYWHERE.CAPTION"
+msgid "Everywhere"
+msgstr "Усюди"
+
+#: tframe_rulestrip.rb_whereleading.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHERELEADING.CAPTION"
+msgid "Leading"
+msgstr "На початку"
+
+#: tframe_rulestrip.rb_wheretrailing.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHERETRAILING.CAPTION"
+msgid "Trailing"
+msgstr "Наприкінці"
+
+#: tframe_ruletranslit.bitbtn_translits.caption
+msgid "Alphabet"
+msgstr "Алфавіт"
+
+#: tframe_ruletranslit.checkbox_adjustcase.caption
+msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_ADJUSTCASE.CAPTION"
+msgid "Auto case adjustment"
+msgstr "Скоригувати регістр"
+
+#: tframe_ruletranslit.checkbox_skipextension.caption
+msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Пропускати розширення"
+
+#: tframe_ruletranslit.label2.caption
+msgid "Direction:"
+msgstr "Напрямок:"
+
+#: tframe_ruletranslit.label3.caption
+msgid "Hint:"
+msgstr "Підказка:"
+
+#: tframe_ruletranslit.label_hinttext.caption
+msgid "Alphabet is a set of couples represented by letters and separated with an equal sign; they stand for translation of non-english characters to their english representation."
+msgstr "Алфавіт - це набір у вигляді пар літер розділених знаком рівності. Вони використовуються задля передачі не англійських символів їх відповідним еквівалентом із англійського алфавіту."
+
+#: tframe_ruletranslit.radiobutton_directionbackward.caption
+msgid "Backward"
+msgstr "Зворотний"
+
+#: tframe_ruletranslit.radiobutton_directionforward.caption
+msgid "Forward"
+msgstr "Прямий"
+
+#: tframe_ruleuserinput.cb_skipextension.caption
+msgctxt "TFRAME_RULEUSERINPUT.CB_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Пропускати розширення"
+
+#: tframe_ruleuserinput.label1.caption
+msgid "Type your new filenames here (one per line):"
+msgstr "Введіть тут нові імена файлів (одне на рядок):"
+
+#: tframe_ruleuserinput.menuitem_load.caption
+msgid "Load from Text File"
+msgstr "Завантажити із текстового файлу"
+
+#: tframe_ruleuserinput.menuitem_paste.caption
+msgid "Paste from Clipboard"
+msgstr "Вставити з буфера обміну"
+
+#: tframe_ruleuserinput.rb_insertafter.caption
+msgid "Insert after the current name"
+msgstr "Вставити після поточного імені"
+
+#: tframe_ruleuserinput.rb_insertinfront.caption
+msgid "Insert in front of the current name"
+msgstr "Вставити перед поточним іменем"
+
+#: tframe_ruleuserinput.rb_replace.caption
+msgid "Replace the current name"
+msgstr "Замінити поточне ім'я"
+
+#: tframe_ruleuserinput.sb_options.caption
+msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
+msgid "Options"
+msgstr "Параметри"
+
+#: ufileutils.ssizebytes
+msgctxt "ufileutils.ssizebytes"
+msgid "bytes"
+msgstr "байт"
+
+#: ufileutils.ssizegigabyte
+msgctxt "ufileutils.ssizegigabyte"
+msgid "GB"
+msgstr "ГБ"
+
+#: ufileutils.ssizekilobyte
+msgctxt "ufileutils.ssizekilobyte"
+msgid "KB"
+msgstr "КБ"
+
+#: ufileutils.ssizemegabyte
+msgctxt "ufileutils.ssizemegabyte"
+msgid "MB"
+msgstr "МБ"
+
+#: ufileutils.ssizeterabyte
+msgctxt "ufileutils.ssizeterabyte"
+msgid "TB"
+msgstr "ТБ"
+
+#: umetatags.s_metatag_audio_duration
+msgid "Duration of an Audio file"
+msgstr "Тривалість аудіофайлу"
+
+#: umetatags.s_metatag_audio_durationmins
+msgid "Duration of an Audio file in minutes"
+msgstr "Тривалість аудіофайлу в хвилинах"
+
+#: umetatags.s_metatag_audio_durationsecs
+msgid "Duration of an Audio file in seconds"
+msgstr "Тривалість аудіофайлу в секундах"
+
+#: umetatags.s_metatag_avi_duration
+msgid "AVI Duration in H:M:S format"
+msgstr "AVI тривалість у форматі Г:Х:С"
+
+#: umetatags.s_metatag_avi_durationmins
+msgid "AVI Duration in Minutes"
+msgstr "AVI тривалість у хвилинах"
+
+#: umetatags.s_metatag_avi_durationsecs
+msgid "AVI Duration in Seconds"
+msgstr "AVI тривалість у секундах"
+
+#: umetatags.s_metatag_avi_framespersecond
+msgid "AVI Frames per Second"
+msgstr "AVI кадрів у секунду"
+
+#: umetatags.s_metatag_avi_height
+msgid "AVI Height in Pixels"
+msgstr "AVI висота в пікселях"
+
+#: umetatags.s_metatag_avi_totalframes
+msgid "AVI Total amount of Frames"
+msgstr "AVI загальна кількість кадрів"
+
+#: umetatags.s_metatag_avi_videocodec
+msgid "AVI Video Codec"
+msgstr "AVI відео кодек"
+
+#: umetatags.s_metatag_avi_width
+msgid "AVI Width in Pixels"
+msgstr "AVI ширина у пікселях"
+
+#: umetatags.s_metatag_avi_widthandheight
+msgid "AVI Dimensions in WxH format"
+msgstr "AVI розміри у форматі WxH"
+
+#: umetatags.s_metatag_binarysign_description
+msgid "Binary File Information: Description"
+msgstr "Двійкові дані файлу: Опис"
+
+#: umetatags.s_metatag_binarysign_extension
+msgid "Binary File Signature: Extension"
+msgstr "Двійковий підпис файлу: Розширення"
+
+#: umetatags.s_metatag_date_now
+msgid "Current Date"
+msgstr "Поточна дата"
+
+#: umetatags.s_metatag_document_author
+msgid "Summary Information: Author"
+msgstr "Загальна інформація: Автор"
+
+#: umetatags.s_metatag_document_pagecount
+msgid "Summary Information: Number of Pages"
+msgstr "Загальна інформація: Кількість сторінок"
+
+#: umetatags.s_metatag_document_subject
+msgid "Summary Information: Subject"
+msgstr "Загальна інформація: Тема"
+
+#: umetatags.s_metatag_document_title
+msgid "Summary Information: Title"
+msgstr "Загальна інформація: Назва"
+
+#: umetatags.s_metatag_email_datesent
+msgid "Email date sent in local time zone"
+msgstr "EMail дата надсилання за місцевим часом"
+
+#: umetatags.s_metatag_email_datesentoriginal
+msgid "Email date sent in original time zone"
+msgstr "EMail оригінальна дата надсилання"
+
+#: umetatags.s_metatag_email_datesentutc
+msgid "Email date sent in UTC time zone"
+msgstr "EMail дата надсилання у форматі UTC"
+
+#: umetatags.s_metatag_email_sender
+msgid "Email sender"
+msgstr "EMail відправник"
+
+#: umetatags.s_metatag_email_subject
+msgid "Email subject"
+msgstr "EMail тема листа"
+
+#: umetatags.s_metatag_exif_date
+msgid "EXIF Original Date"
+msgstr "EXIF оригінальна дата"
+
+#: umetatags.s_metatag_exif_description
+msgid "EXIF Image Description"
+msgstr "EXIF опис зображення"
+
+#: umetatags.s_metatag_exif_make
+msgid "EXIF Camera Make"
+msgstr "EXIF виробник камери"
+
+#: umetatags.s_metatag_exif_model
+msgid "EXIF Camera Model"
+msgstr "EXIF модель камери"
+
+#: umetatags.s_metatag_file_basename
+msgid "Base name of the file"
+msgstr "Базова ім'я файлу"
+
+#: umetatags.s_metatag_file_datecreated
+msgid "File created date"
+msgstr "Дата створення файлу"
+
+#: umetatags.s_metatag_file_datemodified
+msgid "File last modified date"
+msgstr "Дата останньої зміни файлу"
+
+#: umetatags.s_metatag_file_dosname
+msgid "Short name in the 8.3 format"
+msgstr "Коротке ім'я у форматі 8.3"
+
+#: umetatags.s_metatag_file_extension
+msgid "Extension of the file"
+msgstr "Розширення файлу"
+
+#: umetatags.s_metatag_file_filename
+msgid "Full name of the file"
+msgstr "Повне ім'я файлу"
+
+#: umetatags.s_metatag_file_filepath
+msgid "Full path of the file"
+msgstr "Повний шлях до файлу"
+
+#: umetatags.s_metatag_file_foldername
+msgid "Name of the parent folder"
+msgstr "Ім'я батьківської папки"
+
+#: umetatags.s_metatag_file_folderpath
+msgid "Full path of the parent folder"
+msgstr ""
+
+#: umetatags.s_metatag_file_size
+msgid "Size of file"
+msgstr "Розмір файлу"
+
+#: umetatags.s_metatag_file_sizebytes
+msgid "Size of file in bytes"
+msgstr "Розмір файлу в байтах"
+
+#: umetatags.s_metatag_file_sizegb
+msgid "Size of file in GB"
+msgstr "Розмір файлу в ГБ"
+
+#: umetatags.s_metatag_file_sizekb
+msgid "Size of file in KB"
+msgstr "Розмір файлу в КБ"
+
+#: umetatags.s_metatag_file_sizemb
+msgid "Size of file in MB"
+msgstr "Розмір файлу в МБ"
+
+#: umetatags.s_metatag_flac_album
+msgid "FLAC Album"
+msgstr "FLAC альбом"
+
+#: umetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr "FLAC виконавець альбому"
+
+#: umetatags.s_metatag_flac_artist
+msgid "FLAC Artist"
+msgstr "FLAC виконавець"
+
+#: umetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr "FLAC номер диску"
+
+#: umetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
+msgstr "FLAC усього дисків"
+
+#: umetatags.s_metatag_flac_genre
+msgid "FLAC Genre"
+msgstr "FLAC жанр"
+
+#: umetatags.s_metatag_flac_title
+msgid "FLAC Title"
+msgstr "FLAC назва"
+
+#: umetatags.s_metatag_flac_trackno
+msgid "FLAC Track Number"
+msgstr "FLAC номер треку"
+
+#: umetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
+msgstr "FLAC усього треків"
+
+#: umetatags.s_metatag_flac_year
+msgid "FLAC Year"
+msgstr "FLAC рік"
+
+#: umetatags.s_metatag_hash_crc32
+msgid "CRC32 Checksum of a file"
+msgstr "CRC32 контрольна сума файлу"
+
+#: umetatags.s_metatag_hash_md5
+msgid "MD5 Hash of a file"
+msgstr "MD5 хеш файлу"
+
+#: umetatags.s_metatag_hash_sha1
+msgid "SHA1 Hash of a file"
+msgstr "SHA1 хеш файлу"
+
+#: umetatags.s_metatag_hash_sha256
+msgid "SHA256 Hash of a file"
+msgstr "SHA256 хеш файлу"
+
+#: umetatags.s_metatag_hash_sha512
+msgid "SHA512 Hash of a file"
+msgstr "SHA512 хеш файлу"
+
+#: umetatags.s_metatag_html_title
+msgid "Title tag extracted from an HTML file"
+msgstr "Значення тегу TITLE з HTML файлу"
+
+#: umetatags.s_metatag_image_aspectratio
+msgid "Aspect Ratio of an image"
+msgstr "Пропорції зображення"
+
+#: umetatags.s_metatag_image_height
+msgid "Height of an image in pixels"
+msgstr "Висота зображення в пікселях"
+
+#: umetatags.s_metatag_image_pixels
+msgid "Amount of pixels in the image"
+msgstr "Кількість пікселів у зображенні"
+
+#: umetatags.s_metatag_image_width
+msgid "Width of an image in pixels"
+msgstr "Ширина зображення в пікселях"
+
+#: umetatags.s_metatag_image_widthandheight
+msgid "Width and Height of an image in pixels"
+msgstr "Ширина та висота зображення в пікселях"
+
+#: umetatags.s_metatag_iptc_caption
+msgid "IPTC Image Caption"
+msgstr "IPTC назва зображення"
+
+#: umetatags.s_metatag_iptc_city
+msgid "IPTC City"
+msgstr "IPTC місто"
+
+#: umetatags.s_metatag_iptc_headline
+msgid "IPTC Image Headline"
+msgstr "IPTC заголовок зображення"
+
+#: umetatags.s_metatag_iptc_location
+msgid "IPTC Location Name"
+msgstr "IPTC назва розташування"
+
+#: umetatags.s_metatag_iptc_objectname
+msgid "IPTC Object Name"
+msgstr "IPTC ім'я об'єкта"
+
+#: umetatags.s_metatag_mp3_album
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr "MP3 альбом"
+
+#: umetatags.s_metatag_mp3_albumartist
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr "MP3 артист альбому"
+
+#: umetatags.s_metatag_mp3_artist
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr "MP3 артист"
+
+#: umetatags.s_metatag_mp3_discno
+msgid "MP3 Disc Number"
+msgstr "MP3 номер диску"
+
+#: umetatags.s_metatag_mp3_disctotal
+msgid "MP3 Total Discs"
+msgstr "MP3 усього дисків"
+
+#: umetatags.s_metatag_mp3_genre
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr "МР3 жанр"
+
+#: umetatags.s_metatag_mp3_title
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr "MP3 назва"
+
+#: umetatags.s_metatag_mp3_trackno
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr "MP3 номер треку"
+
+#: umetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr "MP3 усього треків"
+
+#: umetatags.s_metatag_mp3_year
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
+msgstr "MP3 рік"
+
+#: umetatags.s_metatag_outlook_body
+msgid "Outlook Message: Body Text"
+msgstr "Outlook повідомлення: Текст"
+
+#: umetatags.s_metatag_outlook_dateheader
+msgid "Outlook Message: Sent date from email header in local time zone"
+msgstr "Outlook повідомлення: Дата надсилання згідно із заголовком за місцевим часом"
+
+#: umetatags.s_metatag_outlook_dateheaderoriginal
+msgid "Outlook Message: Sent date from email header in original time zone"
+msgstr "Outlook повідомлення: Оригінальна дата надсилання згідно із заголовком"
+
+#: umetatags.s_metatag_outlook_dateheaderutc
+msgid "Outlook Message: Sent date from email header in UTC time zone"
+msgstr "Outlook повідомлення: Дата надсилання згідно із заголовком у форматі UTC"
+
+#: umetatags.s_metatag_outlook_datesent
+msgid "Outlook Message: Sent date in local time zone"
+msgstr "Outlook повідомлення: Дата надсилання за місцевим часом"
+
+#: umetatags.s_metatag_outlook_datesentutc
+msgid "Outlook Message: Sent date in UTC time zone"
+msgstr "Outlook повідомлення: Дата надсилання у форматі UTC"
+
+#: umetatags.s_metatag_outlook_messageid
+msgctxt "umetatags.s_metatag_outlook_messageid"
+msgid "Outlook Message: ID"
+msgstr "Outlook повідомлення: ID"
+
+#: umetatags.s_metatag_outlook_sender
+msgid "Outlook Message: Sender"
+msgstr "Outlook повідомлення: Відправник"
+
+#: umetatags.s_metatag_outlook_subject
+msgid "Outlook Message: Subject"
+msgstr "Outlook повідомлення: Тема"
+
+#: umetatags.s_metatag_tiff_date
+msgid "TIFF Date"
+msgstr "TIFF дата"
+
+#: umetatags.s_metatag_tiff_description
+msgid "TIFF Description"
+msgstr "TIFF опис"
+
+#: umetatags.s_metatag_tiff_make
+msgid "TIFF Make"
+msgstr "TIFF знімок"
+
+#: umetatags.s_metatag_tiff_model
+msgid "TIFF Model"
+msgstr "TIFF модель"
+
+#: umetatags.s_metatag_torrent_announce
+msgid "Torrent: Announce URL"
+msgstr "Torrent: Анонс URL"
+
+#: umetatags.s_metatag_torrent_comment
+msgid "Torrent: Comment"
+msgstr "Torrent: Коментар"
+
+#: umetatags.s_metatag_torrent_countfiles
+msgid "Torrent: Number of files"
+msgstr "Torrent: Кількість файлів"
+
+#: umetatags.s_metatag_torrent_creationdatelocal
+msgid "Torrent: Creation date in local time zone"
+msgstr "Torrent: Дата створення за місцевим часом"
+
+#: umetatags.s_metatag_torrent_creationdateutc
+msgid "Torrent: Creation date in UTC time zone"
+msgstr "Torrent: Дата створення у форматі UTC"
+
+#: umetatags.s_metatag_torrent_hash
+msgid "Torrent: Hash"
+msgstr "Torrent: Хеш"
+
+#: umetatags.s_metatag_torrent_name
+msgid "Torrent: Name"
+msgstr "Torrent: Ім'я"
+
+#: umetatags.s_metatag_torrent_publisher
+msgid "Torrent: Publisher"
+msgstr "Torrent: Видавець"
+
+#: umetatags.s_metatag_torrent_totalsize
+msgid "Torrent: Total size"
+msgstr "Torrent: Загальний розмір"
+
+#: umetatags.s_metatag_torrent_totalsizebytes
+msgid "Torrent: Total size in bytes"
+msgstr "Torrent: Загальний розмір у байтах"
+
+#: umetatags.s_metatag_torrent_totalsizegb
+msgid "Torrent: Total size in GB"
+msgstr "Torrent: Загальний розмір у ГБ"
+
+#: umetatags.s_metatag_torrent_totalsizekb
+msgid "Torrent: Total size in KB"
+msgstr "Torrent: Загальний розмір у КБ"
+
+#: umetatags.s_metatag_torrent_totalsizemb
+msgid "Torrent: Total size in MB"
+msgstr "Torrent: Загальний розмір у МБ"
+
+#: umetatags.s_metatag_versioninfo_comments
+msgid "Version Information: Comments"
+msgstr "Інформація про версію: Коментарі"
+
+#: umetatags.s_metatag_versioninfo_company
+msgid "Version Information: Company"
+msgstr "Інформація про версію: компанія"
+
+#: umetatags.s_metatag_versioninfo_copyright
+msgid "Version Information: Copyright"
+msgstr "Інформацію про версію: Авторські права"
+
+#: umetatags.s_metatag_versioninfo_description
+msgid "Version Information: Description"
+msgstr "Інформацію про версію: Опис"
+
+#: umetatags.s_metatag_versioninfo_fileversion
+msgid "Version Information: File Version"
+msgstr "Інформація про версію: Версія файлу"
+
+#: umetatags.s_metatag_versioninfo_product
+msgid "Version Information: Product"
+msgstr "Інформацію про версію: Продукт"
+
+#: umetatags.s_metatag_versioninfo_productversion
+msgid "Version Information: Product Version"
+msgstr "Інформація про версію: Версія продукту"
+
+#: umetatags.s_metatag_wma_album
+msgid "WMA Album"
+msgstr "WMA альбомів"
+
+#: umetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr "WMA виконавець альбому"
+
+#: umetatags.s_metatag_wma_artist
+msgid "WMA Artist"
+msgstr "WMA виконавець"
+
+#: umetatags.s_metatag_wma_discno
+msgid "WMA Disc Number"
+msgstr "WMA номер диску"
+
+#: umetatags.s_metatag_wma_disctotal
+msgid "WMA Total Discs"
+msgstr "WMA усього дисків"
+
+#: umetatags.s_metatag_wma_genre
+msgid "WMA Genre"
+msgstr "WMA жанр"
+
+#: umetatags.s_metatag_wma_title
+msgid "WMA Title"
+msgstr "WMA назва"
+
+#: umetatags.s_metatag_wma_trackno
+msgid "WMA Track Number"
+msgstr "WMA номер треку"
+
+#: umetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
+msgstr "WMA усього треків"
+
+#: umetatags.s_metatag_wma_year
+msgid "WMA Year"
+msgstr "WMA рік"
+
+#: unumeralsystems.nsc_customalphabetic
+msgid "Custom alphabetic"
+msgstr "Зазначені літери"
+
+#: unumeralsystems.nsc_customnumeric
+msgid "Custom numeric"
+msgstr "Зазначені цифри"
+
+#: unumeralsystems.nsc_decimaldigits
+msgid "Decimal digits"
+msgstr "Десяткові цифри"
+
+#: unumeralsystems.nsc_englishletters
+msgid "English letters"
+msgstr "Англійські літери"
+
+#: unumeralsystems.nsc_romannumerals
+msgid "Roman numerals"
+msgstr "Римські цифри"
+
+#: unumeralsystems.nsc_simplifiedchinese
+msgid "Simplified Chinese"
+msgstr "Спрощена китайська"
+
+#: upascalscript.spscompile
+msgid "Pascal Script Compile"
+msgstr "Компіляція скриптів Pascal"
+
+#: upascalscript.spsexception
+msgid "Exception"
+msgstr "Виняток"
+
+#: upascalscript.spsexecute
+msgid "Pascal Script Execute"
+msgstr "Виконання скрипта Pascal"
+
+#: upascalscript.spsincludedfilenotfound
+msgid "Included file not found: %s"
+msgstr "Включений файл не знайдено: %s"
+
+#: upascalscript.spsline
+msgid "Line"
+msgstr "Рядок"
+
+#: upascalscript.spsunknowncompileerror
+msgid "Unknown error (check units and libraries)"
+msgstr "Невідома помилка (перевірте вузли та бібліотеки)"
+
+#: upresets.spresetfilenotfound
+msgid "Preset file not found:"
+msgstr "Файл пресету не знайдено:"
+
+#: upresets.spresetloadfailed
+msgid "Failed to load a preset."
+msgstr "Не вдалося завантажити пресет."
+
+#: upresets.spresetsavefailed
+msgid "Failed to save a preset."
+msgstr "Не вдалося зберегти пресет."
+
+#: uregistration.s_cannot_create_license_dir
+msgid "Not able to create a directory for a license file."
+msgstr "Не вдалося створити каталог для файлу ліцензії."
+
+#: uregistration.s_contact_email
+msgid "Contact email"
+msgstr "Контактний Email"
+
+#: uregistration.s_contact_name
+msgid "Contact name"
+msgstr "Контактне ім'я"
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr "Не вдалося видалити файл:"
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr "Не вдалося завантажити ліцензійні дані:"
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr "Не вдалося зберегти ліцензійні дані:"
+
+#: uregistration.s_issue_date
+msgid "Issue date"
+msgstr "Дата видачі"
+
+#: uregistration.s_license
+msgid "License"
+msgstr "Ліцензія"
+
+#: uregistration.s_licensed_to
+msgid "Licensed to"
+msgstr "Власник ліцензії"
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr "Ліцензію внесено до чорного списку."
+
+#: uregistration.s_license_expiry
+msgid "License expiry"
+msgstr "Термін дії ліцензії"
+
+#: uregistration.s_license_has_expired
+msgid "License has expired."
+msgstr "Термін дії ліцензії закінчився."
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr "Ліцензія недійсна!"
+
+#: uregistration.s_license_load_failed
+msgid "Failed to load the license."
+msgstr "Не вдалося завантажити ліцензію."
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr "Щоб активувати продукт, вам потрібно оновити ліцензію."
+
+#: uregistration.s_license_remove_failed
+msgid "Failed to remove the license."
+msgstr "Не вдалося видалити ліцензію."
+
+#: uregistration.s_license_remove_ok
+msgid "License has been removed."
+msgstr "Ліцензію було видалено."
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr "Ваша ліцензія знаходиться поза періодом оновлення."
+
+#: uregistration.s_number_of_computers
+msgid "Number of computers"
+msgstr "Кількість комп'ютерів"
+
+#: uregistration.s_registration_error
+msgid "Registration code is invalid."
+msgstr "Неприпустимий код реєстрації."
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr "Файл реєстрації не знайдено."
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr "Не вдалося прочитати файл реєстрації."
+
+#: uregistration.s_registration_ok
+msgid "Registration has been successful!"
+msgstr "Реєстрація пройшла успішно!"
+
+#: uregistration.s_upgrade_expiry
+msgid "Upgrade expiry"
+msgstr "Термін дії оновлення"
+
+#: urenfiles.srenstatusok
+msgctxt "urenfiles.srenstatusok"
+msgid "OK"
+msgstr "OK"
+
+#: urenfiles.svalidationduplicated
+msgid "Duplicate in the list"
+msgstr "Дублікат у списку"
+
+#: urenfiles.svalidationexceeds
+msgid "New path exceeds the length limit"
+msgstr "Новий шлях перевищує обмеження довжини"
+
+#: urenfiles.svalidationexists
+msgid "Destination file already exists"
+msgstr "Файл призначення вже існує"
+
+#: urenfiles.svalidationinvalid
+msgid "Contains invalid characters"
+msgstr "Містить неприпустимі символи"
+
+#: urenfiles.svalidationmovedparent
+msgid "Parent path changed earlier in the list"
+msgstr "Батьківський шлях змінено раніше у списку"
+
+#: urulesex.s_rules_addtextpaddingtolength
+msgid "Add text padding to length %s with \"%s\" characters"
+msgstr "Додати літери до довжини %s використовуючи \"%s\" символи"
+
+#: urulesex.s_rules_addzeropaddingtolength
+msgid "Add zero padding to length %s"
+msgstr "Додати нулі до довжини %s"
+
+#: urulesex.s_rules_adjusttimebynumdays
+msgid "Adjust time by %d days"
+msgstr "Скорегувати час на %d день(дня,днів)"
+
+#: urulesex.s_rules_adjusttimebynumhours
+msgid "Adjust time by %d hours"
+msgstr "Скорегувати час на %d годин(у,и)"
+
+#: urulesex.s_rules_adjusttimebynummilliseconds
+msgid "Adjust time by %d milliseconds"
+msgstr "Скорегувати час на %d мілісекунд(у,и)"
+
+#: urulesex.s_rules_adjusttimebynumminutes
+msgid "Adjust time by %d minutes"
+msgstr "Скорегувати час на %d хвилин(у,и)"
+
+#: urulesex.s_rules_adjusttimebynummonths
+msgid "Adjust time by %d months"
+msgstr "Скорегувати час на %d місяць(я,ів)"
+
+#: urulesex.s_rules_adjusttimebynumseconds
+msgid "Adjust time by %d seconds"
+msgstr "Скорегувати час на %d секунд(у,и)"
+
+#: urulesex.s_rules_adjusttimebynumyears
+msgid "Adjust time by %d years"
+msgstr "Скорегувати час на %d рік(роки,років)"
+
+#: urulesex.s_rules_after
+msgid "after"
+msgstr "після"
+
+#: urulesex.s_rules_all
+msgid "all"
+msgstr "усе"
+
+#: urulesex.s_rules_all_characters_except
+msgid "all characters except"
+msgstr "усі символи, окрім"
+
+#: urulesex.s_rules_all_lower_case
+msgid "All lower case"
+msgstr "Усі нижній регістр"
+
+#: urulesex.s_rules_all_upper_case
+msgid "All upper case"
+msgstr "Усі верхній регістр"
+
+#: urulesex.s_rules_and_pad_to_length
+msgid "and pad to length"
+msgstr "й заповнити до довжини"
+
+#: urulesex.s_rules_append
+msgid "append"
+msgstr "додати"
+
+#: urulesex.s_rules_append_new_extension
+msgid "Append new extension"
+msgstr "Додати нове розширення"
+
+#: urulesex.s_rules_as_prefix
+msgid "as Prefix"
+msgstr "як префікс"
+
+#: urulesex.s_rules_as_suffix
+msgid "as Suffix"
+msgstr "як суфікс"
+
+#: urulesex.s_rules_at_position
+msgid "at Position"
+msgstr "у позиції"
+
+#: urulesex.s_rules_autocaseadjustment
+msgctxt "urulesex.s_rules_autocaseadjustment"
+msgid "Auto case adjustment"
+msgstr "Підлаштовувати регістр"
+
+#: urulesex.s_rules_before
+msgid "before"
+msgstr "перед"
+
+#: urulesex.s_rules_cannoteditruleconfiguration
+msgid "Cannot edit rule configuration."
+msgstr "Не вдалося змінити конфігурацію правила."
+
+#: urulesex.s_rules_capitalize_and_preserve
+msgid "Capitalize and preserve"
+msgstr "З великої та зберегти регістр"
+
+#: urulesex.s_rules_capitalize_every_word
+msgid "Capitalize every word"
+msgstr "Кожне слово з великої літери"
+
+#: urulesex.s_rules_case_sensitive
+msgid "case sensitive"
+msgstr "враховувати регістр"
+
+#: urulesex.s_rules_change_extension_to
+msgid "Change extension to"
+msgstr "Змінити розширення на"
+
+#: urulesex.s_rules_characters
+msgid "characters"
+msgstr "літери"
+
+#: urulesex.s_rules_converttovaluefromvalue
+msgid "Convert to %s from %s"
+msgstr "Перетворити в %s із %s"
+
+#: urulesex.s_rules_customlongmonths
+msgid "Custom long months"
+msgstr "Особливі довгі назви місяців"
+
+#: urulesex.s_rules_customshortmonths
+msgid "Custom short months"
+msgstr "Особливі короткі назви місяців"
+
+#: urulesex.s_rules_delete
+msgctxt "myrulesex.s_rules_delete"
+msgid "Delete"
+msgstr "Видалити"
+
+#: urulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr "Видалити поточне ім'я"
+
+#: urulesex.s_rules_delimiters
+msgid "delimiters"
+msgstr "роздільники"
+
+#: urulesex.s_rules_detect_using_binary_signature
+msgid "Detect using binary signature"
+msgstr "Виявити за допомогою двійкового підпису"
+
+#: urulesex.s_rules_everywhere
+msgid "everywhere"
+msgstr "усюди"
+
+#: urulesex.s_rules_exact_pattern_of_delimiters
+msgid "exact pattern of delimiters"
+msgstr "точний шаблон роздільників"
+
+#: urulesex.s_rules_extension_lower_case
+msgid "Extension lower case"
+msgstr "Розширення нижнього регістру"
+
+#: urulesex.s_rules_extension_upper_case
+msgid "Extension upper case"
+msgstr "Розширення верхнього регістру"
+
+#: urulesex.s_rules_files
+msgid "files"
+msgstr "файл(и)"
+
+#: urulesex.s_rules_files_to
+msgid "file(s) to"
+msgstr "файл(и,ів) у"
+
+#: urulesex.s_rules_files_with
+msgid "file(s) with"
+msgstr "файл(и,ів) із"
+
+#: urulesex.s_rules_first
+msgid "first"
+msgstr "перший"
+
+#: urulesex.s_rules_first_letter_capital
+msgctxt "myrulesex.s_rules_first_letter_capital"
+msgid "First letter capital"
+msgstr "Перша літера велика"
+
+#: urulesex.s_rules_fix_spaces
+msgid "Fix spaces"
+msgstr "Виправити пробіли"
+
+#: urulesex.s_rules_force_case_fragments
+msgid "Force case fragments"
+msgstr "Регістр фрагментів"
+
+#: urulesex.s_rules_from_delimiter
+msgid "from Delimiter"
+msgstr "від роздільника"
+
+#: urulesex.s_rules_from_position
+msgid "from Position"
+msgstr "від позиції"
+
+#: urulesex.s_rules_insert
+msgctxt "myrulesex.s_rules_insert"
+msgid "Insert"
+msgstr "Вставити"
+
+#: urulesex.s_rules_insert_space_in_front_of_capitals
+msgid "Insert space in front of capitals"
+msgstr "Вставити пробіл перед великими літерами"
+
+#: urulesex.s_rules_invert_case
+msgid "Invert case"
+msgstr "Інвертувати регістр"
+
+#: urulesex.s_rules_last
+msgid "last"
+msgstr "останній"
+
+#: urulesex.s_rules_leading
+msgctxt "myrulesex.s_rules_leading"
+msgid "leading"
+msgstr "на початку"
+
+#: urulesex.s_rules_leave_delimiter
+msgid "leave delimiter"
+msgstr "залишити роздільник"
+
+#: urulesex.s_rules_leftside
+msgid "Left side"
+msgstr "Ліворуч"
+
+#: urulesex.s_rules_new_names_are_not_defined
+msgid "new names are not defined"
+msgstr "нові імена не визначено"
+
+#: urulesex.s_rules_new_pattern
+msgid "New pattern"
+msgstr "Новий шаблон"
+
+#: urulesex.s_rules_normalize_spaces
+msgid "Normalize spaces"
+msgstr "Нормалізувати пробіли"
+
+#: urulesex.s_rules_parts
+msgid "parts"
+msgstr "частини"
+
+#: urulesex.s_rules_positions
+msgid "positions"
+msgstr "позиції"
+
+#: urulesex.s_rules_prefix_names_of
+msgid "Prefix names of"
+msgstr "Префікс імен"
+
+#: urulesex.s_rules_prepare_for_sharepoint
+msgid "Prepare for SharePoint"
+msgstr "Підготовка до SharePoint"
+
+#: urulesex.s_rules_randomwithlengthusingcharacters
+msgctxt "urulesex.s_rules_randomwithlengthusingcharacters"
+msgid "Random with length %s using characters \"%s\""
+msgstr "Випадкова з довжиною %s за допомогою символів \"%s\\"
+
+#: urulesex.s_rules_remove
+msgctxt "myrulesex.s_rules_remove"
+msgid "Remove"
+msgstr "Прибрати"
+
+#: urulesex.s_rules_removezeropadding
+msgctxt "urulesex.s_rules_removezeropadding"
+msgid "Remove zero padding"
+msgstr "Видалити заповнення нулями"
+
+#: urulesex.s_rules_remove_extension
+msgid "Remove extension"
+msgstr "Видалити розширення"
+
+#: urulesex.s_rules_repeat
+msgid "repeat"
+msgstr "повтор"
+
+#: urulesex.s_rules_replace
+msgctxt "myrulesex.s_rules_replace"
+msgid "Replace"
+msgstr "Замінити"
+
+#: urulesex.s_rules_replace_expression
+msgid "Replace expression"
+msgstr "Замінити вираз"
+
+#: urulesex.s_rules_replace_with_spaces
+msgid "Replace with spaces"
+msgstr "Замінити на пробіли"
+
+#: urulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr "замінюючи поточне ім'я"
+
+#: urulesex.s_rules_reset_index_every
+msgid "reset index every"
+msgstr "скинути після"
+
+#: urulesex.s_rules_reset_index_if_file_name_changes
+msgid "reset index if file name changes"
+msgstr "скинути у разі зміни імені файлу"
+
+#: urulesex.s_rules_reset_index_if_folder_changes
+msgid "reset index if folder changes"
+msgstr "скинути у разі зміни папки"
+
+#: urulesex.s_rules_rightside
+msgid "Right side"
+msgstr "Праворуч"
+
+#: urulesex.s_rules_right_to_left
+msgid "right-to-left"
+msgstr "справа наліво"
+
+#: urulesex.s_rules_serialize_incremental_from
+msgid "Incremental from"
+msgstr "Поступова, починаючи з"
+
+#: urulesex.s_rules_serialize_random_with_length
+msgid "Random with length"
+msgstr "Випадкова, з довжиною"
+
+#: urulesex.s_rules_set_names_of
+msgid "Set names of"
+msgstr "Встановити імена"
+
+#: urulesex.s_rules_skipextension
+msgctxt "urulesex.s_rules_skipextension"
+msgid "Skip extension"
+msgstr "Пропускати розширення"
+
+#: urulesex.s_rules_skip_extension
+msgid "skip extension"
+msgstr "пропускати розширення"
+
+#: urulesex.s_rules_skip_versions
+msgid "skip versions"
+msgstr "пропустити версії"
+
+#: urulesex.s_rules_split_by
+msgid "Split by"
+msgstr "Розділити за"
+
+#: urulesex.s_rules_step
+msgid "step"
+msgstr "крок"
+
+#: urulesex.s_rules_strip
+msgctxt "myrulesex.s_rules_strip"
+msgid "Strip"
+msgstr "Вирізати"
+
+#: urulesex.s_rules_strip_out_contents_of_brackets
+msgid "Strip out contents of brackets"
+msgstr "Вирізати вміст дужок"
+
+#: urulesex.s_rules_strip_unicode_marks
+msgid "Strip unicode marks"
+msgstr ""
+
+#: urulesex.s_rules_suffix_names_of
+msgid "Suffix names of"
+msgstr "Суфікс імен"
+
+#: urulesex.s_rules_trailing
+msgctxt "myrulesex.s_rules_trailing"
+msgid "trailing"
+msgstr "наприкінці"
+
+#: urulesex.s_rules_transliterate
+msgid "Transliterate"
+msgstr "Транслітерувати"
+
+#: urulesex.s_rules_try_unique
+msgid "try unique"
+msgstr "бажано унікальні"
+
+#: urulesex.s_rules_until_count_reaches
+msgid "until Count reaches"
+msgstr "поки лічильник не досягне"
+
+#: urulesex.s_rules_until_delimiter
+msgid "until Delimiter"
+msgstr "до роздільника"
+
+#: urulesex.s_rules_until_the_end
+msgid "until the End"
+msgstr "до кінця"
+
+#: urulesex.s_rules_usingcustomnumeralsymbols
+msgid "using \"%s\" system with \"%s\" symbols"
+msgstr "використовуючи систему \"%s\" з символами \"%s\""
+
+#: urulesex.s_rules_usingnamednumeralsystem
+msgid "using \"%s\" system"
+msgstr "використовуючи систему \"%s\""
+
+#: urulesex.s_rules_using_wildcards
+msgid "using wildcards"
+msgstr "використовуючи підстановку"
+
+#: urulesex.s_rules_warndeprecatedrandomserialize
+msgid "Rule configuration uses deprecated random serialization, please use a separate dedicated rule instead."
+msgstr "Конфігурація правила використовує застарілу випадкову серіалізацію, замість цього використовуйте спеціально призначене правило."
+
+#: urulesex.s_rules_wholewordsonly
+msgctxt "urulesex.s_rules_wholewordsonly"
+msgid "Whole words only"
+msgstr "Лише слова повністю"
+
+#: urulesex.s_rules_whole_words
+msgid "whole words"
+msgstr "слова повністю"
+
+#: urulesex.s_rules_with
+msgid "with"
+msgstr "на"
+
+#: ustrings.msg_addfoldernotexist
+msgid ""
+"Selected folder does not exist!\n"
+"\n"
+"%s\n"
+msgstr ""
+"Вибрана папка не існує!\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_addmetatagconfirm
+msgid ""
+"Meta tags are currently disabled.\n"
+"\n"
+"Do you want to enable them?\n"
+msgstr ""
+"Підтримку мета-тегів зараз вимкнено!\n"
+"\n"
+"Хочете увімкнути її?\n"
+
+#: ustrings.msg_ask_open_quick_guide
+msgid "Would you like to open a Quick Guide?"
+msgstr "Хочете відкрити Короткий посібник?"
+
+#: ustrings.msg_browsefoldersstatus
+msgid "Folders: %d scanned, %d selected."
+msgstr "Папки: %d перевірено, %d вибрано."
+
+#: ustrings.msg_browsegotofoldercaption
+msgctxt "mystrings.msg_browsegotofoldercaption"
+msgid "Go To Folder"
+msgstr "Перейти до папки"
+
+#: ustrings.msg_browsegotofolderprompt
+msgid "Enter a full path to the folder that you want to go to:"
+msgstr "Введіть повний шлях до папки, в яку ви хочете перейти:"
+
+#: ustrings.msg_changeworkingdirfailed
+msgid "Failed to change current working directory."
+msgstr "Не вдалося змінити поточний робочий каталог."
+
+#: ustrings.msg_copyandcutfilesprompt
+msgid ""
+"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
+"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
+"\n"
+"Are you sure you want to proceed?\n"
+msgstr ""
+"Операції копіювання та вирізання файлів поміщає вибрані файли в буфер обміну для подальшого використання.\n"
+"Примітка: Всі файли буде вставлено в той же каталог незалежно від того, де вони були спочатку розташовані!\n"
+"\n"
+"Ви впевнені, що хочете продовжити?\n"
+
+#: ustrings.msg_datetimeinvalidformat
+msgid "INVALID FORMAT"
+msgstr "НЕПРАВИЛЬНИЙ ФОРМАТ"
+
+#: ustrings.msg_editrulecommentcaption
+msgid "Rule Comment"
+msgstr "Коментар до правила"
+
+#: ustrings.msg_editrulecommentprompt
+msgid "Enter a comment for the rule:"
+msgstr "Введіть коментар для правила:"
+
+#: ustrings.msg_fileexistsoverwriteprompt
+msgid ""
+"File already exists!\n"
+"Overwrite it?\n"
+msgstr ""
+"Такий файл уже існує!\n"
+"Перезаписати його?\n"
+
+#: ustrings.msg_filescountinfo
+msgid ""
+"Total: %d\n"
+"Marked: %d\n"
+"Selected: %d\n"
+msgstr ""
+"Усього: %d\n"
+"Позначено: %d\n"
+"Вибрано: %d\n"
+
+#: ustrings.msg_fixcollidewarninglimit
+msgid ""
+"Do you want to fix conflicting new names for %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"Ви дійсно хочете виправити конфліктні нові імена %s файлів?\n"
+"\n"
+"Ця операція може тривати декілька хвилин...\n"
+
+#: ustrings.msg_gotolinecaption
+msgid "Go To Line"
+msgstr "Перехід до рядка"
+
+#: ustrings.msg_gotolineprompt
+msgid "Enter the line number:"
+msgstr "Введіть номер рядка:"
+
+#: ustrings.msg_hinterrorcolumn
+msgid "Hint: You can check the details by enabling the \"Error\" column."
+msgstr "Підказка: Ви можете перевірити деталі включивши стовпець \"Помилка\"."
+
+#: ustrings.msg_launching_first_time
+msgid "You are launching ReNamer for the first time."
+msgstr "Ви запускаєте ReNamer в перший раз."
+
+#: ustrings.msg_loadnewnamesresult
+msgid "%d new filename(s) out of %d in the list were changed!"
+msgstr "%d нових імен файлів із %d у списку було змінено!"
+
+#: ustrings.msg_nothingtorename
+msgid "Nothing to rename!"
+msgstr "Немає нічого для перейменування!"
+
+#: ustrings.msg_operationfailedduetoerror
+msgid "Operation failed due to an error:"
+msgstr "Операція не вдалася через помилки:"
+
+#: ustrings.msg_overwritefilewithnewname
+msgid ""
+"Original Path: %s\n"
+"New Path: %s\n"
+"\n"
+"New Name is already taken by another file, delete that file permanently?\n"
+msgstr ""
+"Вихідний шлях: %s\n"
+"Новий шлях: %s\n"
+"\n"
+"Нове ім'я вже використовується іншим файлом, видалити цей файл назавжди?\n"
+
+#: ustrings.msg_pascalscriptcompiledsuccesfully
+msgid "Compiled successfully!"
+msgstr "Успішно скомпільовано!"
+
+#: ustrings.msg_pascalscriptnoscripts
+msgid "No Saved Scripts were found!"
+msgstr "Збережені скрипти не знайдено!"
+
+#: ustrings.msg_pascalscriptsaveinvalid
+msgctxt "mystrings.msg_pascalscriptsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "Неправильне ім'я!"
+
+#: ustrings.msg_pascalscriptsavetext
+msgid "Enter a name for a script:"
+msgstr "Введіть ім'я скрипта:"
+
+#: ustrings.msg_pascalscriptsavetitle
+msgid "Save Script"
+msgstr "Зберегти скрипт"
+
+#: ustrings.msg_presetsmanagerdeletepresetprompt
+msgid "Delete \"%s\" preset?"
+msgstr "Видалити \"%s\" пресет?"
+
+#: ustrings.msg_presetsmanagereditwarning
+msgid ""
+"You are about to edit Preset file(s) manualy!\n"
+"If you are not sure in what you're doing - press Cancel.\n"
+"\n"
+"Proceed with this action?\n"
+msgstr ""
+"Ви збираєтеся редагувати файл(и) пресету вручну!\n"
+"Якщо ви не впевнені в тому, що робите - натисніть кнопку \"Скасувати\".\n"
+"\n"
+"Продовжити виконання цієї дії?\n"
+
+#: ustrings.msg_presetsmanagerfailedcopy
+msgid "Could not copy the \"%s\" preset!"
+msgstr "Не вдалося скопіювати \"%s\" пресет!"
+
+#: ustrings.msg_presetsmanagerfaileddelete
+msgid "Could not delete the \"%s\" preset!"
+msgstr "Не вдалося видалити \"%s\" пресет!"
+
+#: ustrings.msg_presetsmanagerfailedrename
+msgid "Could not rename the \"%s\" preset!"
+msgstr "Не вдалося перейменувати \"%s\" пресет!"
+
+#: ustrings.msg_presetsmanagernewnamequerytext
+msgid "New Name:"
+msgstr "Нове ім'я:"
+
+#: ustrings.msg_presetsmanagernewnamequerytitle
+msgid "Rename Preset"
+msgstr "Перейменувати пресет"
+
+#: ustrings.msg_previewexception
+msgid ""
+"Preview process has been terminated due to a critical error:\n"
+"\n"
+"%s\n"
+msgstr ""
+"Процес перегляду було перервано внаслідок критичної помилки:\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_renamefailedfiles
+msgid "%d file(s) failed to rename!"
+msgstr "%d файл(и,ів) не вдалося перейменувати!"
+
+#: ustrings.msg_renamenewnamesareempty
+msgid ""
+"All New Names are empty!\n"
+"\n"
+"Hint: Configure the Rules and click Preview button.\n"
+msgstr ""
+"Всі нові імена порожні!\n"
+"\n"
+"Підказка: Налаштуйте правила і натисніть кнопку \"Переглянути\".\n"
+
+#: ustrings.msg_renameskippedunchangedfiles
+msgid "%d file(s) skipped because unchanged."
+msgstr "%d файл(и,ів) пропущено, бо вони не змінилися."
+
+#: ustrings.msg_renameskippedunmarkedfiles
+msgid "%d file(s) skipped because unmarked."
+msgstr "%d файл(и,ів) пропущено як не позначений(і)."
+
+#: ustrings.msg_renamesuccessfulfiles
+msgid "%d file(s) successfully renamed."
+msgstr "%d файл(и,ів) успішно перейменовано."
+
+#: ustrings.msg_rulecasedescription
+msgid "Use this rule to change the case of the filename."
+msgstr "Це правило дає змогу змінювати регістр імені файлу."
+
+#: ustrings.msg_rulecleanupdescription
+msgid "Use this rule to clean up the filename."
+msgstr "Це правило дає змогу очищати імена файлів."
+
+#: ustrings.msg_ruledeletedescription
+msgid "Use this rule to delete text from the filename."
+msgstr "Це правило дає змогу видалити частину імені файлу."
+
+#: ustrings.msg_ruleextensiondescription
+msgid "Use this rule to change extension of the file."
+msgstr "Це правило дає змогу змінювати розширення файлу."
+
+#: ustrings.msg_ruleinsertdescription
+msgid "Use this rule to insert text into the filename."
+msgstr "Це правило дає змогу вставляти текст в ім'я файлу."
+
+#: ustrings.msg_rulepaddingdescription
+msgid "Use this rule to add or remove padding in number sequences."
+msgstr "Це правило дає змогу додавати або видаляти заповнення числових послідовностей."
+
+#: ustrings.msg_rulepascalscriptdescription
+msgid "Use this rule to script a user defined manipulations with filename."
+msgstr "Це правило дає змогу користувачу виконувати маніпуляції з ім'ям файлу за допомогою скрипта."
+
+#: ustrings.msg_rulerandomizedescription
+msgid "Use this rule to insert random sequences of characters into the filename."
+msgstr "Це правило дає змогу вставляти в ім'я файлу випадкову послідовність."
+
+#: ustrings.msg_rulerearrangedescription
+msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
+msgstr "Це правило дає змогу розділити частини імені файлу і переставити згідноа новому шаблону."
+
+#: ustrings.msg_rulereformatdatedescription
+msgid "Use this rule to change format of date/time values in the filename."
+msgstr "Це правило дає змогу змінити формат значень дати та часу в імені файлу."
+
+#: ustrings.msg_ruleregexdescription
+msgid "Use this rule to replace text in the filename using regular expressions."
+msgstr "Це правило дає змогу замінити текст в імені файлу за допомогою регулярних виразів."
+
+#: ustrings.msg_ruleremovedescription
+msgid "Use this rule to remove text from the filename."
+msgstr "Це правило дає змогу видалити текст із імені файлу."
+
+#: ustrings.msg_rulereplacedescription
+msgid "Use this rule to replace text in the filename."
+msgstr "Це правило дає змогу замінити текст в імені файлу."
+
+#: ustrings.msg_ruleserializedescription
+msgid "Use this rule to serialize the filename (add incremental numbers)."
+msgstr "Це правило дає змогу послідовно пронумерувати імена файлів."
+
+#: ustrings.msg_rulestripdescription
+msgid "Use this rule to strip sets of characters from the filename."
+msgstr "Це правило дає змогу видалити набори символів із імені файлу."
+
+#: ustrings.msg_ruletranslitdescription
+msgid "Use this rule to transliterate letters in the filename from one language into another."
+msgstr "Це правило дає змогу транслітерувати літери в імені файлу з однієї мови в іншу."
+
+#: ustrings.msg_ruleuserinputdescription
+msgid "Use this rule to assign names of files to the lines of text."
+msgstr "Це правило дає змогу задати нові імена файлів у вигляді списку."
+
+#: ustrings.msg_selectfolder
+msgid "Please select a folder:"
+msgstr "Будь ласка, виберіть папку:"
+
+#: ustrings.msg_shellactionwarninglimit
+msgid "Are you sure you want to execute shell action on %d files?"
+msgstr "Ви впевнені, що хочете виконати дану дію з %d файлом(ами)?"
+
+#: ustrings.msg_shell_execute_error
+msgid ""
+"Could not open the following file:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+msgstr ""
+"Не вдається відкрити такий файл:\n"
+"\n"
+"%s\n"
+"\n"
+"Помилка: %s (%d).\n"
+
+#: ustrings.msg_translitsaveinvalid
+msgctxt "mystrings.msg_translitsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "Неправильне ім'я!"
+
+#: ustrings.msg_translitsavetext
+msgid "Enter a name for a translit:"
+msgstr "Введіть ім'я алфавіту:"
+
+#: ustrings.msg_translitsavetitle
+msgid "Save Translit"
+msgstr "Зберегти алфавіт"
+
+#: ustrings.msg_undoconfirmfiles
+msgid ""
+"Are you sure you want to undo renaming operation for %d file(s)?\n"
+"\n"
+"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
+msgstr ""
+"Ви дійсно хочете скасувати операцію перейменування %d файлу(ів)?n\n"
+"Підказка: Ви можете перевірити шляхи файлів для скасування, включивши стовпець \"Старий шлях\".\n"
+
+#: ustrings.msg_undoempty
+msgid "Nothing to undo!"
+msgstr "Нічого скасовувати!"
+
+#: ustrings.msg_undoresult
+msgid ""
+"Undo operation results:\n"
+"\n"
+"%d out of %d file(s) restored successfully!\n"
+msgstr ""
+"Результати скасування:\n"
+"\n"
+"%d із %d файлу(ів) успішно відновлено!\n"
+
+#: ustrings.msg_uninstallapplicationisrunning
+msgid ""
+"Seems that ReNamer is currently running.\n"
+"Please close it, before continuing...\n"
+msgstr ""
+"SСхоже, що ReNamer вже запущено.\n"
+"_акрийте програму, перш ніж продовжити...\n"
+
+#: ustrings.msg_validatedduplicatedfound
+msgid "%d of which have a duplicate in the list."
+msgstr "%d із них дублюється у списку."
+
+#: ustrings.msg_validatedexceededfound
+msgid "%d of which exceed max path length limitation."
+msgstr "%d із них перевищує обмеження максимальної довжині шляху."
+
+#: ustrings.msg_validatedexistingfound
+msgid "%d of which conflict with an existing file."
+msgstr "%d із них конфліктує з наявними шляхами."
+
+#: ustrings.msg_validatedinvalidfound
+msgid "%d of which contain invalid characters."
+msgstr "%d із них містить неприпустимі символи."
+
+#: ustrings.msg_validatedmovedparentfound
+msgid "%d of which have a parent path changed earlier in the list."
+msgstr "%d із них має батьківський шлях змінений раніше в списку."
+
+#: ustrings.msg_validatedsuccessfuly
+msgid "Successfully validated!"
+msgstr "Успішно перевірено!"
+
+#: ustrings.msg_validatewarninglimit
+msgid ""
+"Do you want to validate %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"Ви дійсно хочете перевірити %s файлів?\n"
+"\n"
+"Ця операція може тривати декілька хвилин...\n"
+
+#: ustrings.msg_validationissuesdetected
+msgid "Validation has failed due to issues with %d file(s)."
+msgstr "Перевірка не вдалася через проблеми з %d файлом(ами)."
+
+#: ustrings.name_addrule
+msgctxt "mystrings.name_addrule"
+msgid "Add Rule"
+msgstr "Додати правило"
+
+#: ustrings.name_addrulestext
+msgctxt "mystrings.name_addrulestext"
+msgid "Click here to add a rule"
+msgstr "Натисніть тут, щоб додати правило"
+
+#: ustrings.name_addtorenamer
+msgid "Add to ReNamer"
+msgstr "Додати в ReNamer"
+
+#: ustrings.name_analyzetextcursor
+msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
+msgstr "Рядок = %d, Положення = %d, Праворуч = %d, Вибрано = %d"
+
+#: ustrings.name_browsescripts
+msgid "Browse Scripts..."
+msgstr "Перегляд скриптів..."
+
+#: ustrings.name_browsetranslits
+msgid "Browse Translits..."
+msgstr "Перегляд алфавітів..."
+
+#: ustrings.name_cancelsorting
+msgctxt "mystrings.name_cancelsorting"
+msgid "Cancel Sorting"
+msgstr "Скасувати сортування"
+
+#: ustrings.name_dragfilestext
+msgctxt "mystrings.name_dragfilestext"
+msgid "Drag your files here"
+msgstr "Перетягніть ваші файли сюди"
+
+#: ustrings.name_editrule
+msgctxt "mystrings.name_editrule"
+msgid "Edit Rule"
+msgstr "Редагувати правило"
+
+#: ustrings.name_filescounter
+msgid "%s files"
+msgstr "Файлів: %s"
+
+#: ustrings.name_filescounterwithsize
+msgid "%s files (%s)"
+msgstr "Файлів: %s (%s)"
+
+#: ustrings.name_filters
+msgctxt "mystrings.name_filters"
+msgid "Filters"
+msgstr "Фільтри"
+
+#: ustrings.name_folderscounter
+msgid "%s folders"
+msgstr "Папок: %s"
+
+#: ustrings.name_loadwithpreset
+msgctxt "mystrings.name_loadwithpreset"
+msgid "Load with Preset"
+msgstr "Завантажити з пресетом"
+
+#: ustrings.name_markbymaskcaption
+msgctxt "mystrings.name_markbymaskcaption"
+msgid "Mark by Mask"
+msgstr "Позначити за маскою"
+
+#: ustrings.name_markbymaskprompt
+msgctxt "mystrings.name_markbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Декілька масок можна розділити крапкою з комою. Наприклад: *.jpg;*.doc\n"
+"\n"
+"Маски:\n"
+
+#: ustrings.name_overwrite
+msgid "Overwrite"
+msgstr "Перезаписати"
+
+#: ustrings.name_rename
+msgctxt "mystrings.name_rename"
+msgid "Rename"
+msgstr "Перейменувати"
+
+#: ustrings.name_renamewithpreset
+msgctxt "mystrings.name_renamewithpreset"
+msgid "Rename with Preset"
+msgstr "Перейменувати за допомогою пресету"
+
+#: ustrings.name_rule_case
+msgid "Case"
+msgstr "Регістр"
+
+#: ustrings.name_rule_cleanup
+msgid "Clean Up"
+msgstr "Очищення"
+
+#: ustrings.name_rule_delete
+msgctxt "mystrings.name_rule_delete"
+msgid "Delete"
+msgstr "Видалити"
+
+#: ustrings.name_rule_extension
+msgctxt "mystrings.name_rule_extension"
+msgid "Extension"
+msgstr "Розширення"
+
+#: ustrings.name_rule_insert
+msgctxt "mystrings.name_rule_insert"
+msgid "Insert"
+msgstr "Вставити"
+
+#: ustrings.name_rule_padding
+msgid "Padding"
+msgstr "Заповнення"
+
+#: ustrings.name_rule_pascalscript
+msgid "Pascal Script"
+msgstr "Скрипт (Pascal)"
+
+#: ustrings.name_rule_randomize
+msgid "Randomize"
+msgstr "Рандомізація"
+
+#: ustrings.name_rule_rearrange
+msgid "Rearrange"
+msgstr "Переставити"
+
+#: ustrings.name_rule_reformatdate
+msgid "Reformat Date"
+msgstr "Формат дати"
+
+#: ustrings.name_rule_regex
+msgid "Regular Expressions"
+msgstr "Регулярні вирази"
+
+#: ustrings.name_rule_remove
+msgctxt "mystrings.name_rule_remove"
+msgid "Remove"
+msgstr "Прибрати"
+
+#: ustrings.name_rule_replace
+msgctxt "mystrings.name_rule_replace"
+msgid "Replace"
+msgstr "Замінити"
+
+#: ustrings.name_rule_serialize
+msgid "Serialize"
+msgstr "Нумерація"
+
+#: ustrings.name_rule_strip
+msgctxt "mystrings.name_rule_strip"
+msgid "Strip"
+msgstr "Вирізати"
+
+#: ustrings.name_rule_translit
+msgid "Translit"
+msgstr "Транслітерація"
+
+#: ustrings.name_rule_userinput
+msgid "User Input"
+msgstr "Список імен"
+
+#: ustrings.name_saverule
+msgid "Save Rule"
+msgstr "Зберегти правило"
+
+#: ustrings.name_savescript
+msgid "Save Script..."
+msgstr "Зберегти скрипт..."
+
+#: ustrings.name_savetranslit
+msgid "Save Translit..."
+msgstr "Зберегти алфавіт..."
+
+#: ustrings.name_selectbyextensioncaption
+msgctxt "mystrings.name_selectbyextensioncaption"
+msgid "Select by Extension"
+msgstr "Вибрати за розширенням"
+
+#: ustrings.name_selectbyextensionprompt
+msgid ""
+"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
+"\n"
+"Extensions (without dots):\n"
+msgstr ""
+"Декілька розширень можна розділити крапкою з комою. Наприклад: jpg;doc\n"
+"\n"
+"Розширення (без крапок):\n"
+
+#: ustrings.name_selectbyfilenamelengthcaption
+msgid "Select by Filename Length"
+msgstr "Вибрати за довжиною імені"
+
+#: ustrings.name_selectbyfilenamelengthprompt
+msgid "More than N characters:"
+msgstr "Більше ніж N символів:"
+
+#: ustrings.name_selectbymaskcaption
+msgctxt "mystrings.name_selectbymaskcaption"
+msgid "Select by Mask"
+msgstr "Вибрати за маскою"
+
+#: ustrings.name_selectbymaskprompt
+msgctxt "mystrings.name_selectbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Декілька масок можна розділити крапкою з комою. Наприклад: *.jpg;*.doc\n"
+"\n"
+"Маски:\n"
+
+#: ustrings.name_undo
+msgid "Undo"
+msgstr "Скасувати"
+
+#: ustrings.name_undofiles
+msgid "Undo %d file(s)"
+msgstr "Скасувати перейменування %d файлу(ів)"
+
+#: ustrings.sdatetimedays
+msgctxt "ustrings.sdatetimedays"
+msgid "Days"
+msgstr "день(дня,днів)"
+
+#: ustrings.sdatetimehours
+msgctxt "ustrings.sdatetimehours"
+msgid "Hours"
+msgstr "годин(у,и)"
+
+#: ustrings.sdatetimemilliseconds
+msgctxt "ustrings.sdatetimemilliseconds"
+msgid "Milliseconds"
+msgstr "мілісекунд(у,и)"
+
+#: ustrings.sdatetimeminutes
+msgctxt "ustrings.sdatetimeminutes"
+msgid "Minutes"
+msgstr "хвилин(у,и)"
+
+#: ustrings.sdatetimemonths
+msgctxt "ustrings.sdatetimemonths"
+msgid "Months"
+msgstr "місяць(я,ів)"
+
+#: ustrings.sdatetimeseconds
+msgctxt "ustrings.sdatetimeseconds"
+msgid "Seconds"
+msgstr "секунд(у,и)"
+
+#: ustrings.sdatetimeyears
+msgctxt "ustrings.sdatetimeyears"
+msgid "Years"
+msgstr "рік(роки,років)"
+
+#: ustrings.sfiltersallfiles
+msgid "All files"
+msgstr "Усі файли"
+
+#: ustrings.sfiltersanyfile
+msgid "Any file"
+msgstr "Будь-який файл"
+
+#: ustrings.sfiltersarchives
+msgid "Archives"
+msgstr "Архіви"
+
+#: ustrings.sfiltersbatchfile
+msgid "Batch file"
+msgstr "Пакетний файл"
+
+#: ustrings.sfilterscommaseparated
+msgid "comma separated"
+msgstr "розділені комою"
+
+#: ustrings.sfiltersdocuments
+msgid "Documents"
+msgstr "Документи"
+
+#: ustrings.sfiltersmusic
+msgid "Music"
+msgstr "Музика"
+
+#: ustrings.sfilterspictures
+msgid "Pictures"
+msgstr "Зображення"
+
+#: ustrings.sfiltersplaylist
+msgid "Play list"
+msgstr "Плейлист"
+
+#: ustrings.sfilterspresets
+msgctxt "ustrings.sfilterspresets"
+msgid "Presets"
+msgstr "Пресети"
+
+#: ustrings.sfilterstabseparated
+msgid "tab separated"
+msgstr "розділені табуляцією"
+
+#: ustrings.sfilterstextfiles
+msgid "Text files"
+msgstr "Текстові файли"
+
+#: ustrings.sfilterstextlist
+msgid "Text list"
+msgstr "Текстовий список"
+

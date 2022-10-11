@@ -1,0 +1,1 @@
+start frpc_32.exe -c frpc.ini

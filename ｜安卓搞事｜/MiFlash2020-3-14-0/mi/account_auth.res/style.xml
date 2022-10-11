@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window>
+  <Font name="微软雅黑" size="14" id="14"/>
+  <Font name="微软雅黑" size="14" id="default" default="true"/>
+  <Font name="微软雅黑" size="16" id="16"/>
+  <Font name="微软雅黑" size="16" id="161" underline="true"/>
+  <Font name="微软雅黑" size="20" id="20"/>
+  <Font name="微软雅黑" size="36" id="36" bold="true"/>
+
+  <Default name="VScrollBar" value="thumbnormalimage='imgs/scroll_bar.png;;0,4,0,4' width='8' horizontal='false'"/>
+  <Default name="HScrollBar" value="thumbnormalimage='imgs/scroll_bar.png;;0,4,0,4' height='8' horizontal='true'"/>
+  <Default name="Button" value="normalimage=&quot;file='btns/common_btn.png' source='0,0,142,42'&quot;hotimage=&quot;file='btns/common_btn.png' source='142,0,284,42'&quot;pushedimage=&quot;file='btns/common_btn.png' source='284,0,426,42'&quot; textcolor='#000000'"/>
+  <Default name="CheckBox" value="normalimage=&quot;file='btns/checkbox_list_bg.png' source='14,0,28,14'&quot; selectedimage=&quot;file='btns/checkbox_list.png' source='0,0,14,14'&quot;"/>
+</Window>

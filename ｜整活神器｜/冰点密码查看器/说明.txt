@@ -1,0 +1,4 @@
+deep freeze重置工具 v1.5(c) 花王 <kao.was.here@gmail.com>
+最新版本总是在 https://forum.tuts4you.com/和 https://lifeinhex.com/tag/deepfreeze/
+支持: deep freeze企业版 5. x-8.22, deep freeze标准版 6.00-7.72
+不支持: deep freeze标准版8.x

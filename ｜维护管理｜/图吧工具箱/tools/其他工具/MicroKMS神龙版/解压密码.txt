@@ -1,0 +1,4 @@
+解压密码:tulading
+激活工具会被windows defender误报，若需正常使用请关闭windows defender
+
+作者只负责收集，概不保证安全性。

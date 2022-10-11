@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window>
+  <VerticalLayout name="check_frame">
+    <VerticalLayout name="checking_window" childalign="center" childpadding="40" visible="true">
+      <Label height="30" text="IDS_24" font="20" align="center" padding="0,65,0,0"/>
+      <Label name="bind_status" height="30" text="IDS_25" font="16" align="center"/>
+      <Button name="logout_btn1" height="42" width="142" font="14" text="IDS_26"
+              normalimage="file='btns/common_btn.png' source='0,0,142,42' corner='10,10,10,10'"
+              hotimage="file='btns/common_btn.png' source='142,0,284,42' corner='10,10,10,10'"
+              pushedimage="file='btns/common_btn.png' source='284,0,426,42' corner='10,10,10,10'"/>
+    </VerticalLayout>
+    <HorizontalLayout name="bind_window" height="52">
+      <Label name="head_portrait" bkimage="file='imgs/default_user_icon.png'" height="48" width="48" padding="6,0,0,0"/>
+      <Label name="user_id" text="" font="16" padding="8,0,0,0"/>
+      <Button name="bind_btn" padding="0,14,20,0" text="IDS_27" font="161" height="24" width="100" textcolor="0xFF0000FF"
+              normalimage="" hotimage="" pushedimage="" align="center"/>
+    </HorizontalLayout>
+  </VerticalLayout>
+</Window>

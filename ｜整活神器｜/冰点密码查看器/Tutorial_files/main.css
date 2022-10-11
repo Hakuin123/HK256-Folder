@@ -1,0 +1,211 @@
+
+/*--------------------------------------------------------------------------
+ * tag definitions
+ ------------------------------------------------------------------------*/
+
+body,html{
+    font-size: 16px;
+    font-family: "Georgia", serif;
+    line-height: 29px;
+    color:#0c1a30;
+    padding:0;
+    height: 100%;
+    margin: 0 0 1px;
+}
+tt, pre {
+    font-family: "Liberation Mono", monospace;
+    font-size: 90%;
+    line-height: 29px;
+}
+a:link,a:visited{ 
+    color: #2B7EA1; 
+    text-decoration: none; 
+}
+h1{
+    font-size: 22px;
+}
+h2{
+    font-size: 22px;
+}
+h3 a:link, h3 a:visited, h2 a:link, h2 a:visited {
+    color: #2C558A;
+}
+h3 {
+    font-size: 19px;
+}
+h4 {
+    font-size: 17px;
+}
+h1,h2,h3,h4{
+    color: #2c558a;
+    font-weight: normal;
+    letter-spacing:0.1em;
+    font-family: "Gill Sans", "PT Sans", "Arial", sans-serif;
+    text-transform: uppercase;
+}
+p {
+    margin: 0 0 13px 0;
+}
+ul {
+    list-style: none;
+    margin: 0 0 10px 10px;
+    padding-left: 10px;
+    text-indent: -13px;
+}
+ul li{
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+ul.compact li {
+    margin-bottom: 0px;
+}
+ul li p:first-child { 
+    display: inline; 
+}
+ul li p {
+    text-indent: 0;
+    margin: 29px 0;
+}
+ul li:before {
+    content: "» ";
+    font-size: 120%;
+    color: #666;
+
+}
+img {
+    border:0;
+}
+dl, dt, dd {
+    margin: 0;
+    padding: 0;
+    line-height: 29px;
+}
+dd {
+    padding-left: 3em;
+    padding-bottom: 29px;
+}
+dt {
+    height: 29px;
+    font-weight: bold;
+}
+
+
+/*--------------------------------------------------------------------------
+ * styling for css classes
+  ------------------------------------------------------------------------*/
+
+dl span.linklist {
+    color: #888;
+    font-size: 15px;
+    vertical-align: top;
+    font-family: "PT Sans", "Arial", sans-serif;
+}
+.faqs {
+    background: #222;
+    color: #ffbf00;
+    width: 87%;
+    margin: 0px auto 29px auto;
+    padding: 16px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+.faqs #src {
+    font-size: 11px;
+}
+.faqs a {
+    color: #96C1D4;
+}
+.faqs a:hover, .faqs a:active {
+    color: #FFFAEB;
+}
+.clear {
+    padding:0;margin:0;
+    clear:both;
+}
+
+
+/*--------------------------------------------------------------------------
+ * styling for divs with ids
+ ------------------------------------------------------------------------*/
+
+#content {
+    width: 960px;
+    margin: 0 auto;
+    overflow:hidden;
+    position: relative;
+}
+#content.subpage{
+    margin-top: 20px;
+}
+#content.subpage .inner-page{
+    padding: 0px;
+}
+#main{
+    background:#fff;
+    margin: 0;
+    padding: 0;
+    width:100%;
+    min-height: 100%;
+}
+#heading{
+    width: 100%;
+    background: #132742 url(nav-back.png) scroll repeat-x bottom left;
+    color: #C4E7FF;
+    padding: 45px 0 0 0;
+    margin:0;
+    height: 40px;
+    overflow:hidden;
+}
+#heading .inner{
+    width: 960px;
+    margin:0 auto;
+    overflow:hidden;
+    line-height: 1em;
+    vertical-align: top;
+    height: 40px;
+    padding: 0;
+    position: relative;
+    height: 2em;
+}
+#heading h1{
+    margin:0;
+    padding:0;
+    margin: 0 auto;
+    position: absolute;
+    top:0px;
+}
+#footer{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    clear: both;
+    border-top: 1px solid #C2D1E1;
+    color: #a0acba;
+    padding: 4px 0px;
+    height: 31px;
+    font-family: "PT Sans", sans-serif;
+    font-size: 0.75em;
+    text-align: right;
+    background: #f5f9ff;
+    vertical-align: middle;
+    line-height: 31px;
+    overflow: hidden;
+}
+#footer b{
+    font-family: "PT Sans Bold", sans-serif;
+}
+#footer img{
+    vertical-align: middle;
+    padding-left: 10px;
+}
+#footer p{
+    padding: 0 20px;
+    margin: 0;
+}
+#footer p.part-1{
+    float:left;
+}
+#footer p.part-2{
+    float:right;
+}

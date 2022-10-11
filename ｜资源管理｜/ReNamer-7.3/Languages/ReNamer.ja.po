@@ -1,0 +1,4036 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: ReNamer\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Tilt <tiltstr@gmail.com>\n"
+"Language-Team: den4b Team <support@den4b.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Country: jp\n"
+"X-Country-Name: Japan\n"
+"X-Language-Name: Japanese\n"
+"X-Language-Name-Native: 日本語\n"
+"X-Translators: Tilt <tiltstr@gmail.com>, maboroshin <pc.genkaku.in>\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: mainform.ssavecurrentpresetconfirm
+msgid "Save current preset?"
+msgstr "現在のプリセットを保存?"
+
+#: mainform.s_askpurchaseremovelimit
+msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
+msgstr "\"Pro\" バージョンを購入して制限を解除しますか?"
+
+#: mainform.s_askpurchaseunlockfeature
+msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
+msgstr "\"Pro\" バージョンを購入して機能のロックを解除しますか?"
+
+#: mainform.s_confirmunregister
+msgid ""
+"Are you sure you want to unregister the product?\n"
+"\n"
+"This will remove your license and deactivate the \"Pro\" version.\n"
+msgstr ""
+"本当にこの製品の登録を除去しますか?\n"
+"\n"
+"操作を続行した場合、あなたのライセンスは除去され \"Pro\" バージョンではなくなります。\n"
+
+#: mainform.s_featurenotavailable
+msgid "This feature is not available in this version."
+msgstr "機能は現行のバージョンでは利用できません."
+
+#: mainform.s_free_license_note
+msgctxt "mainform.s_free_license_note"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "このアプリケーションは非営利目的での使用、もしくはそれに属する適切な利用に限り使用、再配布を許可されています。"
+
+#: mainform.s_maxallowedpresets
+msgid "This version is limited to a maximum of %s presets."
+msgstr "このバージョンでは、最大 %s 個のプリセットが使用できます."
+
+#: mainform.s_maxallowedrules
+msgid "This version is limited to a maximum of %s rules."
+msgstr "このバージョンでは、最大 %s 個の規則が使用できます."
+
+#: mainform.s_no_license_caption
+msgid "(non-commercial use only)"
+msgstr "（非商用利用のみ）"
+
+#: mainform.s_please_read_full_license
+msgid "For more information please read full license code"
+msgstr "更に詳細な情報については、ライセンスコードをお読みください"
+
+#: mainform.s_presetdirstructurelimitation
+msgid "This version does not support presets directory structure."
+msgstr "このバージョンでは、ディレクトリ構造のプリセットに対応していません。"
+
+#: mainform.s_statusbar_hint_filters
+msgid "Active filter settings"
+msgstr "アクティブ フィルタの設定"
+
+#: mainform.s_statusbar_hint_presets
+msgid "Loaded preset"
+msgstr "読み込まれたプリセット"
+
+#: mainform.s_statusbar_hint_presets_modified
+msgid "Loaded preset (modified)"
+msgstr "読み込まれたプリセット(変更有り)"
+
+#: presetslinksform.screatednumpresetlinks
+msgid "Created %d preset links."
+msgstr "%d 個のプリセット リンクを作成."
+
+#: presetsmanagerform.sduplicatepresetsuffix
+msgid "COPY"
+msgstr "コピー"
+
+#: rulepascalscriptframe.saddyourcodehere
+msgid "Add your code here"
+msgstr "ここにコードを追加"
+
+#: rulepascalscriptframe.sholdtoinsertscriptinline
+msgid "Hold %s when loading a script to insert it inline"
+msgstr "スクリプトの読み込み時に %s を押下でインラインに挿入"
+
+#: rulepascalscriptframe.spressforcodecompletion
+msgid "Press %s for code completion"
+msgstr "%s を押してコード補完"
+
+#: ruleregexframe.sregexanychar
+msgid "Any single character"
+msgstr "すべてのなんらかの1文字"
+
+#: ruleregexframe.sregexanycharexact3
+msgid "A set of 3 of any characters"
+msgstr "なんらかの3文字"
+
+#: ruleregexframe.sregexanycharplus
+msgid "One or more of any characters"
+msgstr "1文字以上の文字列"
+
+#: ruleregexframe.sregexanycharplusgrouped
+msgid "One or more of any characters, grouped into subexpression"
+msgstr "1文字以上の文字列、部分表現の集合となる"
+
+#: ruleregexframe.sregexanycharplusnogreedy
+msgid "One or more of any characters, but fewer as possible"
+msgstr "1文字以上の文字列、最小で合致する"
+
+#: ruleregexframe.sregexanycharset2to4
+msgid "A set of 2 to 4 of any characters"
+msgstr "2文字から4文字"
+
+#: ruleregexframe.sregexanycharset3ormore
+msgid "A set of 3 or more of any characters"
+msgstr "3文字以上"
+
+#: ruleregexframe.sregexanycharstar
+msgid "Zero or more of any characters"
+msgstr "0文字以上の文字列"
+
+#: ruleregexframe.sregexcharlistabc
+msgid "Any single character from the list (e.g. \"a\" or \"b\" or \"c\")"
+msgstr "列挙されたなんらかの1文字 (例. AかBかC)"
+
+#: ruleregexframe.sregexcharlistaorborc
+msgid "Any one occurrence of the alternatives (e.g. \"aa\" or \"bb\" or \"cc\")"
+msgstr "選択肢のうちいずれか (例. aaかbbかcc)"
+
+#: ruleregexframe.sregexcharlistatoz
+msgid "Any single character from the range (e.g. \"a\" to \"z\")"
+msgstr "指定範囲内のすべての1文字 (例. aからz)"
+
+#: ruleregexframe.sregexend
+msgid "End of the input text"
+msgstr "入力テキストの末尾"
+
+#: ruleregexframe.sregexescapedslash
+msgid "Use an escape character to match an actual backslash \"\\\""
+msgstr "実際のバックスラッシュ \"\\\" に合致するにはエスケープする"
+
+#: ruleregexframe.sregexnotcharlistabc
+msgid "Any single character except the ones from the list"
+msgstr "列挙された以外のなんらかの1文字"
+
+#: ruleregexframe.sregexspacechars
+msgid "Any single space character (space, tab, new line)"
+msgstr "空白文字1文字 (空白, タブ, 改行)"
+
+#: ruleregexframe.sregexstart
+msgid "Start of the input text"
+msgstr "入力テキストの先頭"
+
+#: ruleregexframe.sregexwordboundary
+msgid "Word boundary"
+msgstr "単語の境界"
+
+#: ruleregexframe.sregexwordchars
+msgid "Any single alphanumeric character (including an underscore)"
+msgstr "英数字1文字 (アンダーラインを含む)"
+
+#: settingsform.sfailedtoapplysystemsettings
+msgid "Failed to apply system settings."
+msgstr "システム設定の適用に失敗."
+
+#: settingsform.shinttryrunasadministrator
+msgid "(Try to start the program as administrator to apply these settings)"
+msgstr "(管理者権限でプログラムを実行してから設定を適用してみてください)"
+
+#: settingsform.srealtimepreviewwarning
+msgid ""
+"Real-time update of the preview can be dangerous and its use is not recommended!\n"
+"\n"
+"It will cause graphical updates to the GUI during preview for every processed file but will also respond to any user activity such as mouse clicks and keyboard button presses. Beware, any accidental actions generated during a preview as a result of user activity within the application will interfere with the preview process and can cause unpredictable behavior.\n"
+msgstr ""
+"変更のリアルタイムプレビューの使用は危険が含まれるため、あまり推奨されません!\n"
+"\n"
+"この設定を有効にすることで、ファイル処理のあらゆる状態(マウスクリック、キーボードの押下)が GUI プレビュー可能になります。ただしアプリケーション稼働中のユーザの挙動によっては(それが偶然のものであったとしても)、プレビュー処理に影響を与えてしまい，その結果予期できないエラーが発生する可能性があります。有効にするする場合はご注意ください。\n"
+
+#: tform_about.caption
+msgctxt "tform_about.caption"
+msgid "About"
+msgstr "バージョン情報"
+
+#: tform_about.label_author2.caption
+msgid "Author:"
+msgstr "作者:"
+
+#: tform_about.label_date.caption
+msgid "Date:"
+msgstr "公開日:"
+
+#: tform_about.label_email2.caption
+msgid "Email:"
+msgstr "E-メール:"
+
+#: tform_about.label_version.caption
+msgid "Version:"
+msgstr "バージョン:"
+
+#: tform_about.label_website2.caption
+msgid "Website:"
+msgstr "ウェブサイト:"
+
+#: tform_addpaths.bitbtn_add.caption
+msgctxt "tform_addpaths.bitbtn_add.caption"
+msgid "Add"
+msgstr "追加"
+
+#: tform_addpaths.bitbtn_cancel.caption
+msgctxt "tform_addpaths.bitbtn_cancel.caption"
+msgid "Cancel"
+msgstr "中止"
+
+#: tform_addpaths.caption
+msgctxt "tform_addpaths.caption"
+msgid "Add Paths"
+msgstr "パスを追加"
+
+#: tform_addpaths.checkbox_workingdir.caption
+msgctxt "tform_addpaths.checkbox_workingdir.caption"
+msgid "Working directory:"
+msgstr "作業ディレクトリ:"
+
+#: tform_addpaths.label_enterpaths.caption
+msgid "Enter file paths:"
+msgstr "ファイル パスを入力:"
+
+#: tform_addrule.bitbtn_add.caption
+msgctxt "TFORM_ADDRULE.BITBTN_ADD.CAPTION"
+msgid "Add Rule"
+msgstr "規則の追加"
+
+#: tform_addrule.bitbtn_close.caption
+msgctxt "tform_addrule.bitbtn_close.caption"
+msgid "Close"
+msgstr "閉じる"
+
+#: tform_addrule.caption
+msgctxt "TFORM_ADDRULE.CAPTION"
+msgid "Add Rule"
+msgstr "規則の追加"
+
+#: tform_addrule.groupbox_config.caption
+msgid "Configuration:"
+msgstr "構成設定:"
+
+#: tform_addrule.menuitem_ruledescription.caption
+msgid "Description"
+msgstr "説明"
+
+#: tform_analyze.bb_applyrules.caption
+msgid "Apply Rules"
+msgstr "規則を適用"
+
+#: tform_analyze.caption
+msgctxt "tform_analyze.caption"
+msgid "Analyze"
+msgstr "テキストの解析"
+
+#: tform_analyze.cb_applyrulesforeachline.caption
+msgid "Apply rules for each line"
+msgstr "各行に規則を適用"
+
+#: tform_analyze.cb_autoapplyrules.caption
+msgid "Automatically apply rules"
+msgstr "自動的に規則を適用"
+
+#: tform_analyze.cb_wordwrap.caption
+msgid "Line wrap"
+msgstr "折り返す"
+
+#: tform_analyze.label_textin.caption
+msgid "Enter text that you wish to analyze:"
+msgstr "解析したいテキストを入力して下さい:"
+
+#: tform_analyze.label_textout.caption
+msgid "Text after applying rules:"
+msgstr "規則適用後の文字列:"
+
+#: tform_browse.bitbtn_cancel.caption
+msgctxt "TFORM_BROWSE.BITBTN_CANCEL.CAPTION"
+msgid "Close"
+msgstr "閉じる"
+
+#: tform_browse.bitbtn_ok.caption
+msgctxt "tform_browse.bitbtn_ok.caption"
+msgid "Add Folders"
+msgstr "フォルダの追加"
+
+#: tform_browse.caption
+msgid "Browse"
+msgstr "参照"
+
+#: tform_browse.checkbox_showhidden.caption
+msgid "Show hidden folders"
+msgstr "隠し属性フォルダを表示"
+
+#: tform_browse.checkbox_showsystem.caption
+msgid "Show system folders"
+msgstr "システムフォルダを表示"
+
+#: tform_browse.label_title.caption
+msgid "Select folders that you want to add:"
+msgstr "追加したいフォルダを選択:"
+
+#: tform_browse.menuitem_collapseall.caption
+msgid "Collapse All"
+msgstr "すべてをたたむ"
+
+#: tform_browse.menuitem_explorefolder.caption
+msgid "Explore selected folder"
+msgstr "選択されたフォルダを調査"
+
+#: tform_browse.menuitem_gotofolder.caption
+msgctxt "TFORM_BROWSE.MENUITEM_GOTOFOLDER.CAPTION"
+msgid "Go To Folder"
+msgstr "フォルダへ移動"
+
+#: tform_browse.menuitem_refreshtree.caption
+msgid "Refresh Tree"
+msgstr "ツリーを更新"
+
+#: tform_browse.sb_gotofolder.caption
+msgctxt "tform_browse.sb_gotofolder.caption"
+msgid "Go To"
+msgstr "移動"
+
+#: tform_browse.speedbutton_filtersettings.caption
+msgctxt "tform_browse.speedbutton_filtersettings.caption"
+msgid "Filter Settings"
+msgstr "フィルタ設定"
+
+#: tform_filtersettings.bitbtn_cancel.caption
+msgctxt "tform_filtersettings.bitbtn_cancel.caption"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: tform_filtersettings.bitbtn_save.caption
+msgctxt "tform_filtersettings.bitbtn_save.caption"
+msgid "Save"
+msgstr "保存"
+
+#: tform_filtersettings.caption
+msgctxt "TFORM_FILTERSETTINGS.CAPTION"
+msgid "Filter Settings"
+msgstr "フィルタ設定"
+
+#: tform_filtersettings.cb_masksonfilename.caption
+msgid "Apply only to the file name, instead of full path."
+msgstr "フルパスの代わりにファイル名のみ適用."
+
+#: tform_filtersettings.checkbox_addfilesfromfolders.caption
+msgid "Add files within folders"
+msgstr "フォルダ内のファイルを追加"
+
+#: tform_filtersettings.checkbox_addfoldersasfiles.caption
+msgid "Add folders as files"
+msgstr "ファイルとしてフォルダを追加"
+
+#: tform_filtersettings.checkbox_includehidden.caption
+msgid "Include hidden items"
+msgstr "隠し属性アイテムを含める"
+
+#: tform_filtersettings.checkbox_includesubfolders.caption
+msgid "Include subfolders"
+msgstr "サブフォルダを含める"
+
+#: tform_filtersettings.checkbox_includesystem.caption
+msgid "Include system items"
+msgstr "システム属性アイテムを含める"
+
+#: tform_filtersettings.checkbox_saveasdefault.caption
+msgctxt "tform_filtersettings.checkbox_saveasdefault.caption"
+msgid "Save as default for future sessions"
+msgstr "今後の既定値として保存"
+
+#: tform_filtersettings.checkbox_skiprootfoldersasfiles.caption
+msgid "Skip root folders when added as files"
+msgstr "ﾌｧｲﾙとして追加時はﾙｰﾄ ﾌｫﾙﾀﾞをｽｷｯﾌﾟ"
+
+#: tform_filtersettings.groupbox_folders.caption
+msgid "Default behavior for adding folders:"
+msgstr "フォルダ追加時のデフォルトの動作 :"
+
+#: tform_filtersettings.groupbox_masks.caption
+msgid "Masks:"
+msgstr "マスク:"
+
+#: tform_filtersettings.label_masksexclude.caption
+msgid "Exclude:"
+msgstr "除外:"
+
+#: tform_filtersettings.label_masksinclude.caption
+msgid "Include:"
+msgstr "含める:"
+
+#: tform_filtersettings.label_masksnote.caption
+msgctxt "tform_filtersettings.label_masksnote.caption"
+msgid "Note: separate multiple masks with \";\" (semicolons)."
+msgstr "注: マスクはセミコロン \" ; \" で区切ってください."
+
+#: tform_folderwarning.bb_cancel.caption
+msgctxt "TFORM_FOLDERWARNING.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "中止"
+
+#: tform_folderwarning.bb_continue.caption
+msgid "Continue"
+msgstr "続行"
+
+#: tform_folderwarning.caption
+msgid "Warning: Renaming Folders"
+msgstr "フォルダ・リネームの注意事項"
+
+#: tform_folderwarning.cb_nevershowwarning.caption
+msgid "Never show this warning"
+msgstr "この警告を表示しない"
+
+#: tform_folderwarning.label_warning.caption
+msgid "Renaming a folder also affects all of its content. A problem can occur if you try to rename folders and their content in a single run. Items in the renaming list are processed from top to bottom. The order of items in this case is extremely important for successful renaming."
+msgstr "フォルダのリネームを行うと、そのフォルダ内のすべての内容に影響を与えます。リネーム処理は項目の上位から下位に向かって順次処理されていきます。"
+
+#: tform_folderwarning.label_warning2.caption
+msgid "Parent folders must always appear below their contained items. This can be easily achieved by sorting items in descending order by the Folder or Path column."
+msgstr "この際、項目の順番が非常に重要になります。親フォルダは常に項目の最下部に含まれる必要があります。これは降順でソートすることで簡単に設定可能です。"
+
+#: tform_main.action_about.caption
+msgctxt "TFORM_MAIN.ACTION_ABOUT.CAPTION"
+msgid "About"
+msgstr "バージョン情報"
+
+#: tform_main.action_addfiles.caption
+msgid "Add Files"
+msgstr "ファイルを追加"
+
+#: tform_main.action_addfolders.caption
+msgctxt "TFORM_MAIN.ACTION_ADDFOLDERS.CAPTION"
+msgid "Add Folders"
+msgstr "フォルダを追加"
+
+#: tform_main.action_addpaths.caption
+msgctxt "tform_main.action_addpaths.caption"
+msgid "Add Paths"
+msgstr "パスを追加"
+
+#: tform_main.action_analyzesampletext.caption
+msgid "Analyze sample text"
+msgstr "テキストの解析"
+
+#: tform_main.action_applyrulestoclipboard.caption
+msgid "Apply rules to the clipboard"
+msgstr "規則をクリップボードに適用"
+
+#: tform_main.action_autosizecolumns.caption
+msgid "Autosize columns"
+msgstr "列を自動調整"
+
+#: tform_main.action_countmarkedandselectedfiles.caption
+msgid "Count marked and selected files"
+msgstr "選択ファイルとマーク数をカウント"
+
+#: tform_main.action_exportasbatchfilefullpaths.caption
+msgid "Export as batch renaming file (full paths)"
+msgstr "一括リネーミングファイルをエクスポート(フルパス)"
+
+#: tform_main.action_exportasbatchfileonlynames.caption
+msgid "Export as batch renaming file (only names)"
+msgstr "一括リネーミングファイルをエクスポート(名前のみ)"
+
+#: tform_main.action_exportfilesandpreview.caption
+msgid "Export file paths and new names"
+msgstr "ファイルパスと新しい名前をエクスポート"
+
+#: tform_main.action_exportfilesandundo.caption
+msgid "Export file paths and undo paths"
+msgstr "ファイルパスとアンドゥパスをエクスポート"
+
+#: tform_main.action_exportnewnamestoclipboard.caption
+msgid "Export new names to clipboard"
+msgstr "新しい名前をクリップボードにエクスポート"
+
+#: tform_main.action_exportpathstoclipboard.caption
+msgid "Export paths to clipboard"
+msgstr "パスをクリップボードにコピー"
+
+#: tform_main.action_filters.caption
+msgctxt "TFORM_MAIN.ACTION_FILTERS.CAPTION"
+msgid "Filters"
+msgstr "フィルター"
+
+#: tform_main.action_fixconflictingnewnames.caption
+msgid "Fix conflicting new names"
+msgstr "新しい名前の競合を修正"
+
+#: tform_main.action_importfilesandpreview.caption
+msgid "Import file paths and new names"
+msgstr "ファイルパスと新しい名前をインポート"
+
+#: tform_main.action_importlistoffiles.caption
+msgid "Import files from text-list or play-list"
+msgstr "リストからファイルをインポート"
+
+#: tform_main.action_importnewnamesfromclipboard.caption
+msgid "Import new names from clipboard"
+msgstr "クリップボードから新しい名前をインポート"
+
+#: tform_main.action_managepresets.caption
+msgid "Manage..."
+msgstr "管理..."
+
+#: tform_main.action_newinstance.caption
+msgid "New Instance"
+msgstr "新たなインスタンス"
+
+#: tform_main.action_newproject.caption
+msgid "New Project"
+msgstr "新規プロジェクト"
+
+#: tform_main.action_pastefiles.caption
+msgid "Paste Files"
+msgstr "ファイル貼り付け"
+
+#: tform_main.action_presetsave.caption
+msgctxt "TFORM_MAIN.ACTION_PRESETSAVE.CAPTION"
+msgid "Save"
+msgstr "保存"
+
+#: tform_main.action_presetsaveas.caption
+msgid "Save As"
+msgstr "名前をつけて保存"
+
+#: tform_main.action_preview.caption
+msgctxt "TFORM_MAIN.ACTION_PREVIEW.CAPTION"
+msgid "Preview"
+msgstr "プレビュー"
+
+#: tform_main.action_register.caption
+msgctxt "tform_main.action_register.caption"
+msgid "Register"
+msgstr "登録(&R)"
+
+#: tform_main.action_rename.caption
+msgctxt "TFORM_MAIN.ACTION_RENAME.CAPTION"
+msgid "Rename"
+msgstr "リネーム"
+
+#: tform_main.action_settings.caption
+msgid "All Settings"
+msgstr "すべての設定"
+
+#: tform_main.action_sortforrenamingfolders.caption
+msgid "Sort by path for renaming folders"
+msgstr "リネーム後、フォルダをパスでソート"
+
+#: tform_main.action_undorename.caption
+msgid "Undo Renaming"
+msgstr "リネームを元に戻す"
+
+#: tform_main.action_unregister.caption
+msgid "Unregister"
+msgstr "登録解除(&N)"
+
+#: tform_main.action_validatenewnames.caption
+msgid "Validate new names"
+msgstr "新しい名前を有効化"
+
+#: tform_main.listview_rules.columns[0].caption
+msgid "#"
+msgstr "#"
+
+#: tform_main.listview_rules.columns[1].caption
+msgid "Rule"
+msgstr "規則"
+
+#: tform_main.listview_rules.columns[2].caption
+msgid "Statement"
+msgstr "ステート"
+
+#: tform_main.menuitem_addrule.caption
+msgctxt "TFORM_MAIN.MENUITEM_ADDRULE.CAPTION"
+msgid "Add Rule"
+msgstr "規則の追加"
+
+#: tform_main.menuitem_addruleabove.caption
+msgid "Add Rule (above)"
+msgstr "規則を追加 (上部)"
+
+#: tform_main.menuitem_addrulebelow.caption
+msgid "Add Rule (below)"
+msgstr "規則を追加 (下部)"
+
+#: tform_main.menuitem_analyzename.caption
+msgid "Analyze Name"
+msgstr "名前の解析"
+
+#: tform_main.menuitem_clearall.caption
+msgid "Clear All"
+msgstr "すべてクリア"
+
+#: tform_main.menuitem_clearfailed.caption
+msgid "Clear Failed"
+msgstr "クリアの失敗"
+
+#: tform_main.menuitem_clearing.caption
+msgid "Clear"
+msgstr "クリア"
+
+#: tform_main.menuitem_clearinvalid.caption
+msgid "Clear Invalid"
+msgstr "クリア無効"
+
+#: tform_main.menuitem_clearmarked.caption
+msgid "Clear Marked"
+msgstr "マークをクリア"
+
+#: tform_main.menuitem_clearnotmarked.caption
+msgid "Clear Not Marked"
+msgstr "マーク以外をクリア"
+
+#: tform_main.menuitem_clearrenamed.caption
+msgid "Clear Renamed"
+msgstr "リネーム後にクリア"
+
+#: tform_main.menuitem_clearvalid.caption
+msgid "Clear Valid"
+msgstr "クリア有効"
+
+#: tform_main.menuitem_duplicaterule.caption
+msgid "Duplicate Rule"
+msgstr "規則の複製"
+
+#: tform_main.menuitem_editnewname.caption
+msgid "Edit New Name"
+msgstr "新しい名前を編集"
+
+#: tform_main.menuitem_editrule.caption
+msgctxt "TFORM_MAIN.MENUITEM_EDITRULE.CAPTION"
+msgid "Edit Rule"
+msgstr "規則の編集"
+
+#: tform_main.menuitem_exit.caption
+msgid "Exit"
+msgstr "終了"
+
+#: tform_main.menuitem_file.caption
+msgid "File"
+msgstr "ファイル(&F)"
+
+#: tform_main.menuitem_help.caption
+msgctxt "tform_main.menuitem_help.caption"
+msgid "Help"
+msgstr "ヘルプ(&H)"
+
+#: tform_main.menuitem_invertmarking.caption
+msgid "Invert Marking"
+msgstr "マークを反転"
+
+#: tform_main.menuitem_invertselection.caption
+msgid "Invert Selection"
+msgstr "選択を反転"
+
+#: tform_main.menuitem_mark.caption
+msgctxt "TFORM_MAIN.MENUITEM_MARK.CAPTION"
+msgid "Mark"
+msgstr "マーク"
+
+#: tform_main.menuitem_markbymask.caption
+msgctxt "TFORM_MAIN.MENUITEM_MARKBYMASK.CAPTION"
+msgid "Mark by Mask"
+msgstr "マスクを使用"
+
+#: tform_main.menuitem_marking.caption
+msgctxt "tform_main.menuitem_marking.caption"
+msgid "Mark"
+msgstr "マーク"
+
+#: tform_main.menuitem_markonlychangedexccase.caption
+msgid "Mark Only Changed (Exc. Case)"
+msgstr "マークのみ変更 (大文字小文字を除外)"
+
+#: tform_main.menuitem_markonlychangedinccase.caption
+msgid "Mark Only Changed (Inc. Case)"
+msgstr "マークのみ変更 (大文字小文字を含む)"
+
+#: tform_main.menuitem_markonlyselected.caption
+msgid "Mark Only Selected"
+msgstr "選択のみにマーク"
+
+#: tform_main.menuitem_movedown.caption
+msgctxt "TFORM_MAIN.MENUITEM_MOVEDOWN.CAPTION"
+msgid "Down"
+msgstr "下へ"
+
+#: tform_main.menuitem_moveup.caption
+msgctxt "TFORM_MAIN.MENUITEM_MOVEUP.CAPTION"
+msgid "Up"
+msgstr "上へ"
+
+#: tform_main.menuitem_moving.caption
+msgid "Move"
+msgstr "移動"
+
+#: tform_main.menuitem_presets.caption
+msgctxt "tform_main.menuitem_presets.caption"
+msgid "Presets"
+msgstr "プリセット(&P)"
+
+#: tform_main.menuitem_removeallrules.caption
+msgid "Remove All Rules"
+msgstr "すべての規則を除去"
+
+#: tform_main.menuitem_removerule.caption
+msgid "Remove Rule"
+msgstr "規則を除去"
+
+#: tform_main.menuitem_removeselecteditems.caption
+msgid "Remove Selected"
+msgstr "選択を除去"
+
+#: tform_main.menuitem_rulemovedown.caption
+msgid "Move Down"
+msgstr "下に移動"
+
+#: tform_main.menuitem_rulemoveup.caption
+msgid "Move Up"
+msgstr "上に移動"
+
+#: tform_main.menuitem_rulesmarkall.caption
+msgid "Mark All"
+msgstr "すべてマーク"
+
+#: tform_main.menuitem_rulesselectall.caption
+msgctxt "tform_main.menuitem_rulesselectall.caption"
+msgid "Select All"
+msgstr "すべて選択"
+
+#: tform_main.menuitem_rulesunmarkall.caption
+msgid "Unmark All"
+msgstr "すべてマーク解除"
+
+#: tform_main.menuitem_selectall.caption
+msgctxt "tform_main.menuitem_selectall.caption"
+msgid "Select All"
+msgstr "すべて選択"
+
+#: tform_main.menuitem_selectbyextension.caption
+msgctxt "TFORM_MAIN.MENUITEM_SELECTBYEXTENSION.CAPTION"
+msgid "Select by Extension"
+msgstr "拡張子で選択"
+
+#: tform_main.menuitem_selectbymask.caption
+msgctxt "TFORM_MAIN.MENUITEM_SELECTBYMASK.CAPTION"
+msgid "Select by Mask"
+msgstr "マスクで選択"
+
+#: tform_main.menuitem_selectbynamelength.caption
+msgid "Select by Name Length"
+msgstr "名前の長さで選択"
+
+#: tform_main.menuitem_selecting.caption
+msgid "Select"
+msgstr "選択"
+
+#: tform_main.menuitem_settings.caption
+msgctxt "tform_main.menuitem_settings.caption"
+msgid "Settings"
+msgstr "設定(&S)"
+
+#: tform_main.menuitem_settingsgeneral.caption
+msgctxt "tform_main.menuitem_settingsgeneral.caption"
+msgid "General"
+msgstr "一般"
+
+#: tform_main.menuitem_settingsmetatags.caption
+msgctxt "tform_main.menuitem_settingsmetatags.caption"
+msgid "Meta Tags"
+msgstr "メタタグ"
+
+#: tform_main.menuitem_settingsmisc.caption
+msgid "Miscellaneous"
+msgstr "その他"
+
+#: tform_main.menuitem_settingspreview.caption
+msgctxt "tform_main.menuitem_settingspreview.caption"
+msgid "Preview"
+msgstr "プレビュー"
+
+#: tform_main.menuitem_settingsrename.caption
+msgctxt "TFORM_MAIN.MENUITEM_SETTINGSRENAME.CAPTION"
+msgid "Rename"
+msgstr "リネーム"
+
+#: tform_main.menuitem_shell.caption
+msgid "Shell"
+msgstr "シェル"
+
+#: tform_main.menuitem_unmark.caption
+msgid "Unmark"
+msgstr "マーク解除"
+
+#: tform_main.mi_addpresets.caption
+msgid "Import..."
+msgstr "インポート(&I)"
+
+#: tform_main.mi_browsepresets.caption
+msgid "Browse..."
+msgstr "参照(&B)"
+
+#: tform_main.mi_clearnotchanged.caption
+msgid "Clear Not Changed"
+msgstr "変更しないで破棄"
+
+#: tform_main.mi_copyfilestoclipboard.caption
+msgid "Copy Files to Clipboard"
+msgstr "ファイルをクリップボードにコピー"
+
+#: tform_main.mi_copyrights.caption
+msgid "Copyrights"
+msgstr "著作権(&O)"
+
+#: tform_main.mi_createpresetslinks.caption
+msgctxt "tform_main.mi_createpresetslinks.caption"
+msgid "Create Links"
+msgstr "リンクを作成(&C)"
+
+#: tform_main.mi_cutfilestoclipboard.caption
+msgid "Cut Files to Clipboard"
+msgstr "ファイルをクリップボードに切り取る"
+
+#: tform_main.mi_deletefiles.caption
+msgid "Delete Files to Recycle Bin"
+msgstr "ファイルをゴミ箱に削除"
+
+#: tform_main.mi_exportcolumnstoclipboard.caption
+msgid "Export all columns to clipboard"
+msgstr "すべての列をクリップボードにコピー"
+
+#: tform_main.mi_fileproperties.caption
+msgid "File Properties"
+msgstr "ファイルのプロパティ"
+
+#: tform_main.mi_filescolumns_cancelsorting.caption
+msgctxt "TFORM_MAIN.MI_FILESCOLUMNS_CANCELSORTING.CAPTION"
+msgid "Cancel Sorting"
+msgstr "ソートをキャンセル"
+
+#: tform_main.mi_forum.caption
+msgid "Forum (online)"
+msgstr "フォーラム(&F)"
+
+#: tform_main.mi_help.caption
+msgid "Help (online)"
+msgstr "オンラインヘルプ&"
+
+#: tform_main.mi_history.caption
+msgid "Version History"
+msgstr "履歴(&H)"
+
+#: tform_main.mi_language.caption
+msgctxt "tform_main.mi_language.caption"
+msgid "Language"
+msgstr "言語(&L)"
+
+#: tform_main.mi_litevspro.caption
+msgid "Lite vs Pro (online)"
+msgstr "Lite と Pro の違い(&L)"
+
+#: tform_main.mi_loadpreset.caption
+msgid "Load"
+msgstr "読み込み(&L)"
+
+#: tform_main.mi_opencontainingfolder.caption
+msgid "Open containing folder"
+msgstr "含まれているフォルダを開く"
+
+#: tform_main.mi_openfile.caption
+msgid "Open File"
+msgstr "ファイルを開く"
+
+#: tform_main.mi_openwithnotepad.caption
+msgid "Open with Notepad"
+msgstr "メモ帳で開く"
+
+#: tform_main.mi_purchase.caption
+msgid "Purchase (online)"
+msgstr "購入(&P)"
+
+#: tform_main.mi_quickguide.caption
+msgid "Quick Guide"
+msgstr "クイックガイド(&Q)"
+
+#: tform_main.mi_rescanpresets.caption
+msgid "Rescan"
+msgstr "再スキャン(&R)"
+
+#: tform_main.mi_rulecomment.caption
+msgid "Comment..."
+msgstr "コメント..."
+
+#: tform_main.mi_rulestoclipboard.caption
+msgid "Export to Clipboard"
+msgstr "クリップボードにエクスポート"
+
+#: tform_main.mi_usermanual.caption
+msgid "User Manual"
+msgstr "ユーザマニュアル(&U)"
+
+#: tform_main.toolbutton_addrule.caption
+msgctxt "tform_main.toolbutton_addrule.caption"
+msgid "Add"
+msgstr "追加"
+
+#: tform_main.toolbutton_analyze.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_ANALYZE.CAPTION"
+msgid "Analyze"
+msgstr "テキストの解析"
+
+#: tform_main.toolbutton_columns.caption
+msgid "Columns"
+msgstr "列"
+
+#: tform_main.toolbutton_export.caption
+msgid "Export"
+msgstr "出力"
+
+#: tform_main.toolbutton_files.caption
+msgid "Files"
+msgstr "ファイル"
+
+#: tform_main.toolbutton_filters.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_FILTERS.CAPTION"
+msgid "Filters"
+msgstr "フィルター"
+
+#: tform_main.toolbutton_movedownrule.caption
+msgctxt "tform_main.toolbutton_movedownrule.caption"
+msgid "Down"
+msgstr "下へ"
+
+#: tform_main.toolbutton_moveuprule.caption
+msgctxt "tform_main.toolbutton_moveuprule.caption"
+msgid "Up"
+msgstr "上へ"
+
+#: tform_main.toolbutton_options.caption
+msgctxt "tform_main.toolbutton_options.caption"
+msgid "Options"
+msgstr "設定"
+
+#: tform_main.toolbutton_removerule.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_REMOVERULE.CAPTION"
+msgid "Remove"
+msgstr "除去"
+
+#: tform_main.vst_files.header.columns[0].text
+msgid "State"
+msgstr "ステート"
+
+#: tform_main.vst_files.header.columns[10].text
+msgid "Modified"
+msgstr "更新日時"
+
+#: tform_main.vst_files.header.columns[11].text
+msgctxt "tform_main.vst_files.header.columns[11].text"
+msgid "Extension"
+msgstr "拡張子"
+
+#: tform_main.vst_files.header.columns[12].text
+msgid "Name Digits"
+msgstr "名前桁"
+
+#: tform_main.vst_files.header.columns[13].text
+msgid "Path Digits"
+msgstr "パス桁"
+
+#: tform_main.vst_files.header.columns[14].text
+msgid "Name Length"
+msgstr "名前の長さ"
+
+#: tform_main.vst_files.header.columns[15].text
+msgid "New Name Length"
+msgstr "新しい名前の長さ"
+
+#: tform_main.vst_files.header.columns[16].text
+msgid "Path Length"
+msgstr "パスの長さ"
+
+#: tform_main.vst_files.header.columns[17].text
+msgid "New Path Length"
+msgstr "新たなパス長"
+
+#: tform_main.vst_files.header.columns[18].text
+msgid "Exif Date"
+msgstr "EXIF 日付"
+
+#: tform_main.vst_files.header.columns[19].text
+msgid "Old Path"
+msgstr "古いパス"
+
+#: tform_main.vst_files.header.columns[1].text
+msgid "Path"
+msgstr "パス"
+
+#: tform_main.vst_files.header.columns[20].text
+msgctxt "tform_main.vst_files.header.columns[20].text"
+msgid "Error"
+msgstr "エラー"
+
+#: tform_main.vst_files.header.columns[2].text
+msgid "Folder"
+msgstr "フォルダ"
+
+#: tform_main.vst_files.header.columns[3].text
+msgid "Name"
+msgstr "名前"
+
+#: tform_main.vst_files.header.columns[4].text
+msgid "New Name"
+msgstr "新しい名前"
+
+#: tform_main.vst_files.header.columns[5].text
+msgid "New Path"
+msgstr "新しいパス"
+
+#: tform_main.vst_files.header.columns[6].text
+msgid "Size"
+msgstr "サイズ"
+
+#: tform_main.vst_files.header.columns[7].text
+msgid "Size KB"
+msgstr "サイズ(KB)"
+
+#: tform_main.vst_files.header.columns[8].text
+msgid "Size MB"
+msgstr "サイズ(MB)"
+
+#: tform_main.vst_files.header.columns[9].text
+msgid "Created"
+msgstr "作成日時"
+
+#: tform_metatags.bitbtn_cancel.caption
+msgctxt "TFORM_METATAGS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: tform_metatags.bitbtn_insert.caption
+msgctxt "TFORM_METATAGS.BITBTN_INSERT.CAPTION"
+msgid "Insert"
+msgstr "挿入"
+
+#: tform_metatags.caption
+msgctxt "TFORM_METATAGS.CAPTION"
+msgid "Meta Tags"
+msgstr "メタタグ"
+
+#: tform_metatags.label_note.caption
+msgid "Note: Most of the tags can only work for files, not folders."
+msgstr "備考: 多くのタグはファイルにのみ利用可能で、フォルダには利用できません."
+
+#: tform_presetsave.bitbtn_save.caption
+msgid "&Save"
+msgstr "保存(&S)"
+
+#: tform_presetsave.caption
+msgid "Save Preset"
+msgstr "プリセットの保存"
+
+#: tform_presetsave.cb_presetsavefilters.caption
+msgid "Save Filter Settings with the preset?"
+msgstr "フィルター設定をプリセットとして保存しますか?"
+
+#: tform_presetsave.label1.caption
+msgid "Overwrite existing preset:"
+msgstr "既存のプリセットに上書き:"
+
+#: tform_presetsave.le_name.editlabel.caption
+msgid "Preset Name:"
+msgstr "プリセット名:"
+
+#: tform_presetslinks.bb_createlinks.caption
+msgctxt "TFORM_PRESETSLINKS.BB_CREATELINKS.CAPTION"
+msgid "Create Links"
+msgstr "リンクを作成"
+
+#: tform_presetslinks.caption
+msgid "Presets Links"
+msgstr "プリセットのリンク"
+
+#: tform_presetslinks.label_folder.caption
+msgid "Please specify a folder where you want to place the links:"
+msgstr "リンクを置くフォルダを指定してください:"
+
+#: tform_presetslinks.label_linktype.caption
+msgid "Type of links:"
+msgstr "リンクの種類:"
+
+#: tform_presetslinks.rb_load.caption
+msgctxt "TFORM_PRESETSLINKS.RB_LOAD.CAPTION"
+msgid "Load with Preset"
+msgstr "プリセットを読み込む"
+
+#: tform_presetslinks.rb_rename.caption
+msgctxt "TFORM_PRESETSLINKS.RB_RENAME.CAPTION"
+msgid "Rename with Preset"
+msgstr "プリセットをリネーム"
+
+#: tform_presetslinks.sb_browse.hint
+msgid "Browse for Folder"
+msgstr "フォルダを参照"
+
+#: tform_presetslinks.sb_usesendto.hint
+msgid "Use \"Send To\" Folder"
+msgstr "\"送る\" フォルダを使用"
+
+#: tform_presetsmanager.caption
+msgid "Presets Manager"
+msgstr "プリセットの管理"
+
+#: tform_presetsmanager.tb_append.hint
+msgctxt "tform_presetsmanager.tb_append.hint"
+msgid "Append Preset"
+msgstr "プリセットの追加"
+
+#: tform_presetsmanager.tb_copy.hint
+msgctxt "tform_presetsmanager.tb_copy.hint"
+msgid "Duplicate Preset"
+msgstr "プリセットの複製"
+
+#: tform_presetsmanager.tb_delete.hint
+msgctxt "tform_presetsmanager.tb_delete.hint"
+msgid "Delete Preset (Del)"
+msgstr "プリセットを削除 (Del)"
+
+#: tform_presetsmanager.tb_edit.hint
+msgctxt "tform_presetsmanager.tb_edit.hint"
+msgid "Manually Edit Preset (F4)"
+msgstr "プリセットの編集 (F4)"
+
+#: tform_presetsmanager.tb_load.hint
+msgctxt "tform_presetsmanager.tb_load.hint"
+msgid "Load Preset (Enter)"
+msgstr "プリセットの読み込み (Enter)"
+
+#: tform_presetsmanager.tb_rename.hint
+msgctxt "tform_presetsmanager.tb_rename.hint"
+msgid "Rename Preset (F2)"
+msgstr "プリセットのリネーム (F2)"
+
+#: tform_register.bb_cancel.caption
+msgctxt "TFORM_REGISTER.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: tform_register.bb_register.caption
+msgctxt "TFORM_REGISTER.BB_REGISTER.CAPTION"
+msgid "Register"
+msgstr "登録"
+
+#: tform_register.caption
+msgid "Registration"
+msgstr "登録"
+
+#: tform_register.label1.caption
+msgid "Please enter your registration code:"
+msgstr "あなたの登録コードを入力:"
+
+#: tform_settings.bitbtn_cancel.caption
+msgctxt "TFORM_SETTINGS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: tform_settings.bitbtn_save.caption
+msgctxt "TFORM_SETTINGS.BITBTN_SAVE.CAPTION"
+msgid "Save"
+msgstr "保存"
+
+#: tform_settings.caption
+msgctxt "TFORM_SETTINGS.CAPTION"
+msgid "Settings"
+msgstr "設定"
+
+#: tform_settings.cb_allowprocessingextensionsinfolders.caption
+msgid "Folders also have extensions, process them as such"
+msgstr "フォルダに拡張子が付いている場合はそれに従って処理する"
+
+#: tform_settings.cb_highlightchangednames.caption
+msgid "Highlight changed file names"
+msgstr "ファイル名の変更部分を強調"
+
+#: tform_settings.cb_overwritewithnewnameconfirm.caption
+msgid "Must be successfully confirmed by user"
+msgstr "完了前にユーザに確認する"
+
+#: tform_settings.checkbox_addtofoldercontextmenu.caption
+msgid "Add to folders context menu"
+msgstr "フォルダの右クリックメニューに追加"
+
+#: tform_settings.checkbox_addtosendtocontextmenu.caption
+msgid "Add to \"Send To\" context menu"
+msgstr "右クリックの\"送る\"に追加"
+
+#: tform_settings.checkbox_alwaysontop.caption
+#| msgid "Always on top (main window only, requires a restart)"
+msgid "Stay on top of other windows"
+msgstr "他のウィンドウの最前面に表示"
+
+#: tform_settings.checkbox_autopreviewonfilesadded.caption
+msgid "Auto preview when new files are added"
+msgstr "新規ファイル追加時に自動プレビュー"
+
+#: tform_settings.checkbox_autopreviewonruleschange.caption
+msgid "Auto preview on change of rules configurations"
+msgstr "規則設定の変更時に自動的にプレビュー"
+
+#: tform_settings.checkbox_autosizetable.caption
+msgid "Auto size table on change"
+msgstr "テーブル変更時に自動サイズ"
+
+#: tform_settings.checkbox_clearfilestableonrename.caption
+msgid "Clear files table on rename"
+msgstr "リネーム後、テーブル、ファイルをクリア"
+
+#: tform_settings.checkbox_clearrenamedfilesonrename.caption
+msgid "Clear renamed files on rename"
+msgstr "リネーム後、変更済みファイルをクリア"
+
+#: tform_settings.checkbox_clearruleslistonrename.caption
+msgid "Clear rules list on rename"
+msgstr "リネーム後、規則をクリア"
+
+#: tform_settings.checkbox_closeprogramaftersuccessfulrename.caption
+msgid "Close program after successful rename"
+msgstr "リネーム後、プログラムを閉じる"
+
+#: tform_settings.checkbox_displaymsgonsuccessfulrename.caption
+msgid "Display message on successful rename"
+msgstr "リネーム完了時にメッセージを表示"
+
+#: tform_settings.checkbox_fixconflictingnewnamesonpreview.caption
+msgid "Fix conflicting new names on preview"
+msgstr "プレビュー時、新しい名前の競合を修正する"
+
+#: tform_settings.checkbox_metatagsupport.caption
+msgid "MetaTag support"
+msgstr "メタタグへの対応"
+
+#: tform_settings.checkbox_overwritewithnewname.caption
+msgid "Overwrite files with New Names"
+msgstr "ファイルを新しい名前で上書きする"
+
+#: tform_settings.checkbox_previewrealtimeupdate.caption
+msgid "Real-time update of the preview"
+msgstr "更新をリアルタイムでプレビュー(*)"
+
+#: tform_settings.checkbox_registerpresetextension.caption
+msgid "Register preset extension (*.rnp)"
+msgstr "プリセット拡張子(*.rnp)に関連付け"
+
+#: tform_settings.checkbox_rememberlocation.caption
+msgid "Remember position and size of major windows"
+msgstr "メインウインドウの前回最後の位置を保持"
+
+#: tform_settings.checkbox_saveandloaddefaultpreset.caption
+msgid "Save rules configuration on exit, load on startup"
+msgstr "規則設定を保存して終了、次回起動時に読み込む"
+
+#: tform_settings.checkbox_showmaintoolbar.caption
+msgid "Show main toolbar"
+msgstr "メイン ツールバーを表示"
+
+#: tform_settings.checkbox_skiprenamingunchangedfiles.caption
+msgid "Skip renaming of unchanged files"
+msgstr "未変更のファイルはリネームをスキップ"
+
+#: tform_settings.checkbox_sortingremember.caption
+msgid "Remember sorting options (files table)"
+msgstr "ソート設定を保持 (ファイル、テーブル)"
+
+#: tform_settings.checkbox_usenaturalsort.caption
+msgid "Use natural order sorting algorithm (2-3 times slower)"
+msgstr "ナチュラルソート・アルゴリズムを使用 (若干遅くなります)"
+
+#: tform_settings.checkbox_validateonpreview.caption
+msgid "Validate new filenames on preview"
+msgstr "プレビュー時、新しいファイル名を有効にする"
+
+#: tform_settings.label1.caption
+msgid "Date Format:"
+msgstr "データ形式:"
+
+#: tform_settings.label2.caption
+msgid "Preview:"
+msgstr "プレビュー:"
+
+#: tform_settings.label3.caption
+msgid "Example: file1, file2 ... file9, file10, file11, and so on."
+msgstr "例: file1, file2 ... file9, file10, file11."
+
+#: tform_settings.label5.caption
+msgid "Note: disabling any of these options will increase performance when processing large amount of files."
+msgstr "備考: 多量のファイルを処理するときは、上記のオプションを無効にすることで、処理性能の向上を図ることができます."
+
+#: tform_settings.label_addrulestext.caption
+msgid "Change text of \"Click here to add a rule\":"
+msgstr "表示テキスト\"クリックで規則を追加\" を変更 :"
+
+#: tform_settings.label_dragfilestext.caption
+msgid "Change text of \"Drag your files here\":"
+msgstr "表示テキスト\"ここにファイルをドラッグ\" を変更:"
+
+#: tform_settings.label_metatagformatnote.caption
+msgid "Note: formats will be saved only if validated successfully."
+msgstr "備考: 有効のときのみ形式は保存されます。"
+
+#: tform_settings.speedbutton_filtersettings.caption
+msgid "Configure Filter Settings"
+msgstr "フィルター構成設定"
+
+#: tform_settings.speedbutton_metatagformatsinfo.caption
+msgctxt "TFORM_SETTINGS.SPEEDBUTTON_METATAGFORMATSINFO.CAPTION"
+msgid "Help"
+msgstr "ヘルプ(&H)"
+
+#: tform_settings.speedbutton_metatagformatsinfo.hint
+msgctxt "TFORM_SETTINGS.SPEEDBUTTON_METATAGFORMATSINFO.HINT"
+msgid "Online Help (F1)"
+msgstr "オンラインヘルプ (F1)"
+
+#: tform_settings.statictext1.caption
+msgid "Note: Disabling MetaTag support will increase performance when processing large amount of files."
+msgstr "備考: 多量のファイルを処理するときは、上のチェックを無効にすることで処理性能の向上を図ることができます。"
+
+#: tform_settings.statictext5.caption
+msgid "Warning: Overwritten files will be deleted permanently."
+msgstr "注意: 上書きされたファイルは永久に削除され、元に戻せません."
+
+#: tform_settings.tabsheet_general.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_GENERAL.CAPTION"
+msgid "General"
+msgstr "一般"
+
+#: tform_settings.tabsheet_metatags.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_METATAGS.CAPTION"
+msgid "Meta Tags"
+msgstr "メタタグ"
+
+#: tform_settings.tabsheet_misc.caption
+msgid "Misc."
+msgstr "その他"
+
+#: tform_settings.tabsheet_preview.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_PREVIEW.CAPTION"
+msgid "Preview"
+msgstr "プレビュー"
+
+#: tform_settings.tabsheet_rename.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_RENAME.CAPTION"
+msgid "Rename"
+msgstr "リネーム"
+
+#: tform_termsofuse.bb_accept.caption
+msgid "Accept"
+msgstr "承認しました"
+
+#: tform_termsofuse.bb_litevspro.caption
+msgid "Lite vs Pro"
+msgstr "Lite と Pro の違い"
+
+#: tform_termsofuse.bb_purchase.caption
+msgid "Purchase"
+msgstr "購入"
+
+#: tform_termsofuse.bb_register.caption
+msgid "Enter registration code"
+msgstr "登録コードを入力"
+
+#: tform_termsofuse.caption
+msgid "Terms of Use"
+msgstr "利用規約"
+
+#: tform_termsofuse.groupbox.caption
+msgid "Please be aware of the terms of use of this application:"
+msgstr "このアプリケーション使用に関する条件:"
+
+#: tform_termsofuse.label_commercial.caption
+msgid "For commercial use you must obtain a commercial license by going to the website. If you already hold a license please enter your registration code. Thank you for playing fair."
+msgstr "商用目的で利用される場合は、ウェブサイトに訪問して、利用目的に合ったライセンスを取得する必要があります。"
+
+#: tform_termsofuse.label_noncommercial.caption
+msgctxt "TFORM_TERMSOFUSE.LABEL_NONCOMMERCIAL.CAPTION"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "このアプリケーションは非営利目的での使用、もしくはそれに属する適切な利用に限り使用、再配布を許可されています。"
+
+#: tform_termsofuse.label_supportdevelopment.caption
+msgid "Please also consider purchasing a \"Pro\" version to support the future development of this application."
+msgstr "このアプリケーションの開発を、今後も継続していくための支援として 是非 \"Pro\" バージョンの購入もご考慮ください。"
+
+#: tframe_rulecase.checkbox_caseextensionalwayslowercase.caption
+msgid "Extension always lower case"
+msgstr "拡張子は常に小文字"
+
+#: tframe_rulecase.checkbox_caseextensionalwaysuppercase.caption
+msgid "Extension always upper case"
+msgstr "拡張子は常に大文字"
+
+#: tframe_rulecase.checkbox_caseforce.caption
+msgid "Force case for fragments:"
+msgstr "強制的に挿入:"
+
+#: tframe_rulecase.checkbox_caseskipextension.caption
+msgctxt "tframe_rulecase.checkbox_caseskipextension.caption"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_rulecase.groupbox_casechange.caption
+msgid "Case change:"
+msgstr "大文字小文字の変更:"
+
+#: tframe_rulecase.label_caseforcehint.caption
+msgid "Hint: fragments separated with comma will be put in the same case as they are typed in this text box, for example: CD,DVD,DJ"
+msgstr "ヒント: スペースで分割された部分に、上のテキストボックスに入力された文字列を挿入します(例: CD DVD)"
+
+#: tframe_rulecase.rb_casealllower.caption
+msgid "all lower case"
+msgstr "すべてを小文字"
+
+#: tframe_rulecase.rb_caseallupper.caption
+msgid "ALL UPPER CASE"
+msgstr "すべてを大文字"
+
+#: tframe_rulecase.rb_casecapitalize.caption
+msgid "Capitalize Every Word"
+msgstr "すべての単語を大文字"
+
+#: tframe_rulecase.rb_casecapitalizeandpreserve.caption
+msgid "Capitalize AND Preserve"
+msgstr "既存の大文字は保持"
+
+#: tframe_rulecase.rb_casefirstlettercapital.caption
+msgctxt "TFRAME_RULECASE.RB_CASEFIRSTLETTERCAPITAL.CAPTION"
+msgid "First letter capital"
+msgstr "先頭のみ大文字"
+
+#: tframe_rulecase.rb_caseinvert.caption
+msgid "iNVERT cASE"
+msgstr "先頭のみ小文字"
+
+#: tframe_rulecase.rb_noneofabove.caption
+msgid "(none of the above)"
+msgstr "(上記以外)"
+
+#: tframe_rulecleanup.cb_insertspacebeforecapitals.caption
+msgid "Insert a space in front of capitalized letters (e.g. CamelCase)"
+msgstr "大文字の前に空白を挿入する (例. CamelCase)"
+
+#: tframe_rulecleanup.cb_normalizespaces.caption
+msgid "Normalize unicode spaces by replacing them with a standard space"
+msgstr "Unicode の空白を、標準的な空白に置換する方法で正規化"
+
+#: tframe_rulecleanup.checkbox_prepareforsharepoint.caption
+msgid "Prepare for SharePoint (always inc. extension)"
+msgstr "共有ポイントを設ける (拡張子は常に含まれます)"
+
+#: tframe_rulecleanup.checkbox_skipextension.caption
+msgctxt "TFRAME_RULECLEANUP.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_rulecleanup.checkbox_spacescomma.caption
+msgid ", (comma)"
+msgstr ", (カンマ)"
+
+#: tframe_rulecleanup.checkbox_spacesdot.caption
+msgid ". (dot)"
+msgstr ". (ドット)"
+
+#: tframe_rulecleanup.checkbox_spacesfix.caption
+msgid "Fix spaces: only one space at a time, no spaces on sides of basename"
+msgstr "空白の修正: ベースの名前の横には空白が入らないようにします"
+
+#: tframe_rulecleanup.checkbox_spacesskipversions.caption
+msgid "Skip number sequences, for example version 1.2.3.4"
+msgstr "スキップ連番  例: version 1.2.3.4"
+
+#: tframe_rulecleanup.checkbox_stripunicodemarks.caption
+msgid "Strip unicode marks (combining, diacritics, accents)"
+msgstr "Unicode mark をストリップ (結合, 発音記号, アクセント)"
+
+#: tframe_rulecleanup.groupbox1.caption
+msgid "Replace these characters with spaces:"
+msgstr "これらの文字を空白に置換:"
+
+#: tframe_rulecleanup.groupbox_brackets.caption
+msgid "Strip out content of brackets:"
+msgstr "括弧の内容を除去:"
+
+#: tframe_ruledelete.checkbox_deletecurrentname.caption
+msgctxt "tframe_ruledelete.checkbox_deletecurrentname.caption"
+msgid "Delete current name"
+msgstr "現在の名前を削除"
+
+#: tframe_ruledelete.checkbox_deleterighttoleft.caption
+msgctxt "tframe_ruledelete.checkbox_deleterighttoleft.caption"
+msgid "Right-to-left"
+msgstr "右から左"
+
+#: tframe_ruledelete.checkbox_deleteskipextension.caption
+msgctxt "TFRAME_RULEDELETE.CHECKBOX_DELETESKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_ruledelete.checkbox_leavedelimiter.caption
+msgid "Do not remove delimiters"
+msgstr "区切りを除去しない"
+
+#: tframe_ruledelete.groupbox_from.caption
+msgid "From:"
+msgstr "始点:"
+
+#: tframe_ruledelete.groupbox_until.caption
+msgid "Until:"
+msgstr "終点:"
+
+#: tframe_ruledelete.radiobutton_deletefromdelimiter.caption
+msgctxt "tframe_ruledelete.radiobutton_deletefromdelimiter.caption"
+msgid "Delimiter:"
+msgstr "区切り:"
+
+#: tframe_ruledelete.radiobutton_deletefromposition.caption
+msgctxt "tframe_ruledelete.radiobutton_deletefromposition.caption"
+msgid "Position:"
+msgstr "位置:"
+
+#: tframe_ruledelete.radiobutton_deleteuntilcount.caption
+msgid "Count:"
+msgstr "カウント:"
+
+#: tframe_ruledelete.radiobutton_deleteuntildelimiter.caption
+msgctxt "TFRAME_RULEDELETE.RADIOBUTTON_DELETEUNTILDELIMITER.CAPTION"
+msgid "Delimiter:"
+msgstr "区切り:"
+
+#: tframe_ruledelete.radiobutton_deleteuntilend.caption
+msgid "Till the end"
+msgstr "終わりまで"
+
+#: tframe_ruleextension.checkbox_detectbinsign.caption
+msgid "Detect using \"binary signature\""
+msgstr "\"バイナリ署名\"を使用して検出"
+
+#: tframe_ruleextension.checkbox_extensionappend.caption
+msgid "Append to the original filename"
+msgstr "オリジナルのファイル名に追加"
+
+#: tframe_ruleextension.label_extensionlabel.caption
+msgid "New Extension (without dot):"
+msgstr "新しい拡張子(ドットなし):"
+
+#: tframe_ruleextension.label_hint.caption
+msgid "Note: Some files may have multiple extensions matching their data type, for example: doc/ppt/xls have the same signature. Unrecognised files will remain unchanged. If this option is used, the new extension field is ignored."
+msgstr "注意: いくつかのファイルには、それらのデータ型に適合する複数の拡張子が存在するかもしれません。例えば doc/ppt/xls形式では、同じ署名があり認識できないファイルは変更できません。このオプションを使用した場合、新たな拡張子フィールドは無視されます。"
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.caption
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.caption"
+msgid "Insert Meta Tag"
+msgstr "メタ タグの挿入"
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.hint
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.hint"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "メタ タグを挿入します (Ctrl+Ins)"
+
+#: tframe_ruleinsert.checkbox_insertright.caption
+msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTRIGHT.CAPTION"
+msgid "Right-to-left"
+msgstr "右から左"
+
+#: tframe_ruleinsert.checkbox_insertskipextension.caption
+msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTSKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_ruleinsert.label_insertwhat.caption
+msgid "Insert:"
+msgstr "挿入文字:"
+
+#: tframe_ruleinsert.label_insertwhere.caption
+msgid "Where:"
+msgstr "位置:"
+
+#: tframe_ruleinsert.radiobutton_insertaftertext.caption
+msgid "After text:"
+msgstr "後に挿入:"
+
+#: tframe_ruleinsert.radiobutton_insertbeforetext.caption
+msgid "Before text:"
+msgstr "前に挿入:"
+
+#: tframe_ruleinsert.radiobutton_insertposition.caption
+msgctxt "TFRAME_RULEINSERT.RADIOBUTTON_INSERTPOSITION.CAPTION"
+msgid "Position:"
+msgstr "位置:"
+
+#: tframe_ruleinsert.radiobutton_insertprefix.caption
+msgctxt "tframe_ruleinsert.radiobutton_insertprefix.caption"
+msgid "Prefix"
+msgstr "接頭語"
+
+#: tframe_ruleinsert.radiobutton_insertsuffix.caption
+msgctxt "tframe_ruleinsert.radiobutton_insertsuffix.caption"
+msgid "Suffix"
+msgstr "接尾語"
+
+#: tframe_ruleinsert.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleinsert.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "現在の名前を置き換える"
+
+#: tframe_rulepadding.checkbox_addtextpadding.caption
+msgid "Add padding to length:"
+msgstr "埋め込みの長さ:"
+
+#: tframe_rulepadding.checkbox_addzeropadding.caption
+msgid "Add zero padding to length:"
+msgstr "0 埋めの長さ:"
+
+#: tframe_rulepadding.checkbox_removezeropadding.caption
+msgctxt "tframe_rulepadding.checkbox_removezeropadding.caption"
+msgid "Remove zero padding"
+msgstr "0 埋めの除去"
+
+#: tframe_rulepadding.checkbox_skipextension.caption
+msgctxt "tframe_rulepadding.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_rulepadding.groupbox_numbersequences.caption
+msgid "Number sequences"
+msgstr "連番"
+
+#: tframe_rulepadding.groupbox_textpadding.caption
+msgid "Text padding"
+msgstr "文字埋め"
+
+#: tframe_rulepadding.label_paddingcharacters.caption
+msgid "Padding characters:"
+msgstr "埋め込む文字:"
+
+#: tframe_rulepadding.label_position.caption
+msgctxt "tframe_rulepadding.label_position.caption"
+msgid "Position:"
+msgstr "位置:"
+
+#: tframe_rulepadding.radiobutton_positionleft.caption
+msgid "Left"
+msgstr "左"
+
+#: tframe_rulepadding.radiobutton_positionright.caption
+msgid "Right"
+msgstr "右"
+
+#: tframe_rulepascalscript.toolbutton_compile.caption
+msgctxt "tframe_rulepascalscript.toolbutton_compile.caption"
+msgid "Try to Compile"
+msgstr "コンパイルを実行"
+
+#: tframe_rulepascalscript.toolbutton_compile.hint
+msgctxt "tframe_rulepascalscript.toolbutton_compile.hint"
+msgid "Try to Compile (Ctrl+T)"
+msgstr "コンパイルを実行 (Ctrl+T)"
+
+#: tframe_rulepascalscript.toolbutton_gotoline.caption
+msgctxt "tframe_rulepascalscript.toolbutton_gotoline.caption"
+msgid "Go To"
+msgstr "移動"
+
+#: tframe_rulepascalscript.toolbutton_gotoline.hint
+msgctxt "tframe_rulepascalscript.toolbutton_gotoline.hint"
+msgid "Go To Line (Ctrl+G)"
+msgstr "指定行に移動 (Ctrl+G)"
+
+#: tframe_rulepascalscript.toolbutton_help.caption
+msgctxt "tframe_rulepascalscript.toolbutton_help.caption"
+msgid "Help"
+msgstr "ヘルプ"
+
+#: tframe_rulepascalscript.toolbutton_help.hint
+msgctxt "tframe_rulepascalscript.toolbutton_help.hint"
+msgid "Online Help (F1)"
+msgstr "ヘルプ (F1)"
+
+#: tframe_rulepascalscript.toolbutton_scripts.caption
+msgctxt "tframe_rulepascalscript.toolbutton_scripts.caption"
+msgid "Scripts"
+msgstr "スクリプト"
+
+#: tframe_rulepascalscript.toolbutton_scripts.hint
+msgctxt "tframe_rulepascalscript.toolbutton_scripts.hint"
+msgid "Scripts (Ctrl+L)"
+msgstr "スクリプト (Ctrl+L)"
+
+#: tframe_rulerandomize.checkbox_skipextension.caption
+msgctxt "tframe_rulerandomize.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_rulerandomize.checkbox_unique.caption
+msgctxt "tframe_rulerandomize.checkbox_unique.caption"
+msgid "Unique if possible"
+msgstr "可能であれば固有名"
+
+#: tframe_rulerandomize.checkbox_usedigits.caption
+msgctxt "tframe_rulerandomize.checkbox_usedigits.caption"
+msgid "Digits (0..9)"
+msgstr "数字 (0..9):"
+
+#: tframe_rulerandomize.checkbox_useenglishletters.caption
+msgid "English letters (a..z)"
+msgstr "英語の文字 (a..z)"
+
+#: tframe_rulerandomize.checkbox_useuserdefined.caption
+msgctxt "tframe_rulerandomize.checkbox_useuserdefined.caption"
+msgid "User defined:"
+msgstr "ユーザ定義:"
+
+#: tframe_rulerandomize.groupbox_characters.caption
+msgctxt "tframe_rulerandomize.groupbox_characters.caption"
+msgid "Characters to use:"
+msgstr "使用する文字:"
+
+#: tframe_rulerandomize.groupbox_insertwhere.caption
+msgctxt "tframe_rulerandomize.groupbox_insertwhere.caption"
+msgid "Insert where:"
+msgstr "挿入位置:"
+
+#: tframe_rulerandomize.label_length.caption
+msgctxt "tframe_rulerandomize.label_length.caption"
+msgid "Length of random sequence:"
+msgstr "ランダム シーケンス長:"
+
+#: tframe_rulerandomize.radiobutton_position.caption
+msgctxt "tframe_rulerandomize.radiobutton_position.caption"
+msgid "Position:"
+msgstr "位置:"
+
+#: tframe_rulerandomize.radiobutton_prefix.caption
+msgctxt "tframe_rulerandomize.radiobutton_prefix.caption"
+msgid "Prefix"
+msgstr "接頭語"
+
+#: tframe_rulerandomize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_rulerandomize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "現在の名前を置き換える"
+
+#: tframe_rulerandomize.radiobutton_suffix.caption
+msgctxt "tframe_rulerandomize.radiobutton_suffix.caption"
+msgid "Suffix"
+msgstr "接尾語"
+
+#: tframe_rulerearrange.cb_righttoleft.caption
+msgctxt "TFRAME_RULEREARRANGE.CB_RIGHTTOLEFT.CAPTION"
+msgid "Right-to-left"
+msgstr "右から左方向"
+
+#: tframe_rulerearrange.cb_skipextension.caption
+msgctxt "TFRAME_RULEREARRANGE.CB_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_rulerearrange.label1.caption
+msgid "Split using:"
+msgstr "分割に使用:"
+
+#: tframe_rulerearrange.label2.caption
+msgid "New pattern:"
+msgstr "新規パターン/順序:"
+
+#: tframe_rulerearrange.label3.caption
+msgid "Hint: Use $1..$N to reference delimited parts in the new pattern, $-1..$-N to reference from the end, $0 for the original name."
+msgstr "ヒント: $-1..$-N, で区切られた参照に、新規パターンを使用したり、オリジナル名 $0 の終わりから $-1..$-N を参照します。"
+
+#: tframe_rulerearrange.rb_usingdelimiters.caption
+msgid "Delimiters"
+msgstr "区切り"
+
+#: tframe_rulerearrange.rb_usingexactpatternofdelimiters.caption
+msgid "Exact pattern of delimiters"
+msgstr "区切りを正確なパターンで使用"
+
+#: tframe_rulerearrange.rb_usingpositions.caption
+msgid "Positions"
+msgstr "位置"
+
+#: tframe_rulerearrange.sb_addseparator.hint
+msgctxt "tframe_rulerearrange.sb_addseparator.hint"
+msgid "Separate multiple items"
+msgstr "複数アイテムの分離"
+
+#: tframe_rulerearrange.sb_insertmetatag.hint
+msgctxt "TFRAME_RULEREARRANGE.SB_INSERTMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "メタ タグを挿入します (Ctrl+Ins)"
+
+#: tframe_rulereformatdate.checkbox_adjusttime.caption
+msgid "Adjust time by:"
+msgstr "時間の調整:"
+
+#: tframe_rulereformatdate.checkbox_skipextension.caption
+msgctxt "tframe_rulereformatdate.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_rulereformatdate.checkbox_usecustomlongmonths.caption
+msgid "Use custom long months:"
+msgstr "カスタム 長い月 を使用:"
+
+#: tframe_rulereformatdate.checkbox_usecustomshortmonths.caption
+msgid "Use custom short months:"
+msgstr "カスタム 短い月 を使用:"
+
+#: tframe_rulereformatdate.checkbox_wholewordsonly.caption
+msgid "Match as whole words only"
+msgstr "単語全体の一致のみ"
+
+#: tframe_rulereformatdate.label_inputformats.caption
+msgid "Find date/time formats:"
+msgstr "日付/時刻書式の検索:"
+
+#: tframe_rulereformatdate.label_outputformat.caption
+msgid "Convert to date/time format:"
+msgstr "日付/時刻書式の変換:"
+
+#: tframe_rulereformatdate.menuitem_addseparator.caption
+msgctxt "tframe_rulereformatdate.menuitem_addseparator.caption"
+msgid "Separate multiple items"
+msgstr "アイテムが複数の時は区切って下さい"
+
+#: tframe_rulereformatdate.menuitem_datetimeformathelp.caption
+msgid "Date/time format reference (online)"
+msgstr "日付/時刻書式を参照 (オンライン)"
+
+#: tframe_ruleregex.checkbox_casesensitive.caption
+msgid "Case-sensitive"
+msgstr "大文字小文字を区別"
+
+#: tframe_ruleregex.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREGEX.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_ruleregex.label1.caption
+msgid "Hint: Use $1..$9 to reference subexpressions."
+msgstr "ヒント: $1..$9 を部分表現の参照に使用."
+
+#: tframe_ruleregex.label4.caption
+msgid "Expression:"
+msgstr "数式:"
+
+#: tframe_ruleregex.label5.caption
+msgctxt "tframe_ruleregex.label5.caption"
+msgid "Replace:"
+msgstr "置換:"
+
+#: tframe_ruleregex.sb_insertexpression.hint
+msgid "Insert expression (Ctrl+Ins)"
+msgstr "式を挿入 (Ctrl+Ins)"
+
+#: tframe_ruleregex.speedbutton_help.caption
+msgctxt "TFRAME_RULEREGEX.SPEEDBUTTON_HELP.CAPTION"
+msgid "Help"
+msgstr "ヘルプ"
+
+#: tframe_ruleregex.speedbutton_help.hint
+msgctxt "TFRAME_RULEREGEX.SPEEDBUTTON_HELP.HINT"
+msgid "Online Help (F1)"
+msgstr "ヘルプ (F1)"
+
+#: tframe_ruleremove.checkbox_casesensitive.caption
+msgctxt "tframe_ruleremove.checkbox_casesensitive.caption"
+msgid "Case sensitive"
+msgstr "大小文字を区別"
+
+#: tframe_ruleremove.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREMOVE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_ruleremove.checkbox_usewildcards.caption
+msgid "Interpret symbols '?', '*', '[', ']' as wildcards?"
+msgstr "文字 ' ? ', ' * ', ' [ ', ' ] ' をワイルドカードに使用しますか?"
+
+#: tframe_ruleremove.checkbox_wholewordsonly.caption
+msgctxt "tframe_ruleremove.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "単語のみ"
+
+#: tframe_ruleremove.label_removeoccurances.caption
+msgctxt "tframe_ruleremove.label_removeoccurances.caption"
+msgid "Occurrences:"
+msgstr "箇所:"
+
+#: tframe_ruleremove.label_removewhat.caption
+msgid "Remove:"
+msgstr "除去:"
+
+#: tframe_ruleremove.radiobutton_removeall.caption
+msgctxt "tframe_ruleremove.radiobutton_removeall.caption"
+msgid "All"
+msgstr "すべて"
+
+#: tframe_ruleremove.radiobutton_removefirst.caption
+msgctxt "tframe_ruleremove.radiobutton_removefirst.caption"
+msgid "First"
+msgstr "最初"
+
+#: tframe_ruleremove.radiobutton_removelast.caption
+msgctxt "tframe_ruleremove.radiobutton_removelast.caption"
+msgid "Last"
+msgstr "最後"
+
+#: tframe_ruleremove.speedbutton_removeaddseparator.hint
+msgctxt "TFRAME_RULEREMOVE.SPEEDBUTTON_REMOVEADDSEPARATOR.HINT"
+msgid "Separate multiple items"
+msgstr "複数のアイテムを分離"
+
+#: tframe_rulereplace.checkbox_casesensitive.caption
+msgctxt "TFRAME_RULEREPLACE.CHECKBOX_CASESENSITIVE.CAPTION"
+msgid "Case sensitive"
+msgstr "大小文字を区別"
+
+#: tframe_rulereplace.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREPLACE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_rulereplace.checkbox_usewildcards.caption
+msgid "Interpret '?', '*', '[', ']' as wildcards and '$n' as backreferences?"
+msgstr "検索フィールドの文字 ' ? ', ' * ', ' [ ', ' ] ' をワイルドカードとして解釈?"
+
+#: tframe_rulereplace.checkbox_wholewordsonly.caption
+msgctxt "tframe_rulereplace.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "単語のみ"
+
+#: tframe_rulereplace.label_replaceoccurances.caption
+msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEOCCURANCES.CAPTION"
+msgid "Occurrences:"
+msgstr "箇所:"
+
+#: tframe_rulereplace.label_replacewhat.caption
+msgid "Find:"
+msgstr "置換対象:"
+
+#: tframe_rulereplace.label_replacewith.caption
+msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEWITH.CAPTION"
+msgid "Replace:"
+msgstr "文字列:"
+
+#: tframe_rulereplace.radiobutton_replaceall.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACEALL.CAPTION"
+msgid "All"
+msgstr "すべて"
+
+#: tframe_rulereplace.radiobutton_replacefirst.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACEFIRST.CAPTION"
+msgid "First"
+msgstr "最初"
+
+#: tframe_rulereplace.radiobutton_replacelast.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACELAST.CAPTION"
+msgid "Last"
+msgstr "最後"
+
+#: tframe_rulereplace.speedbutton_replaceaddseparator.hint
+msgctxt "TFRAME_RULEREPLACE.SPEEDBUTTON_REPLACEADDSEPARATOR.HINT"
+msgid "Separate multiple items"
+msgstr "アイテムが複数の時は区切って下さい"
+
+#: tframe_rulereplace.speedbutton_replacewithmetatag.hint
+msgctxt "TFRAME_RULEREPLACE.SPEEDBUTTON_REPLACEWITHMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "メタ タグを挿入します (Ctrl+Ins)"
+
+#: tframe_ruleserialize.cb_resetevery.caption
+msgid "Reset every:"
+msgstr "指定回数毎:"
+
+#: tframe_ruleserialize.checkbox_resetiffilenamechanges.caption
+msgid "Reset if file name changes"
+msgstr "ファイル名の変更時にリセット"
+
+#: tframe_ruleserialize.checkbox_resetiffolderchanges.caption
+msgid "Reset if folder changes"
+msgstr "フォルダの変更をリセット"
+
+#: tframe_ruleserialize.checkbox_serializepadtolength.caption
+msgid "Pad with zeros to length:"
+msgstr "指定した長さまで埋める(0) :"
+
+#: tframe_ruleserialize.checkbox_skipextension.caption
+msgctxt "TFRAME_RULESERIALIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_ruleserialize.gb_insertwhere.caption
+msgctxt "tframe_ruleserialize.gb_insertwhere.caption"
+msgid "Insert where:"
+msgstr "場所:"
+
+#: tframe_ruleserialize.label_customnumberingsymbols.caption
+msgid "Custom numbering symbols:"
+msgstr "カスタム番号付け記号:"
+
+#: tframe_ruleserialize.label_indexstarts.caption
+msgid "Index starts:"
+msgstr "インデックス開始:"
+
+#: tframe_ruleserialize.label_numberingsystem.caption
+msgid "Numbering system:"
+msgstr "ナンバリング システム:"
+
+#: tframe_ruleserialize.label_repeat.caption
+msgid "Repeat:"
+msgstr "リピート:"
+
+#: tframe_ruleserialize.label_step.caption
+msgid "Step:"
+msgstr "ステップ:"
+
+#: tframe_ruleserialize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleserialize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "現在の名前を置き換える"
+
+#: tframe_ruleserialize.radiobutton_serializeposition.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPOSITION.CAPTION"
+msgid "Position:"
+msgstr "位置:"
+
+#: tframe_ruleserialize.radiobutton_serializeprefix.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPREFIX.CAPTION"
+msgid "Prefix"
+msgstr "接頭語"
+
+#: tframe_ruleserialize.radiobutton_serializesuffix.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZESUFFIX.CAPTION"
+msgid "Suffix"
+msgstr "接尾語"
+
+#: tframe_rulestrip.cb_stripallexceptselected.caption
+msgid "Strip all characters except selected"
+msgstr "選択以外の文字をすべて除去"
+
+#: tframe_rulestrip.cb_stripenglishletters.caption
+msgid "English:"
+msgstr "アルファベット:"
+
+#: tframe_rulestrip.checkbox_casesensitive.caption
+msgctxt "tframe_rulestrip.checkbox_casesensitive.caption"
+msgid "Case sensitive"
+msgstr "大小文字を区別"
+
+#: tframe_rulestrip.checkbox_stripbrackets.caption
+msgid "Brackets:"
+msgstr "括弧:"
+
+#: tframe_rulestrip.checkbox_stripdigits.caption
+msgctxt "tframe_rulestrip.checkbox_stripdigits.caption"
+msgid "Digits:"
+msgstr "数字:"
+
+#: tframe_rulestrip.checkbox_stripskipextension.caption
+msgctxt "TFRAME_RULESTRIP.CHECKBOX_STRIPSKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_rulestrip.checkbox_stripsymbols.caption
+msgid "Symbols:"
+msgstr "記号:"
+
+#: tframe_rulestrip.checkbox_stripuserdefined.caption
+msgctxt "tframe_rulestrip.checkbox_stripuserdefined.caption"
+msgid "User defined:"
+msgstr "ユーザ定義:"
+
+#: tframe_rulestrip.rb_whereeverywhere.caption
+msgctxt "tframe_rulestrip.rb_whereeverywhere.caption"
+msgid "Everywhere"
+msgstr "あらゆる場所"
+
+#: tframe_rulestrip.rb_whereleading.caption
+msgctxt "tframe_rulestrip.rb_whereleading.caption"
+msgid "Leading"
+msgstr "先頭"
+
+#: tframe_rulestrip.rb_wheretrailing.caption
+msgctxt "tframe_rulestrip.rb_wheretrailing.caption"
+msgid "Trailing"
+msgstr "末尾"
+
+#: tframe_ruletranslit.bitbtn_translits.caption
+msgid "Alphabet"
+msgstr "アルファベット"
+
+#: tframe_ruletranslit.checkbox_adjustcase.caption
+msgctxt "tframe_ruletranslit.checkbox_adjustcase.caption"
+msgid "Auto case adjustment"
+msgstr "大文字小文字を自動調整"
+
+#: tframe_ruletranslit.checkbox_skipextension.caption
+msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_ruletranslit.label2.caption
+msgid "Direction:"
+msgstr "方向:"
+
+#: tframe_ruletranslit.label3.caption
+msgid "Hint:"
+msgstr "ヒント:"
+
+#: tframe_ruletranslit.label_hinttext.caption
+msgid "Alphabet is a set of couples represented by letters and separated with an equal sign; they stand for translation of non-english characters to their english representation."
+msgstr "非英字文字と等号で区切られたアルファベット文字がひとつのペアとして表現されています。これは主に非英字文字の翻訳等に利用します。"
+
+#: tframe_ruletranslit.radiobutton_directionbackward.caption
+msgid "Backward"
+msgstr "後方"
+
+#: tframe_ruletranslit.radiobutton_directionforward.caption
+msgid "Forward"
+msgstr "前方"
+
+#: tframe_ruleuserinput.cb_skipextension.caption
+msgctxt "TFRAME_RULEUSERINPUT.CB_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_ruleuserinput.label1.caption
+msgid "Type your new filenames here (one per line):"
+msgstr "新しいファイル名を入力(行当たりひとつ):"
+
+#: tframe_ruleuserinput.menuitem_load.caption
+msgid "Load from Text File"
+msgstr "テキストファイルから読み込む"
+
+#: tframe_ruleuserinput.menuitem_paste.caption
+msgid "Paste from Clipboard"
+msgstr "クリップボードから貼り付け"
+
+#: tframe_ruleuserinput.rb_insertafter.caption
+msgid "Insert after the current name"
+msgstr "現在の名前の後に挿入"
+
+#: tframe_ruleuserinput.rb_insertinfront.caption
+msgid "Insert in front of the current name"
+msgstr "現在の名前の前に挿入"
+
+#: tframe_ruleuserinput.rb_replace.caption
+msgid "Replace the current name"
+msgstr "現在の名前と置換"
+
+#: tframe_ruleuserinput.sb_options.caption
+msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
+msgid "Options"
+msgstr "設定"
+
+#: ufileutils.ssizebytes
+msgctxt "ufileutils.ssizebytes"
+msgid "bytes"
+msgstr "バイト"
+
+#: ufileutils.ssizegigabyte
+msgctxt "ufileutils.ssizegigabyte"
+msgid "GB"
+msgstr "GB"
+
+#: ufileutils.ssizekilobyte
+msgctxt "ufileutils.ssizekilobyte"
+msgid "KB"
+msgstr "KB"
+
+#: ufileutils.ssizemegabyte
+msgctxt "ufileutils.ssizemegabyte"
+msgid "MB"
+msgstr "MB"
+
+#: ufileutils.ssizeterabyte
+msgctxt "ufileutils.ssizeterabyte"
+msgid "TB"
+msgstr "TB"
+
+#: umetatags.s_metatag_audio_duration
+msgid "Duration of an Audio file"
+msgstr "オーディオファイル再生時間"
+
+#: umetatags.s_metatag_audio_durationmins
+msgid "Duration of an Audio file in minutes"
+msgstr "オーディオファイル再生時間(分)"
+
+#: umetatags.s_metatag_audio_durationsecs
+msgid "Duration of an Audio file in seconds"
+msgstr "オーディオファイル再生時間(秒)"
+
+#: umetatags.s_metatag_avi_duration
+msgid "AVI Duration in H:M:S format"
+msgstr "AVI 再生時間 H:M:S 書式"
+
+#: umetatags.s_metatag_avi_durationmins
+msgid "AVI Duration in Minutes"
+msgstr "AVI 再生時間(分)"
+
+#: umetatags.s_metatag_avi_durationsecs
+msgid "AVI Duration in Seconds"
+msgstr "AVI 再生時間(秒)"
+
+#: umetatags.s_metatag_avi_framespersecond
+msgid "AVI Frames per Second"
+msgstr "AVI 秒当たりフレーム"
+
+#: umetatags.s_metatag_avi_height
+msgid "AVI Height in Pixels"
+msgstr "AVI 高さ(ピクセル)"
+
+#: umetatags.s_metatag_avi_totalframes
+msgid "AVI Total amount of Frames"
+msgstr "AVI 合計フレーム"
+
+#: umetatags.s_metatag_avi_videocodec
+msgid "AVI Video Codec"
+msgstr "AVI ビデオコーデック"
+
+#: umetatags.s_metatag_avi_width
+msgid "AVI Width in Pixels"
+msgstr "AVI 幅(ピクセル)"
+
+#: umetatags.s_metatag_avi_widthandheight
+msgid "AVI Dimensions in WxH format"
+msgstr "AVI 寸法 (WxH 書式)"
+
+#: umetatags.s_metatag_binarysign_description
+msgid "Binary File Information: Description"
+msgstr "バイナリファイル情報: 説明"
+
+#: umetatags.s_metatag_binarysign_extension
+msgid "Binary File Signature: Extension"
+msgstr "バイナリファイル署名: 拡張子"
+
+#: umetatags.s_metatag_date_now
+msgid "Current Date"
+msgstr "現在の日付"
+
+#: umetatags.s_metatag_document_author
+msgid "Summary Information: Author"
+msgstr "概要情報: 作者"
+
+#: umetatags.s_metatag_document_pagecount
+msgid "Summary Information: Number of Pages"
+msgstr "概要情報: ページ数"
+
+#: umetatags.s_metatag_document_subject
+msgid "Summary Information: Subject"
+msgstr "概要情報: 件名"
+
+#: umetatags.s_metatag_document_title
+msgid "Summary Information: Title"
+msgstr "概要情報: タイトル"
+
+#: umetatags.s_metatag_email_datesent
+msgid "Email date sent in local time zone"
+msgstr "E-メール送信日時 (ローカル タイムゾーン)"
+
+#: umetatags.s_metatag_email_datesentoriginal
+msgid "Email date sent in original time zone"
+msgstr "E-メール送信日時 (UTC - オリジナル タイムゾーン)"
+
+#: umetatags.s_metatag_email_datesentutc
+msgid "Email date sent in UTC time zone"
+msgstr "E-メール送信日時 (UTC - 協定世界時)"
+
+#: umetatags.s_metatag_email_sender
+msgid "Email sender"
+msgstr "Email 送信者"
+
+#: umetatags.s_metatag_email_subject
+msgid "Email subject"
+msgstr "Email 件名"
+
+#: umetatags.s_metatag_exif_date
+msgid "EXIF Original Date"
+msgstr "EXIF オリジナル日時"
+
+#: umetatags.s_metatag_exif_description
+msgid "EXIF Image Description"
+msgstr "EXIF イメージの説明"
+
+#: umetatags.s_metatag_exif_make
+msgid "EXIF Camera Make"
+msgstr "EXIF カメラ・メーカー"
+
+#: umetatags.s_metatag_exif_model
+msgid "EXIF Camera Model"
+msgstr "EXIF カメラモデル"
+
+#: umetatags.s_metatag_file_basename
+msgid "Base name of the file"
+msgstr "ファイルの基準名"
+
+#: umetatags.s_metatag_file_datecreated
+msgid "File created date"
+msgstr "ファイル作成日時"
+
+#: umetatags.s_metatag_file_datemodified
+msgid "File last modified date"
+msgstr "ファイル最終更新日時"
+
+#: umetatags.s_metatag_file_dosname
+msgid "Short name in the 8.3 format"
+msgstr "ショートネーム(8.3)"
+
+#: umetatags.s_metatag_file_extension
+msgid "Extension of the file"
+msgstr "ファイルの拡張子"
+
+#: umetatags.s_metatag_file_filename
+msgid "Full name of the file"
+msgstr "ファイルの完全名"
+
+#: umetatags.s_metatag_file_filepath
+msgid "Full path of the file"
+msgstr "ファイルのフルパス"
+
+#: umetatags.s_metatag_file_foldername
+msgid "Name of the parent folder"
+msgstr "親フォルダ名"
+
+#: umetatags.s_metatag_file_folderpath
+msgid "Full path of the parent folder"
+msgstr "親フォルダのフルパス"
+
+#: umetatags.s_metatag_file_size
+msgid "Size of file"
+msgstr "ファイルのサイズ"
+
+#: umetatags.s_metatag_file_sizebytes
+msgid "Size of file in bytes"
+msgstr "ファイルサイズ(バイト)"
+
+#: umetatags.s_metatag_file_sizegb
+msgid "Size of file in GB"
+msgstr "ファイルのサイズ(GB)"
+
+#: umetatags.s_metatag_file_sizekb
+msgid "Size of file in KB"
+msgstr "ファイルサイズ(KB)"
+
+#: umetatags.s_metatag_file_sizemb
+msgid "Size of file in MB"
+msgstr "ファイルのサイズ(MB)"
+
+#: umetatags.s_metatag_flac_album
+msgid "FLAC Album"
+msgstr "FLAC - アルバム"
+
+#: umetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr "FLAC - アルバム アーティスト"
+
+#: umetatags.s_metatag_flac_artist
+msgid "FLAC Artist"
+msgstr "FLAC - アーティスト"
+
+#: umetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr "FLAC - ディスク番号"
+
+#: umetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
+msgstr "FLAC - 総ディスク数"
+
+#: umetatags.s_metatag_flac_genre
+msgid "FLAC Genre"
+msgstr "FLAC - ジャンル"
+
+#: umetatags.s_metatag_flac_title
+msgid "FLAC Title"
+msgstr "FLAC - タイトル"
+
+#: umetatags.s_metatag_flac_trackno
+msgid "FLAC Track Number"
+msgstr "FLAC - トラック番号"
+
+#: umetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
+msgstr "FLAC - 総トラック数"
+
+#: umetatags.s_metatag_flac_year
+msgid "FLAC Year"
+msgstr "FLAC - 年"
+
+#: umetatags.s_metatag_hash_crc32
+msgid "CRC32 Checksum of a file"
+msgstr "CRC32 チェックサム(ファイル)"
+
+#: umetatags.s_metatag_hash_md5
+msgid "MD5 Hash of a file"
+msgstr "MD5 ハッシュ(ファイル)"
+
+#: umetatags.s_metatag_hash_sha1
+msgid "SHA1 Hash of a file"
+msgstr "SHA1 ハッシュ(ファイル)"
+
+#: umetatags.s_metatag_hash_sha256
+msgid "SHA256 Hash of a file"
+msgstr "SHA256 ハッシュ(ファイル)"
+
+#: umetatags.s_metatag_hash_sha512
+msgid "SHA512 Hash of a file"
+msgstr "SHA512 ハッシュ(ファイル)"
+
+#: umetatags.s_metatag_html_title
+msgid "Title tag extracted from an HTML file"
+msgstr "HTMLファイルから抽出したタイトルタグ"
+
+#: umetatags.s_metatag_image_aspectratio
+msgid "Aspect Ratio of an image"
+msgstr "イメージのアスペクト比"
+
+#: umetatags.s_metatag_image_height
+msgid "Height of an image in pixels"
+msgstr "イメージの高さ(ピクセル)"
+
+#: umetatags.s_metatag_image_pixels
+msgid "Amount of pixels in the image"
+msgstr "イメージのピクセル量"
+
+#: umetatags.s_metatag_image_width
+msgid "Width of an image in pixels"
+msgstr "イメージの幅(ピクセル)"
+
+#: umetatags.s_metatag_image_widthandheight
+msgid "Width and Height of an image in pixels"
+msgstr "イメージの幅と高さ(ピクセル)"
+
+#: umetatags.s_metatag_iptc_caption
+msgid "IPTC Image Caption"
+msgstr "IPTC イメージキャプション"
+
+#: umetatags.s_metatag_iptc_city
+msgid "IPTC City"
+msgstr "IPTC 都市"
+
+#: umetatags.s_metatag_iptc_headline
+msgid "IPTC Image Headline"
+msgstr "IPTC イメージ見出し"
+
+#: umetatags.s_metatag_iptc_location
+msgid "IPTC Location Name"
+msgstr "IPTC 場所の名前"
+
+#: umetatags.s_metatag_iptc_objectname
+msgid "IPTC Object Name"
+msgstr "IPTC 被写体名称"
+
+#: umetatags.s_metatag_mp3_album
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr "MP3 - アルバム"
+
+#: umetatags.s_metatag_mp3_albumartist
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr "MP3 - アルバム アーティスト"
+
+#: umetatags.s_metatag_mp3_artist
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr "MP3 - アーティスト"
+
+#: umetatags.s_metatag_mp3_discno
+msgid "MP3 Disc Number"
+msgstr "MP3 - ディスク番号"
+
+#: umetatags.s_metatag_mp3_disctotal
+msgid "MP3 Total Discs"
+msgstr "MP3 - 総ディスク数"
+
+#: umetatags.s_metatag_mp3_genre
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr "MP3 - ジャンル"
+
+#: umetatags.s_metatag_mp3_title
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr "MP3 - タイトル"
+
+#: umetatags.s_metatag_mp3_trackno
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr "MP3 - トラック番号"
+
+#: umetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr "MP3 - 総トラック数"
+
+#: umetatags.s_metatag_mp3_year
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
+msgstr "MP3 - 年"
+
+#: umetatags.s_metatag_outlook_body
+msgid "Outlook Message: Body Text"
+msgstr "Outlook メッセージ: 本文テキスト"
+
+#: umetatags.s_metatag_outlook_dateheader
+msgid "Outlook Message: Sent date from email header in local time zone"
+msgstr "Outlook メッセージ: E-メール ヘッダから送信日時 (ローカル タイムゾーン)"
+
+#: umetatags.s_metatag_outlook_dateheaderoriginal
+msgid "Outlook Message: Sent date from email header in original time zone"
+msgstr "Outlook メッセージ: E-メール ヘッダから送信日時 (オリジナル タイムゾーン)"
+
+#: umetatags.s_metatag_outlook_dateheaderutc
+msgid "Outlook Message: Sent date from email header in UTC time zone"
+msgstr "Outlook メッセージ: E-メール ヘッダから送信日時 (UTC - 協定世界時)"
+
+#: umetatags.s_metatag_outlook_datesent
+msgid "Outlook Message: Sent date in local time zone"
+msgstr "Outlook メッセージ: 送信日時 (ローカル タイムゾーン)"
+
+#: umetatags.s_metatag_outlook_datesentutc
+msgid "Outlook Message: Sent date in UTC time zone"
+msgstr "Outlook メッセージ: 送信日時 (UTC - 協定世界時)"
+
+#: umetatags.s_metatag_outlook_messageid
+msgctxt "umetatags.s_metatag_outlook_messageid"
+msgid "Outlook Message: ID"
+msgstr "Outlook メッセージ: ID"
+
+#: umetatags.s_metatag_outlook_sender
+msgid "Outlook Message: Sender"
+msgstr "Outlook メッセージ: 送信者"
+
+#: umetatags.s_metatag_outlook_subject
+msgid "Outlook Message: Subject"
+msgstr "Outlook メッセージ: 件名"
+
+#: umetatags.s_metatag_tiff_date
+msgid "TIFF Date"
+msgstr "TIFF 日時"
+
+#: umetatags.s_metatag_tiff_description
+msgid "TIFF Description"
+msgstr "TIFF 説明"
+
+#: umetatags.s_metatag_tiff_make
+msgid "TIFF Make"
+msgstr "TIFF メーカー"
+
+#: umetatags.s_metatag_tiff_model
+msgid "TIFF Model"
+msgstr "TIFF モデル"
+
+#: umetatags.s_metatag_torrent_announce
+msgid "Torrent: Announce URL"
+msgstr "Torrent: 公開 URL"
+
+#: umetatags.s_metatag_torrent_comment
+msgid "Torrent: Comment"
+msgstr "Torrent: コメント"
+
+#: umetatags.s_metatag_torrent_countfiles
+msgid "Torrent: Number of files"
+msgstr "Torrent: ファイル数"
+
+#: umetatags.s_metatag_torrent_creationdatelocal
+msgid "Torrent: Creation date in local time zone"
+msgstr "Torrent: 作成日時 (ローカル タイムゾーン)"
+
+#: umetatags.s_metatag_torrent_creationdateutc
+msgid "Torrent: Creation date in UTC time zone"
+msgstr "Torrent: 作成日時 (UTC タイムゾーン)"
+
+#: umetatags.s_metatag_torrent_hash
+msgid "Torrent: Hash"
+msgstr "Torrent: ハッシュ"
+
+#: umetatags.s_metatag_torrent_name
+msgid "Torrent: Name"
+msgstr "Torrent: 名前"
+
+#: umetatags.s_metatag_torrent_publisher
+msgid "Torrent: Publisher"
+msgstr "Torrent: 発行元"
+
+#: umetatags.s_metatag_torrent_totalsize
+msgid "Torrent: Total size"
+msgstr "Torrent: 合計サイズ"
+
+#: umetatags.s_metatag_torrent_totalsizebytes
+msgid "Torrent: Total size in bytes"
+msgstr "Torrent: 合計サイズ (バイト)"
+
+#: umetatags.s_metatag_torrent_totalsizegb
+msgid "Torrent: Total size in GB"
+msgstr "Torrent: 合計サイズ (GB)"
+
+#: umetatags.s_metatag_torrent_totalsizekb
+msgid "Torrent: Total size in KB"
+msgstr "Torrent: 合計サイズ (KB)"
+
+#: umetatags.s_metatag_torrent_totalsizemb
+msgid "Torrent: Total size in MB"
+msgstr "Torrent: 合計サイズ (MB)"
+
+#: umetatags.s_metatag_versioninfo_comments
+msgid "Version Information: Comments"
+msgstr "バージョン情報: コメント"
+
+#: umetatags.s_metatag_versioninfo_company
+msgid "Version Information: Company"
+msgstr "バージョン情報: 会社"
+
+#: umetatags.s_metatag_versioninfo_copyright
+msgid "Version Information: Copyright"
+msgstr "バージョン情報: 著作権"
+
+#: umetatags.s_metatag_versioninfo_description
+msgid "Version Information: Description"
+msgstr "バージョン情報: 説明"
+
+#: umetatags.s_metatag_versioninfo_fileversion
+msgid "Version Information: File Version"
+msgstr "バージョン情報: ファイルバージョン"
+
+#: umetatags.s_metatag_versioninfo_product
+msgid "Version Information: Product"
+msgstr "バージョン情報: 製品"
+
+#: umetatags.s_metatag_versioninfo_productversion
+msgid "Version Information: Product Version"
+msgstr "バージョン情報: 製品バージョン"
+
+#: umetatags.s_metatag_wma_album
+msgid "WMA Album"
+msgstr "WMA - アルバム"
+
+#: umetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr "WMA - アルバム アーティスト"
+
+#: umetatags.s_metatag_wma_artist
+msgid "WMA Artist"
+msgstr "WMA - アーティスト"
+
+#: umetatags.s_metatag_wma_discno
+msgid "WMA Disc Number"
+msgstr "WMA - ディスク番号"
+
+#: umetatags.s_metatag_wma_disctotal
+msgid "WMA Total Discs"
+msgstr "WMA - 総ディスク数"
+
+#: umetatags.s_metatag_wma_genre
+msgid "WMA Genre"
+msgstr "WMA - ジャンル"
+
+#: umetatags.s_metatag_wma_title
+msgid "WMA Title"
+msgstr "WMA - タイトル"
+
+#: umetatags.s_metatag_wma_trackno
+msgid "WMA Track Number"
+msgstr "WMA - トラック番号"
+
+#: umetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
+msgstr "WMA - 合計トラック数"
+
+#: umetatags.s_metatag_wma_year
+msgid "WMA Year"
+msgstr "WMA - 年"
+
+#: unumeralsystems.nsc_customalphabetic
+msgid "Custom alphabetic"
+msgstr "カスタム英字"
+
+#: unumeralsystems.nsc_customnumeric
+msgid "Custom numeric"
+msgstr "カスタム数値"
+
+#: unumeralsystems.nsc_decimaldigits
+msgid "Decimal digits"
+msgstr "10 進数"
+
+#: unumeralsystems.nsc_englishletters
+msgid "English letters"
+msgstr "英語の文字"
+
+#: unumeralsystems.nsc_romannumerals
+msgid "Roman numerals"
+msgstr "ローマ数字"
+
+#: unumeralsystems.nsc_simplifiedchinese
+msgid "Simplified Chinese"
+msgstr "簡体字中国語"
+
+#: upascalscript.spscompile
+msgid "Pascal Script Compile"
+msgstr "Pascal スクリプト・コンパイル"
+
+#: upascalscript.spsexception
+msgid "Exception"
+msgstr "例外"
+
+#: upascalscript.spsexecute
+msgid "Pascal Script Execute"
+msgstr "Pascal スクリプト・実行"
+
+#: upascalscript.spsincludedfilenotfound
+msgid "Included file not found: %s"
+msgstr "含めるファイルがありません: %s"
+
+#: upascalscript.spsline
+msgid "Line"
+msgstr "行"
+
+#: upascalscript.spsunknowncompileerror
+msgid "Unknown error (check units and libraries)"
+msgstr "不明なエラー(単位とライブラリの確認を)"
+
+#: upresets.spresetfilenotfound
+msgid "Preset file not found:"
+msgstr "プリセットがみつかりません:"
+
+#: upresets.spresetloadfailed
+msgid "Failed to load a preset."
+msgstr "プリセットを読み込めませんでした."
+
+#: upresets.spresetsavefailed
+msgid "Failed to save a preset."
+msgstr "プリセットを保存できませんでした."
+
+#: uregistration.s_cannot_create_license_dir
+msgctxt "uregistration.s_cannot_create_license_dir"
+msgid "Not able to create a directory for a license file."
+msgstr "ライセンスファイル用のディレクトリが作成できません."
+
+#: uregistration.s_contact_email
+msgctxt "uregistration.s_contact_email"
+msgid "Contact email"
+msgstr "連絡先E-メール"
+
+#: uregistration.s_contact_name
+msgctxt "uregistration.s_contact_name"
+msgid "Contact name"
+msgstr "連絡先名"
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr "ファイル削除に失敗:"
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr "ライセンスデータの読み込みに失敗:"
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr "ライセンスデータの保存に失敗:"
+
+#: uregistration.s_issue_date
+msgctxt "uregistration.s_issue_date"
+msgid "Issue date"
+msgstr "発行日"
+
+#: uregistration.s_license
+msgctxt "uregistration.s_license"
+msgid "License"
+msgstr "ライセンス"
+
+#: uregistration.s_licensed_to
+msgctxt "uregistration.s_licensed_to"
+msgid "Licensed to"
+msgstr "ライセンス"
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr "ライセンスがブラックリストに登録されています。"
+
+#: uregistration.s_license_expiry
+msgctxt "uregistration.s_license_expiry"
+msgid "License expiry"
+msgstr "ライセンスの有効期限"
+
+#: uregistration.s_license_has_expired
+msgctxt "uregistration.s_license_has_expired"
+msgid "License has expired."
+msgstr "ライセンスの期限切れ."
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr "無効なライセンスです!"
+
+#: uregistration.s_license_load_failed
+msgctxt "uregistration.s_license_load_failed"
+msgid "Failed to load the license."
+msgstr "ライセンスの読み込みに失敗."
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr "製品のアクティベートには、ライセンスを更新する必要があります。"
+
+#: uregistration.s_license_remove_failed
+msgctxt "uregistration.s_license_remove_failed"
+msgid "Failed to remove the license."
+msgstr "ライセンスの除去に失敗."
+
+#: uregistration.s_license_remove_ok
+msgctxt "uregistration.s_license_remove_ok"
+msgid "License has been removed."
+msgstr "ライセンスは除去されました."
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr "あなたのライセンスはアップグレード期限が切れています."
+
+#: uregistration.s_number_of_computers
+msgctxt "uregistration.s_number_of_computers"
+msgid "Number of computers"
+msgstr "コンピュータの数"
+
+#: uregistration.s_registration_error
+msgctxt "uregistration.s_registration_error"
+msgid "Registration code is invalid."
+msgstr "無効な登録コードです."
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr "登録ファイルがみつかりません."
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr "登録ファイルの読み込みに失敗."
+
+#: uregistration.s_registration_ok
+msgctxt "uregistration.s_registration_ok"
+msgid "Registration has been successful!"
+msgstr "登録が正常に完了しました!"
+
+#: uregistration.s_upgrade_expiry
+msgctxt "uregistration.s_upgrade_expiry"
+msgid "Upgrade expiry"
+msgstr "アップグレードの有効期限"
+
+#: urenfiles.srenstatusok
+msgctxt "urenfiles.srenstatusok"
+msgid "OK"
+msgstr "OK"
+
+#: urenfiles.svalidationduplicated
+msgctxt "myrenfiles.svalidationduplicated"
+msgid "Duplicate in the list"
+msgstr "リスト内重複"
+
+#: urenfiles.svalidationexceeds
+msgctxt "myrenfiles.svalidationexceeds"
+msgid "New path exceeds the length limit"
+msgstr "新しいパスが長さ制限を超えています"
+
+#: urenfiles.svalidationexists
+msgctxt "myrenfiles.svalidationexists"
+msgid "Destination file already exists"
+msgstr "対象ファイルが既に存在します"
+
+#: urenfiles.svalidationinvalid
+msgctxt "myrenfiles.svalidationinvalid"
+msgid "Contains invalid characters"
+msgstr "無効な文字が含まれています"
+
+#: urenfiles.svalidationmovedparent
+msgid "Parent path changed earlier in the list"
+msgstr "リスト内親パスの変更"
+
+#: urulesex.s_rules_addtextpaddingtolength
+msgid "Add text padding to length %s with \"%s\" characters"
+msgstr "次の文字埋めを追加 - 長さ %s 文字 \"%s\""
+
+#: urulesex.s_rules_addzeropaddingtolength
+msgid "Add zero padding to length %s"
+msgstr "次の 0 埋めを追加 - 長さ %s"
+
+#: urulesex.s_rules_adjusttimebynumdays
+msgid "Adjust time by %d days"
+msgstr "%d 日で時間を調整"
+
+#: urulesex.s_rules_adjusttimebynumhours
+msgid "Adjust time by %d hours"
+msgstr "%d 時間で時間を調整"
+
+#: urulesex.s_rules_adjusttimebynummilliseconds
+msgid "Adjust time by %d milliseconds"
+msgstr "%d ミリ秒で時間を調整"
+
+#: urulesex.s_rules_adjusttimebynumminutes
+msgid "Adjust time by %d minutes"
+msgstr "%d 分で時間を調整"
+
+#: urulesex.s_rules_adjusttimebynummonths
+msgid "Adjust time by %d months"
+msgstr "%d 月で時間を調整"
+
+#: urulesex.s_rules_adjusttimebynumseconds
+msgid "Adjust time by %d seconds"
+msgstr "%d 秒で時間を調整"
+
+#: urulesex.s_rules_adjusttimebynumyears
+msgid "Adjust time by %d years"
+msgstr "%d 年で時間を調整"
+
+#: urulesex.s_rules_after
+msgid "after"
+msgstr "変更後"
+
+#: urulesex.s_rules_all
+msgid "all"
+msgstr "すべての"
+
+#: urulesex.s_rules_all_characters_except
+msgid "all characters except"
+msgstr "すべての文字を除外"
+
+#: urulesex.s_rules_all_lower_case
+msgid "All lower case"
+msgstr "すべて小文字"
+
+#: urulesex.s_rules_all_upper_case
+msgid "All upper case"
+msgstr "すべて大文字"
+
+#: urulesex.s_rules_and_pad_to_length
+msgid "and pad to length"
+msgstr "長さに合わせて埋める"
+
+#: urulesex.s_rules_append
+msgid "append"
+msgstr "付加"
+
+#: urulesex.s_rules_append_new_extension
+msgid "Append new extension"
+msgstr "新たな拡張子を付加"
+
+#: urulesex.s_rules_as_prefix
+msgid "as Prefix"
+msgstr "を接頭語に追加"
+
+#: urulesex.s_rules_as_suffix
+msgid "as Suffix"
+msgstr "を接尾語に追加"
+
+#: urulesex.s_rules_at_position
+msgid "at Position"
+msgstr "位置"
+
+#: urulesex.s_rules_autocaseadjustment
+msgctxt "urulesex.s_rules_autocaseadjustment"
+msgid "Auto case adjustment"
+msgstr "大文字小文字の自動調整"
+
+#: urulesex.s_rules_before
+msgid "before"
+msgstr "変更前"
+
+#: urulesex.s_rules_cannoteditruleconfiguration
+msgid "Cannot edit rule configuration."
+msgstr "規則構成の編集はできません."
+
+#: urulesex.s_rules_capitalize_and_preserve
+msgid "Capitalize and preserve"
+msgstr "大文字にして保持"
+
+#: urulesex.s_rules_capitalize_every_word
+msgid "Capitalize every word"
+msgstr "単語毎に先頭を大文字"
+
+#: urulesex.s_rules_case_sensitive
+msgid "case sensitive"
+msgstr "大文字小文字を区別"
+
+#: urulesex.s_rules_change_extension_to
+msgid "Change extension to"
+msgstr "拡張子を変更"
+
+#: urulesex.s_rules_characters
+msgid "characters"
+msgstr "文字"
+
+#: urulesex.s_rules_converttovaluefromvalue
+msgid "Convert to %s from %s"
+msgstr "%s から %s に変換"
+
+#: urulesex.s_rules_customlongmonths
+msgid "Custom long months"
+msgstr "カスタム 長い月"
+
+#: urulesex.s_rules_customshortmonths
+msgid "Custom short months"
+msgstr "カスタム 短い月"
+
+#: urulesex.s_rules_delete
+msgctxt "myrulesex.s_rules_delete"
+msgid "Delete"
+msgstr "削除"
+
+#: urulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr "現在の名前を削除"
+
+#: urulesex.s_rules_delimiters
+msgid "delimiters"
+msgstr "区切り"
+
+#: urulesex.s_rules_detect_using_binary_signature
+msgid "Detect using binary signature"
+msgstr "バイナリ署名を使用して検出"
+
+#: urulesex.s_rules_everywhere
+msgid "everywhere"
+msgstr "あらゆる部分"
+
+#: urulesex.s_rules_exact_pattern_of_delimiters
+msgid "exact pattern of delimiters"
+msgstr "区切りの正確なパターン"
+
+#: urulesex.s_rules_extension_lower_case
+msgid "Extension lower case"
+msgstr "小文字拡張子"
+
+#: urulesex.s_rules_extension_upper_case
+msgid "Extension upper case"
+msgstr "大文字拡張子"
+
+#: urulesex.s_rules_files
+msgid "files"
+msgstr "ファイル"
+
+#: urulesex.s_rules_files_to
+msgid "file(s) to"
+msgstr "ファイルへ"
+
+#: urulesex.s_rules_files_with
+msgid "file(s) with"
+msgstr "ファイルで"
+
+#: urulesex.s_rules_first
+msgid "first"
+msgstr "最初"
+
+#: urulesex.s_rules_first_letter_capital
+msgctxt "myrulesex.s_rules_first_letter_capital"
+msgid "First letter capital"
+msgstr "先頭を大文字"
+
+#: urulesex.s_rules_fix_spaces
+msgid "Fix spaces"
+msgstr "空白を修復"
+
+#: urulesex.s_rules_force_case_fragments
+msgid "Force case fragments"
+msgstr "まばら箇所に強制適用"
+
+#: urulesex.s_rules_from_delimiter
+msgid "from Delimiter"
+msgstr "区切り"
+
+#: urulesex.s_rules_from_position
+msgid "from Position"
+msgstr "指定位置"
+
+#: urulesex.s_rules_insert
+msgctxt "myrulesex.s_rules_insert"
+msgid "Insert"
+msgstr "挿入"
+
+#: urulesex.s_rules_insert_space_in_front_of_capitals
+msgid "Insert space in front of capitals"
+msgstr "大文字の前に空白を挿入"
+
+#: urulesex.s_rules_invert_case
+msgid "Invert case"
+msgstr "大小文字を反転"
+
+#: urulesex.s_rules_last
+msgid "last"
+msgstr "最後"
+
+#: urulesex.s_rules_leading
+msgctxt "myrulesex.s_rules_leading"
+msgid "leading"
+msgstr "先頭"
+
+#: urulesex.s_rules_leave_delimiter
+msgid "leave delimiter"
+msgstr "区切りを残す"
+
+#: urulesex.s_rules_leftside
+msgid "Left side"
+msgstr "左側"
+
+#: urulesex.s_rules_new_names_are_not_defined
+msgid "new names are not defined"
+msgstr "新たな名前が定義されていません"
+
+#: urulesex.s_rules_new_pattern
+msgid "New pattern"
+msgstr "新規パターン"
+
+#: urulesex.s_rules_normalize_spaces
+msgid "Normalize spaces"
+msgstr "空白の正規化"
+
+#: urulesex.s_rules_parts
+msgid "parts"
+msgstr "パート"
+
+#: urulesex.s_rules_positions
+msgid "positions"
+msgstr "位置"
+
+#: urulesex.s_rules_prefix_names_of
+msgid "Prefix names of"
+msgstr "名前の接頭語"
+
+#: urulesex.s_rules_prepare_for_sharepoint
+msgid "Prepare for SharePoint"
+msgstr "共有ポイントを設ける"
+
+#: urulesex.s_rules_randomwithlengthusingcharacters
+msgctxt "urulesex.s_rules_randomwithlengthusingcharacters"
+msgid "Random with length %s using characters \"%s\""
+msgstr "長さ %s で文字 \"%s\" をランダム使用"
+
+#: urulesex.s_rules_remove
+msgctxt "myrulesex.s_rules_remove"
+msgid "Remove"
+msgstr "除去"
+
+#: urulesex.s_rules_removezeropadding
+msgctxt "urulesex.s_rules_removezeropadding"
+msgid "Remove zero padding"
+msgstr "0 埋めを除去"
+
+#: urulesex.s_rules_remove_extension
+msgid "Remove extension"
+msgstr "拡張子を除去"
+
+#: urulesex.s_rules_repeat
+msgid "repeat"
+msgstr "繰り返し"
+
+#: urulesex.s_rules_replace
+msgctxt "myrulesex.s_rules_replace"
+msgid "Replace"
+msgstr "置換"
+
+#: urulesex.s_rules_replace_expression
+msgid "Replace expression"
+msgstr "式による置換"
+
+#: urulesex.s_rules_replace_with_spaces
+msgid "Replace with spaces"
+msgstr "空白で置換"
+
+#: urulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr "現在の名前を置き換える"
+
+#: urulesex.s_rules_reset_index_every
+msgid "reset index every"
+msgstr "常にインデックスをリセット"
+
+#: urulesex.s_rules_reset_index_if_file_name_changes
+msgid "reset index if file name changes"
+msgstr "ファイル名が変更されたらインデックスをリセット"
+
+#: urulesex.s_rules_reset_index_if_folder_changes
+msgid "reset index if folder changes"
+msgstr "フォルダ変更時はインデックスをリセット"
+
+#: urulesex.s_rules_rightside
+msgid "Right side"
+msgstr "右側"
+
+#: urulesex.s_rules_right_to_left
+msgid "right-to-left"
+msgstr "右から左"
+
+#: urulesex.s_rules_serialize_incremental_from
+msgid "Incremental from"
+msgstr "増分"
+
+#: urulesex.s_rules_serialize_random_with_length
+msgid "Random with length"
+msgstr "ランダム長さ"
+
+#: urulesex.s_rules_set_names_of
+msgid "Set names of"
+msgstr "名前をセット"
+
+#: urulesex.s_rules_skipextension
+msgctxt "urulesex.s_rules_skipextension"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: urulesex.s_rules_skip_extension
+msgid "skip extension"
+msgstr "拡張子をスキップ"
+
+#: urulesex.s_rules_skip_versions
+msgid "skip versions"
+msgstr "バージョン スキップ"
+
+#: urulesex.s_rules_split_by
+msgid "Split by"
+msgstr "分割"
+
+#: urulesex.s_rules_step
+msgid "step"
+msgstr "ステップ"
+
+#: urulesex.s_rules_strip
+msgctxt "myrulesex.s_rules_strip"
+msgid "Strip"
+msgstr "ストリップ"
+
+#: urulesex.s_rules_strip_out_contents_of_brackets
+msgid "Strip out contents of brackets"
+msgstr "括弧の中身を取り除く"
+
+#: urulesex.s_rules_strip_unicode_marks
+msgid "Strip unicode marks"
+msgstr "Unicode mark をストリップ"
+
+#: urulesex.s_rules_suffix_names_of
+msgid "Suffix names of"
+msgstr "名前の接尾語"
+
+#: urulesex.s_rules_trailing
+msgctxt "myrulesex.s_rules_trailing"
+msgid "trailing"
+msgstr "末尾"
+
+#: urulesex.s_rules_transliterate
+msgid "Transliterate"
+msgstr "翻字"
+
+#: urulesex.s_rules_try_unique
+msgid "try unique"
+msgstr "一意で試みる"
+
+#: urulesex.s_rules_until_count_reaches
+msgid "until Count reaches"
+msgstr "から"
+
+#: urulesex.s_rules_until_delimiter
+msgid "until Delimiter"
+msgstr "から区切りまで"
+
+#: urulesex.s_rules_until_the_end
+msgid "until the End"
+msgstr "から最後まで"
+
+#: urulesex.s_rules_usingcustomnumeralsymbols
+msgid "using \"%s\" system with \"%s\" symbols"
+msgstr "\"%s\" システムを \"%s\" シンボルで使用中"
+
+#: urulesex.s_rules_usingnamednumeralsystem
+msgid "using \"%s\" system"
+msgstr "\"%s\" システムを使用中"
+
+#: urulesex.s_rules_using_wildcards
+msgid "using wildcards"
+msgstr "ワイルドカードを使用"
+
+#: urulesex.s_rules_warndeprecatedrandomserialize
+msgid "Rule configuration uses deprecated random serialization, please use a separate dedicated rule instead."
+msgstr "規則設定でランダム連番化の使用は推奨されていません、代わりに専用の規則を作成、使用してください。"
+
+#: urulesex.s_rules_wholewordsonly
+msgctxt "urulesex.s_rules_wholewordsonly"
+msgid "Whole words only"
+msgstr "単語のみ"
+
+#: urulesex.s_rules_whole_words
+msgid "whole words"
+msgstr "単語全体"
+
+#: urulesex.s_rules_with
+msgid "with"
+msgstr "を"
+
+#: ustrings.msg_addfoldernotexist
+msgid ""
+"Selected folder does not exist!\n"
+"\n"
+"%s\n"
+msgstr ""
+"選択されたフォルダは存在しません!\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_addmetatagconfirm
+msgid ""
+"Meta tags are currently disabled.\n"
+"\n"
+"Do you want to enable them?\n"
+msgstr ""
+"メタタグのサポートが無効になっています!\n"
+"\n"
+"有効にしますか?\n"
+
+#: ustrings.msg_ask_open_quick_guide
+msgid "Would you like to open a Quick Guide?"
+msgstr "最初にクイックガイドを開きますか?"
+
+#: ustrings.msg_browsefoldersstatus
+msgid "Folders: %d scanned, %d selected."
+msgstr "フォルダ: %d スキャン済, %d 選択済."
+
+#: ustrings.msg_browsegotofoldercaption
+msgctxt "mystrings.msg_browsegotofoldercaption"
+msgid "Go To Folder"
+msgstr "フォルダへ移動"
+
+#: ustrings.msg_browsegotofolderprompt
+msgid "Enter a full path to the folder that you want to go to:"
+msgstr "移動したいフォルダのフルパスを入力して下さい:"
+
+#: ustrings.msg_changeworkingdirfailed
+msgid "Failed to change current working directory."
+msgstr "現在の作業ディレクトリを変更できませんでした."
+
+#: ustrings.msg_copyandcutfilesprompt
+msgid ""
+"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
+"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
+"\n"
+"Are you sure you want to proceed?\n"
+msgstr ""
+"コピー/切り取りの操作時に、後で使用する為に選択ファイルをクリップボードに保管\n"
+"備考: すべてのファイルが最初の位置に関係なく同じディレクトリに貼り付けられます!\n"
+"\n"
+"処理を続行しますか?\n"
+
+#: ustrings.msg_datetimeinvalidformat
+msgid "INVALID FORMAT"
+msgstr "無効な形式"
+
+#: ustrings.msg_editrulecommentcaption
+msgid "Rule Comment"
+msgstr "規則のコメント"
+
+#: ustrings.msg_editrulecommentprompt
+msgid "Enter a comment for the rule:"
+msgstr "この規則に関するコメントを入力:"
+
+#: ustrings.msg_fileexistsoverwriteprompt
+msgid ""
+"File already exists!\n"
+"Overwrite it?\n"
+msgstr ""
+"ファイルは既に存在します!\n"
+"上書きしますか?\n"
+
+#: ustrings.msg_filescountinfo
+msgid ""
+"Total: %d\n"
+"Marked: %d\n"
+"Selected: %d\n"
+msgstr ""
+"合計: %d\n"
+"マーク済: %d\n"
+"選択中: %d\n"
+
+#: ustrings.msg_fixcollidewarninglimit
+msgid ""
+"Do you want to fix conflicting new names for %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"リスト内に %s 個のファイルが存在します\n"
+"本当にこれらのファイルで競合する名前を修正しますか?\n"
+"\n"
+"この操作には数分かかるかもしれません...\n"
+
+#: ustrings.msg_gotolinecaption
+msgid "Go To Line"
+msgstr "指定行に移動"
+
+#: ustrings.msg_gotolineprompt
+msgid "Enter the line number:"
+msgstr "行番号を入力:"
+
+#: ustrings.msg_hinterrorcolumn
+msgid "Hint: You can check the details by enabling the \"Error\" column."
+msgstr "ヒント: \"エラー\" 列を有効にすると詳細を確認できます."
+
+#: ustrings.msg_launching_first_time
+msgid "You are launching ReNamer for the first time."
+msgstr "あなたは、初めて ReNamer を起動しました."
+
+#: ustrings.msg_loadnewnamesresult
+msgid "%d new filename(s) out of %d in the list were changed!"
+msgstr "リスト内 %d の %d は新たなファイル名に変更されました!"
+
+#: ustrings.msg_nothingtorename
+msgid "Nothing to rename!"
+msgstr "リネーム対象がありません!"
+
+#: ustrings.msg_operationfailedduetoerror
+msgid "Operation failed due to an error:"
+msgstr "エラーにより操作に失敗:"
+
+#: ustrings.msg_overwritefilewithnewname
+msgid ""
+"Original Path: %s\n"
+"New Path: %s\n"
+"\n"
+"New Name is already taken by another file, delete that file permanently?\n"
+msgstr ""
+"オリジナル名: %s\n"
+"新規名称: %s\n"
+"\n"
+"新規名称は既に別のファイルに使用されています..上書きしますか?\n"
+
+#: ustrings.msg_pascalscriptcompiledsuccesfully
+msgid "Compiled successfully!"
+msgstr "コンパイルに成功しました!"
+
+#: ustrings.msg_pascalscriptnoscripts
+msgid "No Saved Scripts were found!"
+msgstr "保存済みスクリプトがみつかりません!"
+
+#: ustrings.msg_pascalscriptsaveinvalid
+msgctxt "mystrings.msg_pascalscriptsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "使用出来ない名前です!"
+
+#: ustrings.msg_pascalscriptsavetext
+msgid "Enter a name for a script:"
+msgstr "スクリプトの名前を入力:"
+
+#: ustrings.msg_pascalscriptsavetitle
+msgid "Save Script"
+msgstr "スクリプトを保存"
+
+#: ustrings.msg_presetsmanagerdeletepresetprompt
+msgid "Delete \"%s\" preset?"
+msgstr "設定\"%s\"を削除しますか?"
+
+#: ustrings.msg_presetsmanagereditwarning
+msgid ""
+"You are about to edit Preset file(s) manualy!\n"
+"If you are not sure in what you're doing - press Cancel.\n"
+"\n"
+"Proceed with this action?\n"
+msgstr ""
+"あなたは設定ファイルを手動で編集しようとしています!\n"
+"この処理を中止する場合は - キャンセルを押して下さい..\n"
+"\n"
+"操作を続行しますか?\n"
+
+#: ustrings.msg_presetsmanagerfailedcopy
+msgid "Could not copy the \"%s\" preset!"
+msgstr "設定\"%s\"をコピー出来ません!"
+
+#: ustrings.msg_presetsmanagerfaileddelete
+msgid "Could not delete the \"%s\" preset!"
+msgstr "設定\"%s\"を削除出来ませんでした!"
+
+#: ustrings.msg_presetsmanagerfailedrename
+msgid "Could not rename the \"%s\" preset!"
+msgstr "設定\"%s\"をリネーム出来ません!"
+
+#: ustrings.msg_presetsmanagernewnamequerytext
+msgid "New Name:"
+msgstr "新規名称:"
+
+#: ustrings.msg_presetsmanagernewnamequerytitle
+msgid "Rename Preset"
+msgstr "リネーム設定"
+
+#: ustrings.msg_previewexception
+msgid ""
+"Preview process has been terminated due to a critical error:\n"
+"\n"
+"%s\n"
+msgstr ""
+"プロセスのプレビューは致命的なエラーの為に中断しました:\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_renamefailedfiles
+msgid "%d file(s) failed to rename!"
+msgstr "%d ファイルのリネームに失敗!"
+
+#: ustrings.msg_renamenewnamesareempty
+msgid ""
+"All New Names are empty!\n"
+"\n"
+"Hint: Configure the Rules and click Preview button.\n"
+msgstr ""
+"すべての新規名称が空です!\n"
+"\n"
+"ヒント: 設定は、規則とプレビューボタンをクリック\n"
+
+#: ustrings.msg_renameskippedunchangedfiles
+msgid "%d file(s) skipped because unchanged."
+msgstr "%d 個の未変更ファイルをスキップ."
+
+#: ustrings.msg_renameskippedunmarkedfiles
+msgid "%d file(s) skipped because unmarked."
+msgstr "%d 個の未マークファイルをスキップ."
+
+#: ustrings.msg_renamesuccessfulfiles
+msgid "%d file(s) successfully renamed."
+msgstr "%d ファイルのリネームに成功しました."
+
+#: ustrings.msg_rulecasedescription
+msgid "Use this rule to change the case of the filename."
+msgstr "この規則を使用して、ファイル名の大文字小文字を変更."
+
+#: ustrings.msg_rulecleanupdescription
+msgid "Use this rule to clean up the filename."
+msgstr "この規則を使用して、ファイル名をクリーンアップ."
+
+#: ustrings.msg_ruledeletedescription
+msgid "Use this rule to delete text from the filename."
+msgstr "この規則を使用して、ファイル名のテキストを削除."
+
+#: ustrings.msg_ruleextensiondescription
+msgid "Use this rule to change extension of the file."
+msgstr "この規則を使用して、ファイルの拡張子を変更."
+
+#: ustrings.msg_ruleinsertdescription
+msgid "Use this rule to insert text into the filename."
+msgstr "この規則を使用して、ファイル名にテキストを挿入."
+
+#: ustrings.msg_rulepaddingdescription
+msgid "Use this rule to add or remove padding in number sequences."
+msgstr "連番の追加、または除去にこの規則を使用."
+
+#: ustrings.msg_rulepascalscriptdescription
+msgid "Use this rule to script a user defined manipulations with filename."
+msgstr "ユーザ定義の複数ファイル名変換スクリプトにこの規則を使用する."
+
+#: ustrings.msg_rulerandomizedescription
+msgid "Use this rule to insert random sequences of characters into the filename."
+msgstr "この規則を使用して、ランダムな文字列をファイル名に挿入."
+
+#: ustrings.msg_rulerearrangedescription
+msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
+msgstr "この規則を使用して、ファイル名を分割、および新たなパターンで再配列."
+
+#: ustrings.msg_rulereformatdatedescription
+msgid "Use this rule to change format of date/time values in the filename."
+msgstr "ファイル名に使用する日付/時刻値の変更にこの規則を使用."
+
+#: ustrings.msg_ruleregexdescription
+msgid "Use this rule to replace text in the filename using regular expressions."
+msgstr "この規則を使用して、ファイル名を正規表現で置換する."
+
+#: ustrings.msg_ruleremovedescription
+msgid "Use this rule to remove text from the filename."
+msgstr "この規則を使用して、ファイル名のテキストを除去."
+
+#: ustrings.msg_rulereplacedescription
+msgid "Use this rule to replace text in the filename."
+msgstr "この規則を使用して、ファイル名のテキストを置換."
+
+#: ustrings.msg_ruleserializedescription
+msgid "Use this rule to serialize the filename (add incremental numbers)."
+msgstr "この規則を使用してファイル名を連番化 (増加する数値を付加)"
+
+#: ustrings.msg_rulestripdescription
+msgid "Use this rule to strip sets of characters from the filename."
+msgstr "この規則を使用して、ファイル名から指定文字セットを取り去る."
+
+#: ustrings.msg_ruletranslitdescription
+msgid "Use this rule to transliterate letters in the filename from one language into another."
+msgstr "この規則を使用して、ファイル名の文字を別の言語に翻字."
+
+#: ustrings.msg_ruleuserinputdescription
+msgid "Use this rule to assign names of files to the lines of text."
+msgstr "この規則を使用して、ファイル名をテキスト行に割り当てる."
+
+#: ustrings.msg_selectfolder
+msgid "Please select a folder:"
+msgstr "フォルダを選択:"
+
+#: ustrings.msg_shellactionwarninglimit
+msgid "Are you sure you want to execute shell action on %d files?"
+msgstr "本当に %d 個のファイルに対してシェル操作を実行しますか?"
+
+#: ustrings.msg_shell_execute_error
+msgid ""
+"Could not open the following file:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+msgstr ""
+"以下のファイルを開けませんでした:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+
+#: ustrings.msg_translitsaveinvalid
+msgctxt "mystrings.msg_translitsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "使用出来ない名前です!"
+
+#: ustrings.msg_translitsavetext
+msgid "Enter a name for a translit:"
+msgstr "変化規則の名前を入力:"
+
+#: ustrings.msg_translitsavetitle
+msgid "Save Translit"
+msgstr "変化規則を保存"
+
+#: ustrings.msg_undoconfirmfiles
+msgid ""
+"Are you sure you want to undo renaming operation for %d file(s)?\n"
+"\n"
+"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
+msgstr ""
+"本当に %d 個のファイルに対するリネーム操作を元に戻しますか?\n"
+"\n"
+"ヒント: 列の\"古いパス\"を有効にするとアンドゥパスを確認できます\n"
+
+#: ustrings.msg_undoempty
+msgid "Nothing to undo!"
+msgstr "アンドゥがありません!"
+
+#: ustrings.msg_undoresult
+msgid ""
+"Undo operation results:\n"
+"\n"
+"%d out of %d file(s) restored successfully!\n"
+msgstr ""
+"アンドゥ操作の結果:\n"
+"\n"
+"%d から %d のファイルの復元に成功!\n"
+
+#: ustrings.msg_uninstallapplicationisrunning
+msgid ""
+"Seems that ReNamer is currently running.\n"
+"Please close it, before continuing...\n"
+msgstr ""
+"ReNamerは現在起動しています\n"
+"続行する前にそれを閉じてください..\n"
+
+#: ustrings.msg_validatedduplicatedfound
+msgid "%d of which have a duplicate in the list."
+msgstr "%d はリスト内で重複しています."
+
+#: ustrings.msg_validatedexceededfound
+msgid "%d of which exceed max path length limitation."
+msgstr "%d は、Windows MAX_PATH 制限を越えています."
+
+#: ustrings.msg_validatedexistingfound
+msgid "%d of which conflict with an existing file."
+msgstr "%d には既に新しいファイルパスがあります."
+
+#: ustrings.msg_validatedinvalidfound
+msgid "%d of which contain invalid characters."
+msgstr "警告, 無効なファイル名 %d が見つかりました."
+
+#: ustrings.msg_validatedmovedparentfound
+msgid "%d of which have a parent path changed earlier in the list."
+msgstr "%d は以前のリストから親パスが変更されています。"
+
+#: ustrings.msg_validatedsuccessfuly
+msgid "Successfully validated!"
+msgstr "有効化に成功しました!"
+
+#: ustrings.msg_validatewarninglimit
+msgid ""
+"Do you want to validate %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"%s 個のファイルがリスト内に存在します\n"
+"本当にこれらのファイルの検証を行いますか?\n"
+"\n"
+"この操作には数分かかるかもしれません...\n"
+
+#: ustrings.msg_validationissuesdetected
+msgid "Validation has failed due to issues with %d file(s)."
+msgstr "%d 個のファイルに対する検証は失敗しました."
+
+#: ustrings.name_addrule
+msgctxt "mystrings.name_addrule"
+msgid "Add Rule"
+msgstr "規則の追加"
+
+#: ustrings.name_addrulestext
+msgctxt "mystrings.name_addrulestext"
+msgid "Click here to add a rule"
+msgstr "クリックで規則を追加"
+
+#: ustrings.name_addtorenamer
+msgid "Add to ReNamer"
+msgstr "ReNamerに追加"
+
+#: ustrings.name_analyzetextcursor
+msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
+msgstr "行 = %d, 位置 = %d, 右 = %d, 選択範囲 = %d"
+
+#: ustrings.name_browsescripts
+msgid "Browse Scripts..."
+msgstr "スクリプトを参照..."
+
+#: ustrings.name_browsetranslits
+msgid "Browse Translits..."
+msgstr "変化規則を参照..."
+
+#: ustrings.name_cancelsorting
+msgctxt "mystrings.name_cancelsorting"
+msgid "Cancel Sorting"
+msgstr "ソートをキャンセル"
+
+#: ustrings.name_dragfilestext
+msgctxt "mystrings.name_dragfilestext"
+msgid "Drag your files here"
+msgstr "ここにファイルをドラッグ"
+
+#: ustrings.name_editrule
+msgctxt "mystrings.name_editrule"
+msgid "Edit Rule"
+msgstr "規則を編集"
+
+#: ustrings.name_filescounter
+msgid "%s files"
+msgstr "%s ファイル"
+
+#: ustrings.name_filescounterwithsize
+msgid "%s files (%s)"
+msgstr "%s ファイル (%s)"
+
+#: ustrings.name_filters
+msgctxt "mystrings.name_filters"
+msgid "Filters"
+msgstr "フィルター"
+
+#: ustrings.name_folderscounter
+msgid "%s folders"
+msgstr "%s フォルダ"
+
+#: ustrings.name_loadwithpreset
+msgctxt "mystrings.name_loadwithpreset"
+msgid "Load with Preset"
+msgstr "プリセットの読み込み"
+
+#: ustrings.name_markbymaskcaption
+msgctxt "mystrings.name_markbymaskcaption"
+msgid "Mark by Mask"
+msgstr "マスクでマーク"
+
+#: ustrings.name_markbymaskprompt
+msgctxt "mystrings.name_markbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"複数のマスクは、セミコロンで区切る  使用例: *.jpg;*.doc\n"
+"\n"
+"マスク:\n"
+
+#: ustrings.name_overwrite
+msgid "Overwrite"
+msgstr "上書"
+
+#: ustrings.name_rename
+msgctxt "mystrings.name_rename"
+msgid "Rename"
+msgstr "リネーム"
+
+#: ustrings.name_renamewithpreset
+msgctxt "mystrings.name_renamewithpreset"
+msgid "Rename with Preset"
+msgstr "Rename のプリセット"
+
+#: ustrings.name_rule_case
+msgid "Case"
+msgstr "大文字小文字"
+
+#: ustrings.name_rule_cleanup
+#| msgid "CleanUp"
+msgid "Clean Up"
+msgstr "クリーンアップ"
+
+#: ustrings.name_rule_delete
+msgctxt "mystrings.name_rule_delete"
+msgid "Delete"
+msgstr "削除"
+
+#: ustrings.name_rule_extension
+msgctxt "mystrings.name_rule_extension"
+msgid "Extension"
+msgstr "拡張子"
+
+#: ustrings.name_rule_insert
+msgctxt "mystrings.name_rule_insert"
+msgid "Insert"
+msgstr "挿入"
+
+#: ustrings.name_rule_padding
+msgid "Padding"
+msgstr "埋め込み"
+
+#: ustrings.name_rule_pascalscript
+#| msgid "PascalScript"
+msgid "Pascal Script"
+msgstr "パスカル・スクリプト"
+
+#: ustrings.name_rule_randomize
+msgid "Randomize"
+msgstr "ランダム化"
+
+#: ustrings.name_rule_rearrange
+msgid "Rearrange"
+msgstr "配列の変更"
+
+#: ustrings.name_rule_reformatdate
+msgid "Reformat Date"
+msgstr "日付の再フォーマット"
+
+#: ustrings.name_rule_regex
+#| msgid "RegEx"
+msgid "Regular Expressions"
+msgstr "正規表現"
+
+#: ustrings.name_rule_remove
+msgctxt "mystrings.name_rule_remove"
+msgid "Remove"
+msgstr "除去"
+
+#: ustrings.name_rule_replace
+msgctxt "mystrings.name_rule_replace"
+msgid "Replace"
+msgstr "置換"
+
+#: ustrings.name_rule_serialize
+msgid "Serialize"
+msgstr "連番"
+
+#: ustrings.name_rule_strip
+msgctxt "mystrings.name_rule_strip"
+msgid "Strip"
+msgstr "ストリップ"
+
+#: ustrings.name_rule_translit
+msgid "Translit"
+msgstr "変化規則"
+
+#: ustrings.name_rule_userinput
+#| msgid "UserInput"
+msgid "User Input"
+msgstr "ユーザ入力"
+
+#: ustrings.name_saverule
+msgid "Save Rule"
+msgstr "規則を保存"
+
+#: ustrings.name_savescript
+msgid "Save Script..."
+msgstr "スクリプトを保存..."
+
+#: ustrings.name_savetranslit
+msgid "Save Translit..."
+msgstr "変化規則を保存..."
+
+#: ustrings.name_selectbyextensioncaption
+msgctxt "mystrings.name_selectbyextensioncaption"
+msgid "Select by Extension"
+msgstr "拡張子で選択"
+
+#: ustrings.name_selectbyextensionprompt
+msgid ""
+"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
+"\n"
+"Extensions (without dots):\n"
+msgstr ""
+"複数の拡張子はセミコロン区切りで入力 使用例: jpg;doc\n"
+"\n"
+"(ドットなし):\n"
+
+#: ustrings.name_selectbyfilenamelengthcaption
+msgid "Select by Filename Length"
+msgstr "ファイル名長さで選択"
+
+#: ustrings.name_selectbyfilenamelengthprompt
+msgid "More than N characters:"
+msgstr "N 文字以上:"
+
+#: ustrings.name_selectbymaskcaption
+msgctxt "mystrings.name_selectbymaskcaption"
+msgid "Select by Mask"
+msgstr "マスクで選択"
+
+#: ustrings.name_selectbymaskprompt
+msgctxt "mystrings.name_selectbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"複数のマスクはセミコロン区切りで入力  使用例: *.jpg;*.doc\n"
+"\n"
+"マスク:\n"
+
+#: ustrings.name_undo
+msgid "Undo"
+msgstr "元に戻す"
+
+#: ustrings.name_undofiles
+msgid "Undo %d file(s)"
+msgstr "%d 個のファイルを元に戻す"
+
+#: ustrings.sdatetimedays
+msgctxt "ustrings.sdatetimedays"
+msgid "Days"
+msgstr "日"
+
+#: ustrings.sdatetimehours
+msgctxt "ustrings.sdatetimehours"
+msgid "Hours"
+msgstr "時"
+
+#: ustrings.sdatetimemilliseconds
+msgctxt "ustrings.sdatetimemilliseconds"
+msgid "Milliseconds"
+msgstr "ミリ秒"
+
+#: ustrings.sdatetimeminutes
+msgctxt "ustrings.sdatetimeminutes"
+msgid "Minutes"
+msgstr "分"
+
+#: ustrings.sdatetimemonths
+msgctxt "ustrings.sdatetimemonths"
+msgid "Months"
+msgstr "月"
+
+#: ustrings.sdatetimeseconds
+msgctxt "ustrings.sdatetimeseconds"
+msgid "Seconds"
+msgstr "秒"
+
+#: ustrings.sdatetimeyears
+msgctxt "ustrings.sdatetimeyears"
+msgid "Years"
+msgstr "年"
+
+#: ustrings.sfiltersallfiles
+msgid "All files"
+msgstr "すべてのファイル"
+
+#: ustrings.sfiltersanyfile
+msgid "Any file"
+msgstr "あらゆるファイル"
+
+#: ustrings.sfiltersarchives
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: ustrings.sfiltersbatchfile
+msgid "Batch file"
+msgstr "一括ファイル"
+
+#: ustrings.sfilterscommaseparated
+msgid "comma separated"
+msgstr "カンマ区切り"
+
+#: ustrings.sfiltersdocuments
+msgid "Documents"
+msgstr "ドキュメント"
+
+#: ustrings.sfiltersmusic
+msgid "Music"
+msgstr "ミュージック"
+
+#: ustrings.sfilterspictures
+msgid "Pictures"
+msgstr "ピクチャ"
+
+#: ustrings.sfiltersplaylist
+msgid "Play list"
+msgstr "プレイリスト"
+
+#: ustrings.sfilterspresets
+msgctxt "ustrings.sfilterspresets"
+msgid "Presets"
+msgstr "プリセット"
+
+#: ustrings.sfilterstabseparated
+msgid "tab separated"
+msgstr "タブ区切り"
+
+#: ustrings.sfilterstextfiles
+msgid "Text files"
+msgstr "テキストファイル"
+
+#: ustrings.sfilterstextlist
+msgid "Text list"
+msgstr "テキスト一覧"
+

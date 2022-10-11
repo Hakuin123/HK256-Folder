@@ -1,0 +1,18 @@
+V24OptionsConverted=1
+WGUID_version=2
+StressTester=1
+UsePrimenet=0
+Left=250
+Top=312
+Right=648
+Bottom=658
+W1=0 4 360 269 -3 -1 -1 -1 -1
+W2=0 0 380 266 0 -1 -1 -1 -1
+W3=0 8 415 277 57 -1 -1 -1 -1
+Windows95Service=0
+MergeWindows=3
+HideIcon=0
+TrayIcon=1
+
+[PrimeNet]
+Debug=0

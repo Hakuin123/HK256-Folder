@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<download-config version="2.0">
+  <normal_setting>
+<<<<<<< .mine
+    <scatter_file_path>D:\MTXXX_Bin\SP\k55v1_64_op09_6m_ALPS.L1.MP10.V2.24_eng\MT6755_Android_scatter.txt</scatter_file_path>
+||||||| .r863
+    <scatter_file_path>D:\load\k35mv1_64_op01_ALPS.L1.MP3.V2.100_userdebug\MT6735M_Android_scatter.txt</scatter_file_path>
+=======
+    <scatter_file_path>D:\Official\SP_BIn\MT6737\k37tv1_64_op09_lwcg_alps-mp-m0.mp1-V2.61.1_eng_little\MT6737T_Android_scatter.txt</scatter_file_path>
+>>>>>>> .r871
+	<da_reset_key>h</da_reset_key> 
+	<ForceCharger>2</ForceCharger>
+	<download_type>fm_and_dl</download_type>
+	<Enble_TriggerInto_Fastboot_AfterDL>0</Enble_TriggerInto_Fastboot_AfterDL>
+	<ChecksumLevel>3</ChecksumLevel>
+  </normal_setting>
+  <backup_partition>
+    <part_item>
+	  <part_name>PRO_INFO</part_name>
+	  <backup_file_name>pro_info.bin</backup_file_name>
+	  <checksum_file_name>pro_info_checksum</checksum_file_name>
+	</part_item>
+	<part_item>
+	  <part_name>NVRAM</part_name>
+	  <backup_file_name>nvram.bin</backup_file_name>
+	  <checksum_file_name>nvram_checksum</checksum_file_name>
+	</part_item>
+	<part_item>
+	  <part_name>PROTECT_F</part_name>
+	  <backup_file_name>protect_f.bin</backup_file_name>
+	  <checksum_file_name>protect_f_checksum</checksum_file_name>
+	</part_item>
+	<part_item>
+	  <part_name>PROTECT_S</part_name>
+	  <backup_file_name>protect_s.bin</backup_file_name>
+	  <checksum_file_name>protect_s_checksum</checksum_file_name>
+	</part_item>
+  </backup_partition>
+</download-config>

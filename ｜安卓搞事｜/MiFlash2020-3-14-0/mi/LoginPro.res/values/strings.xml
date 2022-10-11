@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">小米恢复模式刷机工具</string>
+  <string name="app_version_fmt">版本: %s</string>
+  <!-- net error code-->
+  <string name="net_error">网络异常</string>
+  <string name="code_xxxxx">未知错误[%d]</string>
+  <string name="code_2001">抱歉无法升级到非官方ROM包</string>
+  <string name="code_2002">ROM包处于内测中，请到论坛下载已发布ROM包</string>
+  <string name="code_2003">抱歉无法支持回退到非次新以前版本</string>
+  <string name="code_2004">开发版无法卡刷非最新的稳定版，请到论坛下载最新稳定版</string>
+  <string name="code_2005">稳定版无法卡刷非最新的开发版，请到论坛下载最新开发版</string>
+  <string name="code_2006">因内部原因，该ROM信息已经删除，请到论坛下载最新版本</string>
+  <string name="code_2007">当前版本非法，只能线刷到最新稳定版</string>
+  <string name="code_2008">无法跨安卓版本切换开发稳定版，请尝试Fastboot刷机解决</string>
+  <string name="code_2099">所选ROM包与当前连接手机型号不匹配，或其他原因</string>
+  <string name="code_2009">其他原因</string>
+  
+  <string name="code_10000">10000:请求参数错误</string>
+  <string name="code_10001">10001:签名验证失败</string>
+  <string name="code_10002">10002:相同IP请求过于频繁</string>
+  <string name="code_10003">10003:内部服务器错误</string>
+  <string name="code_10004">10004:请求超时</string>
+  
+  <string name="code_20030">不同设备的解锁间隔需要大于30天</string>
+  <string name="code_20031">账号与设备之间没有绑定关系</string>
+  <string name="code_20032">生成解锁所需的签名值失败</string>
+  <string name="code_20033">用户画像分数太低或者被拉黑</string>
+  <string name="code_20034">当前账号无法解锁此设备</string>
+  <string name="code_20035">请下载最新的解锁工具</string>
+  <string name="code_20036">账号与设备绑定时长太短,请%d小时以后再试</string>
+  <string name="code_20037">解锁次数已达上限</string>
+  
+  <string name="select_ota_rom">请选择卡刷包...</string>
+  <string name="ota_rom_filter">卡刷包</string>
+
+</resources>

@@ -1,0 +1,53 @@
+docker版群教程地址：https://hub.docker.com/r/cloudnas/clouddrive
+
+用法
+运行前
+Clouddrive 使用fuse 挂载云存储，为了在docker 容器中启用fuse 并将fuse 挂载共享到主机，应在主机中设置以下选项之一：
+选项 1：在 docker 服务中启用 MountFlags
+
+#mkdir -p /etc/systemd/system/docker.service.d/
+#cat <<EOF > /etc/systemd/system/docker.service.d/clear_mount_propagation_flags.conf
+[Service]
+MountFlags=shared
+EOF
+选项 2：为主机中的映射卷启用共享挂载选项
+
+#mount --make-shared <volume contains the path to accept cloud mounts>
+Docker-compose
+
+----
+version: "2.1"
+services:
+  cloudnas:
+    image: cloudnas/clouddrive
+    container_name: clouddrive
+    volumes:
+      - <path to accept cloud mounts>:/CloudNAS:shared
+      - <path to app data>:/Config
+      - <other local shared path>:/media:shared #optional media path of host
+    devices:
+      - /dev/fuse:/dev/fuse
+    restart: unless-stopped
+    privileged: true #or you can try capp_add -SYS_ADMIN
+    #cap_add: #SYS_ADMIN cap may fail on some OSes, use privileged: true instead
+    # - SYS_ADMIN
+    network_mode: "host" #if network_mode doesn't work, use port mapping
+    #ports:
+    #   - 9798:9798
+
+
+码头工人
+
+docker run -d \
+      --name clouddrive \
+      --restart unless-stopped \
+      -v <path to accept cloud mounts>:/CloudNAS:shared \
+      -v <path to app data>:/Config \
+      -v <other local shared path>:/media:shared \
+      -p 9798:9798 \
+     --privileged \
+     --device /dev/fuse:/dev/fuse \
+     cloudnas/clouddrive
+
+配置
+http://<ip>:9798

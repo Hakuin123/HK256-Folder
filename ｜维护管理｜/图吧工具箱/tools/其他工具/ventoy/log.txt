@@ -1,0 +1,156 @@
+[2021/12/25 08:03:08.136] 
+##################################################################################
+######################### Ventoy2DiskX86 1.0.0.3 (1.0.63) #########################
+##################################################################################
+[2021/12/25 08:03:08.136] Current directory:<D>
+[2021/12/25 08:03:08.141] id=9796/2616
+[2021/12/25 08:03:08.141]
+[2021/12/25 08:03:08.141] PSize:<577536 564KB>
+[2021/12/25 08:03:08.141] Lunch main process 0
+[2021/12/25 08:03:08.141] Control Flag: 0 1 1
+[2021/12/25 08:03:08.141] Windows Version: <<Windows 10 Pro, 64-bit (Build 19042.508)>>
+[2021/12/25 08:03:08.141] 
+===================== Enum All PhyDrives =====================
+[2021/12/25 08:03:08.146] RegOpenKeyExA <SYSTEM\CurrentControlSet\Services\disk\Enum> Ret:0
+[2021/12/25 08:03:08.146] RegQueryValueExA <Count> ret:0  Size:4 Value:3
+[2021/12/25 08:03:08.146] GetPhysicalDriveCount: 3
+[2021/12/25 08:03:08.146] Logical Drives: 0x7c
+[2021/12/25 08:03:08.146] LogicalDrive:\\.\C: PhyDrive:2 Offset:450887680 ExtentLength:119583219200
+[2021/12/25 08:03:08.146] C --> 2
+[2021/12/25 08:03:08.146] LogicalDrive:\\.\D: PhyDrive:1 Offset:37581336576 ExtentLength:238385032704
+[2021/12/25 08:03:08.146] D --> 1
+[2021/12/25 08:03:08.146] LogicalDrive:\\.\E: PhyDrive:1 Offset:275966401536 ExtentLength:237307521024
+[2021/12/25 08:03:08.146] E --> 1
+[2021/12/25 08:03:08.146] LogicalDrive:\\.\F: PhyDrive:1 Offset:513273954816 ExtentLength:236879806464
+[2021/12/25 08:03:08.146] F --> 1
+[2021/12/25 08:03:08.146] LogicalDrive:\\.\G: PhyDrive:0 Offset:1048576 ExtentLength:320071532544
+[2021/12/25 08:03:08.146] G --> 0
+[2021/12/25 08:03:08.151] Create file Handle:00000190 \\.\PhysicalDrive0 status:0
+[2021/12/25 08:03:08.151] PHYSICALDRIVE0 size 320072933376 bytes
+[2021/12/25 08:03:08.151] Create file Handle:00000194 \\.\PhysicalDrive1 status:0
+[2021/12/25 08:03:08.151] PHYSICALDRIVE1 size 750156374016 bytes
+[2021/12/25 08:03:08.151] Create file Handle:00000194 \\.\PhysicalDrive2 status:0
+[2021/12/25 08:03:08.151] PHYSICALDRIVE2 size 120034123776 bytes
+[2021/12/25 08:03:08.151] PhyDrv:0 BusType:SATA Removable:0 Size:320GB(320072933376) Name: WDC WD3200BEVT-00A23T0
+[2021/12/25 08:03:08.151] PhyDrv:1 BusType:SATA Removable:0 Size:750GB(750156374016) Name: ST750LM022 HN-M750MBB
+[2021/12/25 08:03:08.151] PhyDrv:2 BusType:SATA Removable:0 Size:120GB(120034123776) Name: ShineDisk M667 120G
+[2021/12/25 08:03:08.151] LogicalDrive:\\.\C: PhyDrive:2 Offset:450887680 ExtentLength:119583219200
+[2021/12/25 08:03:08.151] Logical Drive:C  ===> PhyDrive:2
+[2021/12/25 08:03:08.151] LogicalDrive:\\.\D: PhyDrive:1 Offset:37581336576 ExtentLength:238385032704
+[2021/12/25 08:03:08.151] Logical Drive:D  ===> PhyDrive:1
+[2021/12/25 08:03:08.151] LogicalDrive:\\.\E: PhyDrive:1 Offset:275966401536 ExtentLength:237307521024
+[2021/12/25 08:03:08.151] Logical Drive:E  ===> PhyDrive:1
+[2021/12/25 08:03:08.151] LogicalDrive:\\.\F: PhyDrive:1 Offset:513273954816 ExtentLength:236879806464
+[2021/12/25 08:03:08.151] Logical Drive:F  ===> PhyDrive:1
+[2021/12/25 08:03:08.151] LogicalDrive:\\.\G: PhyDrive:0 Offset:1048576 ExtentLength:320071532544
+[2021/12/25 08:03:08.151] Logical Drive:G  ===> PhyDrive:0
+[2021/12/25 08:03:08.151] < WDC WD3200BEVT-00A23T0> is filtered for not USB type.
+[2021/12/25 08:03:08.151] < ST750LM022 HN-M750MBB> is filtered for not USB type.
+[2021/12/25 08:03:08.151] < ShineDisk M667 120G> is filtered for not USB type.
+[2021/12/25 08:03:08.181] Load languages from json file ...
+[2021/12/25 08:03:08.201] language json file len:190384 json parse:0
+[2021/12/25 08:03:08.201] Total 43 languages ...
+[2021/12/25 08:03:20.426] 
+##################################################################################
+######################### Ventoy2DiskX86 1.0.0.3 (1.0.63) #########################
+##################################################################################
+[2021/12/25 08:03:20.426] Current directory:<D>
+[2021/12/25 08:03:20.426] id=9280/2616
+[2021/12/25 08:03:20.426]
+[2021/12/25 08:03:20.426] PSize:<577536 564KB>
+[2021/12/25 08:03:20.426] Lunch main process 0
+[2021/12/25 08:03:20.426] Control Flag: 0 1 1
+[2021/12/25 08:03:20.426] Windows Version: <<Windows 10 Pro, 64-bit (Build 19042.508)>>
+[2021/12/25 08:03:20.426] 
+===================== Enum All PhyDrives =====================
+[2021/12/25 08:03:20.426] RegOpenKeyExA <SYSTEM\CurrentControlSet\Services\disk\Enum> Ret:0
+[2021/12/25 08:03:20.426] RegQueryValueExA <Count> ret:0  Size:4 Value:3
+[2021/12/25 08:03:20.426] GetPhysicalDriveCount: 3
+[2021/12/25 08:03:20.426] Logical Drives: 0x7c
+[2021/12/25 08:03:20.426] LogicalDrive:\\.\C: PhyDrive:2 Offset:450887680 ExtentLength:119583219200
+[2021/12/25 08:03:20.426] C --> 2
+[2021/12/25 08:03:20.426] LogicalDrive:\\.\D: PhyDrive:1 Offset:37581336576 ExtentLength:238385032704
+[2021/12/25 08:03:20.426] D --> 1
+[2021/12/25 08:03:20.426] LogicalDrive:\\.\E: PhyDrive:1 Offset:275966401536 ExtentLength:237307521024
+[2021/12/25 08:03:20.426] E --> 1
+[2021/12/25 08:03:20.426] LogicalDrive:\\.\F: PhyDrive:1 Offset:513273954816 ExtentLength:236879806464
+[2021/12/25 08:03:20.426] F --> 1
+[2021/12/25 08:03:20.426] LogicalDrive:\\.\G: PhyDrive:0 Offset:1048576 ExtentLength:320071532544
+[2021/12/25 08:03:20.426] G --> 0
+[2021/12/25 08:03:20.426] Create file Handle:00000198 \\.\PhysicalDrive0 status:0
+[2021/12/25 08:03:20.441] PHYSICALDRIVE0 size 320072933376 bytes
+[2021/12/25 08:03:20.441] Create file Handle:00000198 \\.\PhysicalDrive1 status:0
+[2021/12/25 08:03:20.441] PHYSICALDRIVE1 size 750156374016 bytes
+[2021/12/25 08:03:20.441] Create file Handle:000000EC \\.\PhysicalDrive2 status:0
+[2021/12/25 08:03:20.441] PHYSICALDRIVE2 size 120034123776 bytes
+[2021/12/25 08:03:20.441] PhyDrv:0 BusType:SATA Removable:0 Size:320GB(320072933376) Name: WDC WD3200BEVT-00A23T0
+[2021/12/25 08:03:20.441] PhyDrv:1 BusType:SATA Removable:0 Size:750GB(750156374016) Name: ST750LM022 HN-M750MBB
+[2021/12/25 08:03:20.441] PhyDrv:2 BusType:SATA Removable:0 Size:120GB(120034123776) Name: ShineDisk M667 120G
+[2021/12/25 08:03:20.441] LogicalDrive:\\.\C: PhyDrive:2 Offset:450887680 ExtentLength:119583219200
+[2021/12/25 08:03:20.441] Logical Drive:C  ===> PhyDrive:2
+[2021/12/25 08:03:20.441] LogicalDrive:\\.\D: PhyDrive:1 Offset:37581336576 ExtentLength:238385032704
+[2021/12/25 08:03:20.441] Logical Drive:D  ===> PhyDrive:1
+[2021/12/25 08:03:20.441] LogicalDrive:\\.\E: PhyDrive:1 Offset:275966401536 ExtentLength:237307521024
+[2021/12/25 08:03:20.441] Logical Drive:E  ===> PhyDrive:1
+[2021/12/25 08:03:20.441] LogicalDrive:\\.\F: PhyDrive:1 Offset:513273954816 ExtentLength:236879806464
+[2021/12/25 08:03:20.441] Logical Drive:F  ===> PhyDrive:1
+[2021/12/25 08:03:20.441] LogicalDrive:\\.\G: PhyDrive:0 Offset:1048576 ExtentLength:320071532544
+[2021/12/25 08:03:20.441] Logical Drive:G  ===> PhyDrive:0
+[2021/12/25 08:03:20.441] < WDC WD3200BEVT-00A23T0> is filtered for not USB type.
+[2021/12/25 08:03:20.441] < ST750LM022 HN-M750MBB> is filtered for not USB type.
+[2021/12/25 08:03:20.441] < ShineDisk M667 120G> is filtered for not USB type.
+[2021/12/25 08:03:20.473] Load languages from json file ...
+[2021/12/25 08:03:20.473] language json file len:190384 json parse:0
+[2021/12/25 08:03:20.473] Total 43 languages ...
+[2021/12/25 08:03:23.950] 
+##################################################################################
+######################### Ventoy2DiskX86 1.0.0.3 (1.0.63) #########################
+##################################################################################
+[2021/12/25 08:03:23.950] Current directory:<D>
+[2021/12/25 08:03:23.950] id=9456/2616
+[2021/12/25 08:03:23.950]
+[2021/12/25 08:03:23.950] PSize:<577536 564KB>
+[2021/12/25 08:03:23.950] Lunch main process 0
+[2021/12/25 08:03:23.950] Control Flag: 0 1 1
+[2021/12/25 08:03:23.950] Windows Version: <<Windows 10 Pro, 64-bit (Build 19042.508)>>
+[2021/12/25 08:03:23.950] 
+===================== Enum All PhyDrives =====================
+[2021/12/25 08:03:23.950] RegOpenKeyExA <SYSTEM\CurrentControlSet\Services\disk\Enum> Ret:0
+[2021/12/25 08:03:23.966] RegQueryValueExA <Count> ret:0  Size:4 Value:3
+[2021/12/25 08:03:23.966] GetPhysicalDriveCount: 3
+[2021/12/25 08:03:23.966] Logical Drives: 0x7c
+[2021/12/25 08:03:23.966] LogicalDrive:\\.\C: PhyDrive:2 Offset:450887680 ExtentLength:119583219200
+[2021/12/25 08:03:23.966] C --> 2
+[2021/12/25 08:03:23.966] LogicalDrive:\\.\D: PhyDrive:1 Offset:37581336576 ExtentLength:238385032704
+[2021/12/25 08:03:23.966] D --> 1
+[2021/12/25 08:03:23.966] LogicalDrive:\\.\E: PhyDrive:1 Offset:275966401536 ExtentLength:237307521024
+[2021/12/25 08:03:23.966] E --> 1
+[2021/12/25 08:03:23.966] LogicalDrive:\\.\F: PhyDrive:1 Offset:513273954816 ExtentLength:236879806464
+[2021/12/25 08:03:23.966] F --> 1
+[2021/12/25 08:03:23.966] LogicalDrive:\\.\G: PhyDrive:0 Offset:1048576 ExtentLength:320071532544
+[2021/12/25 08:03:23.966] G --> 0
+[2021/12/25 08:03:23.966] Create file Handle:00000190 \\.\PhysicalDrive0 status:0
+[2021/12/25 08:03:23.966] PHYSICALDRIVE0 size 320072933376 bytes
+[2021/12/25 08:03:23.966] Create file Handle:00000198 \\.\PhysicalDrive1 status:0
+[2021/12/25 08:03:23.966] PHYSICALDRIVE1 size 750156374016 bytes
+[2021/12/25 08:03:23.966] Create file Handle:00000198 \\.\PhysicalDrive2 status:0
+[2021/12/25 08:03:23.966] PHYSICALDRIVE2 size 120034123776 bytes
+[2021/12/25 08:03:23.966] PhyDrv:0 BusType:SATA Removable:0 Size:320GB(320072933376) Name: WDC WD3200BEVT-00A23T0
+[2021/12/25 08:03:23.966] PhyDrv:1 BusType:SATA Removable:0 Size:750GB(750156374016) Name: ST750LM022 HN-M750MBB
+[2021/12/25 08:03:23.966] PhyDrv:2 BusType:SATA Removable:0 Size:120GB(120034123776) Name: ShineDisk M667 120G
+[2021/12/25 08:03:23.966] LogicalDrive:\\.\C: PhyDrive:2 Offset:450887680 ExtentLength:119583219200
+[2021/12/25 08:03:23.966] Logical Drive:C  ===> PhyDrive:2
+[2021/12/25 08:03:23.966] LogicalDrive:\\.\D: PhyDrive:1 Offset:37581336576 ExtentLength:238385032704
+[2021/12/25 08:03:23.966] Logical Drive:D  ===> PhyDrive:1
+[2021/12/25 08:03:23.966] LogicalDrive:\\.\E: PhyDrive:1 Offset:275966401536 ExtentLength:237307521024
+[2021/12/25 08:03:23.966] Logical Drive:E  ===> PhyDrive:1
+[2021/12/25 08:03:23.966] LogicalDrive:\\.\F: PhyDrive:1 Offset:513273954816 ExtentLength:236879806464
+[2021/12/25 08:03:23.966] Logical Drive:F  ===> PhyDrive:1
+[2021/12/25 08:03:23.966] LogicalDrive:\\.\G: PhyDrive:0 Offset:1048576 ExtentLength:320071532544
+[2021/12/25 08:03:23.966] Logical Drive:G  ===> PhyDrive:0
+[2021/12/25 08:03:23.966] < WDC WD3200BEVT-00A23T0> is filtered for not USB type.
+[2021/12/25 08:03:23.966] < ST750LM022 HN-M750MBB> is filtered for not USB type.
+[2021/12/25 08:03:23.966] < ShineDisk M667 120G> is filtered for not USB type.
+[2021/12/25 08:03:23.997] Load languages from json file ...
+[2021/12/25 08:03:23.997] language json file len:190384 json parse:0
+[2021/12/25 08:03:23.997] Total 43 languages ...

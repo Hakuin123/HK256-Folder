@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window>
+  <VerticalLayout name="mi_login_ui" width="560" height="367" childalign="center" childpadding="15">
+    <Label height="25" text="IDS_LOGIN_2" font="20" align="center" padding="0,55,0,0"/>
+    <Label name="error_msg_label" height="25" text="" align="center" textcolor="#ff0000" padding="0,5,0,0"/>
+    <VerticalLayout width="365" childpadding="10" padding="0,5,0,0">
+      <MEdit name="account_id_input" height="31" text="" placestring="IDS_LOGIN_3" placetextcolor="#8d8d8d" tooltip="IDS_LOGIN_3" bordercolor="#FF4EA0D1" bordersize="1"/>
+      <MEdit name="account_pwd_input" height="31" text="" placestring="IDS_LOGIN_4" placetextcolor="#8d8d8d" tooltip="IDS_LOGIN_4" password="true" bordercolor="#FF4EA0D1" bordersize="1"/>
+      <MEdit name="account_dynamic_code_input" height="31"  placestring="IDS_LOGIN_5" tooltip="IDS_LOGIN_5" placetextcolor="#8d8d8d" bordercolor="#FF4EA0D1" bordersize="1" visible="false"/>
+      <HorizontalLayout name="account_verify_code_layout" height="42" visible="false">
+        <MEdit name="account_verify_code_input" width="240" placestring="IDS_LOGIN_6" tooltip="IDS_LOGIN_6" placetextcolor="#8d8d8d" bordercolor="#FF4EA0D1" bordersize="1"/>
+        <Button name="account_verify_code_picture" normalimage="" hotimage="" pushedimage="" tooltip="IDS_LOGIN_7" shortcut="F5" bkimage="file='imgs/verify_code_bg.png'"/>
+      </HorizontalLayout>
+
+      <Button name="login_btn" height="42" font="14" text="IDS_LOGIN_8" textcolor="#ffffff"
+          normalimage="file='btns/green_btn_list.png' source='0,0,262,42' corner='10,10,10,10'"
+          hotimage="file='btns/green_btn_list.png' source='262,0,524,42' corner='10,10,10,10'"
+          pushedimage="file='btns/green_btn_list.png' source='524,0,786,42' corner='10,10,10,10'"/>
+
+      <HorizontalLayout height="18" childpadding="5" >
+        <CheckBox name="auto_login_checkbox" width="14" valign="center" padding="2,3,2,1"/>
+        <Button name="auto_login_btn" text="IDS_LOGIN_9" height="18" width="140" textcolor="0xFF666666" normalimage="" hotimage="" pushedimage="" align="left"/>
+        <Control name="separator1" bkimage="file='imgs/I.png'" height="15" width="1" padding="0,2,0,1" valign="center"/>
+        <Text name="reg_account" textcolor="#999999" text="IDS_LOGIN_10" width="60" showhtml="true" valign="center"/>
+        <Control name="separator2" bkimage="file='imgs/I.png'" height="15" width="1" padding="0,2,0,1" valign="center"/>
+        <Text name="forget_pwd" textcolor="#999999" text="IDS_LOGIN_11" showhtml="true" valign="center"/>
+      </HorizontalLayout>
+    </VerticalLayout>
+  </VerticalLayout>
+</Window>

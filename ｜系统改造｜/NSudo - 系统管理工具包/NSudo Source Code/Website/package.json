@@ -1,0 +1,23 @@
+{
+  "name": "nsudo",
+  "version": "8.0",
+  "description": "System Administration Toolkit",
+  "main": "index.js",
+  "authors": {
+    "name": "Mouri_Naruto",
+    "email": "Mouri_Naruto@Outlook.com"
+  },
+  "repository": "m2team/NSudo",
+  "scripts": {
+    "dev": "vuepress dev --no-cache",
+    "build": "vuepress build --no-cache"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "@vuepress/plugin-medium-zoom": "^1.8.2",
+    "@vuepress/plugin-pwa": "^1.8.2",
+    "moment": "^2.29.1",
+    "vuepress": "^1.8.2"
+  }
+}

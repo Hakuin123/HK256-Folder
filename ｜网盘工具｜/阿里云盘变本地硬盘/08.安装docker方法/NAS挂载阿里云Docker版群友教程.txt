@@ -1,0 +1,43 @@
+Docker地址：
+https://hub.docker.com/r/cloudnas/clouddrive
+
+NAS安装Docker
+点击注册表搜索clouddrive安装
+
+开启NAS的SSH，密码输入nas登陆的密码，再开启root权限如下：
+sudo -i
+
+1，在根目录建立cloudnas文件夹并给予Everyone读写权限，并应用到子文件夹，
+2，在根目录建立docker/clouddrive/media文件夹并给予Everyone读写权限，并应用到子文件夹，
+
+以 shared ⽅式挂载你要挂载的卷：
+sudo mount --make-shared /volume1/
+
+最后运行命令如下：
+
+sudo docker run -d \
+--name clouddrive \
+-v /volume1/cloudnas:/CloudNAS:shared \
+-v /volume1/docker/clouddrive:/Config \
+-p 9798:9798 \
+--privileged \
+--device /dev/fuse:/dev/fuse \
+cloudnas/clouddrive
+
+注意:
+如下命令好像没啥用不用输入
+-v /volume1/docker/clouddrive/media:/media:shared \
+
+升级方法：
+Docker里彻底删除clouddrive镜像，再重新按照以上教程安装即可更新最新版。
+
+
+访问地址：NAS的IP地址:9798/ 
+例如：192.168.1.1:9798/ 
+
+注意：
+clouddrive的Windows版和docker版不能是同一个邮箱注册，否则会出现邮箱已注册！
+NAS手工建立的文件夹名称大小写必须和命令的字符大小写一致，否则会命令错误！
+
+
+

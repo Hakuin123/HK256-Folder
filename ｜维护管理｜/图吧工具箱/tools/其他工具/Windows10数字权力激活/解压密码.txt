@@ -1,0 +1,8 @@
+声明：本工具收集自网络，且无法通过杀软安全检测，工具箱不保证安全性，请自己决定是否使用。
+
+解压密码：tulading
+
+为了保证能正常激活，建议关闭windows defender及其他杀毒软件后再使用激活工具。
+
+如何关闭windows defender？
+http://www.tbtool.cn/FAQ/xq1.html

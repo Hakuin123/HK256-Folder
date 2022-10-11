@@ -1,0 +1,4035 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: ReNamer\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Slavo Gbúr <slavusec@azet.sk>\n"
+"Language-Team: den4b Team <support@den4b.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"X-Country: sk\n"
+"X-Country-Name: Slovakia\n"
+"X-Language-Name: Slovak\n"
+"X-Language-Name-Native: Slovenčina\n"
+"X-Translators: Slavo Gbúr <slavusec@azet.sk>\n"
+"X-Generator: Poedit 1.8.6\n"
+
+#: mainform.ssavecurrentpresetconfirm
+msgid "Save current preset?"
+msgstr "Uložiť aktuálnu predvoľbu?"
+
+#: mainform.s_askpurchaseremovelimit
+msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
+msgstr "Chcete kúpiť \"Pro\" verziu pre odstránenie tohto obmedzenia?"
+
+#: mainform.s_askpurchaseunlockfeature
+msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
+msgstr "Chcete kúpiť \"Pro\" verziu pre sprístupnenie tejto funkcie?"
+
+#: mainform.s_confirmunregister
+msgid ""
+"Are you sure you want to unregister the product?\n"
+"\n"
+"This will remove your license and deactivate the \"Pro\" version.\n"
+msgstr ""
+"Ste si istý, že chcete zrušiť registráciu produktu?\n"
+"\n"
+"Tým sa odstráni Vaša licencia a deaktivuje sa \"Pro\" verzia.\n"
+
+#: mainform.s_featurenotavailable
+msgid "This feature is not available in this version."
+msgstr "V tejto verzií nie je táto funkcia povolená."
+
+#: mainform.s_free_license_note
+msgctxt "mainform.s_free_license_note"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Táto aplikácia môže byť použitá a distribuovaná len pre nekomerčné použitie a s príslušnými právami."
+
+#: mainform.s_maxallowedpresets
+msgid "This version is limited to a maximum of %s presets."
+msgstr "Táto verzia je obmedzená len na maximálne %s predvoľbý."
+
+#: mainform.s_maxallowedrules
+msgid "This version is limited to a maximum of %s rules."
+msgstr "Táto verzia je limitovaná pre maximálne %s úlohy."
+
+#: mainform.s_no_license_caption
+msgid "(non-commercial use only)"
+msgstr "(len pre nekomerčné použitie)"
+
+#: mainform.s_please_read_full_license
+msgid "For more information please read full license code"
+msgstr "Pre viac informácií si prečítajte úplné licenčné podmienky"
+
+#: mainform.s_presetdirstructurelimitation
+msgid "This version does not support presets directory structure."
+msgstr ""
+
+#: mainform.s_statusbar_hint_filters
+msgid "Active filter settings"
+msgstr "Aktívne nastavenia filtra"
+
+#: mainform.s_statusbar_hint_presets
+msgid "Loaded preset"
+msgstr "Načítavam predvoľbu"
+
+#: mainform.s_statusbar_hint_presets_modified
+msgid "Loaded preset (modified)"
+msgstr "Načítavam predvoľbu (upravenú)"
+
+#: presetslinksform.screatednumpresetlinks
+msgid "Created %d preset links."
+msgstr ""
+
+#: presetsmanagerform.sduplicatepresetsuffix
+msgid "COPY"
+msgstr "KOPÍROVAŤ"
+
+#: rulepascalscriptframe.saddyourcodehere
+msgid "Add your code here"
+msgstr "Zadajte Váš kód sem"
+
+#: rulepascalscriptframe.sholdtoinsertscriptinline
+msgid "Hold %s when loading a script to insert it inline"
+msgstr ""
+
+#: rulepascalscriptframe.spressforcodecompletion
+msgid "Press %s for code completion"
+msgstr "Stlačte %s pre dokončenie vloženia kódu"
+
+#: ruleregexframe.sregexanychar
+msgid "Any single character"
+msgstr "Akýkoľvek znak"
+
+#: ruleregexframe.sregexanycharexact3
+msgid "A set of 3 of any characters"
+msgstr "Sada 3 alebo viacerých akýchkoľvek znakov"
+
+#: ruleregexframe.sregexanycharplus
+msgid "One or more of any characters"
+msgstr "Jeden alebo viacej akýchkoľvek znakov"
+
+#: ruleregexframe.sregexanycharplusgrouped
+msgid "One or more of any characters, grouped into subexpression"
+msgstr "Jeden alebo viacej akýchkoľvek znakov, zoskupených do podvýrazov."
+
+#: ruleregexframe.sregexanycharplusnogreedy
+msgid "One or more of any characters, but fewer as possible"
+msgstr "Jeden alebo viacej akýchkoľvek znakov, ale menej ako je to možné"
+
+#: ruleregexframe.sregexanycharset2to4
+msgid "A set of 2 to 4 of any characters"
+msgstr "Sada od 2 do 4 akýchkoľvek znakov"
+
+#: ruleregexframe.sregexanycharset3ormore
+msgid "A set of 3 or more of any characters"
+msgstr "Sada 3 alebo viacerých akýchkoľvek znakov"
+
+#: ruleregexframe.sregexanycharstar
+msgid "Zero or more of any characters"
+msgstr "Nula alebo viac akýchkoľvek znakov"
+
+#: ruleregexframe.sregexcharlistabc
+msgid "Any single character from the list (e.g. \"a\" or \"b\" or \"c\")"
+msgstr "Akýkoľvek znak zo zoznamu (napr. \"a\" alebo \"b\" alebo \"c\")"
+
+#: ruleregexframe.sregexcharlistaorborc
+msgid "Any one occurrence of the alternatives (e.g. \"aa\" or \"bb\" or \"cc\")"
+msgstr "Akýkoľvek z alternatívnych výskytov (napr. \"aa\" alebo \"bb\" alebo \"cc\")"
+
+#: ruleregexframe.sregexcharlistatoz
+msgid "Any single character from the range (e.g. \"a\" to \"z\")"
+msgstr "Akýkoľvek znak z rozsahu (napr. \"a\" až \"z\")"
+
+#: ruleregexframe.sregexend
+msgid "End of the input text"
+msgstr "Koniec textového imputu"
+
+#: ruleregexframe.sregexescapedslash
+msgid "Use an escape character to match an actual backslash \"\\\""
+msgstr "Použite znak escape, aby zodpovedal spätnému lomítku backslash \"\\\""
+
+#: ruleregexframe.sregexnotcharlistabc
+msgid "Any single character except the ones from the list"
+msgstr "Akýkoľvek znak okrem tých zo zoznamu"
+
+#: ruleregexframe.sregexspacechars
+msgid "Any single space character (space, tab, new line)"
+msgstr "Akýkoľvek priestorový znak (space, tab, nový riadok)"
+
+#: ruleregexframe.sregexstart
+msgid "Start of the input text"
+msgstr "Začiatok textového inputu"
+
+#: ruleregexframe.sregexwordboundary
+msgid "Word boundary"
+msgstr "Okraje slova"
+
+#: ruleregexframe.sregexwordchars
+msgid "Any single alphanumeric character (including an underscore)"
+msgstr "Akýkoľvek alfanumerický znak (vrátane podčiarknutých)"
+
+#: settingsform.sfailedtoapplysystemsettings
+msgid "Failed to apply system settings."
+msgstr "Použitie systémových nastavení zlyhalo."
+
+#: settingsform.shinttryrunasadministrator
+msgid "(Try to start the program as administrator to apply these settings)"
+msgstr "(Pre uplatnenie nastavení skúste spustiť program ako správca)"
+
+#: settingsform.srealtimepreviewwarning
+msgid ""
+"Real-time update of the preview can be dangerous and its use is not recommended!\n"
+"\n"
+"It will cause graphical updates to the GUI during preview for every processed file but will also respond to any user activity such as mouse clicks and keyboard button presses. Beware, any accidental actions generated during a preview as a result of user activity within the application will interfere with the preview process and can cause unpredictable behavior.\n"
+msgstr ""
+"Aktualizácia náhľadu v reálnom čase môže byť nebezpečná a neodporúča sa!\n"
+"\n"
+"To spôsobí grafickú aktualizáciu GUI počas náhľadu na každý spracovaný súbor, ale bude tiež reagovať aj na aktivity užívateľa ako sú kliknutia myšou a stláčanie klávesov klávesnice. Buďte ostražitý, prípadné nepredvídateľné akcie vznikajúce pri náhľade v dôsledku aktivity používateľa v rámci aplikácie budú zasahovať do procesu náhľadu a môžu spôsobiť nepredvídané správanie.\n"
+
+#: tform_about.caption
+msgctxt "tform_about.caption"
+msgid "About"
+msgstr "O programe..."
+
+#: tform_about.label_author2.caption
+msgid "Author:"
+msgstr "Autor:"
+
+#: tform_about.label_date.caption
+msgid "Date:"
+msgstr "Dátum:"
+
+#: tform_about.label_email2.caption
+msgid "Email:"
+msgstr "E-mail:"
+
+#: tform_about.label_version.caption
+msgid "Version:"
+msgstr "Verzia:"
+
+#: tform_about.label_website2.caption
+msgid "Website:"
+msgstr "Web stránka:"
+
+#: tform_addpaths.bitbtn_add.caption
+msgctxt "tform_addpaths.bitbtn_add.caption"
+msgid "Add"
+msgstr "Pridať"
+
+#: tform_addpaths.bitbtn_cancel.caption
+msgctxt "tform_addpaths.bitbtn_cancel.caption"
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: tform_addpaths.caption
+msgctxt "tform_addpaths.caption"
+msgid "Add Paths"
+msgstr ""
+
+#: tform_addpaths.checkbox_workingdir.caption
+msgctxt "tform_addpaths.checkbox_workingdir.caption"
+msgid "Working directory:"
+msgstr ""
+
+#: tform_addpaths.label_enterpaths.caption
+msgid "Enter file paths:"
+msgstr ""
+
+#: tform_addrule.bitbtn_add.caption
+msgctxt "TFORM_ADDRULE.BITBTN_ADD.CAPTION"
+msgid "Add Rule"
+msgstr "Pridať úlohu"
+
+#: tform_addrule.bitbtn_close.caption
+msgctxt "tform_addrule.bitbtn_close.caption"
+msgid "Close"
+msgstr "Zavrieť"
+
+#: tform_addrule.caption
+msgctxt "TFORM_ADDRULE.CAPTION"
+msgid "Add Rule"
+msgstr "Pridať úlohu"
+
+#: tform_addrule.groupbox_config.caption
+msgid "Configuration:"
+msgstr "Konfigurácia:"
+
+#: tform_addrule.menuitem_ruledescription.caption
+msgid "Description"
+msgstr "Popis"
+
+#: tform_analyze.bb_applyrules.caption
+msgid "Apply Rules"
+msgstr "Použiť úlohy"
+
+#: tform_analyze.caption
+msgctxt "tform_analyze.caption"
+msgid "Analyze"
+msgstr "Analýza"
+
+#: tform_analyze.cb_applyrulesforeachline.caption
+msgid "Apply rules for each line"
+msgstr "Použiť úlohy pre každý riadok"
+
+#: tform_analyze.cb_autoapplyrules.caption
+msgid "Automatically apply rules"
+msgstr "Automaticky použiť úlohy"
+
+#: tform_analyze.cb_wordwrap.caption
+msgid "Line wrap"
+msgstr "Zalomenie riadku"
+
+#: tform_analyze.label_textin.caption
+msgid "Enter text that you wish to analyze:"
+msgstr "Zadajte text, ktorý chcete analyzovať:"
+
+#: tform_analyze.label_textout.caption
+msgid "Text after applying rules:"
+msgstr "Text po použití úlohy:"
+
+#: tform_browse.bitbtn_cancel.caption
+msgctxt "TFORM_BROWSE.BITBTN_CANCEL.CAPTION"
+msgid "Close"
+msgstr "Zavrieť"
+
+#: tform_browse.bitbtn_ok.caption
+msgctxt "tform_browse.bitbtn_ok.caption"
+msgid "Add Folders"
+msgstr "Pridať zložky"
+
+#: tform_browse.caption
+msgid "Browse"
+msgstr "Prezerať"
+
+#: tform_browse.checkbox_showhidden.caption
+msgid "Show hidden folders"
+msgstr "Zobraziť skryté zložky"
+
+#: tform_browse.checkbox_showsystem.caption
+msgid "Show system folders"
+msgstr "Zobraziť systémové zložky"
+
+#: tform_browse.label_title.caption
+msgid "Select folders that you want to add:"
+msgstr "Vyberte zložky, ktoré chcete pridať"
+
+#: tform_browse.menuitem_collapseall.caption
+msgid "Collapse All"
+msgstr "Všetko zbaliť"
+
+#: tform_browse.menuitem_explorefolder.caption
+msgid "Explore selected folder"
+msgstr "Prezrieť vybranú zložku"
+
+#: tform_browse.menuitem_gotofolder.caption
+msgctxt "TFORM_BROWSE.MENUITEM_GOTOFOLDER.CAPTION"
+msgid "Go To Folder"
+msgstr "Ísť na zložku"
+
+#: tform_browse.menuitem_refreshtree.caption
+msgid "Refresh Tree"
+msgstr "Obnoviť strom"
+
+#: tform_browse.sb_gotofolder.caption
+msgctxt "tform_browse.sb_gotofolder.caption"
+msgid "Go To"
+msgstr "Ísť na"
+
+#: tform_browse.speedbutton_filtersettings.caption
+msgctxt "tform_browse.speedbutton_filtersettings.caption"
+msgid "Filter Settings"
+msgstr "Nastavenia filtra"
+
+#: tform_filtersettings.bitbtn_cancel.caption
+msgctxt "tform_filtersettings.bitbtn_cancel.caption"
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: tform_filtersettings.bitbtn_save.caption
+msgctxt "tform_filtersettings.bitbtn_save.caption"
+msgid "Save"
+msgstr "Uložiť"
+
+#: tform_filtersettings.caption
+msgctxt "TFORM_FILTERSETTINGS.CAPTION"
+msgid "Filter Settings"
+msgstr "Nastavenia filtra"
+
+#: tform_filtersettings.cb_masksonfilename.caption
+msgid "Apply only to the file name, instead of full path."
+msgstr "Použiť len názov súboru namiesto úplnej cesty."
+
+#: tform_filtersettings.checkbox_addfilesfromfolders.caption
+msgid "Add files within folders"
+msgstr "Pridať súbory bez zložiek"
+
+#: tform_filtersettings.checkbox_addfoldersasfiles.caption
+msgid "Add folders as files"
+msgstr "Pridať zložky ako súbory"
+
+#: tform_filtersettings.checkbox_includehidden.caption
+msgid "Include hidden items"
+msgstr "Spolu so skrytými položkami"
+
+#: tform_filtersettings.checkbox_includesubfolders.caption
+msgid "Include subfolders"
+msgstr "Spolu s podzložkami"
+
+#: tform_filtersettings.checkbox_includesystem.caption
+msgid "Include system items"
+msgstr "Spolu so systémovými položkami"
+
+#: tform_filtersettings.checkbox_saveasdefault.caption
+msgctxt "TFORM_FILTERSETTINGS.CHECKBOX_SAVEASDEFAULT.CAPTION"
+msgid "Save as default for future sessions"
+msgstr "Uložiť ako predvolené pre budúce relácie"
+
+#: tform_filtersettings.checkbox_skiprootfoldersasfiles.caption
+msgid "Skip root folders when added as files"
+msgstr "Vynechať koreňové zložky pri pridaní súborov"
+
+#: tform_filtersettings.groupbox_folders.caption
+msgid "Default behavior for adding folders:"
+msgstr "Predvolené správanie sa pri pridávaní zložiek:"
+
+#: tform_filtersettings.groupbox_masks.caption
+msgid "Masks:"
+msgstr "Masky:"
+
+#: tform_filtersettings.label_masksexclude.caption
+msgid "Exclude:"
+msgstr "Bez:"
+
+#: tform_filtersettings.label_masksinclude.caption
+msgid "Include:"
+msgstr "Spolu s:"
+
+#: tform_filtersettings.label_masksnote.caption
+msgctxt "TFORM_FILTERSETTINGS.LABEL_MASKSNOTE.CAPTION"
+msgid "Note: separate multiple masks with \";\" (semicolons)."
+msgstr "Poznámka: oddeliť viacero masiek s \";\" (bodkočiar.)"
+
+#: tform_folderwarning.bb_cancel.caption
+msgctxt "TFORM_FOLDERWARNING.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: tform_folderwarning.bb_continue.caption
+msgid "Continue"
+msgstr "Pokračovať"
+
+#: tform_folderwarning.caption
+msgid "Warning: Renaming Folders"
+msgstr "Varovanie: Premenovávanie zložiek"
+
+#: tform_folderwarning.cb_nevershowwarning.caption
+msgid "Never show this warning"
+msgstr "Nezobrazovať varovanie"
+
+#: tform_folderwarning.label_warning.caption
+msgid "Renaming a folder also affects all of its content. A problem can occur if you try to rename folders and their content in a single run. Items in the renaming list are processed from top to bottom. The order of items in this case is extremely important for successful renaming."
+msgstr "Premenovanie zložky ovplyvňuje aj jej obsah. Problém môže nastať ak sa pokúšate naraz premenovať zložku a aj jej obsah. Zložky sú pri premenovaní umiestnené zhora-nadol. Poradie položiek je v tomto prípade nesmierne dôležité pre úspešné premenovanie."
+
+#: tform_folderwarning.label_warning2.caption
+msgid "Parent folders must always appear below their contained items. This can be easily achieved by sorting items in descending order by the Folder or Path column."
+msgstr "Nadradené zložky sa musia nachádzať vždy nižšie ako položky, ktoré obsahujú. To sa dá ľahko dosiahnuť triedením položiek v zostupnom poradí podľa zložky alebo stĺpca Cesta.."
+
+#: tform_main.action_about.caption
+msgctxt "TFORM_MAIN.ACTION_ABOUT.CAPTION"
+msgid "About"
+msgstr "O programe"
+
+#: tform_main.action_addfiles.caption
+msgid "Add Files"
+msgstr "Pridať súbory"
+
+#: tform_main.action_addfolders.caption
+msgctxt "TFORM_MAIN.ACTION_ADDFOLDERS.CAPTION"
+msgid "Add Folders"
+msgstr "Pridať zložky"
+
+#: tform_main.action_addpaths.caption
+msgctxt "tform_main.action_addpaths.caption"
+msgid "Add Paths"
+msgstr ""
+
+#: tform_main.action_analyzesampletext.caption
+msgid "Analyze sample text"
+msgstr "Analýza vzorky textu"
+
+#: tform_main.action_applyrulestoclipboard.caption
+msgid "Apply rules to the clipboard"
+msgstr "Použiť úlohu v schránke."
+
+#: tform_main.action_autosizecolumns.caption
+msgid "Autosize columns"
+msgstr "Autom. veľkosť stĺpcov"
+
+#: tform_main.action_countmarkedandselectedfiles.caption
+msgid "Count marked and selected files"
+msgstr "Počet označených a vybraných súborov"
+
+#: tform_main.action_exportasbatchfilefullpaths.caption
+msgid "Export as batch renaming file (full paths)"
+msgstr "Exportovať ako batch súbor premenovania (celá cesta)"
+
+#: tform_main.action_exportasbatchfileonlynames.caption
+msgid "Export as batch renaming file (only names)"
+msgstr "Exportovať ako batch súbor premenovania (iba názvy)"
+
+#: tform_main.action_exportfilesandpreview.caption
+msgid "Export file paths and new names"
+msgstr "Exportovať cesty a nové názvy súborov "
+
+#: tform_main.action_exportfilesandundo.caption
+msgid "Export file paths and undo paths"
+msgstr "Exportovať cesty súborov a spätné cesty."
+
+#: tform_main.action_exportnewnamestoclipboard.caption
+msgid "Export new names to clipboard"
+msgstr "Exportovať nové názvy do schránky"
+
+#: tform_main.action_exportpathstoclipboard.caption
+msgid "Export paths to clipboard"
+msgstr ""
+
+#: tform_main.action_filters.caption
+msgctxt "TFORM_MAIN.ACTION_FILTERS.CAPTION"
+msgid "Filters"
+msgstr "Filtre"
+
+#: tform_main.action_fixconflictingnewnames.caption
+msgid "Fix conflicting new names"
+msgstr "Opraviť konfliktné nové názvy"
+
+#: tform_main.action_importfilesandpreview.caption
+msgid "Import file paths and new names"
+msgstr "Importovať cesty a nové názvy súborov"
+
+#: tform_main.action_importlistoffiles.caption
+msgid "Import files from text-list or play-list"
+msgstr "Importovať súbory z textového zoznamu alebo playlistu"
+
+#: tform_main.action_importnewnamesfromclipboard.caption
+msgid "Import new names from clipboard"
+msgstr "Importovať nové názvy zo schránky"
+
+#: tform_main.action_managepresets.caption
+msgid "Manage..."
+msgstr "Spravovať"
+
+#: tform_main.action_newinstance.caption
+msgid "New Instance"
+msgstr ""
+
+#: tform_main.action_newproject.caption
+msgid "New Project"
+msgstr "Nový projekt"
+
+#: tform_main.action_pastefiles.caption
+msgid "Paste Files"
+msgstr "Vložiť súbory"
+
+#: tform_main.action_presetsave.caption
+msgctxt "TFORM_MAIN.ACTION_PRESETSAVE.CAPTION"
+msgid "Save"
+msgstr "Uložiť"
+
+#: tform_main.action_presetsaveas.caption
+msgid "Save As"
+msgstr "Uložiť ako"
+
+#: tform_main.action_preview.caption
+msgctxt "TFORM_MAIN.ACTION_PREVIEW.CAPTION"
+msgid "Preview"
+msgstr "Náhľad"
+
+#: tform_main.action_register.caption
+msgctxt "tform_main.action_register.caption"
+msgid "Register"
+msgstr "Registrovať"
+
+#: tform_main.action_rename.caption
+msgctxt "TFORM_MAIN.ACTION_RENAME.CAPTION"
+msgid "Rename"
+msgstr "Premenovať"
+
+#: tform_main.action_settings.caption
+msgid "All Settings"
+msgstr "Všetky nastavenia"
+
+#: tform_main.action_sortforrenamingfolders.caption
+msgid "Sort by path for renaming folders"
+msgstr "Triediť podľa cesty"
+
+#: tform_main.action_undorename.caption
+msgid "Undo Renaming"
+msgstr "Vrátiť premenovanie"
+
+#: tform_main.action_unregister.caption
+msgid "Unregister"
+msgstr "Odregistrovať"
+
+#: tform_main.action_validatenewnames.caption
+msgid "Validate new names"
+msgstr "Schváliť nové názvy"
+
+#: tform_main.listview_rules.columns[0].caption
+msgid "#"
+msgstr ""
+
+#: tform_main.listview_rules.columns[1].caption
+msgid "Rule"
+msgstr "Úloha"
+
+#: tform_main.listview_rules.columns[2].caption
+msgid "Statement"
+msgstr "Popis"
+
+#: tform_main.menuitem_addrule.caption
+msgctxt "TFORM_MAIN.MENUITEM_ADDRULE.CAPTION"
+msgid "Add Rule"
+msgstr "Pridať úlohu"
+
+#: tform_main.menuitem_addruleabove.caption
+msgid "Add Rule (above)"
+msgstr ""
+
+#: tform_main.menuitem_addrulebelow.caption
+msgid "Add Rule (below)"
+msgstr ""
+
+#: tform_main.menuitem_analyzename.caption
+msgid "Analyze Name"
+msgstr "Analyzovať názov"
+
+#: tform_main.menuitem_clearall.caption
+msgid "Clear All"
+msgstr "Vyprázdniť všetko"
+
+#: tform_main.menuitem_clearfailed.caption
+msgid "Clear Failed"
+msgstr "Vyprázdniť chybové"
+
+#: tform_main.menuitem_clearing.caption
+msgid "Clear"
+msgstr "Vyprázdniť"
+
+#: tform_main.menuitem_clearinvalid.caption
+msgid "Clear Invalid"
+msgstr "Vyprázdniť neplatné"
+
+#: tform_main.menuitem_clearmarked.caption
+msgid "Clear Marked"
+msgstr "Vyprázdniť označené"
+
+#: tform_main.menuitem_clearnotmarked.caption
+msgid "Clear Not Marked"
+msgstr "Vyprázdniť neoznačené"
+
+#: tform_main.menuitem_clearrenamed.caption
+msgid "Clear Renamed"
+msgstr "Vyprázdniť premenované"
+
+#: tform_main.menuitem_clearvalid.caption
+msgid "Clear Valid"
+msgstr "Vyprázdniť platné"
+
+#: tform_main.menuitem_duplicaterule.caption
+msgid "Duplicate Rule"
+msgstr "Duplikovať úlohu"
+
+#: tform_main.menuitem_editnewname.caption
+msgid "Edit New Name"
+msgstr "Upraviť nový názov"
+
+#: tform_main.menuitem_editrule.caption
+msgctxt "TFORM_MAIN.MENUITEM_EDITRULE.CAPTION"
+msgid "Edit Rule"
+msgstr "Upraviť úlohu"
+
+#: tform_main.menuitem_exit.caption
+msgid "Exit"
+msgstr "Koniec"
+
+#: tform_main.menuitem_file.caption
+msgid "File"
+msgstr "Súbor"
+
+#: tform_main.menuitem_help.caption
+msgctxt "tform_main.menuitem_help.caption"
+msgid "Help"
+msgstr "Pomoc"
+
+#: tform_main.menuitem_invertmarking.caption
+msgid "Invert Marking"
+msgstr "Invertovať označenie"
+
+#: tform_main.menuitem_invertselection.caption
+msgid "Invert Selection"
+msgstr "Invertovať výber"
+
+#: tform_main.menuitem_mark.caption
+msgctxt "TFORM_MAIN.MENUITEM_MARK.CAPTION"
+msgid "Mark"
+msgstr "Označiť"
+
+#: tform_main.menuitem_markbymask.caption
+msgctxt "TFORM_MAIN.MENUITEM_MARKBYMASK.CAPTION"
+msgid "Mark by Mask"
+msgstr "Označiť podľa masky"
+
+#: tform_main.menuitem_marking.caption
+msgctxt "tform_main.menuitem_marking.caption"
+msgid "Mark"
+msgstr "Maska"
+
+#: tform_main.menuitem_markonlychangedexccase.caption
+msgid "Mark Only Changed (Exc. Case)"
+msgstr "Označiť iba zmenené (nerozlišovať písmo)"
+
+#: tform_main.menuitem_markonlychangedinccase.caption
+msgid "Mark Only Changed (Inc. Case)"
+msgstr "Označiť iba zmenené ( rozlišovať písmo)"
+
+#: tform_main.menuitem_markonlyselected.caption
+msgid "Mark Only Selected"
+msgstr "Označiť iba vybrané"
+
+#: tform_main.menuitem_movedown.caption
+msgctxt "TFORM_MAIN.MENUITEM_MOVEDOWN.CAPTION"
+msgid "Down"
+msgstr "Dolu"
+
+#: tform_main.menuitem_moveup.caption
+msgctxt "TFORM_MAIN.MENUITEM_MOVEUP.CAPTION"
+msgid "Up"
+msgstr "Hore"
+
+#: tform_main.menuitem_moving.caption
+msgid "Move"
+msgstr "Premiestniť"
+
+#: tform_main.menuitem_presets.caption
+msgctxt "tform_main.menuitem_presets.caption"
+msgid "Presets"
+msgstr "Predvoľby"
+
+#: tform_main.menuitem_removeallrules.caption
+msgid "Remove All Rules"
+msgstr "Odstrániť všetky úlohy"
+
+#: tform_main.menuitem_removerule.caption
+msgid "Remove Rule"
+msgstr "Odstrániť úlohy"
+
+#: tform_main.menuitem_removeselecteditems.caption
+msgid "Remove Selected"
+msgstr "Odstrániť vybrané"
+
+#: tform_main.menuitem_rulemovedown.caption
+msgid "Move Down"
+msgstr "Presunúť dole"
+
+#: tform_main.menuitem_rulemoveup.caption
+msgid "Move Up"
+msgstr "Presunúť hore"
+
+#: tform_main.menuitem_rulesmarkall.caption
+msgid "Mark All"
+msgstr "Označiť všetko"
+
+#: tform_main.menuitem_rulesselectall.caption
+msgctxt "tform_main.menuitem_rulesselectall.caption"
+msgid "Select All"
+msgstr "Vybrať všetko"
+
+#: tform_main.menuitem_rulesunmarkall.caption
+msgid "Unmark All"
+msgstr "Odznačiť všetko"
+
+#: tform_main.menuitem_selectall.caption
+msgctxt "tform_main.menuitem_selectall.caption"
+msgid "Select All"
+msgstr "Vybrať všetko"
+
+#: tform_main.menuitem_selectbyextension.caption
+msgctxt "TFORM_MAIN.MENUITEM_SELECTBYEXTENSION.CAPTION"
+msgid "Select by Extension"
+msgstr "Vybrať podľa prípony"
+
+#: tform_main.menuitem_selectbymask.caption
+msgctxt "TFORM_MAIN.MENUITEM_SELECTBYMASK.CAPTION"
+msgid "Select by Mask"
+msgstr "Vybrať podľa masky"
+
+#: tform_main.menuitem_selectbynamelength.caption
+msgid "Select by Name Length"
+msgstr "Vybrať podľa dĺžky názvu"
+
+#: tform_main.menuitem_selecting.caption
+msgid "Select"
+msgstr "Označiť"
+
+#: tform_main.menuitem_settings.caption
+msgctxt "tform_main.menuitem_settings.caption"
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: tform_main.menuitem_settingsgeneral.caption
+msgctxt "tform_main.menuitem_settingsgeneral.caption"
+msgid "General"
+msgstr "Všeobecné"
+
+#: tform_main.menuitem_settingsmetatags.caption
+msgctxt "tform_main.menuitem_settingsmetatags.caption"
+msgid "Meta Tags"
+msgstr "Meta tagy"
+
+#: tform_main.menuitem_settingsmisc.caption
+msgid "Miscellaneous"
+msgstr "Rôzne"
+
+#: tform_main.menuitem_settingspreview.caption
+msgctxt "tform_main.menuitem_settingspreview.caption"
+msgid "Preview"
+msgstr "Nahľad"
+
+#: tform_main.menuitem_settingsrename.caption
+msgctxt "TFORM_MAIN.MENUITEM_SETTINGSRENAME.CAPTION"
+msgid "Rename"
+msgstr "Premenovať"
+
+#: tform_main.menuitem_shell.caption
+msgid "Shell"
+msgstr "Kontextová ponuka"
+
+#: tform_main.menuitem_unmark.caption
+msgid "Unmark"
+msgstr "Odznačiť"
+
+#: tform_main.mi_addpresets.caption
+msgid "Import..."
+msgstr "Importovať..."
+
+#: tform_main.mi_browsepresets.caption
+msgid "Browse..."
+msgstr "Prezerať..."
+
+#: tform_main.mi_clearnotchanged.caption
+msgid "Clear Not Changed"
+msgstr "Zmazať nezmenené"
+
+#: tform_main.mi_copyfilestoclipboard.caption
+msgid "Copy Files to Clipboard"
+msgstr "Skopírovať súbory do schránky"
+
+#: tform_main.mi_copyrights.caption
+msgid "Copyrights"
+msgstr "Autorské práva"
+
+#: tform_main.mi_createpresetslinks.caption
+msgctxt "tform_main.mi_createpresetslinks.caption"
+msgid "Create Links"
+msgstr "Vytvoriť odkazy"
+
+#: tform_main.mi_cutfilestoclipboard.caption
+msgid "Cut Files to Clipboard"
+msgstr "Vystrihnúť súbory do schránky"
+
+#: tform_main.mi_deletefiles.caption
+msgid "Delete Files to Recycle Bin"
+msgstr "Zmazať súbory do koša"
+
+#: tform_main.mi_exportcolumnstoclipboard.caption
+msgid "Export all columns to clipboard"
+msgstr "Exportovať všetky stĺpce do schránky"
+
+#: tform_main.mi_fileproperties.caption
+msgid "File Properties"
+msgstr "Vlastnosti súboru"
+
+#: tform_main.mi_filescolumns_cancelsorting.caption
+msgctxt "TFORM_MAIN.MI_FILESCOLUMNS_CANCELSORTING.CAPTION"
+msgid "Cancel Sorting"
+msgstr "Zrušiť triedenie"
+
+#: tform_main.mi_forum.caption
+msgid "Forum (online)"
+msgstr "Fórum (online)"
+
+#: tform_main.mi_help.caption
+msgid "Help (online)"
+msgstr "Pomoc (online)"
+
+#: tform_main.mi_history.caption
+msgid "Version History"
+msgstr "Histrória verzií"
+
+#: tform_main.mi_language.caption
+msgctxt "tform_main.mi_language.caption"
+msgid "Language"
+msgstr "Jazyk"
+
+#: tform_main.mi_litevspro.caption
+msgid "Lite vs Pro (online)"
+msgstr "Lite vs Pro (online)"
+
+#: tform_main.mi_loadpreset.caption
+msgid "Load"
+msgstr "Načítať"
+
+#: tform_main.mi_opencontainingfolder.caption
+msgid "Open containing folder"
+msgstr "Otvoriť umiestnenie súboru"
+
+#: tform_main.mi_openfile.caption
+msgid "Open File"
+msgstr "Otvoriť súbor"
+
+#: tform_main.mi_openwithnotepad.caption
+msgid "Open with Notepad"
+msgstr "Otvoriť s notepadom"
+
+#: tform_main.mi_purchase.caption
+msgid "Purchase (online)"
+msgstr "Kúpiť (online)"
+
+#: tform_main.mi_quickguide.caption
+msgid "Quick Guide"
+msgstr "Stručný návod"
+
+#: tform_main.mi_rescanpresets.caption
+msgid "Rescan"
+msgstr "Preskenovať"
+
+#: tform_main.mi_rulecomment.caption
+msgid "Comment..."
+msgstr ""
+
+#: tform_main.mi_rulestoclipboard.caption
+msgid "Export to Clipboard"
+msgstr "Exportovať do schránky"
+
+#: tform_main.mi_usermanual.caption
+msgid "User Manual"
+msgstr "Užívateľský návod"
+
+#: tform_main.toolbutton_addrule.caption
+msgctxt "tform_main.toolbutton_addrule.caption"
+msgid "Add"
+msgstr "Pridať"
+
+#: tform_main.toolbutton_analyze.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_ANALYZE.CAPTION"
+msgid "Analyze"
+msgstr "Analýza"
+
+#: tform_main.toolbutton_columns.caption
+msgid "Columns"
+msgstr "Stĺpce"
+
+#: tform_main.toolbutton_export.caption
+msgid "Export"
+msgstr "Exportovať"
+
+#: tform_main.toolbutton_files.caption
+msgid "Files"
+msgstr "Súbory"
+
+#: tform_main.toolbutton_filters.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_FILTERS.CAPTION"
+msgid "Filters"
+msgstr "Filtre"
+
+#: tform_main.toolbutton_movedownrule.caption
+msgctxt "tform_main.toolbutton_movedownrule.caption"
+msgid "Down"
+msgstr "Dolu"
+
+#: tform_main.toolbutton_moveuprule.caption
+msgctxt "tform_main.toolbutton_moveuprule.caption"
+msgid "Up"
+msgstr "Hore"
+
+#: tform_main.toolbutton_options.caption
+msgctxt "tform_main.toolbutton_options.caption"
+msgid "Options"
+msgstr "Možnosti"
+
+#: tform_main.toolbutton_removerule.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_REMOVERULE.CAPTION"
+msgid "Remove"
+msgstr "Odstrániť"
+
+#: tform_main.vst_files.header.columns[0].text
+msgid "State"
+msgstr "Stav"
+
+#: tform_main.vst_files.header.columns[10].text
+msgid "Modified"
+msgstr "Upravené"
+
+#: tform_main.vst_files.header.columns[11].text
+msgctxt "TFORM_MAIN.VST_FILES.HEADER.COLUMNS[11].TEXT"
+msgid "Extension"
+msgstr "Prípona"
+
+#: tform_main.vst_files.header.columns[12].text
+msgid "Name Digits"
+msgstr "Číslice v názve"
+
+#: tform_main.vst_files.header.columns[13].text
+msgid "Path Digits"
+msgstr "Číslice v ceste"
+
+#: tform_main.vst_files.header.columns[14].text
+msgid "Name Length"
+msgstr "Dĺžka názvu"
+
+#: tform_main.vst_files.header.columns[15].text
+msgid "New Name Length"
+msgstr "Dĺžka nového názvu"
+
+#: tform_main.vst_files.header.columns[16].text
+msgid "Path Length"
+msgstr ""
+
+#: tform_main.vst_files.header.columns[17].text
+msgid "New Path Length"
+msgstr ""
+
+#: tform_main.vst_files.header.columns[18].text
+msgid "Exif Date"
+msgstr "Dátum exifu"
+
+#: tform_main.vst_files.header.columns[19].text
+msgid "Old Path"
+msgstr "Stará cesta"
+
+#: tform_main.vst_files.header.columns[1].text
+msgid "Path"
+msgstr "Cesta"
+
+#: tform_main.vst_files.header.columns[20].text
+msgctxt "tform_main.vst_files.header.columns[20].text"
+msgid "Error"
+msgstr "Chyba"
+
+#: tform_main.vst_files.header.columns[2].text
+msgid "Folder"
+msgstr "Zložka"
+
+#: tform_main.vst_files.header.columns[3].text
+msgid "Name"
+msgstr "Názov"
+
+#: tform_main.vst_files.header.columns[4].text
+msgid "New Name"
+msgstr "Nový názov"
+
+#: tform_main.vst_files.header.columns[5].text
+msgid "New Path"
+msgstr "Nová cesta"
+
+#: tform_main.vst_files.header.columns[6].text
+msgid "Size"
+msgstr "Veľkosť"
+
+#: tform_main.vst_files.header.columns[7].text
+msgid "Size KB"
+msgstr "Veľkosť v KB"
+
+#: tform_main.vst_files.header.columns[8].text
+msgid "Size MB"
+msgstr "Veľkosť v MB"
+
+#: tform_main.vst_files.header.columns[9].text
+msgid "Created"
+msgstr "Vytvorené"
+
+#: tform_metatags.bitbtn_cancel.caption
+msgctxt "TFORM_METATAGS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: tform_metatags.bitbtn_insert.caption
+msgctxt "TFORM_METATAGS.BITBTN_INSERT.CAPTION"
+msgid "Insert"
+msgstr "Vložiť"
+
+#: tform_metatags.caption
+msgctxt "TFORM_METATAGS.CAPTION"
+msgid "Meta Tags"
+msgstr "Meta tagy"
+
+#: tform_metatags.label_note.caption
+msgid "Note: Most of the tags can only work for files, not folders."
+msgstr "Poznámka: Väčšina tagov funguje iba so súbormi, nie so zložkami."
+
+#: tform_presetsave.bitbtn_save.caption
+msgid "&Save"
+msgstr "&Uložiť"
+
+#: tform_presetsave.caption
+msgid "Save Preset"
+msgstr "Uložiť predvoľbu"
+
+#: tform_presetsave.cb_presetsavefilters.caption
+msgid "Save Filter Settings with the preset?"
+msgstr "Uložiť nastavenia filtra s predvoľbou"
+
+#: tform_presetsave.label1.caption
+msgid "Overwrite existing preset:"
+msgstr "Prepísať existujúcu predvoľbu"
+
+#: tform_presetsave.le_name.editlabel.caption
+msgid "Preset Name:"
+msgstr "Názov predvoľby:"
+
+#: tform_presetslinks.bb_createlinks.caption
+msgctxt "TFORM_PRESETSLINKS.BB_CREATELINKS.CAPTION"
+msgid "Create Links"
+msgstr "Vytvoriť odkazy"
+
+#: tform_presetslinks.caption
+msgid "Presets Links"
+msgstr "Odkazy predvoľby"
+
+#: tform_presetslinks.label_folder.caption
+msgid "Please specify a folder where you want to place the links:"
+msgstr "Prosím zadajte zložku, v ktorej chcete uložiť odkazy:"
+
+#: tform_presetslinks.label_linktype.caption
+msgid "Type of links:"
+msgstr "Typ odkazov:"
+
+#: tform_presetslinks.rb_load.caption
+msgctxt "TFORM_PRESETSLINKS.RB_LOAD.CAPTION"
+msgid "Load with Preset"
+msgstr "Načítať s predvoľbou"
+
+#: tform_presetslinks.rb_rename.caption
+msgctxt "TFORM_PRESETSLINKS.RB_RENAME.CAPTION"
+msgid "Rename with Preset"
+msgstr "Premenovať s predvoľbou"
+
+#: tform_presetslinks.sb_browse.hint
+msgid "Browse for Folder"
+msgstr "Preskúmať zložky"
+
+#: tform_presetslinks.sb_usesendto.hint
+msgid "Use \"Send To\" Folder"
+msgstr "Použite \"Odoslať kam\" zložku"
+
+#: tform_presetsmanager.caption
+msgid "Presets Manager"
+msgstr "Správca predvolieb"
+
+#: tform_presetsmanager.tb_append.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_APPEND.HINT"
+msgid "Append Preset"
+msgstr "Pripojiť predvoľbu"
+
+#: tform_presetsmanager.tb_copy.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_COPY.HINT"
+msgid "Duplicate Preset"
+msgstr "Duplikovať predvoľbu"
+
+#: tform_presetsmanager.tb_delete.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_DELETE.HINT"
+msgid "Delete Preset (Del)"
+msgstr "Zmazať predvoľbu (Del)"
+
+#: tform_presetsmanager.tb_edit.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_EDIT.HINT"
+msgid "Manually Edit Preset (F4)"
+msgstr "Ručne upraviť predvoľbu (F4)"
+
+#: tform_presetsmanager.tb_load.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_LOAD.HINT"
+msgid "Load Preset (Enter)"
+msgstr "Načítať predvoľbu (Enter)"
+
+#: tform_presetsmanager.tb_rename.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_RENAME.HINT"
+msgid "Rename Preset (F2)"
+msgstr "Premenovať predvoľbu (F2)"
+
+#: tform_register.bb_cancel.caption
+msgctxt "TFORM_REGISTER.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: tform_register.bb_register.caption
+msgctxt "TFORM_REGISTER.BB_REGISTER.CAPTION"
+msgid "Register"
+msgstr "Registerovať"
+
+#: tform_register.caption
+msgid "Registration"
+msgstr "Registrácia"
+
+#: tform_register.label1.caption
+msgid "Please enter your registration code:"
+msgstr "Prosím zadajte registračný kód:"
+
+#: tform_settings.bitbtn_cancel.caption
+msgctxt "TFORM_SETTINGS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: tform_settings.bitbtn_save.caption
+msgctxt "TFORM_SETTINGS.BITBTN_SAVE.CAPTION"
+msgid "Save"
+msgstr "Uložiť"
+
+#: tform_settings.caption
+msgctxt "TFORM_SETTINGS.CAPTION"
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: tform_settings.cb_allowprocessingextensionsinfolders.caption
+msgid "Folders also have extensions, process them as such"
+msgstr "Zložky majú tiež rozšírenia, spravovať ich ako také"
+
+#: tform_settings.cb_highlightchangednames.caption
+msgid "Highlight changed file names"
+msgstr "Zvýrazniť zmenené  názvy súborov"
+
+#: tform_settings.cb_overwritewithnewnameconfirm.caption
+msgid "Must be successfully confirmed by user"
+msgstr "Musí byť potvrdené užívateľom"
+
+#: tform_settings.checkbox_addtofoldercontextmenu.caption
+msgid "Add to folders context menu"
+msgstr "Pridať do kontextovej ponuky zložiek"
+
+#: tform_settings.checkbox_addtosendtocontextmenu.caption
+msgid "Add to \"Send To\" context menu"
+msgstr "Pridať do \"Odoslať kam\" v kontext. ponuke"
+
+#: tform_settings.checkbox_alwaysontop.caption
+msgid "Stay on top of other windows"
+msgstr "Vždy navrchu nad ostatnými oknami"
+
+#: tform_settings.checkbox_autopreviewonfilesadded.caption
+msgid "Auto preview when new files are added"
+msgstr "Automatický náhľad pri pridaní  nových súborov"
+
+#: tform_settings.checkbox_autopreviewonruleschange.caption
+msgid "Auto preview on change of rules configurations"
+msgstr "Automatický náhľad po  zmene konfigurácie úlôh."
+
+#: tform_settings.checkbox_autosizetable.caption
+msgid "Auto size table on change"
+msgstr "Automatická veľkosť stĺpca pri zmene"
+
+#: tform_settings.checkbox_clearfilestableonrename.caption
+msgid "Clear files table on rename"
+msgstr "Vyprázdniť stĺpce súborov pri premenovaní"
+
+#: tform_settings.checkbox_clearrenamedfilesonrename.caption
+msgid "Clear renamed files on rename"
+msgstr "Vyprázdniť zoznam premenovaných názvov pri premenovaní"
+
+#: tform_settings.checkbox_clearruleslistonrename.caption
+msgid "Clear rules list on rename"
+msgstr "Vyprázdniť zoznam úlôh po premenovaní"
+
+#: tform_settings.checkbox_closeprogramaftersuccessfulrename.caption
+msgid "Close program after successful rename"
+msgstr "Zavrieť program po úspešnom premenovaní"
+
+#: tform_settings.checkbox_displaymsgonsuccessfulrename.caption
+msgid "Display message on successful rename"
+msgstr "Zobraziť správu na obrazovke po úspešnom premenovaní."
+
+#: tform_settings.checkbox_fixconflictingnewnamesonpreview.caption
+msgid "Fix conflicting new names on preview"
+msgstr "Opraviť konfliktné nové názvy v náhľade"
+
+#: tform_settings.checkbox_metatagsupport.caption
+msgid "MetaTag support"
+msgstr "Podpora meta tagov"
+
+#: tform_settings.checkbox_overwritewithnewname.caption
+msgid "Overwrite files with New Names"
+msgstr "Prepísať súbory s novým názvom"
+
+#: tform_settings.checkbox_previewrealtimeupdate.caption
+msgid "Real-time update of the preview"
+msgstr "Aktualizácia nahľadu v reálnom čase"
+
+#: tform_settings.checkbox_registerpresetextension.caption
+msgid "Register preset extension (*.rnp)"
+msgstr "Registrovať príponu predvoľby (*.rnp)"
+
+#: tform_settings.checkbox_rememberlocation.caption
+#, fuzzy
+#| msgid "Remember last position and size (main window only)"
+msgid "Remember position and size of major windows"
+msgstr "Zapamätať si  poslednú pozíciu a veľkosť (iba hlavné okno)"
+
+#: tform_settings.checkbox_saveandloaddefaultpreset.caption
+msgid "Save rules configuration on exit, load on startup"
+msgstr "Uložiť konfiguráciu úlôh pri ukončení, načítať pri spustení"
+
+#: tform_settings.checkbox_showmaintoolbar.caption
+msgid "Show main toolbar"
+msgstr ""
+
+#: tform_settings.checkbox_skiprenamingunchangedfiles.caption
+msgid "Skip renaming of unchanged files"
+msgstr ""
+
+#: tform_settings.checkbox_sortingremember.caption
+msgid "Remember sorting options (files table)"
+msgstr "Zapamätať si možnosti triedenia (tabuľka so súbormi)"
+
+#: tform_settings.checkbox_usenaturalsort.caption
+msgid "Use natural order sorting algorithm (2-3 times slower)"
+msgstr "Použiť prirodzený algoritmus triedenia (2-3 krát pomalšie)"
+
+#: tform_settings.checkbox_validateonpreview.caption
+msgid "Validate new filenames on preview"
+msgstr "Schváliť nové názvy v náhľade"
+
+#: tform_settings.label1.caption
+msgid "Date Format:"
+msgstr "Formát dátumu:"
+
+#: tform_settings.label2.caption
+msgid "Preview:"
+msgstr "Náhľad:"
+
+#: tform_settings.label3.caption
+msgid "Example: file1, file2 ... file9, file10, file11, and so on."
+msgstr "Napríklad: súbor1, súbor2...súbor9, súbor10, atď."
+
+#: tform_settings.label5.caption
+msgid "Note: disabling any of these options will increase performance when processing large amount of files."
+msgstr "Poznámka. Zakázanie akejkoľvek z týchto možností, umožní zrýchlenie spracovania väčšieho množstva súborov."
+
+#: tform_settings.label_addrulestext.caption
+msgid "Change text of \"Click here to add a rule\":"
+msgstr "Zmeniť text \"Kliknite sem pre pridanie úlohy\":"
+
+#: tform_settings.label_dragfilestext.caption
+msgid "Change text of \"Drag your files here\":"
+msgstr "Zmeniť text \"Pretiahnite súbory sem\":"
+
+#: tform_settings.label_metatagformatnote.caption
+msgid "Note: formats will be saved only if validated successfully."
+msgstr "Poznámka: Formáty budú uložené až po úspešnom schválení."
+
+#: tform_settings.speedbutton_filtersettings.caption
+msgid "Configure Filter Settings"
+msgstr "Upraviť nastavenia filtra"
+
+#: tform_settings.speedbutton_metatagformatsinfo.caption
+msgctxt "TFORM_SETTINGS.SPEEDBUTTON_METATAGFORMATSINFO.CAPTION"
+msgid "Help"
+msgstr "Pomoc"
+
+#: tform_settings.speedbutton_metatagformatsinfo.hint
+msgctxt "TFORM_SETTINGS.SPEEDBUTTON_METATAGFORMATSINFO.HINT"
+msgid "Online Help (F1)"
+msgstr "Online pomoc (F1)"
+
+#: tform_settings.statictext1.caption
+msgid "Note: Disabling MetaTag support will increase performance when processing large amount of files."
+msgstr "Poznámka: Zakázanie podpory meta tagov zvýši rýchlosť spracovania väčšieho množstva súborov."
+
+#: tform_settings.statictext5.caption
+msgid "Warning: Overwritten files will be deleted permanently."
+msgstr "Upozornenie: Prepísané názvy súborov budú zmazané natrvalo."
+
+#: tform_settings.tabsheet_general.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_GENERAL.CAPTION"
+msgid "General"
+msgstr "Všeobecné"
+
+#: tform_settings.tabsheet_metatags.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_METATAGS.CAPTION"
+msgid "Meta Tags"
+msgstr "Meta tagy"
+
+#: tform_settings.tabsheet_misc.caption
+msgid "Misc."
+msgstr "Rôzne"
+
+#: tform_settings.tabsheet_preview.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_PREVIEW.CAPTION"
+msgid "Preview"
+msgstr "Náhľad"
+
+#: tform_settings.tabsheet_rename.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_RENAME.CAPTION"
+msgid "Rename"
+msgstr "Premenovať"
+
+#: tform_termsofuse.bb_accept.caption
+msgid "Accept"
+msgstr "Prijímam"
+
+#: tform_termsofuse.bb_litevspro.caption
+msgid "Lite vs Pro"
+msgstr "Lite vs Pro"
+
+#: tform_termsofuse.bb_purchase.caption
+msgid "Purchase"
+msgstr "Kúpiť"
+
+#: tform_termsofuse.bb_register.caption
+msgid "Enter registration code"
+msgstr "Zadajte registračný kód"
+
+#: tform_termsofuse.caption
+msgid "Terms of Use"
+msgstr "Podmienky používania"
+
+#: tform_termsofuse.groupbox.caption
+msgid "Please be aware of the terms of use of this application:"
+msgstr "Prosím nezabúdajte na podmienky používania tejto aplikácie:"
+
+#: tform_termsofuse.label_commercial.caption
+msgid "For commercial use you must obtain a commercial license by going to the website. If you already hold a license please enter your registration code. Thank you for playing fair."
+msgstr "Pre komerčné používanie musíte získať licenciu pri navštívení našich webových stránok. Ak už vlastníte licenciu, prosím zdajte registračný kód. Ďakujeme za férové jednanie."
+
+#: tform_termsofuse.label_noncommercial.caption
+msgctxt "TFORM_TERMSOFUSE.LABEL_NONCOMMERCIAL.CAPTION"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Táto aplikácie môže byť používaná iba na nekomerčné účely a so zodpovednými právami."
+
+#: tform_termsofuse.label_supportdevelopment.caption
+msgid "Please also consider purchasing a \"Pro\" version to support the future development of this application."
+msgstr "Prosím zvážte tiež kúpu \"Pro\" verzie pre podporu budúceho vývoja tejto aplikácie."
+
+#: tframe_rulecase.checkbox_caseextensionalwayslowercase.caption
+msgid "Extension always lower case"
+msgstr "Prípona vždy s mal. písmenami"
+
+#: tframe_rulecase.checkbox_caseextensionalwaysuppercase.caption
+msgid "Extension always upper case"
+msgstr "Prípona vždy s veľk. písmenami"
+
+#: tframe_rulecase.checkbox_caseforce.caption
+msgid "Force case for fragments:"
+msgstr "Vynútiť zmenu písma skratiek"
+
+#: tframe_rulecase.checkbox_caseskipextension.caption
+msgctxt "tframe_rulecase.checkbox_caseskipextension.caption"
+msgid "Skip extension"
+msgstr "Vynechať príponu"
+
+#: tframe_rulecase.groupbox_casechange.caption
+msgid "Case change:"
+msgstr "Zmena veľkosti písma:"
+
+#: tframe_rulecase.label_caseforcehint.caption
+msgid "Hint: fragments separated with comma will be put in the same case as they are typed in this text box, for example: CD,DVD,DJ"
+msgstr "Poznámka: Skratky oddelené čiarkou budú zapísané rovnakým písmom ako je v poličku, napr. CD,DVD,DJ"
+
+#: tframe_rulecase.rb_casealllower.caption
+msgid "all lower case"
+msgstr "všetko malým písmom"
+
+#: tframe_rulecase.rb_caseallupper.caption
+msgid "ALL UPPER CASE"
+msgstr "VŚETKO VEĹKÝM PÍSMOM"
+
+#: tframe_rulecase.rb_casecapitalize.caption
+msgid "Capitalize Every Word"
+msgstr "Prvé písmeno veľké (ost. malé)"
+
+#: tframe_rulecase.rb_casecapitalizeandpreserve.caption
+msgid "Capitalize AND Preserve"
+msgstr "Prvé písmeno veľké (ost. nezmenené)"
+
+#: tframe_rulecase.rb_casefirstlettercapital.caption
+msgctxt "TFRAME_RULECASE.RB_CASEFIRSTLETTERCAPITAL.CAPTION"
+msgid "First letter capital"
+msgstr "Prvé písmeno veľké"
+
+#: tframe_rulecase.rb_caseinvert.caption
+msgid "iNVERT cASE"
+msgstr "iNVERTOVAŤ pÍSMO"
+
+#: tframe_rulecase.rb_noneofabove.caption
+msgid "(none of the above)"
+msgstr "(žiadna z vyššie uvedených)"
+
+#: tframe_rulecleanup.cb_insertspacebeforecapitals.caption
+msgid "Insert a space in front of capitalized letters (e.g. CamelCase)"
+msgstr "Vložiť medzeru pred veľké písmená (napr. CamelCase)"
+
+#: tframe_rulecleanup.cb_normalizespaces.caption
+msgid "Normalize unicode spaces by replacing them with a standard space"
+msgstr "Normalizovať unicode medzery ich nahradením štandart. medzerami"
+
+#: tframe_rulecleanup.checkbox_prepareforsharepoint.caption
+msgid "Prepare for SharePoint (always inc. extension)"
+msgstr "Pripraviť pre SharePoint (vždy s príponou)"
+
+#: tframe_rulecleanup.checkbox_skipextension.caption
+msgctxt "TFRAME_RULECLEANUP.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Vynechať príponu"
+
+#: tframe_rulecleanup.checkbox_spacescomma.caption
+msgid ", (comma)"
+msgstr ", (čiarka)"
+
+#: tframe_rulecleanup.checkbox_spacesdot.caption
+msgid ". (dot)"
+msgstr ". (bodka)"
+
+#: tframe_rulecleanup.checkbox_spacesfix.caption
+msgid "Fix spaces: only one space at a time, no spaces on sides of basename"
+msgstr "Naraz iba jednu medzeru, žiadne medzery na začiatku alebo konci zákl. názvu"
+
+#: tframe_rulecleanup.checkbox_spacesskipversions.caption
+msgid "Skip number sequences, for example version 1.2.3.4"
+msgstr "Vynechať číselné sekvencie, napr. pre \"verzia 1.2.3.4\""
+
+#: tframe_rulecleanup.checkbox_stripunicodemarks.caption
+msgid "Strip unicode marks (combining, diacritics, accents)"
+msgstr ""
+
+#: tframe_rulecleanup.groupbox1.caption
+msgid "Replace these characters with spaces:"
+msgstr "Nahradiť tieto znaky medzerami:"
+
+#: tframe_rulecleanup.groupbox_brackets.caption
+msgid "Strip out content of brackets:"
+msgstr "Odobrať obsah v zátvorkách:"
+
+#: tframe_ruledelete.checkbox_deletecurrentname.caption
+msgctxt "TFRAME_RULEDELETE.CHECKBOX_DELETECURRENTNAME.CAPTION"
+msgid "Delete current name"
+msgstr "Zmazať aktuálny názov"
+
+#: tframe_ruledelete.checkbox_deleterighttoleft.caption
+msgctxt "tframe_ruledelete.checkbox_deleterighttoleft.caption"
+msgid "Right-to-left"
+msgstr "Zprava-doľava"
+
+#: tframe_ruledelete.checkbox_deleteskipextension.caption
+msgctxt "TFRAME_RULEDELETE.CHECKBOX_DELETESKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Vynechať príponu"
+
+#: tframe_ruledelete.checkbox_leavedelimiter.caption
+msgid "Do not remove delimiters"
+msgstr "Neodstraňovať oddelovač"
+
+#: tframe_ruledelete.groupbox_from.caption
+msgid "From:"
+msgstr "Od:"
+
+#: tframe_ruledelete.groupbox_until.caption
+msgid "Until:"
+msgstr "Až po:"
+
+#: tframe_ruledelete.radiobutton_deletefromdelimiter.caption
+msgctxt "tframe_ruledelete.radiobutton_deletefromdelimiter.caption"
+msgid "Delimiter:"
+msgstr "Oddeľovač:"
+
+#: tframe_ruledelete.radiobutton_deletefromposition.caption
+msgctxt "tframe_ruledelete.radiobutton_deletefromposition.caption"
+msgid "Position:"
+msgstr "Pozícia:"
+
+#: tframe_ruledelete.radiobutton_deleteuntilcount.caption
+msgid "Count:"
+msgstr "Počet:"
+
+#: tframe_ruledelete.radiobutton_deleteuntildelimiter.caption
+msgctxt "TFRAME_RULEDELETE.RADIOBUTTON_DELETEUNTILDELIMITER.CAPTION"
+msgid "Delimiter:"
+msgstr "Oddeľovač:"
+
+#: tframe_ruledelete.radiobutton_deleteuntilend.caption
+msgid "Till the end"
+msgstr "Až do konca"
+
+#: tframe_ruleextension.checkbox_detectbinsign.caption
+msgid "Detect using \"binary signature\""
+msgstr "Rozpoznať pomocou \"binárnej signatúry\""
+
+#: tframe_ruleextension.checkbox_extensionappend.caption
+msgid "Append to the original filename"
+msgstr "Pripojiť k pôvodnému názvu súboru"
+
+#: tframe_ruleextension.label_extensionlabel.caption
+msgid "New Extension (without dot):"
+msgstr "Nová prípona (bez bodky):"
+
+#: tframe_ruleextension.label_hint.caption
+msgid "Note: Some files may have multiple extensions matching their data type, for example: doc/ppt/xls have the same signature. Unrecognised files will remain unchanged. If this option is used, the new extension field is ignored."
+msgstr "Poznámka: Niektoré súbory môžu mať viac prípon zodpovedajúcich ich dátovému typu, napr: doc/xls/ppt - majú rovnakú signatúru. Nerozpoznané súbory zostanú nezmenené. Pri použití tejto možnosti,  bude nová prípona ignorovaná."
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.caption
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.caption"
+msgid "Insert Meta Tag"
+msgstr "Vložiť meta tag"
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.hint
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.hint"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Vložiť meta tag (Ctrl+Ins)"
+
+#: tframe_ruleinsert.checkbox_insertright.caption
+msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTRIGHT.CAPTION"
+msgid "Right-to-left"
+msgstr "Zprava-doľava"
+
+#: tframe_ruleinsert.checkbox_insertskipextension.caption
+msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTSKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Vynechať príponu"
+
+#: tframe_ruleinsert.label_insertwhat.caption
+msgid "Insert:"
+msgstr "Vložiť:"
+
+#: tframe_ruleinsert.label_insertwhere.caption
+msgid "Where:"
+msgstr "Kam:"
+
+#: tframe_ruleinsert.radiobutton_insertaftertext.caption
+msgid "After text:"
+msgstr "Za textom:"
+
+#: tframe_ruleinsert.radiobutton_insertbeforetext.caption
+msgid "Before text:"
+msgstr "Pred textom:"
+
+#: tframe_ruleinsert.radiobutton_insertposition.caption
+msgctxt "TFRAME_RULEINSERT.RADIOBUTTON_INSERTPOSITION.CAPTION"
+msgid "Position:"
+msgstr "Pozícia:"
+
+#: tframe_ruleinsert.radiobutton_insertprefix.caption
+msgctxt "tframe_ruleinsert.radiobutton_insertprefix.caption"
+msgid "Prefix"
+msgstr "Prefix"
+
+#: tframe_ruleinsert.radiobutton_insertsuffix.caption
+msgctxt "tframe_ruleinsert.radiobutton_insertsuffix.caption"
+msgid "Suffix"
+msgstr "Suffix"
+
+#: tframe_ruleinsert.radiobutton_replacecurrentname.caption
+msgctxt "TFRAME_RULEINSERT.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
+msgid "Replace current name"
+msgstr "Nahradiť aktuálny názov"
+
+#: tframe_rulepadding.checkbox_addtextpadding.caption
+msgid "Add padding to length:"
+msgstr ""
+
+#: tframe_rulepadding.checkbox_addzeropadding.caption
+msgid "Add zero padding to length:"
+msgstr ""
+
+#: tframe_rulepadding.checkbox_removezeropadding.caption
+msgctxt "tframe_rulepadding.checkbox_removezeropadding.caption"
+msgid "Remove zero padding"
+msgstr ""
+
+#: tframe_rulepadding.checkbox_skipextension.caption
+msgctxt "tframe_rulepadding.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "Vynechať príponu"
+
+#: tframe_rulepadding.groupbox_numbersequences.caption
+msgid "Number sequences"
+msgstr ""
+
+#: tframe_rulepadding.groupbox_textpadding.caption
+msgid "Text padding"
+msgstr ""
+
+#: tframe_rulepadding.label_paddingcharacters.caption
+msgid "Padding characters:"
+msgstr ""
+
+#: tframe_rulepadding.label_position.caption
+msgctxt "tframe_rulepadding.label_position.caption"
+msgid "Position:"
+msgstr "Pozícia:"
+
+#: tframe_rulepadding.radiobutton_positionleft.caption
+msgid "Left"
+msgstr ""
+
+#: tframe_rulepadding.radiobutton_positionright.caption
+msgid "Right"
+msgstr ""
+
+#: tframe_rulepascalscript.toolbutton_compile.caption
+msgctxt "tframe_rulepascalscript.toolbutton_compile.caption"
+msgid "Try to Compile"
+msgstr "Skúsiť kompilovať"
+
+#: tframe_rulepascalscript.toolbutton_compile.hint
+msgctxt "tframe_rulepascalscript.toolbutton_compile.hint"
+msgid "Try to Compile (Ctrl+T)"
+msgstr "Skúsiť kompilovať (Ctrl+T)"
+
+#: tframe_rulepascalscript.toolbutton_gotoline.caption
+msgctxt "tframe_rulepascalscript.toolbutton_gotoline.caption"
+msgid "Go To"
+msgstr "Ísť na"
+
+#: tframe_rulepascalscript.toolbutton_gotoline.hint
+msgctxt "tframe_rulepascalscript.toolbutton_gotoline.hint"
+msgid "Go To Line (Ctrl+G)"
+msgstr "Ísť na riadok"
+
+#: tframe_rulepascalscript.toolbutton_help.caption
+msgctxt "tframe_rulepascalscript.toolbutton_help.caption"
+msgid "Help"
+msgstr "Pomoc"
+
+#: tframe_rulepascalscript.toolbutton_help.hint
+msgctxt "tframe_rulepascalscript.toolbutton_help.hint"
+msgid "Online Help (F1)"
+msgstr "Online pomoc (F1)"
+
+#: tframe_rulepascalscript.toolbutton_scripts.caption
+msgctxt "tframe_rulepascalscript.toolbutton_scripts.caption"
+msgid "Scripts"
+msgstr "Skripty"
+
+#: tframe_rulepascalscript.toolbutton_scripts.hint
+msgctxt "tframe_rulepascalscript.toolbutton_scripts.hint"
+msgid "Scripts (Ctrl+L)"
+msgstr "Skripty (Ctrl+L)"
+
+#: tframe_rulerandomize.checkbox_skipextension.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "Vynechať príponu"
+
+#: tframe_rulerandomize.checkbox_unique.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.checkbox_unique.caption"
+msgid "Unique if possible"
+msgstr "Jednotne ak je možné"
+
+#: tframe_rulerandomize.checkbox_usedigits.caption
+#, fuzzy
+#| msgid "Digits:"
+msgctxt "tframe_rulerandomize.checkbox_usedigits.caption"
+msgid "Digits (0..9)"
+msgstr "Číslice:"
+
+#: tframe_rulerandomize.checkbox_useenglishletters.caption
+msgid "English letters (a..z)"
+msgstr ""
+
+#: tframe_rulerandomize.checkbox_useuserdefined.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.checkbox_useuserdefined.caption"
+msgid "User defined:"
+msgstr "Dané užívateľom:"
+
+#: tframe_rulerandomize.groupbox_characters.caption
+msgctxt "tframe_rulerandomize.groupbox_characters.caption"
+msgid "Characters to use:"
+msgstr ""
+
+#: tframe_rulerandomize.groupbox_insertwhere.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.groupbox_insertwhere.caption"
+msgid "Insert where:"
+msgstr "Vložiť kam:"
+
+#: tframe_rulerandomize.label_length.caption
+#, fuzzy
+#| msgid "Length:"
+msgctxt "tframe_rulerandomize.label_length.caption"
+msgid "Length of random sequence:"
+msgstr "Dĺžka cifry:"
+
+#: tframe_rulerandomize.radiobutton_position.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.radiobutton_position.caption"
+msgid "Position:"
+msgstr "Pozícia:"
+
+#: tframe_rulerandomize.radiobutton_prefix.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.radiobutton_prefix.caption"
+msgid "Prefix"
+msgstr "Prefix"
+
+#: tframe_rulerandomize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_rulerandomize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "Nahradiť aktuálny názov"
+
+#: tframe_rulerandomize.radiobutton_suffix.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.radiobutton_suffix.caption"
+msgid "Suffix"
+msgstr "Suffix"
+
+#: tframe_rulerearrange.cb_righttoleft.caption
+msgctxt "TFRAME_RULEREARRANGE.CB_RIGHTTOLEFT.CAPTION"
+msgid "Right-to-left"
+msgstr "Zprava-doľava"
+
+#: tframe_rulerearrange.cb_skipextension.caption
+msgctxt "TFRAME_RULEREARRANGE.CB_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Vynechať príponu"
+
+#: tframe_rulerearrange.label1.caption
+msgid "Split using:"
+msgstr "Deliť pomocou:"
+
+#: tframe_rulerearrange.label2.caption
+msgid "New pattern:"
+msgstr "Nový vzor:"
+
+#: tframe_rulerearrange.label3.caption
+msgid "Hint: Use $1..$N to reference delimited parts in the new pattern, $-1..$-N to reference from the end, $0 for the original name."
+msgstr "Typ: Použite $1..$N ako referenciu ohraničených dielov v novom vzore, $-1..$-N ako referenciu od konca, $0  pre pôvodný názov."
+
+#: tframe_rulerearrange.rb_usingdelimiters.caption
+msgid "Delimiters"
+msgstr "Oddeľovačou"
+
+#: tframe_rulerearrange.rb_usingexactpatternofdelimiters.caption
+msgid "Exact pattern of delimiters"
+msgstr "Presného vzoru oddeľovača"
+
+#: tframe_rulerearrange.rb_usingpositions.caption
+msgid "Positions"
+msgstr "Pozície"
+
+#: tframe_rulerearrange.sb_addseparator.hint
+msgctxt "tframe_rulerearrange.sb_addseparator.hint"
+msgid "Separate multiple items"
+msgstr "Oddeliť viacero položiek"
+
+#: tframe_rulerearrange.sb_insertmetatag.hint
+msgctxt "TFRAME_RULEREARRANGE.SB_INSERTMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Vložiť meta tagy (Ctrl+Ins)"
+
+#: tframe_rulereformatdate.checkbox_adjusttime.caption
+msgid "Adjust time by:"
+msgstr ""
+
+#: tframe_rulereformatdate.checkbox_skipextension.caption
+msgctxt "tframe_rulereformatdate.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "Vynechať príponu"
+
+#: tframe_rulereformatdate.checkbox_usecustomlongmonths.caption
+msgid "Use custom long months:"
+msgstr "Použiť dlhú formu mesiacov:"
+
+#: tframe_rulereformatdate.checkbox_usecustomshortmonths.caption
+msgid "Use custom short months:"
+msgstr "Použiť krátku formu mesiacov:"
+
+#: tframe_rulereformatdate.checkbox_wholewordsonly.caption
+msgid "Match as whole words only"
+msgstr "Hľadať len ako celé slová "
+
+#: tframe_rulereformatdate.label_inputformats.caption
+msgid "Find date/time formats:"
+msgstr "Formáty Dátum/čas:"
+
+#: tframe_rulereformatdate.label_outputformat.caption
+msgid "Convert to date/time format:"
+msgstr "Previesť na iný formát Dátum/čas:"
+
+#: tframe_rulereformatdate.menuitem_addseparator.caption
+msgctxt "tframe_rulereformatdate.menuitem_addseparator.caption"
+msgid "Separate multiple items"
+msgstr "Oddeliť viacero položiek"
+
+#: tframe_rulereformatdate.menuitem_datetimeformathelp.caption
+msgid "Date/time format reference (online)"
+msgstr "Referencia pre formát Dátum/čas (online)"
+
+#: tframe_ruleregex.checkbox_casesensitive.caption
+msgid "Case-sensitive"
+msgstr "Rozlíšiť malé a veľké písmená"
+
+#: tframe_ruleregex.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREGEX.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Vynechať príponu"
+
+#: tframe_ruleregex.label1.caption
+msgid "Hint: Use $1..$9 to reference subexpressions."
+msgstr "Typ: Použite  $1..$9 ako referenciu podvýrazov."
+
+#: tframe_ruleregex.label4.caption
+msgid "Expression:"
+msgstr "Výraz:"
+
+#: tframe_ruleregex.label5.caption
+msgctxt "tframe_ruleregex.label5.caption"
+msgid "Replace:"
+msgstr "Nahradiť:"
+
+#: tframe_ruleregex.sb_insertexpression.hint
+msgid "Insert expression (Ctrl+Ins)"
+msgstr "Vložiť príponu"
+
+#: tframe_ruleregex.speedbutton_help.caption
+msgctxt "TFRAME_RULEREGEX.SPEEDBUTTON_HELP.CAPTION"
+msgid "Help"
+msgstr "Pomoc"
+
+#: tframe_ruleregex.speedbutton_help.hint
+msgctxt "TFRAME_RULEREGEX.SPEEDBUTTON_HELP.HINT"
+msgid "Online Help (F1)"
+msgstr "Online pomoc (F1)"
+
+#: tframe_ruleremove.checkbox_casesensitive.caption
+msgctxt "tframe_ruleremove.checkbox_casesensitive.caption"
+msgid "Case sensitive"
+msgstr "Rozlišovať malé a veľké písmo"
+
+#: tframe_ruleremove.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREMOVE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Vynechať príponu"
+
+#: tframe_ruleremove.checkbox_usewildcards.caption
+msgid "Interpret symbols '?', '*', '[', ']' as wildcards?"
+msgstr "Interpretovať znaky '?', '*', '[', ']' ako zástupné znaky?"
+
+#: tframe_ruleremove.checkbox_wholewordsonly.caption
+msgctxt "tframe_ruleremove.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "Iba celé slová"
+
+#: tframe_ruleremove.label_removeoccurances.caption
+msgctxt "tframe_ruleremove.label_removeoccurances.caption"
+msgid "Occurrences:"
+msgstr "Výskyt(y):"
+
+#: tframe_ruleremove.label_removewhat.caption
+msgid "Remove:"
+msgstr "Odstrániť:"
+
+#: tframe_ruleremove.radiobutton_removeall.caption
+msgctxt "tframe_ruleremove.radiobutton_removeall.caption"
+msgid "All"
+msgstr "Všetky"
+
+#: tframe_ruleremove.radiobutton_removefirst.caption
+msgctxt "tframe_ruleremove.radiobutton_removefirst.caption"
+msgid "First"
+msgstr "Prvý"
+
+#: tframe_ruleremove.radiobutton_removelast.caption
+msgctxt "tframe_ruleremove.radiobutton_removelast.caption"
+msgid "Last"
+msgstr "Posledný"
+
+#: tframe_ruleremove.speedbutton_removeaddseparator.hint
+msgctxt "TFRAME_RULEREMOVE.SPEEDBUTTON_REMOVEADDSEPARATOR.HINT"
+msgid "Separate multiple items"
+msgstr "Oddeliť viacero položiek"
+
+#: tframe_rulereplace.checkbox_casesensitive.caption
+msgctxt "TFRAME_RULEREPLACE.CHECKBOX_CASESENSITIVE.CAPTION"
+msgid "Case sensitive"
+msgstr "Rozlišovať malé a veľké písmo"
+
+#: tframe_rulereplace.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREPLACE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Vynechať príponu"
+
+#: tframe_rulereplace.checkbox_usewildcards.caption
+msgid "Interpret '?', '*', '[', ']' as wildcards and '$n' as backreferences?"
+msgstr "Interpretovať '?', '*', '[', ']' ako zástup. znaky a '$n' ako spät. referenciu?"
+
+#: tframe_rulereplace.checkbox_wholewordsonly.caption
+msgctxt "tframe_rulereplace.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "Iba celé slová"
+
+#: tframe_rulereplace.label_replaceoccurances.caption
+msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEOCCURANCES.CAPTION"
+msgid "Occurrences:"
+msgstr "Výskyt(y):"
+
+#: tframe_rulereplace.label_replacewhat.caption
+msgid "Find:"
+msgstr "Hľadať:"
+
+#: tframe_rulereplace.label_replacewith.caption
+msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEWITH.CAPTION"
+msgid "Replace:"
+msgstr "Nahradiť:"
+
+#: tframe_rulereplace.radiobutton_replaceall.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACEALL.CAPTION"
+msgid "All"
+msgstr "Všetko"
+
+#: tframe_rulereplace.radiobutton_replacefirst.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACEFIRST.CAPTION"
+msgid "First"
+msgstr "Prvý"
+
+#: tframe_rulereplace.radiobutton_replacelast.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACELAST.CAPTION"
+msgid "Last"
+msgstr "Posledný"
+
+#: tframe_rulereplace.speedbutton_replaceaddseparator.hint
+msgctxt "TFRAME_RULEREPLACE.SPEEDBUTTON_REPLACEADDSEPARATOR.HINT"
+msgid "Separate multiple items"
+msgstr "Oddeliť viacero položiek"
+
+#: tframe_rulereplace.speedbutton_replacewithmetatag.hint
+msgctxt "TFRAME_RULEREPLACE.SPEEDBUTTON_REPLACEWITHMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Vložiť meta tag (Ctrl+Ins)"
+
+#: tframe_ruleserialize.cb_resetevery.caption
+msgid "Reset every:"
+msgstr "Všetko zresetovať:"
+
+#: tframe_ruleserialize.checkbox_resetiffilenamechanges.caption
+msgid "Reset if file name changes"
+msgstr ""
+
+#: tframe_ruleserialize.checkbox_resetiffolderchanges.caption
+msgid "Reset if folder changes"
+msgstr "Zresetovať pri zmene zložky"
+
+#: tframe_ruleserialize.checkbox_serializepadtolength.caption
+msgid "Pad with zeros to length:"
+msgstr "Predplniť počtom núl:"
+
+#: tframe_ruleserialize.checkbox_skipextension.caption
+msgctxt "TFRAME_RULESERIALIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Vynechať príponu"
+
+#: tframe_ruleserialize.gb_insertwhere.caption
+msgctxt "tframe_ruleserialize.gb_insertwhere.caption"
+msgid "Insert where:"
+msgstr "Vložiť kam:"
+
+#: tframe_ruleserialize.label_customnumberingsymbols.caption
+msgid "Custom numbering symbols:"
+msgstr ""
+
+#: tframe_ruleserialize.label_indexstarts.caption
+msgid "Index starts:"
+msgstr "Začiatok indexu:"
+
+#: tframe_ruleserialize.label_numberingsystem.caption
+msgid "Numbering system:"
+msgstr ""
+
+#: tframe_ruleserialize.label_repeat.caption
+msgid "Repeat:"
+msgstr "Opakovať:"
+
+#: tframe_ruleserialize.label_step.caption
+msgid "Step:"
+msgstr "Krok:"
+
+#: tframe_ruleserialize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleserialize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "Nahradiť aktuálny názov"
+
+#: tframe_ruleserialize.radiobutton_serializeposition.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPOSITION.CAPTION"
+msgid "Position:"
+msgstr "Pozícia:"
+
+#: tframe_ruleserialize.radiobutton_serializeprefix.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPREFIX.CAPTION"
+msgid "Prefix"
+msgstr "Prefix"
+
+#: tframe_ruleserialize.radiobutton_serializesuffix.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZESUFFIX.CAPTION"
+msgid "Suffix"
+msgstr "Suffix"
+
+#: tframe_rulestrip.cb_stripallexceptselected.caption
+msgid "Strip all characters except selected"
+msgstr "Odobrať všetky znaky okrem označených"
+
+#: tframe_rulestrip.cb_stripenglishletters.caption
+msgid "English:"
+msgstr "Písmená:"
+
+#: tframe_rulestrip.checkbox_casesensitive.caption
+msgctxt "TFRAME_RULESTRIP.CHECKBOX_CASESENSITIVE.CAPTION"
+msgid "Case sensitive"
+msgstr "Rozlišovať malé a veľké písmo"
+
+#: tframe_rulestrip.checkbox_stripbrackets.caption
+msgid "Brackets:"
+msgstr "Zátvorky"
+
+#: tframe_rulestrip.checkbox_stripdigits.caption
+msgctxt "tframe_rulestrip.checkbox_stripdigits.caption"
+msgid "Digits:"
+msgstr "Číslice:"
+
+#: tframe_rulestrip.checkbox_stripskipextension.caption
+msgctxt "TFRAME_RULESTRIP.CHECKBOX_STRIPSKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Vynechať príponu"
+
+#: tframe_rulestrip.checkbox_stripsymbols.caption
+msgid "Symbols:"
+msgstr "Znaky"
+
+#: tframe_rulestrip.checkbox_stripuserdefined.caption
+msgctxt "tframe_rulestrip.checkbox_stripuserdefined.caption"
+msgid "User defined:"
+msgstr "Dané užívateľom:"
+
+#: tframe_rulestrip.rb_whereeverywhere.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHEREEVERYWHERE.CAPTION"
+msgid "Everywhere"
+msgstr "Všade"
+
+#: tframe_rulestrip.rb_whereleading.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHERELEADING.CAPTION"
+msgid "Leading"
+msgstr "Prvé v poradí"
+
+#: tframe_rulestrip.rb_wheretrailing.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHERETRAILING.CAPTION"
+msgid "Trailing"
+msgstr "Posledné od konca"
+
+#: tframe_ruletranslit.bitbtn_translits.caption
+msgid "Alphabet"
+msgstr "Abeceda"
+
+#: tframe_ruletranslit.checkbox_adjustcase.caption
+msgctxt "tframe_ruletranslit.checkbox_adjustcase.caption"
+msgid "Auto case adjustment"
+msgstr ""
+
+#: tframe_ruletranslit.checkbox_skipextension.caption
+msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Vynechať príponu."
+
+#: tframe_ruletranslit.label2.caption
+msgid "Direction:"
+msgstr "Návod:"
+
+#: tframe_ruletranslit.label3.caption
+msgid "Hint:"
+msgstr "Typ:"
+
+#: tframe_ruletranslit.label_hinttext.caption
+msgid "Alphabet is a set of couples represented by letters and separated with an equal sign; they stand for translation of non-english characters to their english representation."
+msgstr "Abeceda tvorí dvojice písmen s rovnakou hodnotou oddelené znakom rovnosti; slúžia ako preklad neanglických znakov do anglickej podoby."
+
+#: tframe_ruletranslit.radiobutton_directionbackward.caption
+msgid "Backward"
+msgstr "Vzad"
+
+#: tframe_ruletranslit.radiobutton_directionforward.caption
+msgid "Forward"
+msgstr "Vpred"
+
+#: tframe_ruleuserinput.cb_skipextension.caption
+msgctxt "TFRAME_RULEUSERINPUT.CB_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "Vynechať príponu"
+
+#: tframe_ruleuserinput.label1.caption
+msgid "Type your new filenames here (one per line):"
+msgstr "Napíšte  nový názov súboru tu (jeden na každý riadok):"
+
+#: tframe_ruleuserinput.menuitem_load.caption
+msgid "Load from Text File"
+msgstr "Načítať z textového súboru"
+
+#: tframe_ruleuserinput.menuitem_paste.caption
+msgid "Paste from Clipboard"
+msgstr "Prilepiť zo schránky"
+
+#: tframe_ruleuserinput.rb_insertafter.caption
+msgid "Insert after the current name"
+msgstr "Vložiť za aktuálny názvov"
+
+#: tframe_ruleuserinput.rb_insertinfront.caption
+msgid "Insert in front of the current name"
+msgstr "Vložiť pred aktuálny názvov"
+
+#: tframe_ruleuserinput.rb_replace.caption
+msgid "Replace the current name"
+msgstr "Nahradiť aktuálny názov"
+
+#: tframe_ruleuserinput.sb_options.caption
+msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
+msgid "Options"
+msgstr "Možnosti"
+
+#: ufileutils.ssizebytes
+msgctxt "ufileutils.ssizebytes"
+msgid "bytes"
+msgstr "byty"
+
+#: ufileutils.ssizegigabyte
+msgctxt "ufileutils.ssizegigabyte"
+msgid "GB"
+msgstr "GB"
+
+#: ufileutils.ssizekilobyte
+msgctxt "ufileutils.ssizekilobyte"
+msgid "KB"
+msgstr "KB"
+
+#: ufileutils.ssizemegabyte
+msgctxt "ufileutils.ssizemegabyte"
+msgid "MB"
+msgstr "MB"
+
+#: ufileutils.ssizeterabyte
+msgctxt "ufileutils.ssizeterabyte"
+msgid "TB"
+msgstr "TB"
+
+#: umetatags.s_metatag_audio_duration
+msgid "Duration of an Audio file"
+msgstr "Trvanie zvukového súboru"
+
+#: umetatags.s_metatag_audio_durationmins
+msgid "Duration of an Audio file in minutes"
+msgstr "Trvanie zvukového súboru v minútach"
+
+#: umetatags.s_metatag_audio_durationsecs
+msgid "Duration of an Audio file in seconds"
+msgstr "Trvanie zvukového súboru v sekundách"
+
+#: umetatags.s_metatag_avi_duration
+msgid "AVI Duration in H:M:S format"
+msgstr "Trvanie AVI vo formáte H:M:S"
+
+#: umetatags.s_metatag_avi_durationmins
+msgid "AVI Duration in Minutes"
+msgstr "Trvanie AVI v minútach"
+
+#: umetatags.s_metatag_avi_durationsecs
+msgid "AVI Duration in Seconds"
+msgstr "Trvanie AVI v sekundách"
+
+#: umetatags.s_metatag_avi_framespersecond
+msgid "AVI Frames per Second"
+msgstr "AVI snímky za sekundu"
+
+#: umetatags.s_metatag_avi_height
+msgid "AVI Height in Pixels"
+msgstr "AVI výška v pixeloch"
+
+#: umetatags.s_metatag_avi_totalframes
+msgid "AVI Total amount of Frames"
+msgstr "Celkový počet snímkov v AVI"
+
+#: umetatags.s_metatag_avi_videocodec
+msgid "AVI Video Codec"
+msgstr "AVI video kodek"
+
+#: umetatags.s_metatag_avi_width
+msgid "AVI Width in Pixels"
+msgstr "AVI šírka v pixeloch"
+
+#: umetatags.s_metatag_avi_widthandheight
+msgid "AVI Dimensions in WxH format"
+msgstr "Rozlíšenie AVI vo formáte ŠxV"
+
+#: umetatags.s_metatag_binarysign_description
+msgid "Binary File Information: Description"
+msgstr "Binárne informácie súboru: Popis"
+
+#: umetatags.s_metatag_binarysign_extension
+msgid "Binary File Signature: Extension"
+msgstr "Binárna signatúra súboru: prípona"
+
+#: umetatags.s_metatag_date_now
+msgid "Current Date"
+msgstr "Aktuálny dátum"
+
+#: umetatags.s_metatag_document_author
+msgid "Summary Information: Author"
+msgstr "Súhrnné informácie: Autor"
+
+#: umetatags.s_metatag_document_pagecount
+msgid "Summary Information: Number of Pages"
+msgstr "Súhrnné informácie: Počet strán"
+
+#: umetatags.s_metatag_document_subject
+msgid "Summary Information: Subject"
+msgstr "Súhrnné informácie: Predmet"
+
+#: umetatags.s_metatag_document_title
+msgid "Summary Information: Title"
+msgstr "Súhrnné informácie: Titul"
+
+#: umetatags.s_metatag_email_datesent
+msgid "Email date sent in local time zone"
+msgstr "Dátum odoslania emailu v lokálnej časovej zóne."
+
+#: umetatags.s_metatag_email_datesentoriginal
+msgid "Email date sent in original time zone"
+msgstr "Dátum odoslania emailu v pôvodnej časovej zóne."
+
+#: umetatags.s_metatag_email_datesentutc
+msgid "Email date sent in UTC time zone"
+msgstr "Dátum odoslania emailu v UTC časovej zóne."
+
+#: umetatags.s_metatag_email_sender
+msgid "Email sender"
+msgstr "Odosielateľ e-mailu"
+
+#: umetatags.s_metatag_email_subject
+msgid "Email subject"
+msgstr "Predmet e-mailu"
+
+#: umetatags.s_metatag_exif_date
+msgid "EXIF Original Date"
+msgstr "EXIF pôvodný dátum"
+
+#: umetatags.s_metatag_exif_description
+msgid "EXIF Image Description"
+msgstr "EXIF popis obrázka"
+
+#: umetatags.s_metatag_exif_make
+msgid "EXIF Camera Make"
+msgstr "EXIF značka fotoaparátu"
+
+#: umetatags.s_metatag_exif_model
+msgid "EXIF Camera Model"
+msgstr "EXIF model kamery"
+
+#: umetatags.s_metatag_file_basename
+msgid "Base name of the file"
+msgstr "Základný názov súboru"
+
+#: umetatags.s_metatag_file_datecreated
+msgid "File created date"
+msgstr "Dátum vytvorenia súboru"
+
+#: umetatags.s_metatag_file_datemodified
+msgid "File last modified date"
+msgstr "Dátum poslednej úpravy súboru"
+
+#: umetatags.s_metatag_file_dosname
+msgid "Short name in the 8.3 format"
+msgstr "Skrátený názov v 8.3 formate"
+
+#: umetatags.s_metatag_file_extension
+msgid "Extension of the file"
+msgstr "Prípona súboru"
+
+#: umetatags.s_metatag_file_filename
+msgid "Full name of the file"
+msgstr "Úplný názov súboru"
+
+#: umetatags.s_metatag_file_filepath
+msgid "Full path of the file"
+msgstr "Úplná cesta súboru"
+
+#: umetatags.s_metatag_file_foldername
+msgid "Name of the parent folder"
+msgstr "Názov nadriadenej zložky"
+
+#: umetatags.s_metatag_file_folderpath
+msgid "Full path of the parent folder"
+msgstr ""
+
+#: umetatags.s_metatag_file_size
+msgid "Size of file"
+msgstr ""
+
+#: umetatags.s_metatag_file_sizebytes
+msgid "Size of file in bytes"
+msgstr "Veľkosť súboru v bytoch"
+
+#: umetatags.s_metatag_file_sizegb
+msgid "Size of file in GB"
+msgstr ""
+
+#: umetatags.s_metatag_file_sizekb
+msgid "Size of file in KB"
+msgstr "Veľkosť súboru v KB"
+
+#: umetatags.s_metatag_file_sizemb
+msgid "Size of file in MB"
+msgstr "Veľkosť súboru v MB"
+
+#: umetatags.s_metatag_flac_album
+msgid "FLAC Album"
+msgstr "FLAC album"
+
+#: umetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr "FLAC umelec albumu"
+
+#: umetatags.s_metatag_flac_artist
+msgid "FLAC Artist"
+msgstr "FLAC umelec"
+
+#: umetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr "FLAC disk číslo"
+
+#: umetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
+msgstr "FLAC počet diskov"
+
+#: umetatags.s_metatag_flac_genre
+msgid "FLAC Genre"
+msgstr "FLAC žáner"
+
+#: umetatags.s_metatag_flac_title
+msgid "FLAC Title"
+msgstr "FLAC titul"
+
+#: umetatags.s_metatag_flac_trackno
+msgid "FLAC Track Number"
+msgstr "FLAC číslo skladby"
+
+#: umetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
+msgstr "FLAC počet skladieb"
+
+#: umetatags.s_metatag_flac_year
+msgid "FLAC Year"
+msgstr "FLAC rok"
+
+#: umetatags.s_metatag_hash_crc32
+msgid "CRC32 Checksum of a file"
+msgstr "CRC32 overenie súboru"
+
+#: umetatags.s_metatag_hash_md5
+msgid "MD5 Hash of a file"
+msgstr "MD5 hash súboru"
+
+#: umetatags.s_metatag_hash_sha1
+msgid "SHA1 Hash of a file"
+msgstr "SHA1 hash súboru"
+
+#: umetatags.s_metatag_hash_sha256
+msgid "SHA256 Hash of a file"
+msgstr "SHA256 hash súboru"
+
+#: umetatags.s_metatag_hash_sha512
+msgid "SHA512 Hash of a file"
+msgstr "SHA512 hash súboru"
+
+#: umetatags.s_metatag_html_title
+msgid "Title tag extracted from an HTML file"
+msgstr "Titulný tag extrahovaný z HTML súboru"
+
+#: umetatags.s_metatag_image_aspectratio
+msgid "Aspect Ratio of an image"
+msgstr "Pomer strán obrázka"
+
+#: umetatags.s_metatag_image_height
+msgid "Height of an image in pixels"
+msgstr "Výška obrázka v pixeloch"
+
+#: umetatags.s_metatag_image_pixels
+msgid "Amount of pixels in the image"
+msgstr "Počet pixelov v obrázku"
+
+#: umetatags.s_metatag_image_width
+msgid "Width of an image in pixels"
+msgstr "Šírka obrázka v pixeloch"
+
+#: umetatags.s_metatag_image_widthandheight
+msgid "Width and Height of an image in pixels"
+msgstr "Šírka a výška obrázka v pixeloch"
+
+#: umetatags.s_metatag_iptc_caption
+msgid "IPTC Image Caption"
+msgstr "IPTC názov obrázka"
+
+#: umetatags.s_metatag_iptc_city
+msgid "IPTC City"
+msgstr "IPTC mesto"
+
+#: umetatags.s_metatag_iptc_headline
+msgid "IPTC Image Headline"
+msgstr "IPTC záhlavie obrázka"
+
+#: umetatags.s_metatag_iptc_location
+msgid "IPTC Location Name"
+msgstr "IPTC názov umiestnenia"
+
+#: umetatags.s_metatag_iptc_objectname
+msgid "IPTC Object Name"
+msgstr "IPTC názov objektu"
+
+#: umetatags.s_metatag_mp3_album
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr "MP3 album"
+
+#: umetatags.s_metatag_mp3_albumartist
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr "MP umelec albumu"
+
+#: umetatags.s_metatag_mp3_artist
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr "MP3 umelec"
+
+#: umetatags.s_metatag_mp3_discno
+msgid "MP3 Disc Number"
+msgstr "MP3 disk číslo"
+
+#: umetatags.s_metatag_mp3_disctotal
+msgid "MP3 Total Discs"
+msgstr "MP3 počet diskov"
+
+#: umetatags.s_metatag_mp3_genre
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr "MP3 žáner"
+
+#: umetatags.s_metatag_mp3_title
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr "MP3 titul"
+
+#: umetatags.s_metatag_mp3_trackno
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr "MP3 číslo skladby"
+
+#: umetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr "MP počet skladieb"
+
+#: umetatags.s_metatag_mp3_year
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
+msgstr "MP3 rok"
+
+#: umetatags.s_metatag_outlook_body
+msgid "Outlook Message: Body Text"
+msgstr "Outlook správa: Základný text"
+
+#: umetatags.s_metatag_outlook_dateheader
+msgid "Outlook Message: Sent date from email header in local time zone"
+msgstr "Outlook správa: Odoslať dátum z hlavičky e-mailu podľa miestnej časovej zóny"
+
+#: umetatags.s_metatag_outlook_dateheaderoriginal
+msgid "Outlook Message: Sent date from email header in original time zone"
+msgstr "Outlook správa: Odoslať dátum z hlavičky e-mailu podľa pôvodnej časovej zóny"
+
+#: umetatags.s_metatag_outlook_dateheaderutc
+msgid "Outlook Message: Sent date from email header in UTC time zone"
+msgstr "Outlook správa: Odoslať dátum z hlavičky e-mailu podľa UTC časovej zóny"
+
+#: umetatags.s_metatag_outlook_datesent
+msgid "Outlook Message: Sent date in local time zone"
+msgstr "Outlook správa: Odoslať dátum podľa miestnej časovej zóny"
+
+#: umetatags.s_metatag_outlook_datesentutc
+msgid "Outlook Message: Sent date in UTC time zone"
+msgstr "Outlook správa: Odoslať dátum podľa UTC časovej zóny"
+
+#: umetatags.s_metatag_outlook_messageid
+msgctxt "umetatags.s_metatag_outlook_messageid"
+msgid "Outlook Message: ID"
+msgstr "Outlook správa: ID"
+
+#: umetatags.s_metatag_outlook_sender
+msgid "Outlook Message: Sender"
+msgstr "Outlook správa: Odosielateľ"
+
+#: umetatags.s_metatag_outlook_subject
+msgid "Outlook Message: Subject"
+msgstr "Outlook správa: Predmet"
+
+#: umetatags.s_metatag_tiff_date
+msgid "TIFF Date"
+msgstr "TIFF dátum"
+
+#: umetatags.s_metatag_tiff_description
+msgid "TIFF Description"
+msgstr "TIFF popis"
+
+#: umetatags.s_metatag_tiff_make
+msgid "TIFF Make"
+msgstr "TIFF vytvorenie"
+
+#: umetatags.s_metatag_tiff_model
+msgid "TIFF Model"
+msgstr "TIFF model"
+
+#: umetatags.s_metatag_torrent_announce
+msgid "Torrent: Announce URL"
+msgstr "Torrent: Hlásiť URL"
+
+#: umetatags.s_metatag_torrent_comment
+msgid "Torrent: Comment"
+msgstr "Torrent: Komentár"
+
+#: umetatags.s_metatag_torrent_countfiles
+msgid "Torrent: Number of files"
+msgstr "Torrent: Počet súborov"
+
+#: umetatags.s_metatag_torrent_creationdatelocal
+msgid "Torrent: Creation date in local time zone"
+msgstr "Torrent: Dátum vytvorenia podľa miestnej časovej zóny"
+
+#: umetatags.s_metatag_torrent_creationdateutc
+msgid "Torrent: Creation date in UTC time zone"
+msgstr "Torrent: Dátum vytvorenia podľa UTC časovej zóny"
+
+#: umetatags.s_metatag_torrent_hash
+msgid "Torrent: Hash"
+msgstr "Torrent: Hash"
+
+#: umetatags.s_metatag_torrent_name
+msgid "Torrent: Name"
+msgstr "Torrent: Názov"
+
+#: umetatags.s_metatag_torrent_publisher
+msgid "Torrent: Publisher"
+msgstr "Torrent: Nakladateľ"
+
+#: umetatags.s_metatag_torrent_totalsize
+msgid "Torrent: Total size"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_totalsizebytes
+msgid "Torrent: Total size in bytes"
+msgstr "Torrent: Celková veľkosť v bytoch"
+
+#: umetatags.s_metatag_torrent_totalsizegb
+msgid "Torrent: Total size in GB"
+msgstr "Torrent: Celková veľkosť v GB"
+
+#: umetatags.s_metatag_torrent_totalsizekb
+msgid "Torrent: Total size in KB"
+msgstr "Torrent: Celková veľkosť v KB"
+
+#: umetatags.s_metatag_torrent_totalsizemb
+msgid "Torrent: Total size in MB"
+msgstr "Torrent: Celková veľkosť v MB"
+
+#: umetatags.s_metatag_versioninfo_comments
+msgid "Version Information: Comments"
+msgstr "Informácie o verzií: Komentáre"
+
+#: umetatags.s_metatag_versioninfo_company
+msgid "Version Information: Company"
+msgstr "Informácie o verzií: Spoločnosť"
+
+#: umetatags.s_metatag_versioninfo_copyright
+msgid "Version Information: Copyright"
+msgstr "Informácie o verzíi: Autorské práva"
+
+#: umetatags.s_metatag_versioninfo_description
+msgid "Version Information: Description"
+msgstr "Informácie o verzií: Popis"
+
+#: umetatags.s_metatag_versioninfo_fileversion
+msgid "Version Information: File Version"
+msgstr "Informácie o verzií: Verzia súboru"
+
+#: umetatags.s_metatag_versioninfo_product
+msgid "Version Information: Product"
+msgstr "Informácie o verzií: Produkt"
+
+#: umetatags.s_metatag_versioninfo_productversion
+msgid "Version Information: Product Version"
+msgstr "Informácie o verzii: Verzia produktu"
+
+#: umetatags.s_metatag_wma_album
+msgid "WMA Album"
+msgstr "WMA album"
+
+#: umetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr "WMA umelec albumu"
+
+#: umetatags.s_metatag_wma_artist
+msgid "WMA Artist"
+msgstr "WMA umelec"
+
+#: umetatags.s_metatag_wma_discno
+msgid "WMA Disc Number"
+msgstr "WMA disk číslo"
+
+#: umetatags.s_metatag_wma_disctotal
+msgid "WMA Total Discs"
+msgstr "WMA počet diskov"
+
+#: umetatags.s_metatag_wma_genre
+msgid "WMA Genre"
+msgstr "WMA žáner"
+
+#: umetatags.s_metatag_wma_title
+msgid "WMA Title"
+msgstr "WMA titul"
+
+#: umetatags.s_metatag_wma_trackno
+msgid "WMA Track Number"
+msgstr "WMA číslo skladby"
+
+#: umetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
+msgstr "WMA počet skladieb"
+
+#: umetatags.s_metatag_wma_year
+msgid "WMA Year"
+msgstr "WMA rok"
+
+#: unumeralsystems.nsc_customalphabetic
+msgid "Custom alphabetic"
+msgstr ""
+
+#: unumeralsystems.nsc_customnumeric
+msgid "Custom numeric"
+msgstr ""
+
+#: unumeralsystems.nsc_decimaldigits
+msgid "Decimal digits"
+msgstr ""
+
+#: unumeralsystems.nsc_englishletters
+msgid "English letters"
+msgstr ""
+
+#: unumeralsystems.nsc_romannumerals
+msgid "Roman numerals"
+msgstr ""
+
+#: unumeralsystems.nsc_simplifiedchinese
+msgid "Simplified Chinese"
+msgstr ""
+
+#: upascalscript.spscompile
+msgid "Pascal Script Compile"
+msgstr "Kompilácia Pascal skriptu"
+
+#: upascalscript.spsexception
+msgid "Exception"
+msgstr "Výnimka"
+
+#: upascalscript.spsexecute
+msgid "Pascal Script Execute"
+msgstr "Spustenie Pascal skriptu"
+
+#: upascalscript.spsincludedfilenotfound
+msgid "Included file not found: %s"
+msgstr ""
+
+#: upascalscript.spsline
+msgid "Line"
+msgstr "Riadok"
+
+#: upascalscript.spsunknowncompileerror
+msgid "Unknown error (check units and libraries)"
+msgstr "Neznáma chyba (skontrolujte jednotky a knižnice)"
+
+#: upresets.spresetfilenotfound
+msgid "Preset file not found:"
+msgstr "Súbor predvolieb nebol nájdený:"
+
+#: upresets.spresetloadfailed
+msgid "Failed to load a preset."
+msgstr ""
+
+#: upresets.spresetsavefailed
+msgid "Failed to save a preset."
+msgstr ""
+
+#: uregistration.s_cannot_create_license_dir
+msgid "Not able to create a directory for a license file."
+msgstr "Nebolo možné vytvoriť adresár pre licenčné údaje."
+
+#: uregistration.s_contact_email
+msgid "Contact email"
+msgstr "Kontaktný e-mail"
+
+#: uregistration.s_contact_name
+msgid "Contact name"
+msgstr "Kontaktné meno"
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr "Zlyhalo zmazanie súboru:"
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr "Zlyhalo načítanie licenčných údajov:"
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr "Zlyhalo uloženie licenčných údajov:"
+
+#: uregistration.s_issue_date
+msgid "Issue date"
+msgstr "Dátum vydania"
+
+#: uregistration.s_license
+msgid "License"
+msgstr "Licencia"
+
+#: uregistration.s_licensed_to
+msgid "Licensed to"
+msgstr "Licencované na"
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr "Licencia je na čiernom zozname."
+
+#: uregistration.s_license_expiry
+msgid "License expiry"
+msgstr "Platnosť ukončenia licencie"
+
+#: uregistration.s_license_has_expired
+msgid "License has expired."
+msgstr "Platnosť licencie je ukončená."
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr "Licencia je neplatná!"
+
+#: uregistration.s_license_load_failed
+msgid "Failed to load the license."
+msgstr "Načítanie licencie zlyhalo."
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr "Je potrebná obnova licencie v položke pre aktiváciu produktu."
+
+#: uregistration.s_license_remove_failed
+msgid "Failed to remove the license."
+msgstr "Odstránenie licencie zlyhalo."
+
+#: uregistration.s_license_remove_ok
+msgid "License has been removed."
+msgstr "Licencia bola odstránená."
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr "Vaša licencia presiahla obdobie upgradu."
+
+#: uregistration.s_number_of_computers
+msgid "Number of computers"
+msgstr "Počet počítačov"
+
+#: uregistration.s_registration_error
+msgid "Registration code is invalid."
+msgstr "Registračný kód je neplatný."
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr "Registračný súbor sa nenašiel."
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr "Nepodarilo sa načítať registračný súbor."
+
+#: uregistration.s_registration_ok
+msgid "Registration has been successful!"
+msgstr "Registrácia prebehla úspešne!"
+
+#: uregistration.s_upgrade_expiry
+msgid "Upgrade expiry"
+msgstr "Platnosť upgradu je ukončená"
+
+#: urenfiles.srenstatusok
+msgctxt "urenfiles.srenstatusok"
+msgid "OK"
+msgstr "OK"
+
+#: urenfiles.svalidationduplicated
+msgid "Duplicate in the list"
+msgstr "Duplikáty v zozname"
+
+#: urenfiles.svalidationexceeds
+msgid "New path exceeds the length limit"
+msgstr "Nová cesta prekračuje limit dĺžky"
+
+#: urenfiles.svalidationexists
+msgid "Destination file already exists"
+msgstr "Cieľový súbor už existuje"
+
+#: urenfiles.svalidationinvalid
+msgid "Contains invalid characters"
+msgstr "V obsahu sú nepovolené znaky"
+
+#: urenfiles.svalidationmovedparent
+msgid "Parent path changed earlier in the list"
+msgstr ""
+
+#: urulesex.s_rules_addtextpaddingtolength
+msgid "Add text padding to length %s with \"%s\" characters"
+msgstr ""
+
+#: urulesex.s_rules_addzeropaddingtolength
+msgid "Add zero padding to length %s"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynumdays
+msgid "Adjust time by %d days"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynumhours
+msgid "Adjust time by %d hours"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynummilliseconds
+msgid "Adjust time by %d milliseconds"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynumminutes
+msgid "Adjust time by %d minutes"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynummonths
+msgid "Adjust time by %d months"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynumseconds
+msgid "Adjust time by %d seconds"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynumyears
+msgid "Adjust time by %d years"
+msgstr ""
+
+#: urulesex.s_rules_after
+msgid "after"
+msgstr "po"
+
+#: urulesex.s_rules_all
+msgid "all"
+msgstr "všetko"
+
+#: urulesex.s_rules_all_characters_except
+msgid "all characters except"
+msgstr "okrem všetkých znakov"
+
+#: urulesex.s_rules_all_lower_case
+msgid "All lower case"
+msgstr "Všetko v malých písmenách"
+
+#: urulesex.s_rules_all_upper_case
+msgid "All upper case"
+msgstr "Všetko vo veľkých písmenách"
+
+#: urulesex.s_rules_and_pad_to_length
+msgid "and pad to length"
+msgstr "a dĺžka cifry"
+
+#: urulesex.s_rules_append
+msgid "append"
+msgstr "pripojiť"
+
+#: urulesex.s_rules_append_new_extension
+msgid "Append new extension"
+msgstr "Pripojiť novú príponu"
+
+#: urulesex.s_rules_as_prefix
+msgid "as Prefix"
+msgstr "ako prefix"
+
+#: urulesex.s_rules_as_suffix
+msgid "as Suffix"
+msgstr "ako suffix"
+
+#: urulesex.s_rules_at_position
+msgid "at Position"
+msgstr "od pozície"
+
+#: urulesex.s_rules_autocaseadjustment
+msgctxt "urulesex.s_rules_autocaseadjustment"
+msgid "Auto case adjustment"
+msgstr ""
+
+#: urulesex.s_rules_before
+msgid "before"
+msgstr "pred"
+
+#: urulesex.s_rules_cannoteditruleconfiguration
+msgid "Cannot edit rule configuration."
+msgstr ""
+
+#: urulesex.s_rules_capitalize_and_preserve
+msgid "Capitalize and preserve"
+msgstr "Prvé písmeno veľké (ost. nezmenené)"
+
+#: urulesex.s_rules_capitalize_every_word
+msgid "Capitalize every word"
+msgstr "Prvé písmeno veľké (ost. malé)"
+
+#: urulesex.s_rules_case_sensitive
+msgid "case sensitive"
+msgstr "rozlíšiť písmo"
+
+#: urulesex.s_rules_change_extension_to
+msgid "Change extension to"
+msgstr "Zmeniť príponu na"
+
+#: urulesex.s_rules_characters
+msgid "characters"
+msgstr "znaky"
+
+#: urulesex.s_rules_converttovaluefromvalue
+msgid "Convert to %s from %s"
+msgstr "Prekonvertovať na %s z %s"
+
+#: urulesex.s_rules_customlongmonths
+msgid "Custom long months"
+msgstr "Použiť dlhú formu mesiacov"
+
+#: urulesex.s_rules_customshortmonths
+msgid "Custom short months"
+msgstr "Použiť krátku formu mesiacov"
+
+#: urulesex.s_rules_delete
+msgctxt "myrulesex.s_rules_delete"
+msgid "Delete"
+msgstr "Zmazať"
+
+#: urulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr "Zmazať aktuálny názov"
+
+#: urulesex.s_rules_delimiters
+msgid "delimiters"
+msgstr "oddeľovače"
+
+#: urulesex.s_rules_detect_using_binary_signature
+msgid "Detect using binary signature"
+msgstr "Rozpoznať použitím signatúry"
+
+#: urulesex.s_rules_everywhere
+msgid "everywhere"
+msgstr "všade"
+
+#: urulesex.s_rules_exact_pattern_of_delimiters
+msgid "exact pattern of delimiters"
+msgstr "presný vzor oddeľovača"
+
+#: urulesex.s_rules_extension_lower_case
+msgid "Extension lower case"
+msgstr "Prípona s malými písmenami"
+
+#: urulesex.s_rules_extension_upper_case
+msgid "Extension upper case"
+msgstr "Prípona s veľkými písmenami"
+
+#: urulesex.s_rules_files
+msgid "files"
+msgstr "súbory"
+
+#: urulesex.s_rules_files_to
+msgid "file(s) to"
+msgstr "súbor(ov) na"
+
+#: urulesex.s_rules_files_with
+msgid "file(s) with"
+msgstr "súbor(y) s"
+
+#: urulesex.s_rules_first
+msgid "first"
+msgstr "najprv"
+
+#: urulesex.s_rules_first_letter_capital
+msgctxt "myrulesex.s_rules_first_letter_capital"
+msgid "First letter capital"
+msgstr "Prvé písmeno veľké"
+
+#: urulesex.s_rules_fix_spaces
+msgid "Fix spaces"
+msgstr "Opraviť medzery"
+
+#: urulesex.s_rules_force_case_fragments
+msgid "Force case fragments"
+msgstr "Vynútiť zmenu písma skratiek"
+
+#: urulesex.s_rules_from_delimiter
+msgid "from Delimiter"
+msgstr "od oddeľovača"
+
+#: urulesex.s_rules_from_position
+msgid "from Position"
+msgstr "od pozície"
+
+#: urulesex.s_rules_insert
+msgctxt "myrulesex.s_rules_insert"
+msgid "Insert"
+msgstr "Vložiť"
+
+#: urulesex.s_rules_insert_space_in_front_of_capitals
+msgid "Insert space in front of capitals"
+msgstr "Pridať medzeru pred veľké písmeno"
+
+#: urulesex.s_rules_invert_case
+msgid "Invert case"
+msgstr "Invertovať písmo"
+
+#: urulesex.s_rules_last
+msgid "last"
+msgstr "posledný"
+
+#: urulesex.s_rules_leading
+msgctxt "myrulesex.s_rules_leading"
+msgid "leading"
+msgstr "Po prvý v poradí"
+
+#: urulesex.s_rules_leave_delimiter
+msgid "leave delimiter"
+msgstr "ponechať oddeľovač"
+
+#: urulesex.s_rules_leftside
+msgid "Left side"
+msgstr ""
+
+#: urulesex.s_rules_new_names_are_not_defined
+msgid "new names are not defined"
+msgstr "nový názov nebol zadaný"
+
+#: urulesex.s_rules_new_pattern
+msgid "New pattern"
+msgstr "Nový vzor"
+
+#: urulesex.s_rules_normalize_spaces
+msgid "Normalize spaces"
+msgstr "Normalizovať medzery"
+
+#: urulesex.s_rules_parts
+msgid "parts"
+msgstr "diely"
+
+#: urulesex.s_rules_positions
+msgid "positions"
+msgstr "pozície"
+
+#: urulesex.s_rules_prefix_names_of
+msgid "Prefix names of"
+msgstr "Prefix názov"
+
+#: urulesex.s_rules_prepare_for_sharepoint
+msgid "Prepare for SharePoint"
+msgstr "Pripraviť pre SharePoint"
+
+#: urulesex.s_rules_randomwithlengthusingcharacters
+msgctxt "urulesex.s_rules_randomwithlengthusingcharacters"
+msgid "Random with length %s using characters \"%s\""
+msgstr ""
+
+#: urulesex.s_rules_remove
+msgctxt "myrulesex.s_rules_remove"
+msgid "Remove"
+msgstr "Odstrániť"
+
+#: urulesex.s_rules_removezeropadding
+msgctxt "urulesex.s_rules_removezeropadding"
+msgid "Remove zero padding"
+msgstr ""
+
+#: urulesex.s_rules_remove_extension
+msgid "Remove extension"
+msgstr "Odstrániť príponu"
+
+#: urulesex.s_rules_repeat
+msgid "repeat"
+msgstr "opakovať"
+
+#: urulesex.s_rules_replace
+msgctxt "myrulesex.s_rules_replace"
+msgid "Replace"
+msgstr "Nahradiť"
+
+#: urulesex.s_rules_replace_expression
+msgid "Replace expression"
+msgstr "Odstrániť príponu"
+
+#: urulesex.s_rules_replace_with_spaces
+msgid "Replace with spaces"
+msgstr "Nahradiť medzerami"
+
+#: urulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr "nahradiť aktuálny názov"
+
+#: urulesex.s_rules_reset_index_every
+msgid "reset index every"
+msgstr "zresetovať každý index"
+
+#: urulesex.s_rules_reset_index_if_file_name_changes
+msgid "reset index if file name changes"
+msgstr ""
+
+#: urulesex.s_rules_reset_index_if_folder_changes
+msgid "reset index if folder changes"
+msgstr "pri zmene zložky zresetovať index"
+
+#: urulesex.s_rules_rightside
+msgid "Right side"
+msgstr ""
+
+#: urulesex.s_rules_right_to_left
+msgid "right-to-left"
+msgstr "zprava-doľava"
+
+#: urulesex.s_rules_serialize_incremental_from
+#, fuzzy
+#| msgid "Serialize Incremental from"
+msgid "Incremental from"
+msgstr "Pridať poradie prírastkovo od"
+
+#: urulesex.s_rules_serialize_random_with_length
+#, fuzzy
+#| msgid "Serialize Random with length"
+msgid "Random with length"
+msgstr "Pridať poradie náhodne"
+
+#: urulesex.s_rules_set_names_of
+msgid "Set names of"
+msgstr "Zadať názov pre"
+
+#: urulesex.s_rules_skipextension
+msgctxt "urulesex.s_rules_skipextension"
+msgid "Skip extension"
+msgstr "Vynechať príponu"
+
+#: urulesex.s_rules_skip_extension
+msgid "skip extension"
+msgstr "vynechať príponu"
+
+#: urulesex.s_rules_skip_versions
+msgid "skip versions"
+msgstr "vynechať verzie"
+
+#: urulesex.s_rules_split_by
+msgid "Split by"
+msgstr "Rozdeliť podľa"
+
+#: urulesex.s_rules_step
+msgid "step"
+msgstr "krok"
+
+#: urulesex.s_rules_strip
+msgctxt "myrulesex.s_rules_strip"
+msgid "Strip"
+msgstr "Odobrať"
+
+#: urulesex.s_rules_strip_out_contents_of_brackets
+msgid "Strip out contents of brackets"
+msgstr "Odobrať obsah v zátvorkách"
+
+#: urulesex.s_rules_strip_unicode_marks
+msgid "Strip unicode marks"
+msgstr ""
+
+#: urulesex.s_rules_suffix_names_of
+msgid "Suffix names of"
+msgstr "Suffix názov"
+
+#: urulesex.s_rules_trailing
+msgctxt "myrulesex.s_rules_trailing"
+msgid "trailing"
+msgstr "od posledného v poradí"
+
+#: urulesex.s_rules_transliterate
+msgid "Transliterate"
+msgstr "Prepísať"
+
+#: urulesex.s_rules_try_unique
+msgid "try unique"
+msgstr "skúsiť jednotlivo"
+
+#: urulesex.s_rules_until_count_reaches
+msgid "until Count reaches"
+msgstr "až po dosiahnutí počtu"
+
+#: urulesex.s_rules_until_delimiter
+msgid "until Delimiter"
+msgstr "po oddeľovač"
+
+#: urulesex.s_rules_until_the_end
+msgid "until the End"
+msgstr "do konca"
+
+#: urulesex.s_rules_usingcustomnumeralsymbols
+msgid "using \"%s\" system with \"%s\" symbols"
+msgstr ""
+
+#: urulesex.s_rules_usingnamednumeralsystem
+msgid "using \"%s\" system"
+msgstr ""
+
+#: urulesex.s_rules_using_wildcards
+msgid "using wildcards"
+msgstr "použiť zástupné znaky"
+
+#: urulesex.s_rules_warndeprecatedrandomserialize
+msgid "Rule configuration uses deprecated random serialization, please use a separate dedicated rule instead."
+msgstr ""
+
+#: urulesex.s_rules_wholewordsonly
+msgctxt "urulesex.s_rules_wholewordsonly"
+msgid "Whole words only"
+msgstr "Iba celé slová"
+
+#: urulesex.s_rules_whole_words
+msgid "whole words"
+msgstr "Celé slová"
+
+#: urulesex.s_rules_with
+msgid "with"
+msgstr "s"
+
+#: ustrings.msg_addfoldernotexist
+msgid ""
+"Selected folder does not exist!\n"
+"\n"
+"%s\n"
+msgstr ""
+"Vybraná položka neexistuje!\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_addmetatagconfirm
+msgid ""
+"Meta tags are currently disabled.\n"
+"\n"
+"Do you want to enable them?\n"
+msgstr ""
+"Meta tagy sú aktuálne zakázané.\n"
+"\n"
+"Chcete ich povoliť?\n"
+
+#: ustrings.msg_ask_open_quick_guide
+msgid "Would you like to open a Quick Guide?"
+msgstr "Chcete otvoriť stručný návod?"
+
+#: ustrings.msg_browsefoldersstatus
+msgid "Folders: %d scanned, %d selected."
+msgstr "Zložky: %d načítaných, %d vybraných."
+
+#: ustrings.msg_browsegotofoldercaption
+msgctxt "mystrings.msg_browsegotofoldercaption"
+msgid "Go To Folder"
+msgstr "Ísť na položku"
+
+#: ustrings.msg_browsegotofolderprompt
+msgid "Enter a full path to the folder that you want to go to:"
+msgstr "Zadajte úplnú cestu zložky, na ktorú chcete ísť"
+
+#: ustrings.msg_changeworkingdirfailed
+msgid "Failed to change current working directory."
+msgstr ""
+
+#: ustrings.msg_copyandcutfilesprompt
+msgid ""
+"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
+"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
+"\n"
+"Are you sure you want to proceed?\n"
+msgstr ""
+"Operácia kopírovania alebo vystrihnutia súborov bude premiestnená do schránky pre neskoršie použitie.\n"
+"Poznámka: Všetky súbory budú vložené do rovnakého adresára bez ohľadu na to, kde boli pôvodne umiestnené!\n"
+"\n"
+"Ste si istý, že  chcete pokračovať?\n"
+
+#: ustrings.msg_datetimeinvalidformat
+msgid "INVALID FORMAT"
+msgstr "NESPRÁVNY FORMÁT"
+
+#: ustrings.msg_editrulecommentcaption
+msgid "Rule Comment"
+msgstr ""
+
+#: ustrings.msg_editrulecommentprompt
+msgid "Enter a comment for the rule:"
+msgstr ""
+
+#: ustrings.msg_fileexistsoverwriteprompt
+msgid ""
+"File already exists!\n"
+"Overwrite it?\n"
+msgstr ""
+"Súbor už existuje!\n"
+"Prepísať ho?\n"
+
+#: ustrings.msg_filescountinfo
+msgid ""
+"Total: %d\n"
+"Marked: %d\n"
+"Selected: %d\n"
+msgstr ""
+"Celkovo: %d\n"
+"Označených: %d\n"
+"Vybrabých: %d\n"
+
+#: ustrings.msg_fixcollidewarninglimit
+msgid ""
+"Do you want to fix conflicting new names for %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"Prajete si opraviť konfliktné nové názvy %s súborov?\n"
+"\n"
+"Táto operácia bude trvať niekoľko minút...\n"
+
+#: ustrings.msg_gotolinecaption
+msgid "Go To Line"
+msgstr "Ísť na riadok"
+
+#: ustrings.msg_gotolineprompt
+msgid "Enter the line number:"
+msgstr "Zadajte číslo riadka:"
+
+#: ustrings.msg_hinterrorcolumn
+msgid "Hint: You can check the details by enabling the \"Error\" column."
+msgstr "Typ: Môžete skontrolovať údaje tak, že povolíte stĺpec \"Chyba\"."
+
+#: ustrings.msg_launching_first_time
+msgid "You are launching ReNamer for the first time."
+msgstr "ReNamer ste spustili prvý krát."
+
+#: ustrings.msg_loadnewnamesresult
+msgid "%d new filename(s) out of %d in the list were changed!"
+msgstr "%d nových názvov súborov zo %d v zozname bolo zmenených!"
+
+#: ustrings.msg_nothingtorename
+msgid "Nothing to rename!"
+msgstr "Nič na premenovanie"
+
+#: ustrings.msg_operationfailedduetoerror
+msgid "Operation failed due to an error:"
+msgstr ""
+
+#: ustrings.msg_overwritefilewithnewname
+msgid ""
+"Original Path: %s\n"
+"New Path: %s\n"
+"\n"
+"New Name is already taken by another file, delete that file permanently?\n"
+msgstr ""
+"Pôvodná cesta: %s\n"
+"Nová cesta: %s\n"
+"\n"
+"Nový názov je už obsadený iným súborom, odstrániť tento súbor natrvalo?\n"
+
+#: ustrings.msg_pascalscriptcompiledsuccesfully
+msgid "Compiled successfully!"
+msgstr "Kompilácia prebehla úspešne!"
+
+#: ustrings.msg_pascalscriptnoscripts
+msgid "No Saved Scripts were found!"
+msgstr "Neboli nájdené žiadne uložené skripty!"
+
+#: ustrings.msg_pascalscriptsaveinvalid
+msgctxt "mystrings.msg_pascalscriptsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "Nesprávny názov!"
+
+#: ustrings.msg_pascalscriptsavetext
+msgid "Enter a name for a script:"
+msgstr "Zadajte názov skriptu:"
+
+#: ustrings.msg_pascalscriptsavetitle
+msgid "Save Script"
+msgstr "Uložiť skript"
+
+#: ustrings.msg_presetsmanagerdeletepresetprompt
+msgid "Delete \"%s\" preset?"
+msgstr "Zmazať \"%s\" predvoľbu?"
+
+#: ustrings.msg_presetsmanagereditwarning
+msgid ""
+"You are about to edit Preset file(s) manualy!\n"
+"If you are not sure in what you're doing - press Cancel.\n"
+"\n"
+"Proceed with this action?\n"
+msgstr ""
+"Chystáte sa upraviť súbor(y) predvoľby ručne!\n"
+"Ak si nie ste istí, v tom čo robíte - stlačte tlačidlo Zrušiť.\n"
+"\n"
+"Pokračovať s touto akciou?\n"
+
+#: ustrings.msg_presetsmanagerfailedcopy
+msgid "Could not copy the \"%s\" preset!"
+msgstr "Nie je možné kopírovať \"%s\" predvoľbu!"
+
+#: ustrings.msg_presetsmanagerfaileddelete
+msgid "Could not delete the \"%s\" preset!"
+msgstr "Nie je možné zmazať \"%s\" predvoľbu!"
+
+#: ustrings.msg_presetsmanagerfailedrename
+msgid "Could not rename the \"%s\" preset!"
+msgstr "Nie je možné premenovať \"%s\" predvoľbu!"
+
+#: ustrings.msg_presetsmanagernewnamequerytext
+msgid "New Name:"
+msgstr "Nový názov:"
+
+#: ustrings.msg_presetsmanagernewnamequerytitle
+msgid "Rename Preset"
+msgstr "Premenovať predvoľbu"
+
+#: ustrings.msg_previewexception
+msgid ""
+"Preview process has been terminated due to a critical error:\n"
+"\n"
+"%s\n"
+msgstr ""
+"Proces nahľadu bol ukončený kvôly kritickej chybe:\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_renamefailedfiles
+msgid "%d file(s) failed to rename!"
+msgstr "%d súbor(ov) nebolo premenovaných!"
+
+#: ustrings.msg_renamenewnamesareempty
+msgid ""
+"All New Names are empty!\n"
+"\n"
+"Hint: Configure the Rules and click Preview button.\n"
+msgstr ""
+"Všetky nové názvy sú prázdne!\n"
+"\n"
+"Typ: Nakonfigurujte úlohy a stlačte tlačidlo Náhľad.\n"
+
+#: ustrings.msg_renameskippedunchangedfiles
+msgid "%d file(s) skipped because unchanged."
+msgstr ""
+
+#: ustrings.msg_renameskippedunmarkedfiles
+msgid "%d file(s) skipped because unmarked."
+msgstr ""
+
+#: ustrings.msg_renamesuccessfulfiles
+msgid "%d file(s) successfully renamed."
+msgstr "%d súbor(ov) bolo úspešne premenovaných."
+
+#: ustrings.msg_rulecasedescription
+msgid "Use this rule to change the case of the filename."
+msgstr "Použite túto úlohu pre zmenu písma v názve súboru."
+
+#: ustrings.msg_rulecleanupdescription
+msgid "Use this rule to clean up the filename."
+msgstr "Použite túto úlohu pre zmazanie názvu súboru."
+
+#: ustrings.msg_ruledeletedescription
+msgid "Use this rule to delete text from the filename."
+msgstr "Použite túto úlohu pre zmazanie textu z názvu súboru."
+
+#: ustrings.msg_ruleextensiondescription
+msgid "Use this rule to change extension of the file."
+msgstr "Použite túto úlohu pre zmenu prípony súboru."
+
+#: ustrings.msg_ruleinsertdescription
+msgid "Use this rule to insert text into the filename."
+msgstr "Použite túto úlohu pre vloženie textu do názvu súboru."
+
+#: ustrings.msg_rulepaddingdescription
+msgid "Use this rule to add or remove padding in number sequences."
+msgstr ""
+
+#: ustrings.msg_rulepascalscriptdescription
+msgid "Use this rule to script a user defined manipulations with filename."
+msgstr "Použite túto úlohu pre skriptovanie užívateľom danými manipuláciami v názve súboru."
+
+#: ustrings.msg_rulerandomizedescription
+msgid "Use this rule to insert random sequences of characters into the filename."
+msgstr ""
+
+#: ustrings.msg_rulerearrangedescription
+msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
+msgstr "Použite túto úlohu pre rozdelenie dielov názvu súboru a ich premiestnenie do nového vzoru."
+
+#: ustrings.msg_rulereformatdatedescription
+msgid "Use this rule to change format of date/time values in the filename."
+msgstr "Použite túto úlohu pre zmenu dátumu/času v názve súboru."
+
+#: ustrings.msg_ruleregexdescription
+msgid "Use this rule to replace text in the filename using regular expressions."
+msgstr "Použiť túto úlohu pre nahradenie textu v názve súboru použitím regulárnych výrazov."
+
+#: ustrings.msg_ruleremovedescription
+msgid "Use this rule to remove text from the filename."
+msgstr "Použite túto úlohu pre odstránenie textu z názvu súboru."
+
+#: ustrings.msg_rulereplacedescription
+msgid "Use this rule to replace text in the filename."
+msgstr "Použite túto úlohu pre nahradenie textu v názve súboru."
+
+#: ustrings.msg_ruleserializedescription
+#, fuzzy
+#| msgid "Use this rule to serialize the filename (add incremental or random numbers)."
+msgid "Use this rule to serialize the filename (add incremental numbers)."
+msgstr "Použite túto úlohu pre pridanie poradia (pridať prírastkové alebo náhodné čísla)"
+
+#: ustrings.msg_rulestripdescription
+msgid "Use this rule to strip sets of characters from the filename."
+msgstr "Použite túto úlohu pre odobranie sady znakov z názvu súboru."
+
+#: ustrings.msg_ruletranslitdescription
+msgid "Use this rule to transliterate letters in the filename from one language into another."
+msgstr "Použite túto úlohu pre prepísanie písmen v názve z jedného jazyka do druhého."
+
+#: ustrings.msg_ruleuserinputdescription
+msgid "Use this rule to assign names of files to the lines of text."
+msgstr "Použite túto úlohu pre pridanie názvov súborov do riadkov v texte."
+
+#: ustrings.msg_selectfolder
+msgid "Please select a folder:"
+msgstr "Prosím vyberte zložku"
+
+#: ustrings.msg_shellactionwarninglimit
+msgid "Are you sure you want to execute shell action on %d files?"
+msgstr "Ste si istý, že chcete vykonať akciu kontextovej ponuky so %d súborom(mi)?"
+
+#: ustrings.msg_shell_execute_error
+msgid ""
+"Could not open the following file:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+msgstr ""
+"Nie je možné otvoriť nasledujúci súbor\n"
+"\n"
+"%s\n"
+"\n"
+"Chyba: %s (%d).\n"
+
+#: ustrings.msg_translitsaveinvalid
+msgctxt "mystrings.msg_translitsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "Nesprávny názov!"
+
+#: ustrings.msg_translitsavetext
+msgid "Enter a name for a translit:"
+msgstr "Zadajte názov translitu:"
+
+#: ustrings.msg_translitsavetitle
+msgid "Save Translit"
+msgstr "Uložiť translit"
+
+#: ustrings.msg_undoconfirmfiles
+msgid ""
+"Are you sure you want to undo renaming operation for %d file(s)?\n"
+"\n"
+"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
+msgstr ""
+"Ste si istý, že chcete vrátiť späť operáciu premenovania pre súbory %d ?\n"
+"\n"
+"Typ: Môžete skontrolovať vrátenie cesty späť povolením stĺpca \"Stará cesta\".\n"
+
+#: ustrings.msg_undoempty
+msgid "Nothing to undo!"
+msgstr "Nič pre vrátenie späť!"
+
+#: ustrings.msg_undoresult
+msgid ""
+"Undo operation results:\n"
+"\n"
+"%d out of %d file(s) restored successfully!\n"
+msgstr ""
+"Vrátiť späť výsledky operácie:\n"
+"\n"
+"%d z %d úspešne vrátené! \n"
+
+#: ustrings.msg_uninstallapplicationisrunning
+msgid ""
+"Seems that ReNamer is currently running.\n"
+"Please close it, before continuing...\n"
+msgstr ""
+"Zdá sa, že ReNamer už je spustený.\n"
+"Pred pokračovaním ho najprv ukončte...\n"
+
+#: ustrings.msg_validatedduplicatedfound
+msgid "%d of which have a duplicate in the list."
+msgstr "%d ,ktoré majú duplikáty v zozname."
+
+#: ustrings.msg_validatedexceededfound
+#, fuzzy
+#| msgid "%d of which exceed MAX_PATH limitation."
+msgid "%d of which exceed max path length limitation."
+msgstr "%d ,ktoré presahujú obmedzenia MAX_PATH."
+
+#: ustrings.msg_validatedexistingfound
+msgid "%d of which conflict with an existing file."
+msgstr "%d ,ktoré sú v konflikte s existujúcim súborom."
+
+#: ustrings.msg_validatedinvalidfound
+msgid "%d of which contain invalid characters."
+msgstr "%d ,ktoré obsahujú neplatné znaky."
+
+#: ustrings.msg_validatedmovedparentfound
+msgid "%d of which have a parent path changed earlier in the list."
+msgstr ""
+
+#: ustrings.msg_validatedsuccessfuly
+msgid "Successfully validated!"
+msgstr "Úspešné schválenie!"
+
+#: ustrings.msg_validatewarninglimit
+msgid ""
+"Do you want to validate %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"Chcete  schváliť %s súbory(ov)?\n"
+"\n"
+"Táto operácia môže trvať niekoľko minút...\n"
+
+#: ustrings.msg_validationissuesdetected
+msgid "Validation has failed due to issues with %d file(s)."
+msgstr "Overenie zlyhalo  kvôly problémom s %d súborom(mi)."
+
+#: ustrings.name_addrule
+msgctxt "mystrings.name_addrule"
+msgid "Add Rule"
+msgstr "Pridať úlohu"
+
+#: ustrings.name_addrulestext
+msgctxt "mystrings.name_addrulestext"
+msgid "Click here to add a rule"
+msgstr "Kliknite sem pre pridanie úlohy"
+
+#: ustrings.name_addtorenamer
+msgid "Add to ReNamer"
+msgstr "Pridať do ReNameru"
+
+#: ustrings.name_analyzetextcursor
+msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
+msgstr "Riadok = %d, Pozícia = %d, Zprava = %d, Výber = %d"
+
+#: ustrings.name_browsescripts
+msgid "Browse Scripts..."
+msgstr "Prezerať skripty..."
+
+#: ustrings.name_browsetranslits
+msgid "Browse Translits..."
+msgstr "Prezerať translity..."
+
+#: ustrings.name_cancelsorting
+msgctxt "mystrings.name_cancelsorting"
+msgid "Cancel Sorting"
+msgstr "Zrušiť triedenie"
+
+#: ustrings.name_dragfilestext
+msgctxt "mystrings.name_dragfilestext"
+msgid "Drag your files here"
+msgstr "Pretiahnite súbory sem"
+
+#: ustrings.name_editrule
+msgctxt "mystrings.name_editrule"
+msgid "Edit Rule"
+msgstr "Upraviť úlohu"
+
+#: ustrings.name_filescounter
+msgid "%s files"
+msgstr "%s súborov"
+
+#: ustrings.name_filescounterwithsize
+msgid "%s files (%s)"
+msgstr "%s súborov (%s)"
+
+#: ustrings.name_filters
+msgctxt "mystrings.name_filters"
+msgid "Filters"
+msgstr "Filtre"
+
+#: ustrings.name_folderscounter
+msgid "%s folders"
+msgstr ""
+
+#: ustrings.name_loadwithpreset
+msgctxt "mystrings.name_loadwithpreset"
+msgid "Load with Preset"
+msgstr "Načítať s predvoľbou"
+
+#: ustrings.name_markbymaskcaption
+msgctxt "mystrings.name_markbymaskcaption"
+msgid "Mark by Mask"
+msgstr "Označiť podľa masky"
+
+#: ustrings.name_markbymaskprompt
+msgctxt "mystrings.name_markbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Viacero masiek môže byť oddelené bodkočiarkou. Napr: *.jpg;*.doc\n"
+"\n"
+"Masky:\n"
+
+#: ustrings.name_overwrite
+msgid "Overwrite"
+msgstr "Prepísať"
+
+#: ustrings.name_rename
+msgctxt "mystrings.name_rename"
+msgid "Rename"
+msgstr "Premenovať"
+
+#: ustrings.name_renamewithpreset
+msgctxt "mystrings.name_renamewithpreset"
+msgid "Rename with Preset"
+msgstr "Premenovať s predvoľbou"
+
+#: ustrings.name_rule_case
+msgid "Case"
+msgstr "Písmo"
+
+#: ustrings.name_rule_cleanup
+#| msgid "CleanUp"
+msgid "Clean Up"
+msgstr "Opraviť"
+
+#: ustrings.name_rule_delete
+msgctxt "mystrings.name_rule_delete"
+msgid "Delete"
+msgstr "Zmazať"
+
+#: ustrings.name_rule_extension
+msgctxt "mystrings.name_rule_extension"
+msgid "Extension"
+msgstr "Prípona"
+
+#: ustrings.name_rule_insert
+msgctxt "mystrings.name_rule_insert"
+msgid "Insert"
+msgstr "Vložiť"
+
+#: ustrings.name_rule_padding
+msgid "Padding"
+msgstr ""
+
+#: ustrings.name_rule_pascalscript
+#| msgid "PascalScript"
+msgid "Pascal Script"
+msgstr "Pascal skript"
+
+#: ustrings.name_rule_randomize
+msgid "Randomize"
+msgstr ""
+
+#: ustrings.name_rule_rearrange
+msgid "Rearrange"
+msgstr "Preusporiadať"
+
+#: ustrings.name_rule_reformatdate
+msgid "Reformat Date"
+msgstr "Prevod dátumu"
+
+#: ustrings.name_rule_regex
+#| msgid "RegEx"
+msgid "Regular Expressions"
+msgstr "RegEx"
+
+#: ustrings.name_rule_remove
+msgctxt "mystrings.name_rule_remove"
+msgid "Remove"
+msgstr "Odstrániť"
+
+#: ustrings.name_rule_replace
+msgctxt "mystrings.name_rule_replace"
+msgid "Replace"
+msgstr "Nahradiť"
+
+#: ustrings.name_rule_serialize
+msgid "Serialize"
+msgstr "Poradie"
+
+#: ustrings.name_rule_strip
+msgctxt "mystrings.name_rule_strip"
+msgid "Strip"
+msgstr "Odobrať"
+
+#: ustrings.name_rule_translit
+msgid "Translit"
+msgstr "Translit"
+
+#: ustrings.name_rule_userinput
+#| msgid "UserInput"
+msgid "User Input"
+msgstr "Užívateľ. vstup"
+
+#: ustrings.name_saverule
+msgid "Save Rule"
+msgstr "Uložiť úlohu"
+
+#: ustrings.name_savescript
+msgid "Save Script..."
+msgstr "Uložiť skript..."
+
+#: ustrings.name_savetranslit
+msgid "Save Translit..."
+msgstr "Uložiť translit"
+
+#: ustrings.name_selectbyextensioncaption
+msgctxt "mystrings.name_selectbyextensioncaption"
+msgid "Select by Extension"
+msgstr "Vybrať podľa prípony"
+
+#: ustrings.name_selectbyextensionprompt
+msgid ""
+"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
+"\n"
+"Extensions (without dots):\n"
+msgstr ""
+"Viacero prípon môže byť oddelené bodkočiarkou. Napr: jpg;.doc\n"
+"\n"
+"Prípony:\n"
+
+#: ustrings.name_selectbyfilenamelengthcaption
+msgid "Select by Filename Length"
+msgstr "Vybrať podľa dĺžky názvu súboru"
+
+#: ustrings.name_selectbyfilenamelengthprompt
+msgid "More than N characters:"
+msgstr "Viac ako N znakov:"
+
+#: ustrings.name_selectbymaskcaption
+msgctxt "mystrings.name_selectbymaskcaption"
+msgid "Select by Mask"
+msgstr "Vybrať podľa masky"
+
+#: ustrings.name_selectbymaskprompt
+msgctxt "mystrings.name_selectbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Viacero masiek môže byť oddelené bodkočiarkou. Napr: *.jpg;*.doc\n"
+"\n"
+"Masky:\n"
+
+#: ustrings.name_undo
+msgid "Undo"
+msgstr "Vrátiť späť"
+
+#: ustrings.name_undofiles
+msgid "Undo %d file(s)"
+msgstr "Vrátiť späť %d súbor(ov)"
+
+#: ustrings.sdatetimedays
+msgctxt "ustrings.sdatetimedays"
+msgid "Days"
+msgstr ""
+
+#: ustrings.sdatetimehours
+msgctxt "ustrings.sdatetimehours"
+msgid "Hours"
+msgstr ""
+
+#: ustrings.sdatetimemilliseconds
+msgctxt "ustrings.sdatetimemilliseconds"
+msgid "Milliseconds"
+msgstr ""
+
+#: ustrings.sdatetimeminutes
+msgctxt "ustrings.sdatetimeminutes"
+msgid "Minutes"
+msgstr ""
+
+#: ustrings.sdatetimemonths
+msgctxt "ustrings.sdatetimemonths"
+msgid "Months"
+msgstr ""
+
+#: ustrings.sdatetimeseconds
+msgctxt "ustrings.sdatetimeseconds"
+msgid "Seconds"
+msgstr ""
+
+#: ustrings.sdatetimeyears
+msgctxt "ustrings.sdatetimeyears"
+msgid "Years"
+msgstr ""
+
+#: ustrings.sfiltersallfiles
+msgid "All files"
+msgstr "Všetky súbory"
+
+#: ustrings.sfiltersanyfile
+msgid "Any file"
+msgstr "Každý súbor"
+
+#: ustrings.sfiltersarchives
+msgid "Archives"
+msgstr "Archívy"
+
+#: ustrings.sfiltersbatchfile
+msgid "Batch file"
+msgstr "Batch súbor"
+
+#: ustrings.sfilterscommaseparated
+msgid "comma separated"
+msgstr "oddelené čiarkami"
+
+#: ustrings.sfiltersdocuments
+msgid "Documents"
+msgstr "Dokumenty"
+
+#: ustrings.sfiltersmusic
+msgid "Music"
+msgstr "Hudba"
+
+#: ustrings.sfilterspictures
+msgid "Pictures"
+msgstr "Obrázky"
+
+#: ustrings.sfiltersplaylist
+msgid "Play list"
+msgstr "Playlist"
+
+#: ustrings.sfilterspresets
+msgctxt "ustrings.sfilterspresets"
+msgid "Presets"
+msgstr "Predvoľby"
+
+#: ustrings.sfilterstabseparated
+msgid "tab separated"
+msgstr "tabulátorom rozdelený(á-é)"
+
+#: ustrings.sfilterstextfiles
+msgid "Text files"
+msgstr "Textové súbory"
+
+#: ustrings.sfilterstextlist
+msgid "Text list"
+msgstr "Textový zoznam"
+

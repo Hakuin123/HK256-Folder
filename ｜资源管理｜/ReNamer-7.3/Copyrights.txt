@@ -1,0 +1,64 @@
+This software makes use of the following components:
+
+
+AudioToolsLibrary
+~~~~~~~~~~~~~~~~~
+Copyright (c) 2000-2002 by Jurgen Faul
+Copyright (c) 2003-2005 by The MAC Team
+Web: http://mac.sourceforge.net/atl/
+Email: macteam@users.sourceforge.net
+
+dEXIF
+~~~~~
+Copyright © 2001 - 2006 Gerry McGuire
+Web: http://mcguirez.homestead.com/
+
+PascalScript
+~~~~~~~~~~~~
+Copyright © RemObjects Software
+Web: http://www.remobjects.com/ps
+
+RegExpr
+~~~~~~~
+Copyright (c) 1999-2004 Andrey V. Sorokin, St.Petersburg, Russia
+Email: anso@mail.ru
+Web: http://RegExpStudio.com
+Web: http://anso.da.ru/
+
+SimpleIPC
+~~~~~~~~~
+Copyright (c) 2002-2003 Sunisoft
+Web: http://www.sunisoft.com
+Email: support@sunisoft.com
+
+SMComponents
+~~~~~~~~~~~~
+Copyright (c) 1998-2005, written by Mike Shkolnik, Scalabium Software
+Email: mshkolnik@scalabium
+Email: mshkolnik@yahoo.com
+Web: http://www.scalabium.com
+
+Virtual Treeview
+~~~~~~~~~~~~~~~~
+The initial developer of the original code is digital
+publishing AG (www.digitalpublishing.de).
+Virtual Treeview is written, published and maintaned by
+Mike Lischke (public@soft-gems.net, www.soft-gems.net).
+(c) 1999-2005 Mike Lischke, Soft Gems software solutions.
+
+DCPCrypt
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DCPcrypt is copyrighted (c) 1999-2003 David Barton.
+All trademarks are property of their respective owners.
+
+Farm-Fresh Web Icons
+~~~~~~~~~~~~~~~~~~~~
+Some icons were taken from Farm-Fresh Web Icons collection.
+http://www.fatcow.com/free-icons
+
+famfamfam Flag Icons
+~~~~~~~~~~~~~~~~~~~~
+These icons are public domain, and as such are free for any use
+(attribution appreciated but not required).
+Contact: mjames@gmail.com
+http://www.famfamfam.com

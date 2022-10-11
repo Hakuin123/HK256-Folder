@@ -1,0 +1,26 @@
+linux下装docker相当简单，前提是OS内核3.10+，linux 3.8内核后，才加入用户命名空间，3.8以后才能很好的支持资源隔离
+
+官方自动安装本，一条命令的事:  curl -fSsL https://get.docker.com | bash -s -- --mirror Aliyun
+
+debian系统安装方法
+1、安装docker
+curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
+
+2、设置分享
+mkdir -p /etc/systemd/system/docker.service.d/
+cat <<EOF > /etc/systemd/system/docker.service.d/clear_mount_propagation_flags.conf
+[Service]
+MountFlags=shared
+EOF
+
+3、安装
+docker run -d \
+      --name clouddrive \
+      --restart unless-stopped \
+      -v /home/115:/CloudNAS:shared \
+      -v ~/cloudnas/Config:/Config \
+      -v /home/115:/media:shared \
+      -p 9798:9798 \
+     --privileged \
+     --device /dev/fuse:/dev/fuse \
+     cloudnas/clouddrive

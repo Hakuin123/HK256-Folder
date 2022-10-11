@@ -1,0 +1,4012 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: ReNamer\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: அனிஷ்பிரபு தி (Anishprabu T) <anishprabu243@gmail.com>\n"
+"Language-Team: den4b Team <support@den4b.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ta\n"
+"X-Country: in\n"
+"X-Country-Name: India\n"
+"X-Language-Name: Tamil\n"
+"X-Language-Name-Native: தமிழ்\n"
+"X-Translators: அனிஷ்பிரபு தி (Anishprabu T) <anishprabu243@gmail.com>\n"
+"X-Generator: Poedit 2.2\n"
+
+#: mainform.ssavecurrentpresetconfirm
+msgid "Save current preset?"
+msgstr "தற்போதைய முன்னமைவைச் சேமிக்கவா?"
+
+#: mainform.s_askpurchaseremovelimit
+msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
+msgstr "இந்த வரம்பை அகற்றுவதற்கு \" தொழிலுக்குரிய \"பதிப்பு வாங்க விரும்புகிறீர்களா?"
+
+#: mainform.s_askpurchaseunlockfeature
+msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
+msgstr "இந்த அம்சத்தை திறக்க, \" தொழிலுக்குரிய \" பதிப்பு வாங்க விரும்புகிறீர்களா?"
+
+#: mainform.s_confirmunregister
+msgid ""
+"Are you sure you want to unregister the product?\n"
+"\n"
+"This will remove your license and deactivate the \"Pro\" version.\n"
+msgstr ""
+"நிச்சயமாக இந்த தயாரிப்பு பதிவை நீக்க விரும்புகிறீர்களா?\n"
+"\n"
+"இது உங்கள் உரிமத்தை அகற்றி, \" தொழிலுக்குரிய \"பதிப்பு செயலிழக்க செய்யும்.\n"
+
+#: mainform.s_featurenotavailable
+msgid "This feature is not available in this version."
+msgstr "இந்த பதிப்பில் இந்த அம்சம் கிடைக்கவில்லை."
+
+#: mainform.s_free_license_note
+msgctxt "mainform.s_free_license_note"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "இந்த பயன்பாடானது வணிகம் அல்லாத நோக்கங்களுக்காகவும் பொருத்தமான பண்புகளுடன் மட்டுமே விநியோகிக்கப்படுகிறது."
+
+#: mainform.s_maxallowedpresets
+msgid "This version is limited to a maximum of %s presets."
+msgstr "இந்த பதிப்பு அதிகபட்சம் %s முன்னுரிமைகள் வரையறுக்கப்பட்டுள்ளது."
+
+#: mainform.s_maxallowedrules
+msgid "This version is limited to a maximum of %s rules."
+msgstr "இந்த பதிப்பு அதிகபட்சம் %s விதிகள் வரையறுக்கப்பட்டுள்ளது."
+
+#: mainform.s_no_license_caption
+msgid "(non-commercial use only)"
+msgstr "(வணிகம் அல்லாத பயன்பாட்டுக்கு மட்டும்)"
+
+#: mainform.s_please_read_full_license
+msgid "For more information please read full license code"
+msgstr "கூடுதல் தகவலுக்கு, முழு உரிம குறியீடு வாசிக்கவும்"
+
+#: mainform.s_presetdirstructurelimitation
+msgid "This version does not support presets directory structure."
+msgstr "இந்த பதிப்பு முன்வழங்களுக்கான அடைவு அமைப்பை ஆதரிக்காது."
+
+#: mainform.s_statusbar_hint_filters
+msgid "Active filter settings"
+msgstr "செயலில் உள்ள வடிகட்டி அமைப்புகள்"
+
+#: mainform.s_statusbar_hint_presets
+msgid "Loaded preset"
+msgstr "ஏற்றப்பட்ட முன்னமைவு"
+
+#: mainform.s_statusbar_hint_presets_modified
+msgid "Loaded preset (modified)"
+msgstr "ஏற்றப்பட்ட முன்னமைவு(திருத்தப்பட்ட)"
+
+#: presetslinksform.screatednumpresetlinks
+msgid "Created %d preset links."
+msgstr "முன்னமைவு இணைப்புகள் %d உருவாக்கப்பட்டது."
+
+#: presetsmanagerform.sduplicatepresetsuffix
+msgid "COPY"
+msgstr "நகல்"
+
+#: rulepascalscriptframe.saddyourcodehere
+msgid "Add your code here"
+msgstr "இங்கே உங்கள் குறியீட்டைச் சேர்க்கவும்"
+
+#: rulepascalscriptframe.sholdtoinsertscriptinline
+msgid "Hold %s when loading a script to insert it inline"
+msgstr "ஸ்கிரிப்டை இன்லைன் செருகுவதற்கு %sஐ நிறுத்து"
+
+#: rulepascalscriptframe.spressforcodecompletion
+msgid "Press %s for code completion"
+msgstr "குறியீட்டு முடிப்பிற்காக %sஐ அழுத்தவும்"
+
+#: ruleregexframe.sregexanychar
+msgid "Any single character"
+msgstr "எந்த ஒற்றை எழுத்து"
+
+#: ruleregexframe.sregexanycharexact3
+msgid "A set of 3 of any characters"
+msgstr "ஏதாவதொரு எழுத்துக்குறியின் 3 தொகுப்பு"
+
+#: ruleregexframe.sregexanycharplus
+msgid "One or more of any characters"
+msgstr "ஒன்று அல்லது அதற்கு மேற்பட்ட எழுத்துக்கள்"
+
+#: ruleregexframe.sregexanycharplusgrouped
+msgid "One or more of any characters, grouped into subexpression"
+msgstr "ஒன்று அல்லது அதற்கு மேற்பட்ட எழுத்துக்குறிகள், துணைப்பிரிவில் தொகுக்கப்படுகின்றன"
+
+#: ruleregexframe.sregexanycharplusnogreedy
+msgid "One or more of any characters, but fewer as possible"
+msgstr "ஒன்று அல்லது அதற்கு மேற்பட்ட எழுத்துக்கள், ஆனால் குறைவானதாக"
+
+#: ruleregexframe.sregexanycharset2to4
+msgid "A set of 2 to 4 of any characters"
+msgstr "எந்த எழுத்துக்களில் 2 முதல் 4 வரையிலான தொகுப்புகள்"
+
+#: ruleregexframe.sregexanycharset3ormore
+msgid "A set of 3 or more of any characters"
+msgstr "எந்த எழுத்துக்களில் 3 அல்லது அதற்கு மேற்பட்ட தொகுப்பு"
+
+#: ruleregexframe.sregexanycharstar
+msgid "Zero or more of any characters"
+msgstr "எந்த எழுத்துக்களில் பூஜ்யம் அல்லது அதிக"
+
+#: ruleregexframe.sregexcharlistabc
+msgid "Any single character from the list (e.g. \"a\" or \"b\" or \"c\")"
+msgstr "பட்டியலிலிருந்து எந்த தனித்திறன் (எ.கா .: \"a\" அல்லது \"b\" அல்லது \"c\")"
+
+#: ruleregexframe.sregexcharlistaorborc
+msgid "Any one occurrence of the alternatives (e.g. \"aa\" or \"bb\" or \"cc\")"
+msgstr "மாற்றுகளின் எந்தவொரு நிகழ்வுகளும் (எ.கா .: \"aa\" அல்லது \"bb\" அல்லது \"cc\")"
+
+#: ruleregexframe.sregexcharlistatoz
+msgid "Any single character from the range (e.g. \"a\" to \"z\")"
+msgstr "வரம்புகளிலிருந்து எந்த ஒற்றை தன்மையும் (எ.கா .: \"a\" to \"z\")"
+
+#: ruleregexframe.sregexend
+msgid "End of the input text"
+msgstr "உள்ளீட்டு உரையின் முடிவு"
+
+#: ruleregexframe.sregexescapedslash
+msgid "Use an escape character to match an actual backslash \"\\\""
+msgstr "ஒரு உண்மையான பின்சாய்வுகொடுகளை பொருத்த ஒரு தப்பிக்கும் பாத்திரத்தை பயன்படுத்தவும் \" \\\""
+
+#: ruleregexframe.sregexnotcharlistabc
+msgid "Any single character except the ones from the list"
+msgstr "பட்டியலிலிருந்து எடுக்கும் எந்த ஒற்றை தன்மையும்"
+
+#: ruleregexframe.sregexspacechars
+msgid "Any single space character (space, tab, new line)"
+msgstr "எந்த ஒரு தனி எழுத்து (இடைவெளி, தாவல், புதிய வரி)"
+
+#: ruleregexframe.sregexstart
+msgid "Start of the input text"
+msgstr "உள்ளீட்டு உரையின் தொடக்கம்"
+
+#: ruleregexframe.sregexwordboundary
+msgid "Word boundary"
+msgstr "வார்த்தை எல்லை"
+
+#: ruleregexframe.sregexwordchars
+msgid "Any single alphanumeric character (including an underscore)"
+msgstr "எந்த ஒற்றை ஆல்பாஎன்யூரிக் கதாபாத்திரம் (ஒரு அடிக்கோடு உட்பட)"
+
+#: settingsform.sfailedtoapplysystemsettings
+msgid "Failed to apply system settings."
+msgstr "அமைப்பு அமைப்புகளை விண்ணப்பிக்க முடியவில்லை."
+
+#: settingsform.shinttryrunasadministrator
+msgid "(Try to start the program as administrator to apply these settings)"
+msgstr "(இந்த அமைப்புகளை பயன்படுத்துவதற்கு நிரல் நிர்வாகியை துவக்க முயற்சிக்கவும்)"
+
+#: settingsform.srealtimepreviewwarning
+msgid ""
+"Real-time update of the preview can be dangerous and its use is not recommended!\n"
+"\n"
+"It will cause graphical updates to the GUI during preview for every processed file but will also respond to any user activity such as mouse clicks and keyboard button presses. Beware, any accidental actions generated during a preview as a result of user activity within the application will interfere with the preview process and can cause unpredictable behavior.\n"
+msgstr ""
+"முன்னோட்ட நிகழ்நேர புதுப்பிப்பு ஆபத்தானது மற்றும் அதன் பயன்பாடு பரிந்துரைக்கப்படவில்லை!\n"
+"\n"
+"ஒவ்வொரு செயலாக்கப்பட்ட கோப்பிற்கும் முன்னோட்டத்தின் போது வரைகலை புதுப்பித்தல்களுக்கு இது வரைகலை புதுப்பிப்புகள் ஏற்படுத்தும், ஆனால் சுட்டி கிளிக் மற்றும் விசைப்பலகை பொத்தான் அழுத்தங்கள் போன்ற எந்த பயனர் செயல்பாட்டிற்கும் பதிலளிப்பீர்கள். பயன்பாட்டில் உள்ள பயனர் செயல்பாட்டின் விளைவாக ஒரு முன்னோட்டத்தின் போது உருவாக்கப்பட்ட தற்செயலான செயல்கள் ஜாக்கிரதை. முன்னோட்ட செயல்முறையில் குறுக்கிடுவதால் எதிர்பாராத நிகழ்வுகளை ஏற்படுத்தும்.\n"
+
+#: tform_about.caption
+msgctxt "tform_about.caption"
+msgid "About"
+msgstr "பற்றி"
+
+#: tform_about.label_author2.caption
+msgid "Author:"
+msgstr "ஆசிரியர்:"
+
+#: tform_about.label_date.caption
+msgid "Date:"
+msgstr "தேதி:"
+
+#: tform_about.label_email2.caption
+msgid "Email:"
+msgstr "மினஞ்சல்:"
+
+#: tform_about.label_version.caption
+msgid "Version:"
+msgstr "பதிப்பு:"
+
+#: tform_about.label_website2.caption
+msgid "Website:"
+msgstr "இணையத்தளம்:"
+
+#: tform_addpaths.bitbtn_add.caption
+msgctxt "TFORM_ADDPATHS.BITBTN_ADD.CAPTION"
+msgid "Add"
+msgstr "சேர்"
+
+#: tform_addpaths.bitbtn_cancel.caption
+msgctxt "TFORM_ADDPATHS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#: tform_addpaths.caption
+msgctxt "tform_addpaths.caption"
+msgid "Add Paths"
+msgstr "பாதைகளைச் சேர்"
+
+#: tform_addpaths.checkbox_workingdir.caption
+msgctxt "TFORM_ADDPATHS.CHECKBOX_WORKINGDIR.CAPTION"
+msgid "Working directory:"
+msgstr "வேலை கோப்பகம்:"
+
+#: tform_addpaths.label_enterpaths.caption
+msgid "Enter file paths:"
+msgstr "கோப்பு பாதைகளை உள்ளிடுக:"
+
+#: tform_addrule.bitbtn_add.caption
+msgctxt "TFORM_ADDRULE.BITBTN_ADD.CAPTION"
+msgid "Add Rule"
+msgstr "விதி சேர்"
+
+#: tform_addrule.bitbtn_close.caption
+msgctxt "tform_addrule.bitbtn_close.caption"
+msgid "Close"
+msgstr "மூடு"
+
+#: tform_addrule.caption
+msgctxt "TFORM_ADDRULE.CAPTION"
+msgid "Add Rule"
+msgstr "விதி சேர்"
+
+#: tform_addrule.groupbox_config.caption
+msgid "Configuration:"
+msgstr "கட்டமைப்பு:"
+
+#: tform_addrule.menuitem_ruledescription.caption
+msgid "Description"
+msgstr "விவரம்"
+
+#: tform_analyze.bb_applyrules.caption
+msgid "Apply Rules"
+msgstr "விதிகள் விண்ணப்பிக்கவும்"
+
+#: tform_analyze.caption
+msgctxt "tform_analyze.caption"
+msgid "Analyze"
+msgstr "ஆய்வு செய்"
+
+#: tform_analyze.cb_applyrulesforeachline.caption
+msgid "Apply rules for each line"
+msgstr "ஒவ்வொரு வரியிற்கும் விதிமுறைகளைப் பயன்படுத்து"
+
+#: tform_analyze.cb_autoapplyrules.caption
+msgid "Automatically apply rules"
+msgstr "விதிகள் தானாகவே பொருந்தும்"
+
+#: tform_analyze.cb_wordwrap.caption
+msgid "Line wrap"
+msgstr "வரி மடக்கு"
+
+#: tform_analyze.label_textin.caption
+msgid "Enter text that you wish to analyze:"
+msgstr "நீங்கள் பகுப்பாய்வு செய்ய விரும்பும் உரையை உள்ளிடுக:"
+
+#: tform_analyze.label_textout.caption
+msgid "Text after applying rules:"
+msgstr "விதிகள் விண்ணப்பிக்க பிறகு உரை:"
+
+#: tform_browse.bitbtn_cancel.caption
+msgctxt "TFORM_BROWSE.BITBTN_CANCEL.CAPTION"
+msgid "Close"
+msgstr "மூடு"
+
+#: tform_browse.bitbtn_ok.caption
+msgctxt "tform_browse.bitbtn_ok.caption"
+msgid "Add Folders"
+msgstr "கோப்புறைகளை சேர்"
+
+#: tform_browse.caption
+msgid "Browse"
+msgstr "உலாவு"
+
+#: tform_browse.checkbox_showhidden.caption
+msgid "Show hidden folders"
+msgstr "மறைக்கப்பட்ட கோப்புறைகள் காட்டு"
+
+#: tform_browse.checkbox_showsystem.caption
+msgid "Show system folders"
+msgstr "கணினி கோப்புறைகளை காட்டு"
+
+#: tform_browse.label_title.caption
+msgid "Select folders that you want to add:"
+msgstr "நீங்கள் சேர்க்க விரும்பும் கோப்புறைகளைத் தேர்ந்தெடுக்கவும்:"
+
+#: tform_browse.menuitem_collapseall.caption
+msgid "Collapse All"
+msgstr "அனைத்தையும் சுருக்கு"
+
+#: tform_browse.menuitem_explorefolder.caption
+msgid "Explore selected folder"
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்புறையை ஆராயுங்கள்"
+
+#: tform_browse.menuitem_gotofolder.caption
+msgctxt "TFORM_BROWSE.MENUITEM_GOTOFOLDER.CAPTION"
+msgid "Go To Folder"
+msgstr "அடைவுக்குச் செல்"
+
+#: tform_browse.menuitem_refreshtree.caption
+msgid "Refresh Tree"
+msgstr "புதுப்பிப்பு மரம்"
+
+#: tform_browse.sb_gotofolder.caption
+msgctxt "tform_browse.sb_gotofolder.caption"
+msgid "Go To"
+msgstr "செல்லுங்கள்"
+
+#: tform_browse.speedbutton_filtersettings.caption
+msgctxt "tform_browse.speedbutton_filtersettings.caption"
+msgid "Filter Settings"
+msgstr "வடிகட்டி அமைப்புகள்"
+
+#: tform_filtersettings.bitbtn_cancel.caption
+msgctxt "tform_filtersettings.bitbtn_cancel.caption"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#: tform_filtersettings.bitbtn_save.caption
+msgctxt "tform_filtersettings.bitbtn_save.caption"
+msgid "Save"
+msgstr "சேமி"
+
+#: tform_filtersettings.caption
+msgctxt "TFORM_FILTERSETTINGS.CAPTION"
+msgid "Filter Settings"
+msgstr "வடிகட்டி அமைப்புகள்"
+
+#: tform_filtersettings.cb_masksonfilename.caption
+msgid "Apply only to the file name, instead of full path."
+msgstr "முழு பாதையைத் தவிர, கோப்பு பெயருக்கு மட்டும் விண்ணப்பிக்கவும்."
+
+#: tform_filtersettings.checkbox_addfilesfromfolders.caption
+msgid "Add files within folders"
+msgstr "கோப்புகளை கோப்புறைகளில் சேர்க்கவும"
+
+#: tform_filtersettings.checkbox_addfoldersasfiles.caption
+msgid "Add folders as files"
+msgstr "கோப்புகளை கோப்புகளாக சேர்க்க"
+
+#: tform_filtersettings.checkbox_includehidden.caption
+msgid "Include hidden items"
+msgstr "மறைக்கப்பட்ட உருப்படிகளைச் சேர்"
+
+#: tform_filtersettings.checkbox_includesubfolders.caption
+msgid "Include subfolders"
+msgstr "உட்பொதிப்புகளை உள்ளிடவும்"
+
+#: tform_filtersettings.checkbox_includesystem.caption
+msgid "Include system items"
+msgstr "கணினி உருப்படிகளை சேர்க்கவும்"
+
+#: tform_filtersettings.checkbox_saveasdefault.caption
+msgctxt "TFORM_FILTERSETTINGS.CHECKBOX_SAVEASDEFAULT.CAPTION"
+msgid "Save as default for future sessions"
+msgstr "எதிர்கால அமர்வுகள் இயல்புநிலையாக சேமிக்கவும்"
+
+#: tform_filtersettings.checkbox_skiprootfoldersasfiles.caption
+msgid "Skip root folders when added as files"
+msgstr "கோப்புகளாக சேர்க்கப்பட்ட போது ரூட் கோப்புறைகளை தவிர்க்கவும்"
+
+#: tform_filtersettings.groupbox_folders.caption
+msgid "Default behavior for adding folders:"
+msgstr "கோப்புறைகளை சேர்ப்பதற்கான இயல்புநிலை நடத்தை:"
+
+#: tform_filtersettings.groupbox_masks.caption
+msgid "Masks:"
+msgstr "முகமூடிகள்:"
+
+#: tform_filtersettings.label_masksexclude.caption
+msgid "Exclude:"
+msgstr "நீக்கவும்:"
+
+#: tform_filtersettings.label_masksinclude.caption
+msgid "Include:"
+msgstr "சேர்க்கவும்:"
+
+#: tform_filtersettings.label_masksnote.caption
+msgctxt "TFORM_FILTERSETTINGS.LABEL_MASKSNOTE.CAPTION"
+msgid "Note: separate multiple masks with \";\" (semicolons)."
+msgstr "குறிப்பு: \"; \"(அரைகோலோன்களுடன்) தனித்தனியான பல முகமூடிகள்."
+
+#: tform_folderwarning.bb_cancel.caption
+msgctxt "TFORM_FOLDERWARNING.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#: tform_folderwarning.bb_continue.caption
+msgid "Continue"
+msgstr "தொடரவும்"
+
+#: tform_folderwarning.caption
+msgid "Warning: Renaming Folders"
+msgstr "எச்சரிக்கை: கோப்புறைகளை மறுபெயரிடு"
+
+#: tform_folderwarning.cb_nevershowwarning.caption
+msgid "Never show this warning"
+msgstr "இந்த எச்சரிக்கையை ஒருபோதும் காட்ட வேண்டாம்"
+
+#: tform_folderwarning.label_warning.caption
+msgid "Renaming a folder also affects all of its content. A problem can occur if you try to rename folders and their content in a single run. Items in the renaming list are processed from top to bottom. The order of items in this case is extremely important for successful renaming."
+msgstr "கோப்புறையை மறுபெயரிடுவது அதன் அனைத்து உள்ளடக்கத்தையும் பாதிக்கிறது. கோப்புப்பெயர்களையும் அதன் உள்ளடக்கத்தையும் ஒரு ஒற்றை இயக்கத்தில் மறுபெயரிடும்போது சிக்கல் ஏற்படலாம். பெயர்மாற்றி பட்டியலில் உள்ள உருப்படிகளை மேலே இருந்து கீழே செயல்படுத்தப்படும். வெற்றிகரமான பெயர்மாற்றத்திற்கு மிகவும் முக்கியமானது."
+
+#: tform_folderwarning.label_warning2.caption
+msgid "Parent folders must always appear below their contained items. This can be easily achieved by sorting items in descending order by the Folder or Path column."
+msgstr "அடைவு கோப்புறைகள் எப்போதுமே அவற்றின் உள்ளடக்கங்களைக் கீழே காண வேண்டும். இது கோப்புறை அல்லது பாதை நெடுவரிசை வரிசையில் வரிசையாக்கம் செய்வதன் மூலம் எளிதாக அடைய முடியும்."
+
+#: tform_main.action_about.caption
+msgctxt "TFORM_MAIN.ACTION_ABOUT.CAPTION"
+msgid "About"
+msgstr "பற்றி"
+
+#: tform_main.action_addfiles.caption
+msgid "Add Files"
+msgstr "கோப்புகளை சேர்"
+
+#: tform_main.action_addfolders.caption
+msgctxt "TFORM_MAIN.ACTION_ADDFOLDERS.CAPTION"
+msgid "Add Folders"
+msgstr "கோப்புறைகளை சேர்"
+
+#: tform_main.action_addpaths.caption
+msgctxt "tform_main.action_addpaths.caption"
+msgid "Add Paths"
+msgstr "பாதைகளைச் சேர்"
+
+#: tform_main.action_analyzesampletext.caption
+msgid "Analyze sample text"
+msgstr "மாதிரி உரை பகுப்பாய்வு"
+
+#: tform_main.action_applyrulestoclipboard.caption
+msgid "Apply rules to the clipboard"
+msgstr "கிளிப்போர்டுக்கு விதிகளை பயன்படுத்து"
+
+#: tform_main.action_autosizecolumns.caption
+msgid "Autosize columns"
+msgstr "பத்திகளை தானியங்குபடுத்து"
+
+#: tform_main.action_countmarkedandselectedfiles.caption
+msgid "Count marked and selected files"
+msgstr "குறிக்கப்பட்ட மற்றும் தேர்ந்தெடுக்கப்பட்ட கோப்புகளைக் கணக்கிடு"
+
+#: tform_main.action_exportasbatchfilefullpaths.caption
+msgid "Export as batch renaming file (full paths)"
+msgstr "தொகுதி மறுபெயரிடும் கோப்பு (முழு பாதைகள்) ஆக ஏற்றுமதி செய்"
+
+#: tform_main.action_exportasbatchfileonlynames.caption
+msgid "Export as batch renaming file (only names)"
+msgstr "தொகுதி மறுபெயரிடும் கோப்பாக ஏற்றுமதி செய்யுங்கள் (பெயர்கள் மட்டுமே)"
+
+#: tform_main.action_exportfilesandpreview.caption
+msgid "Export file paths and new names"
+msgstr "ஏற்றுமதி கோப்பு பாதைகளையும் புதிய பெயர்களையும் ஏற்றுமதி செய்"
+
+#: tform_main.action_exportfilesandundo.caption
+msgid "Export file paths and undo paths"
+msgstr "ஏற்றுமதி கோப்பு பாதைகளை ஏற்றுமதி செய் மற்றும் பாதைகளை செயல்தவிர்க்கும்"
+
+#: tform_main.action_exportnewnamestoclipboard.caption
+msgid "Export new names to clipboard"
+msgstr "கிளிப்போர்டுக்கு புதிய பெயர்களை ஏற்றுமதி செய்"
+
+#: tform_main.action_exportpathstoclipboard.caption
+msgid "Export paths to clipboard"
+msgstr "கிளிப்போர்டுக்கு புதிய பெயர்களை ஏற்றுமதி செய்"
+
+#: tform_main.action_filters.caption
+msgctxt "TFORM_MAIN.ACTION_FILTERS.CAPTION"
+msgid "Filters"
+msgstr "வடிப்பான்கள்"
+
+#: tform_main.action_fixconflictingnewnames.caption
+msgid "Fix conflicting new names"
+msgstr "புதிய முரண்பாடுகளை சரிசெய்தல்"
+
+#: tform_main.action_importfilesandpreview.caption
+msgid "Import file paths and new names"
+msgstr "இறக்குமதி கோப்பு பாதைகளும் புதிய பெயர்களும்"
+
+#: tform_main.action_importlistoffiles.caption
+msgid "Import files from text-list or play-list"
+msgstr "உரை-பட்டியல் அல்லது நாடக-பட்டியலிலிருந்து கோப்புகளை இறக்குமதி செய்"
+
+#: tform_main.action_importnewnamesfromclipboard.caption
+msgid "Import new names from clipboard"
+msgstr "கிளிப்போர்டிலிருந்து புதிய பெயர்களை இறக்குமதி செய்"
+
+#: tform_main.action_managepresets.caption
+msgid "Manage..."
+msgstr "நிர்வகி..."
+
+#: tform_main.action_newinstance.caption
+msgid "New Instance"
+msgstr "புதிய கருவி"
+
+#: tform_main.action_newproject.caption
+msgid "New Project"
+msgstr "புதிய திட்டம்"
+
+#: tform_main.action_pastefiles.caption
+msgid "Paste Files"
+msgstr "கோப்புகளை ஒட்டவும்"
+
+#: tform_main.action_presetsave.caption
+msgctxt "TFORM_MAIN.ACTION_PRESETSAVE.CAPTION"
+msgid "Save"
+msgstr "சேமி"
+
+#: tform_main.action_presetsaveas.caption
+msgid "Save As"
+msgstr "சேமிக்கவும்"
+
+#: tform_main.action_preview.caption
+msgctxt "TFORM_MAIN.ACTION_PREVIEW.CAPTION"
+msgid "Preview"
+msgstr "முன்னோட்டம்"
+
+#: tform_main.action_register.caption
+msgctxt "tform_main.action_register.caption"
+msgid "Register"
+msgstr "பதிவு"
+
+#: tform_main.action_rename.caption
+msgctxt "TFORM_MAIN.ACTION_RENAME.CAPTION"
+msgid "Rename"
+msgstr "மறுபெயரிடு"
+
+#: tform_main.action_settings.caption
+msgid "All Settings"
+msgstr "அனைத்து அமைப்புகளும்"
+
+#: tform_main.action_sortforrenamingfolders.caption
+msgid "Sort by path for renaming folders"
+msgstr "கோப்புறைகளை மறுபெயரிடுவதற்கான பாதை மூலம் வரிசைப்படுத்தவும்"
+
+#: tform_main.action_undorename.caption
+msgid "Undo Renaming"
+msgstr "மறுதொடக்கம் செய்க"
+
+#: tform_main.action_unregister.caption
+msgid "Unregister"
+msgstr "பதிவுநீக்கம்"
+
+#: tform_main.action_validatenewnames.caption
+msgid "Validate new names"
+msgstr "புதிய பெயர்களை சரிபார்க்கவும்"
+
+#: tform_main.listview_rules.columns[0].caption
+msgid "#"
+msgstr "#"
+
+#: tform_main.listview_rules.columns[1].caption
+msgid "Rule"
+msgstr "விதி"
+
+#: tform_main.listview_rules.columns[2].caption
+msgid "Statement"
+msgstr "அறிக்கை"
+
+#: tform_main.menuitem_addrule.caption
+msgctxt "TFORM_MAIN.MENUITEM_ADDRULE.CAPTION"
+msgid "Add Rule"
+msgstr "விதி சேர்"
+
+#: tform_main.menuitem_addruleabove.caption
+msgid "Add Rule (above)"
+msgstr "விதி சேர்(மேலே)"
+
+#: tform_main.menuitem_addrulebelow.caption
+msgid "Add Rule (below)"
+msgstr "விதி சேர்(கீழே)"
+
+#: tform_main.menuitem_analyzename.caption
+msgid "Analyze Name"
+msgstr "பெயரை ஆராய்ந்து"
+
+#: tform_main.menuitem_clearall.caption
+msgid "Clear All"
+msgstr "அனைத்தையும் அழி"
+
+#: tform_main.menuitem_clearfailed.caption
+msgid "Clear Failed"
+msgstr "தெளிவான தோல்வி"
+
+#: tform_main.menuitem_clearing.caption
+msgid "Clear"
+msgstr "தெளிவான"
+
+#: tform_main.menuitem_clearinvalid.caption
+msgid "Clear Invalid"
+msgstr "அழியாது அழி"
+
+#: tform_main.menuitem_clearmarked.caption
+msgid "Clear Marked"
+msgstr "குறிக்கப்பட்டதை அழி"
+
+#: tform_main.menuitem_clearnotmarked.caption
+msgid "Clear Not Marked"
+msgstr "தெளிவாக இல்லை குறிக்கப்பட்ட"
+
+#: tform_main.menuitem_clearrenamed.caption
+msgid "Clear Renamed"
+msgstr "தெளிவான பெயர் மாற்றம்"
+
+#: tform_main.menuitem_clearvalid.caption
+msgid "Clear Valid"
+msgstr "சரியான செல்லுபடியாகும்"
+
+#: tform_main.menuitem_duplicaterule.caption
+msgid "Duplicate Rule"
+msgstr "நகல் விதி"
+
+#: tform_main.menuitem_editnewname.caption
+msgid "Edit New Name"
+msgstr "புதிய பெயரைத் திருத்து"
+
+#: tform_main.menuitem_editrule.caption
+msgctxt "TFORM_MAIN.MENUITEM_EDITRULE.CAPTION"
+msgid "Edit Rule"
+msgstr "திருத்து விதி"
+
+#: tform_main.menuitem_exit.caption
+msgid "Exit"
+msgstr "வெளியேறு"
+
+#: tform_main.menuitem_file.caption
+msgid "File"
+msgstr "கோப்பு"
+
+#: tform_main.menuitem_help.caption
+msgctxt "tform_main.menuitem_help.caption"
+msgid "Help"
+msgstr "உதவி"
+
+#: tform_main.menuitem_invertmarking.caption
+msgid "Invert Marking"
+msgstr "திசை மாற்றி"
+
+#: tform_main.menuitem_invertselection.caption
+msgid "Invert Selection"
+msgstr "தேர்ந்தெடுத்ததைத் தேர்ந்தெடு"
+
+#: tform_main.menuitem_mark.caption
+msgctxt "TFORM_MAIN.MENUITEM_MARK.CAPTION"
+msgid "Mark"
+msgstr "மார்க்"
+
+#: tform_main.menuitem_markbymask.caption
+msgctxt "TFORM_MAIN.MENUITEM_MARKBYMASK.CAPTION"
+msgid "Mark by Mask"
+msgstr "மார்க் முகமூடி"
+
+#: tform_main.menuitem_marking.caption
+msgctxt "tform_main.menuitem_marking.caption"
+msgid "Mark"
+msgstr "மார்க்"
+
+#: tform_main.menuitem_markonlychangedexccase.caption
+msgid "Mark Only Changed (Exc. Case)"
+msgstr "மார்க் மட்டும் மாற்றப்பட்டது (வழக்கு தவிர)"
+
+#: tform_main.menuitem_markonlychangedinccase.caption
+msgid "Mark Only Changed (Inc. Case)"
+msgstr "மார்க் மட்டுமே மாற்றப்பட்டது (வழக்கு சேர்க்க)"
+
+#: tform_main.menuitem_markonlyselected.caption
+msgid "Mark Only Selected"
+msgstr "மார்க் மட்டுமே தேர்ந்தெடுக்கப்பட்டது"
+
+#: tform_main.menuitem_movedown.caption
+msgctxt "TFORM_MAIN.MENUITEM_MOVEDOWN.CAPTION"
+msgid "Down"
+msgstr "கீழே"
+
+#: tform_main.menuitem_moveup.caption
+msgctxt "TFORM_MAIN.MENUITEM_MOVEUP.CAPTION"
+msgid "Up"
+msgstr "அப்"
+
+#: tform_main.menuitem_moving.caption
+msgid "Move"
+msgstr "நகர்த்து"
+
+#: tform_main.menuitem_presets.caption
+msgctxt "tform_main.menuitem_presets.caption"
+msgid "Presets"
+msgstr "முன்னமைப்புகள்"
+
+#: tform_main.menuitem_removeallrules.caption
+msgid "Remove All Rules"
+msgstr "அனைத்து விதிகள் நீக்கவும்"
+
+#: tform_main.menuitem_removerule.caption
+msgid "Remove Rule"
+msgstr "விதி நீக்க"
+
+#: tform_main.menuitem_removeselecteditems.caption
+msgid "Remove Selected"
+msgstr "தேர்ந்தெடுத்தவற்றை நீக்கு"
+
+#: tform_main.menuitem_rulemovedown.caption
+msgid "Move Down"
+msgstr "கீழே நகர்த்து"
+
+#: tform_main.menuitem_rulemoveup.caption
+msgid "Move Up"
+msgstr "நகர்த்து"
+
+#: tform_main.menuitem_rulesmarkall.caption
+msgid "Mark All"
+msgstr "அனைத்தையும் மார்க்"
+
+#: tform_main.menuitem_rulesselectall.caption
+msgctxt "TFORM_MAIN.MENUITEM_RULESSELECTALL.CAPTION"
+msgid "Select All"
+msgstr "அனைத்தையும் தேர்ந்தெடு"
+
+#: tform_main.menuitem_rulesunmarkall.caption
+msgid "Unmark All"
+msgstr "அனைத்தும் குறிநீக்கு"
+
+#: tform_main.menuitem_selectall.caption
+msgctxt "tform_main.menuitem_selectall.caption"
+msgid "Select All"
+msgstr "அனைத்தையும் தேர்ந்தெடு"
+
+#: tform_main.menuitem_selectbyextension.caption
+msgctxt "TFORM_MAIN.MENUITEM_SELECTBYEXTENSION.CAPTION"
+msgid "Select by Extension"
+msgstr "நீட்டிப்பு மூலம் தேர்வு"
+
+#: tform_main.menuitem_selectbymask.caption
+msgctxt "TFORM_MAIN.MENUITEM_SELECTBYMASK.CAPTION"
+msgid "Select by Mask"
+msgstr "முகமூடி மூலம் தேர்வு"
+
+#: tform_main.menuitem_selectbynamelength.caption
+msgid "Select by Name Length"
+msgstr "பெயர் நீளம் மூலம் தேர்ந்தெடுக்கவும்"
+
+#: tform_main.menuitem_selecting.caption
+msgid "Select"
+msgstr "தேர்ந்தெடு"
+
+#: tform_main.menuitem_settings.caption
+msgctxt "tform_main.menuitem_settings.caption"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#: tform_main.menuitem_settingsgeneral.caption
+msgctxt "tform_main.menuitem_settingsgeneral.caption"
+msgid "General"
+msgstr "பொது"
+
+#: tform_main.menuitem_settingsmetatags.caption
+msgctxt "tform_main.menuitem_settingsmetatags.caption"
+msgid "Meta Tags"
+msgstr "மெட்டா குறிச்சொற்கள்"
+
+#: tform_main.menuitem_settingsmisc.caption
+msgid "Miscellaneous"
+msgstr "மற்றவை"
+
+#: tform_main.menuitem_settingspreview.caption
+msgctxt "tform_main.menuitem_settingspreview.caption"
+msgid "Preview"
+msgstr "முன்னோட்டம்"
+
+#: tform_main.menuitem_settingsrename.caption
+msgctxt "TFORM_MAIN.MENUITEM_SETTINGSRENAME.CAPTION"
+msgid "Rename"
+msgstr "மறுபெயரிடு"
+
+#: tform_main.menuitem_shell.caption
+msgid "Shell"
+msgstr "ஷெல்"
+
+#: tform_main.menuitem_unmark.caption
+msgid "Unmark"
+msgstr "குறிநீக்கு"
+
+#: tform_main.mi_addpresets.caption
+msgid "Import..."
+msgstr "இறக்குமதி செய் ..."
+
+#: tform_main.mi_browsepresets.caption
+msgid "Browse..."
+msgstr "உலாவு..."
+
+#: tform_main.mi_clearnotchanged.caption
+msgid "Clear Not Changed"
+msgstr "தெளிவு இல்லை மாற்றப்பட்டது"
+
+#: tform_main.mi_copyfilestoclipboard.caption
+msgid "Copy Files to Clipboard"
+msgstr "கிளிப்போர்டுக்கு கோப்புகளை நகலெடுக்கவும்"
+
+#: tform_main.mi_copyrights.caption
+msgid "Copyrights"
+msgstr "பதிப்புரிமை"
+
+#: tform_main.mi_createpresetslinks.caption
+msgctxt "tform_main.mi_createpresetslinks.caption"
+msgid "Create Links"
+msgstr "இணைப்புகள் உருவாக்கவும்"
+
+#: tform_main.mi_cutfilestoclipboard.caption
+msgid "Cut Files to Clipboard"
+msgstr "கிளிப் போர்ட்டில் கோப்புகளை வெட்டு"
+
+#: tform_main.mi_deletefiles.caption
+msgid "Delete Files to Recycle Bin"
+msgstr "மறு சுழற்சி பை கோப்புகளை நீக்கு"
+
+#: tform_main.mi_exportcolumnstoclipboard.caption
+msgid "Export all columns to clipboard"
+msgstr "அனைத்து நெடுவரிசைகளையும் கிளிப்போர்டுக்கு ஏற்றுமதி செய்"
+
+#: tform_main.mi_fileproperties.caption
+msgid "File Properties"
+msgstr "கோப்பு பண்புகள்"
+
+#: tform_main.mi_filescolumns_cancelsorting.caption
+msgctxt "TFORM_MAIN.MI_FILESCOLUMNS_CANCELSORTING.CAPTION"
+msgid "Cancel Sorting"
+msgstr "வரிசைப்படுத்தலை ரத்துசெய்"
+
+#: tform_main.mi_forum.caption
+msgid "Forum (online)"
+msgstr "கருத்துக்களம் (ஆன்லைன்)"
+
+#: tform_main.mi_help.caption
+msgid "Help (online)"
+msgstr "உதவி (ஆன்லைன்)"
+
+#: tform_main.mi_history.caption
+msgid "Version History"
+msgstr "பதிப்பு வரலாறு"
+
+#: tform_main.mi_language.caption
+msgctxt "tform_main.mi_language.caption"
+msgid "Language"
+msgstr "மொழி"
+
+#: tform_main.mi_litevspro.caption
+msgid "Lite vs Pro (online)"
+msgstr "லைட் Vs தொழிலுக்குரிய (ஆன்லைன்)"
+
+#: tform_main.mi_loadpreset.caption
+msgid "Load"
+msgstr "சுமை"
+
+#: tform_main.mi_opencontainingfolder.caption
+msgid "Open containing folder"
+msgstr "திறக்கப்பட்ட கோப்புறையைத் திற"
+
+#: tform_main.mi_openfile.caption
+msgid "Open File"
+msgstr "திறந்த கோப்பை"
+
+#: tform_main.mi_openwithnotepad.caption
+msgid "Open with Notepad"
+msgstr "நோட்பேடில் திறக்கவும்"
+
+#: tform_main.mi_purchase.caption
+msgid "Purchase (online)"
+msgstr "வாங்க (ஆன்லைன்)"
+
+#: tform_main.mi_quickguide.caption
+msgid "Quick Guide"
+msgstr "விரைவு வழிகாட்டி"
+
+#: tform_main.mi_rescanpresets.caption
+msgid "Rescan"
+msgstr "மறுபயன்பாடு"
+
+#: tform_main.mi_rulecomment.caption
+msgid "Comment..."
+msgstr "கருத்து..."
+
+#: tform_main.mi_rulestoclipboard.caption
+msgid "Export to Clipboard"
+msgstr "கிளிப்போர்டுக்கு ஏற்றுமதி செய்"
+
+#: tform_main.mi_usermanual.caption
+msgid "User Manual"
+msgstr "பயனர் கையேடு"
+
+#: tform_main.toolbutton_addrule.caption
+msgctxt "tform_main.toolbutton_addrule.caption"
+msgid "Add"
+msgstr "சேர்"
+
+#: tform_main.toolbutton_analyze.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_ANALYZE.CAPTION"
+msgid "Analyze"
+msgstr "ஆய்வு செய்"
+
+#: tform_main.toolbutton_columns.caption
+msgid "Columns"
+msgstr "பத்திகள்"
+
+#: tform_main.toolbutton_export.caption
+msgid "Export"
+msgstr "ஏற்றுமதி"
+
+#: tform_main.toolbutton_files.caption
+msgid "Files"
+msgstr "கோப்புகள்"
+
+#: tform_main.toolbutton_filters.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_FILTERS.CAPTION"
+msgid "Filters"
+msgstr "வடிப்பான்கள்"
+
+#: tform_main.toolbutton_movedownrule.caption
+msgctxt "tform_main.toolbutton_movedownrule.caption"
+msgid "Down"
+msgstr "கீழே"
+
+#: tform_main.toolbutton_moveuprule.caption
+msgctxt "tform_main.toolbutton_moveuprule.caption"
+msgid "Up"
+msgstr "அப்"
+
+#: tform_main.toolbutton_options.caption
+msgctxt "tform_main.toolbutton_options.caption"
+msgid "Options"
+msgstr "விருப்பங்கள்"
+
+#: tform_main.toolbutton_removerule.caption
+msgctxt "TFORM_MAIN.TOOLBUTTON_REMOVERULE.CAPTION"
+msgid "Remove"
+msgstr "அகற்று"
+
+#: tform_main.vst_files.header.columns[0].text
+msgid "State"
+msgstr "மாநிலம்"
+
+#: tform_main.vst_files.header.columns[10].text
+msgid "Modified"
+msgstr "மாற்றியமைக்கப்பட்டது"
+
+#: tform_main.vst_files.header.columns[11].text
+msgctxt "TFORM_MAIN.VST_FILES.HEADER.COLUMNS[11].TEXT"
+msgid "Extension"
+msgstr "நீட்டிப்பு"
+
+#: tform_main.vst_files.header.columns[12].text
+msgid "Name Digits"
+msgstr "பெயர் எண்கள்"
+
+#: tform_main.vst_files.header.columns[13].text
+msgid "Path Digits"
+msgstr "பாதை எண்கள்"
+
+#: tform_main.vst_files.header.columns[14].text
+msgid "Name Length"
+msgstr "பெயர் நீளம்"
+
+#: tform_main.vst_files.header.columns[15].text
+msgid "New Name Length"
+msgstr "புதிய பெயர் நீளம்"
+
+#: tform_main.vst_files.header.columns[16].text
+msgid "Path Length"
+msgstr ""
+
+#: tform_main.vst_files.header.columns[17].text
+msgid "New Path Length"
+msgstr ""
+
+#: tform_main.vst_files.header.columns[18].text
+msgid "Exif Date"
+msgstr "Exif தேதி"
+
+#: tform_main.vst_files.header.columns[19].text
+msgid "Old Path"
+msgstr "பழைய பாதை"
+
+#: tform_main.vst_files.header.columns[1].text
+msgid "Path"
+msgstr "பாதை"
+
+#: tform_main.vst_files.header.columns[20].text
+msgctxt "tform_main.vst_files.header.columns[20].text"
+msgid "Error"
+msgstr "பிழை"
+
+#: tform_main.vst_files.header.columns[2].text
+msgid "Folder"
+msgstr "கோப்புறை"
+
+#: tform_main.vst_files.header.columns[3].text
+msgid "Name"
+msgstr "பெயர்"
+
+#: tform_main.vst_files.header.columns[4].text
+msgid "New Name"
+msgstr "புதிய பெயர்"
+
+#: tform_main.vst_files.header.columns[5].text
+msgid "New Path"
+msgstr "புதிய பாதை"
+
+#: tform_main.vst_files.header.columns[6].text
+msgid "Size"
+msgstr "அளவு"
+
+#: tform_main.vst_files.header.columns[7].text
+msgid "Size KB"
+msgstr "அளவு KB"
+
+#: tform_main.vst_files.header.columns[8].text
+msgid "Size MB"
+msgstr "அளவு MB"
+
+#: tform_main.vst_files.header.columns[9].text
+msgid "Created"
+msgstr "உருவாக்கப்பட்டது"
+
+#: tform_metatags.bitbtn_cancel.caption
+msgctxt "TFORM_METATAGS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#: tform_metatags.bitbtn_insert.caption
+msgctxt "TFORM_METATAGS.BITBTN_INSERT.CAPTION"
+msgid "Insert"
+msgstr "சேர்க்கும்"
+
+#: tform_metatags.caption
+msgctxt "TFORM_METATAGS.CAPTION"
+msgid "Meta Tags"
+msgstr "மெட்டா குறிச்சொற்கள்"
+
+#: tform_metatags.label_note.caption
+msgid "Note: Most of the tags can only work for files, not folders."
+msgstr "குறிப்பு: குறிச்சொற்களில் பெரும்பாலானவை கோப்புகளுக்கு மட்டும் அல்ல, கோப்புறைகளுக்கு அல்ல."
+
+#: tform_presetsave.bitbtn_save.caption
+msgid "&Save"
+msgstr "சேமிக்கவும்"
+
+#: tform_presetsave.caption
+msgid "Save Preset"
+msgstr "முன்அமைப்பு சேமி"
+
+#: tform_presetsave.cb_presetsavefilters.caption
+msgid "Save Filter Settings with the preset?"
+msgstr "முன்னமைக்கப்பட்ட வடிகட்டி அமைப்புகளை சேமிக்கவா?"
+
+#: tform_presetsave.label1.caption
+msgid "Overwrite existing preset:"
+msgstr "ஏற்கனவே முன்னமைக்கப்பட்ட மேலெழுதும்:"
+
+#: tform_presetsave.le_name.editlabel.caption
+msgid "Preset Name:"
+msgstr "முன்அமைப்பு பெயர்:"
+
+#: tform_presetslinks.bb_createlinks.caption
+msgctxt "TFORM_PRESETSLINKS.BB_CREATELINKS.CAPTION"
+msgid "Create Links"
+msgstr "இணைப்புகள் உருவாக்கவும்"
+
+#: tform_presetslinks.caption
+msgid "Presets Links"
+msgstr "முன்னமைப்புகள் இணைப்புகள்"
+
+#: tform_presetslinks.label_folder.caption
+msgid "Please specify a folder where you want to place the links:"
+msgstr "இணைப்புகளை வைக்க விரும்பும் ஒரு கோப்புறையை தயவுசெய்து குறிப்பிடவும்:"
+
+#: tform_presetslinks.label_linktype.caption
+msgid "Type of links:"
+msgstr "இணைப்புகள் வகை:"
+
+#: tform_presetslinks.rb_load.caption
+msgctxt "TFORM_PRESETSLINKS.RB_LOAD.CAPTION"
+msgid "Load with Preset"
+msgstr "முன்னமைவுடன் ஏற்றவும்"
+
+#: tform_presetslinks.rb_rename.caption
+msgctxt "TFORM_PRESETSLINKS.RB_RENAME.CAPTION"
+msgid "Rename with Preset"
+msgstr "முன்னமைப்புடன் மறுபெயரிடு"
+
+#: tform_presetslinks.sb_browse.hint
+msgid "Browse for Folder"
+msgstr "கோப்புறைக்காக உலாவுக"
+
+#: tform_presetslinks.sb_usesendto.hint
+msgid "Use \"Send To\" Folder"
+msgstr "பயன்படுத்தவும் \" கோப்புறைக்கு\"அனுப்பவும்"
+
+#: tform_presetsmanager.caption
+msgid "Presets Manager"
+msgstr "முன்னமைவு மேலாளர்"
+
+#: tform_presetsmanager.tb_append.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_APPEND.HINT"
+msgid "Append Preset"
+msgstr "முன்னமைவைச் சேர்"
+
+#: tform_presetsmanager.tb_copy.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_COPY.HINT"
+msgid "Duplicate Preset"
+msgstr "முன்அமைப்பு நகல்"
+
+#: tform_presetsmanager.tb_delete.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_DELETE.HINT"
+msgid "Delete Preset (Del)"
+msgstr "முன்அமைப்பு நீக்கு (நீக்கு)"
+
+#: tform_presetsmanager.tb_edit.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_EDIT.HINT"
+msgid "Manually Edit Preset (F4)"
+msgstr "கைமுறையாக முன்னமைக்கப்பட்ட திருத்தங்கள் (F4)"
+
+#: tform_presetsmanager.tb_load.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_LOAD.HINT"
+msgid "Load Preset (Enter)"
+msgstr "முன்னமைவுகளை ஏற்றவும் (Enter)"
+
+#: tform_presetsmanager.tb_rename.hint
+msgctxt "TFORM_PRESETSMANAGER.TB_RENAME.HINT"
+msgid "Rename Preset (F2)"
+msgstr "முன்அமைப்பு மறுபெயரிடு(F2)"
+
+#: tform_register.bb_cancel.caption
+msgctxt "TFORM_REGISTER.BB_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#: tform_register.bb_register.caption
+msgctxt "TFORM_REGISTER.BB_REGISTER.CAPTION"
+msgid "Register"
+msgstr "பதிவு"
+
+#: tform_register.caption
+msgid "Registration"
+msgstr "பதிவிடுதல்"
+
+#: tform_register.label1.caption
+msgid "Please enter your registration code:"
+msgstr "உங்கள் பதிவு குறியீட்டை உள்ளிடவும்:"
+
+#: tform_settings.bitbtn_cancel.caption
+msgctxt "TFORM_SETTINGS.BITBTN_CANCEL.CAPTION"
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#: tform_settings.bitbtn_save.caption
+msgctxt "TFORM_SETTINGS.BITBTN_SAVE.CAPTION"
+msgid "Save"
+msgstr "சேமி"
+
+#: tform_settings.caption
+msgctxt "TFORM_SETTINGS.CAPTION"
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+#: tform_settings.cb_allowprocessingextensionsinfolders.caption
+msgid "Folders also have extensions, process them as such"
+msgstr "கோப்புறைகளுக்கு நீட்டிப்புகள் உள்ளன, அவற்றை செயல்படுத்துகின்றன"
+
+#: tform_settings.cb_highlightchangednames.caption
+msgid "Highlight changed file names"
+msgstr "மாற்றப்பட்ட கோப்பு பெயர்களை ஹைலைட் செய்யுங்கள்"
+
+#: tform_settings.cb_overwritewithnewnameconfirm.caption
+msgid "Must be successfully confirmed by user"
+msgstr "பயனர் வெற்றிகரமாக உறுதிப்படுத்த வேண்டும்"
+
+#: tform_settings.checkbox_addtofoldercontextmenu.caption
+msgid "Add to folders context menu"
+msgstr "கோப்புறைகள் சூழல் மெனுவில் சேர்"
+
+#: tform_settings.checkbox_addtosendtocontextmenu.caption
+msgid "Add to \"Send To\" context menu"
+msgstr "சூத்திர மெனுவிற்கு \" அனுப்பு \"க்கு சேர்"
+
+#: tform_settings.checkbox_alwaysontop.caption
+msgid "Stay on top of other windows"
+msgstr "பிற ஜன்னல்களின் மேல் தங்கியிருங்கள்"
+
+#: tform_settings.checkbox_autopreviewonfilesadded.caption
+msgid "Auto preview when new files are added"
+msgstr "புதிய கோப்புகள் சேர்க்கப்படும் போது ஆட்டோ மாதிரிக்காட்சி"
+
+#: tform_settings.checkbox_autopreviewonruleschange.caption
+msgid "Auto preview on change of rules configurations"
+msgstr "விதிமுறை கட்டமைப்புகளின் மாற்றத்தை ஆட்டோ மாதிரிக்காட்சி"
+
+#: tform_settings.checkbox_autosizetable.caption
+msgid "Auto size table on change"
+msgstr "மாற்றத்தின் மீது தானியங்கு அளவு அட்டவணை"
+
+#: tform_settings.checkbox_clearfilestableonrename.caption
+msgid "Clear files table on rename"
+msgstr "மறுபெயரிடும்போது கோப்புகளை அழித்தல்"
+
+#: tform_settings.checkbox_clearrenamedfilesonrename.caption
+msgid "Clear renamed files on rename"
+msgstr "மறுபெயரிடப்பட்ட பெயர்களை மறுபெயரிடு"
+
+#: tform_settings.checkbox_clearruleslistonrename.caption
+msgid "Clear rules list on rename"
+msgstr "மறுபெயரிடலில் தெளிவான விதிகள் பட்டியல்"
+
+#: tform_settings.checkbox_closeprogramaftersuccessfulrename.caption
+msgid "Close program after successful rename"
+msgstr "வெற்றிகரமாக மறுபெயரிட்ட பிறகு நிரலை மூடுக"
+
+#: tform_settings.checkbox_displaymsgonsuccessfulrename.caption
+msgid "Display message on successful rename"
+msgstr "வெற்றிகரமான மறுபெயரினைக் காட்டும் காட்சி செய்தி"
+
+#: tform_settings.checkbox_fixconflictingnewnamesonpreview.caption
+msgid "Fix conflicting new names on preview"
+msgstr "முன்னோட்டத்தின் புதிய முரண்பாடுகளை சரிசெய்தல்"
+
+#: tform_settings.checkbox_metatagsupport.caption
+msgid "MetaTag support"
+msgstr "மெட்டாடெக் ஆதரவு"
+
+#: tform_settings.checkbox_overwritewithnewname.caption
+msgid "Overwrite files with New Names"
+msgstr "புதிய பெயர்களுடன் கோப்புகளை மேலெழுதும்"
+
+#: tform_settings.checkbox_previewrealtimeupdate.caption
+msgid "Real-time update of the preview"
+msgstr "முன்னோட்ட நிகழ்நேர புதுப்பிப்பு"
+
+#: tform_settings.checkbox_registerpresetextension.caption
+msgid "Register preset extension (*.rnp)"
+msgstr "முன்னமைக்கப்பட்ட நீட்டிப்பு (* .rnp) பதிவு செய்யவும்"
+
+#: tform_settings.checkbox_rememberlocation.caption
+msgid "Remember position and size of major windows"
+msgstr "முக்கிய சாளரத்தின் கடைசி நிலை மற்றும் அளவு நினைவில் கொள்ளவும்"
+
+#: tform_settings.checkbox_saveandloaddefaultpreset.caption
+msgid "Save rules configuration on exit, load on startup"
+msgstr "வெளியேறும்போது விதிகள் கட்டமைப்பை சேமித்து, தொடக்கத்தில் ஏற்றவும்"
+
+#: tform_settings.checkbox_showmaintoolbar.caption
+msgid "Show main toolbar"
+msgstr ""
+
+#: tform_settings.checkbox_skiprenamingunchangedfiles.caption
+msgid "Skip renaming of unchanged files"
+msgstr "மாறாத கோப்புகளை மறுபெயரிடுவதை தவிர்"
+
+#: tform_settings.checkbox_sortingremember.caption
+msgid "Remember sorting options (files table)"
+msgstr "வரிசையாக்க விருப்பங்களை நினைவில் கொள்க (கோப்புகள் அட்டவணை)"
+
+#: tform_settings.checkbox_usenaturalsort.caption
+msgid "Use natural order sorting algorithm (2-3 times slower)"
+msgstr "இயற்கை ஒழுங்கு வரிசையாக்க வழிமுறை (2-3 முறை மெதுவாக)"
+
+#: tform_settings.checkbox_validateonpreview.caption
+msgid "Validate new filenames on preview"
+msgstr "முன்னோட்டத்தின் புதிய கோப்பு பெயர்களை உறுதிப்படுத்துக"
+
+#: tform_settings.label1.caption
+msgid "Date Format:"
+msgstr "தேதி வடிவம்:"
+
+#: tform_settings.label2.caption
+msgid "Preview:"
+msgstr "முன்னோட்டம்:"
+
+#: tform_settings.label3.caption
+msgid "Example: file1, file2 ... file9, file10, file11, and so on."
+msgstr "உதாரணம்: file1, file2 ... file9, file10, file11 மற்றும் பல."
+
+#: tform_settings.label5.caption
+msgid "Note: disabling any of these options will increase performance when processing large amount of files."
+msgstr "குறிப்பு: பெரிய அளவு கோப்புகளை செயலாக்கும் போது இந்த விருப்பத்தேர்வுகளை செயலிழக்க செயல்திறன் அதிகரிக்கும்."
+
+#: tform_settings.label_addrulestext.caption
+msgid "Change text of \"Click here to add a rule\":"
+msgstr "உரை மாற்றவும் \" ஒரு விதி சேர்க்க இங்கே சொடுக்கவும் \":"
+
+#: tform_settings.label_dragfilestext.caption
+msgid "Change text of \"Drag your files here\":"
+msgstr "உரை மாற்றவும் \"உங்கள் கோப்புகளை இங்கு இழுக்கவும் \":"
+
+#: tform_settings.label_metatagformatnote.caption
+msgid "Note: formats will be saved only if validated successfully."
+msgstr "குறிப்பு: வடிவமைப்பு வெற்றிகரமாக சரிபார்க்கப்பட்டால் மட்டுமே சேமிக்கப்படும்."
+
+#: tform_settings.speedbutton_filtersettings.caption
+msgid "Configure Filter Settings"
+msgstr "வடிகட்டி அமைப்புகளை உள்ளமைக்கவும்"
+
+#: tform_settings.speedbutton_metatagformatsinfo.caption
+msgctxt "TFORM_SETTINGS.SPEEDBUTTON_METATAGFORMATSINFO.CAPTION"
+msgid "Help"
+msgstr "உதவி"
+
+#: tform_settings.speedbutton_metatagformatsinfo.hint
+msgctxt "TFORM_SETTINGS.SPEEDBUTTON_METATAGFORMATSINFO.HINT"
+msgid "Online Help (F1)"
+msgstr "ஆன்லைன் உதவி (F1)"
+
+#: tform_settings.statictext1.caption
+msgid "Note: Disabling MetaTag support will increase performance when processing large amount of files."
+msgstr "குறிப்பு: பெரிய அளவு கோப்புகளை செயலாக்கும் போது MetaTag ஆதரவை முடக்குவது செயல்திறனை அதிகரிக்கும்."
+
+#: tform_settings.statictext5.caption
+msgid "Warning: Overwritten files will be deleted permanently."
+msgstr "எச்சரிக்கை: மேலெழுதப்பட்ட கோப்புகள் நிரந்தரமாக நீக்கப்படும்."
+
+#: tform_settings.tabsheet_general.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_GENERAL.CAPTION"
+msgid "General"
+msgstr "பொது"
+
+#: tform_settings.tabsheet_metatags.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_METATAGS.CAPTION"
+msgid "Meta Tags"
+msgstr "மெட்டா குறிச்சொற்கள்"
+
+#: tform_settings.tabsheet_misc.caption
+msgid "Misc."
+msgstr "மற்றவை"
+
+#: tform_settings.tabsheet_preview.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_PREVIEW.CAPTION"
+msgid "Preview"
+msgstr "முன்னோட்டம்"
+
+#: tform_settings.tabsheet_rename.caption
+msgctxt "TFORM_SETTINGS.TABSHEET_RENAME.CAPTION"
+msgid "Rename"
+msgstr "மறுபெயரிடு"
+
+#: tform_termsofuse.bb_accept.caption
+msgid "Accept"
+msgstr "ஏற்கிறேன்"
+
+#: tform_termsofuse.bb_litevspro.caption
+msgid "Lite vs Pro"
+msgstr "லைட் Vs தொழிலுக்குரிய"
+
+#: tform_termsofuse.bb_purchase.caption
+msgid "Purchase"
+msgstr "கொள்முதல்"
+
+#: tform_termsofuse.bb_register.caption
+msgid "Enter registration code"
+msgstr "பதிவு குறியீட்டை உள்ளிடவும்"
+
+#: tform_termsofuse.caption
+msgid "Terms of Use"
+msgstr "பயன்பாட்டு விதிமுறைகள்"
+
+#: tform_termsofuse.groupbox.caption
+msgid "Please be aware of the terms of use of this application:"
+msgstr "தயவுசெய்து இந்த பயன்பாட்டின் பயன்பாட்டு விதிமுறைகளை அறிந்து கொள்ளுங்கள்:"
+
+#: tform_termsofuse.label_commercial.caption
+msgid "For commercial use you must obtain a commercial license by going to the website. If you already hold a license please enter your registration code. Thank you for playing fair."
+msgstr "வணிக பயன்பாட்டிற்கு நீங்கள் வலைத்தளத்திற்கு செல்லுவதன் மூலம் ஒரு வணிக உரிமம் பெற வேண்டும், நீங்கள் ஏற்கனவே உரிமம் வைத்திருந்தால், உங்கள் பதிவு குறியீட்டை உள்ளிடவும்."
+
+#: tform_termsofuse.label_noncommercial.caption
+msgctxt "TFORM_TERMSOFUSE.LABEL_NONCOMMERCIAL.CAPTION"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "இந்த பயன்பாடானது அல்லாத வணிக நோக்கங்களுக்காகவும் பொருத்தமான பண்புகளுடன் மட்டுமே விநியோகிக்கப்படுகிறது."
+
+#: tform_termsofuse.label_supportdevelopment.caption
+msgid "Please also consider purchasing a \"Pro\" version to support the future development of this application."
+msgstr "இந்த பயன்பாட்டின் எதிர்கால வளர்ச்சியை ஆதரிக்க, \" தொழிலுக்குரிய  \"பதிப்பு வாங்குவதை கவனமாகக் கொள்ளவும்."
+
+#: tframe_rulecase.checkbox_caseextensionalwayslowercase.caption
+msgid "Extension always lower case"
+msgstr "நீட்டிப்பு எப்போதும் குறைந்த வழக்கு"
+
+#: tframe_rulecase.checkbox_caseextensionalwaysuppercase.caption
+msgid "Extension always upper case"
+msgstr "நீட்டிப்பு எப்போதும் மேல் வழக்கு"
+
+#: tframe_rulecase.checkbox_caseforce.caption
+msgid "Force case for fragments:"
+msgstr "துண்டுகள் வழக்கு கட்டாயமாக்குதல்:"
+
+#: tframe_rulecase.checkbox_caseskipextension.caption
+msgctxt "tframe_rulecase.checkbox_caseskipextension.caption"
+msgid "Skip extension"
+msgstr "நீட்டிப்பு தவிர்"
+
+#: tframe_rulecase.groupbox_casechange.caption
+msgid "Case change:"
+msgstr "வழக்கு மாற்றம்:"
+
+#: tframe_rulecase.label_caseforcehint.caption
+msgid "Hint: fragments separated with comma will be put in the same case as they are typed in this text box, for example: CD,DVD,DJ"
+msgstr "குறிப்பு: குறிப்பைப் பிரிக்கப்பட்ட துண்டுகள், இந்த உரை பெட்டியில் தட்டச்சு செய்த அதே விஷயத்தில் வைக்கப்படும், உதாரணமாக: சிடி, டிவிடி, டி.ஜே"
+
+#: tframe_rulecase.rb_casealllower.caption
+msgid "all lower case"
+msgstr "அனைத்துக் குறைந்த வழக்கு"
+
+#: tframe_rulecase.rb_caseallupper.caption
+msgid "ALL UPPER CASE"
+msgstr "அனைத்து மேல்நிலைகளும்"
+
+#: tframe_rulecase.rb_casecapitalize.caption
+msgid "Capitalize Every Word"
+msgstr "ஒவ்வொரு வார்த்தையும் மூலதனமாக்கு"
+
+#: tframe_rulecase.rb_casecapitalizeandpreserve.caption
+msgid "Capitalize AND Preserve"
+msgstr "மூலதனம் மற்றும் பாதுகாத்தல்"
+
+#: tframe_rulecase.rb_casefirstlettercapital.caption
+msgctxt "TFRAME_RULECASE.RB_CASEFIRSTLETTERCAPITAL.CAPTION"
+msgid "First letter capital"
+msgstr "முதல் எழுத்து மூலதனம்"
+
+#: tframe_rulecase.rb_caseinvert.caption
+msgid "iNVERT cASE"
+msgstr "வழக்கு தலைகிழாக்கு"
+
+#: tframe_rulecase.rb_noneofabove.caption
+msgid "(none of the above)"
+msgstr "(மேலே இல்லை)"
+
+#: tframe_rulecleanup.cb_insertspacebeforecapitals.caption
+msgid "Insert a space in front of capitalized letters (e.g. CamelCase)"
+msgstr "மூலதன எழுத்துக்களுக்கு முன்னால் இடைவெளி சேர்க்கவும் (எ.கா. CamelCase)"
+
+#: tframe_rulecleanup.cb_normalizespaces.caption
+msgid "Normalize unicode spaces by replacing them with a standard space"
+msgstr "ஒரு நிலையான இடத்தை மாற்றுவதன் மூலம் யூனிகோட் இடைவெளிகளை மாற்றியமைக்கவும்"
+
+#: tframe_rulecleanup.checkbox_prepareforsharepoint.caption
+msgid "Prepare for SharePoint (always inc. extension)"
+msgstr "ஷேர்பாயிண்ட் (எப்போதும் IN நீட்டிப்பு நீட்டிப்பு) தயாராகுங்கள்"
+
+#: tframe_rulecleanup.checkbox_skipextension.caption
+msgctxt "TFRAME_RULECLEANUP.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "நீட்டிப்பு தவிர்"
+
+#: tframe_rulecleanup.checkbox_spacescomma.caption
+msgid ", (comma)"
+msgstr ",(காற்புள்ளி)"
+
+#: tframe_rulecleanup.checkbox_spacesdot.caption
+msgid ". (dot)"
+msgstr ". (புள்ளி)"
+
+#: tframe_rulecleanup.checkbox_spacesfix.caption
+msgid "Fix spaces: only one space at a time, no spaces on sides of basename"
+msgstr "இடைவெளிகளை சரி செய்யுங்கள்: ஒரே நேரத்தில் ஒரு இடம், basename பக்கங்களில் எந்த இடமும் இல்லை"
+
+#: tframe_rulecleanup.checkbox_spacesskipversions.caption
+msgid "Skip number sequences, for example version 1.2.3.4"
+msgstr "எண் வரிசைகளை தவிர்க்கவும், எடுத்துக்காட்டாக பதிப்பு 1.2.3.4"
+
+#: tframe_rulecleanup.checkbox_stripunicodemarks.caption
+msgid "Strip unicode marks (combining, diacritics, accents)"
+msgstr ""
+
+#: tframe_rulecleanup.groupbox1.caption
+msgid "Replace these characters with spaces:"
+msgstr "இந்த எழுத்துக்களை இடைவெளிகளுடன் மாற்றவும்:"
+
+#: tframe_rulecleanup.groupbox_brackets.caption
+msgid "Strip out content of brackets:"
+msgstr "அடைப்புக்குறிக்குள் உள்ளடக்கத்தை அகற்றவும்:"
+
+#: tframe_ruledelete.checkbox_deletecurrentname.caption
+msgctxt "TFRAME_RULEDELETE.CHECKBOX_DELETECURRENTNAME.CAPTION"
+msgid "Delete current name"
+msgstr "தற்போதைய பெயரை நீக்கு"
+
+#: tframe_ruledelete.checkbox_deleterighttoleft.caption
+msgctxt "tframe_ruledelete.checkbox_deleterighttoleft.caption"
+msgid "Right-to-left"
+msgstr "வலது-முதல்-இடது"
+
+#: tframe_ruledelete.checkbox_deleteskipextension.caption
+msgctxt "TFRAME_RULEDELETE.CHECKBOX_DELETESKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "நீட்டிப்பு தவிர்"
+
+#: tframe_ruledelete.checkbox_leavedelimiter.caption
+msgid "Do not remove delimiters"
+msgstr "பிழைகள் நீக்க வேண்டாம்"
+
+#: tframe_ruledelete.groupbox_from.caption
+msgid "From:"
+msgstr "இருந்து:"
+
+#: tframe_ruledelete.groupbox_until.caption
+msgid "Until:"
+msgstr "வரை:"
+
+#: tframe_ruledelete.radiobutton_deletefromdelimiter.caption
+msgctxt "tframe_ruledelete.radiobutton_deletefromdelimiter.caption"
+msgid "Delimiter:"
+msgstr "பிழைத்திருத்தம்:"
+
+#: tframe_ruledelete.radiobutton_deletefromposition.caption
+msgctxt "tframe_ruledelete.radiobutton_deletefromposition.caption"
+msgid "Position:"
+msgstr "நிலை:"
+
+#: tframe_ruledelete.radiobutton_deleteuntilcount.caption
+msgid "Count:"
+msgstr "எண்ணிக்கை:"
+
+#: tframe_ruledelete.radiobutton_deleteuntildelimiter.caption
+msgctxt "TFRAME_RULEDELETE.RADIOBUTTON_DELETEUNTILDELIMITER.CAPTION"
+msgid "Delimiter:"
+msgstr "பிழைத்திருத்தம்:"
+
+#: tframe_ruledelete.radiobutton_deleteuntilend.caption
+msgid "Till the end"
+msgstr "இறுதி வரை"
+
+#: tframe_ruleextension.checkbox_detectbinsign.caption
+msgid "Detect using \"binary signature\""
+msgstr "\"பைனரி கையொப்பத்தை\" பயன்படுத்தி கண்டறி"
+
+#: tframe_ruleextension.checkbox_extensionappend.caption
+msgid "Append to the original filename"
+msgstr "அசல் கோப்புப்பெயருடன் சேர்"
+
+#: tframe_ruleextension.label_extensionlabel.caption
+msgid "New Extension (without dot):"
+msgstr "புதிய நீட்டிப்பு (புள்ளியில்லாமல்)"
+
+#: tframe_ruleextension.label_hint.caption
+msgid "Note: Some files may have multiple extensions matching their data type, for example: doc/ppt/xls have the same signature. Unrecognised files will remain unchanged. If this option is used, the new extension field is ignored."
+msgstr "குறிப்பு: சில கோப்புகள் அவற்றின் தரவு வகையைப் பொருத்து பல நீட்டிப்புகளைக் கொண்டிருக்கலாம், உதாரணமாக: doc / ppt / xls க்கு ஒரே கையொப்பம் உள்ளது. அங்கீகரிக்கப்படாத கோப்புகள் மாறாமல் இருக்கும். இந்த விருப்பத்தை பயன்படுத்தினால், புதிய நீட்டிப்பு புலம் புறக்கணிக்கப்படும்."
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.caption
+msgctxt "TFRAME_RULEINSERT.BITBTN_INSERTMETATAG.CAPTION"
+msgid "Insert Meta Tag"
+msgstr "மெட்டா டேக் செருகவும்"
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.hint
+msgctxt "TFRAME_RULEINSERT.BITBTN_INSERTMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "மெட்டா டேக் செருக (Ctrl + Ins)"
+
+#: tframe_ruleinsert.checkbox_insertright.caption
+msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTRIGHT.CAPTION"
+msgid "Right-to-left"
+msgstr "வலது-இடது"
+
+#: tframe_ruleinsert.checkbox_insertskipextension.caption
+msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTSKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "நீட்டிப்பு தவிர்"
+
+#: tframe_ruleinsert.label_insertwhat.caption
+msgid "Insert:"
+msgstr "சேர்க்கும்:"
+
+#: tframe_ruleinsert.label_insertwhere.caption
+msgid "Where:"
+msgstr "எங்கே:"
+
+#: tframe_ruleinsert.radiobutton_insertaftertext.caption
+msgid "After text:"
+msgstr "உரைக்குப் பிறகு:"
+
+#: tframe_ruleinsert.radiobutton_insertbeforetext.caption
+msgid "Before text:"
+msgstr "உரைக்கு முன்:"
+
+#: tframe_ruleinsert.radiobutton_insertposition.caption
+msgctxt "TFRAME_RULEINSERT.RADIOBUTTON_INSERTPOSITION.CAPTION"
+msgid "Position:"
+msgstr "நிலை:"
+
+#: tframe_ruleinsert.radiobutton_insertprefix.caption
+msgctxt "tframe_ruleinsert.radiobutton_insertprefix.caption"
+msgid "Prefix"
+msgstr "முன்னுரை"
+
+#: tframe_ruleinsert.radiobutton_insertsuffix.caption
+msgctxt "tframe_ruleinsert.radiobutton_insertsuffix.caption"
+msgid "Suffix"
+msgstr "பின்னொட்டு"
+
+#: tframe_ruleinsert.radiobutton_replacecurrentname.caption
+msgctxt "TFRAME_RULEINSERT.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
+msgid "Replace current name"
+msgstr "தற்போதைய பெயரை மாற்றவும்"
+
+#: tframe_rulepadding.checkbox_addtextpadding.caption
+msgid "Add padding to length:"
+msgstr "நீளத்திற்கு padding நீளம்:"
+
+#: tframe_rulepadding.checkbox_addzeropadding.caption
+msgid "Add zero padding to length:"
+msgstr "சுழற்சியை நீளத்திற்கு நீட்டவும்:"
+
+#: tframe_rulepadding.checkbox_removezeropadding.caption
+msgctxt "tframe_rulepadding.checkbox_removezeropadding.caption"
+msgid "Remove zero padding"
+msgstr "பூஜ்ஜியத்தை நீக்கவும்"
+
+#: tframe_rulepadding.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEPADDING.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "நீட்டிப்பு தவிர்"
+
+#: tframe_rulepadding.groupbox_numbersequences.caption
+msgid "Number sequences"
+msgstr "எண் வரிசைமுறைகள்"
+
+#: tframe_rulepadding.groupbox_textpadding.caption
+msgid "Text padding"
+msgstr "உரை திணிப்பு"
+
+#: tframe_rulepadding.label_paddingcharacters.caption
+msgid "Padding characters:"
+msgstr "திணிப்பு எழுத்துகள்:"
+
+#: tframe_rulepadding.label_position.caption
+msgctxt "TFRAME_RULEPADDING.LABEL_POSITION.CAPTION"
+msgid "Position:"
+msgstr "நிலை:"
+
+#: tframe_rulepadding.radiobutton_positionleft.caption
+msgid "Left"
+msgstr "இடது"
+
+#: tframe_rulepadding.radiobutton_positionright.caption
+msgid "Right"
+msgstr "வலது"
+
+#: tframe_rulepascalscript.toolbutton_compile.caption
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_COMPILE.CAPTION"
+msgid "Try to Compile"
+msgstr "தொகுக்க முயற்சிக்கவும்"
+
+#: tframe_rulepascalscript.toolbutton_compile.hint
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_COMPILE.HINT"
+msgid "Try to Compile (Ctrl+T)"
+msgstr "தொகுக்க முயற்சிக்கவும் (Ctrl + T)"
+
+#: tframe_rulepascalscript.toolbutton_gotoline.caption
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_GOTOLINE.CAPTION"
+msgid "Go To"
+msgstr "செல்லுங்கள்"
+
+#: tframe_rulepascalscript.toolbutton_gotoline.hint
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_GOTOLINE.HINT"
+msgid "Go To Line (Ctrl+G)"
+msgstr "வரிக்கு செல்க (Ctrl + G)"
+
+#: tframe_rulepascalscript.toolbutton_help.caption
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_HELP.CAPTION"
+msgid "Help"
+msgstr "உதவி"
+
+#: tframe_rulepascalscript.toolbutton_help.hint
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_HELP.HINT"
+msgid "Online Help (F1)"
+msgstr "ஆன்லைன் உதவி (F1)"
+
+#: tframe_rulepascalscript.toolbutton_scripts.caption
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_SCRIPTS.CAPTION"
+msgid "Scripts"
+msgstr "ஸ்கிரிப்டுகள்"
+
+#: tframe_rulepascalscript.toolbutton_scripts.hint
+msgctxt "TFRAME_RULEPASCALSCRIPT.TOOLBUTTON_SCRIPTS.HINT"
+msgid "Scripts (Ctrl+L)"
+msgstr "எழுத்துக்கள் (Ctrl + L)"
+
+#: tframe_rulerandomize.checkbox_skipextension.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "நீட்டிப்பு தவிர்"
+
+#: tframe_rulerandomize.checkbox_unique.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_UNIQUE.CAPTION"
+msgid "Unique if possible"
+msgstr "முடிந்தால் தனித்தன்மை"
+
+#: tframe_rulerandomize.checkbox_usedigits.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_USEDIGITS.CAPTION"
+msgid "Digits (0..9)"
+msgstr "இலக்கங்கள் (0..9)"
+
+#: tframe_rulerandomize.checkbox_useenglishletters.caption
+msgid "English letters (a..z)"
+msgstr "ஆங்கில எழுத்துக்கள் (a..z)"
+
+#: tframe_rulerandomize.checkbox_useuserdefined.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_USEUSERDEFINED.CAPTION"
+msgid "User defined:"
+msgstr "பயனர் வரையறுக்கப்பட்ட:"
+
+#: tframe_rulerandomize.groupbox_characters.caption
+msgctxt "TFRAME_RULERANDOMIZE.GROUPBOX_CHARACTERS.CAPTION"
+msgid "Characters to use:"
+msgstr "பயன்படுத்தக் கூடிய எழுத்துகள்:"
+
+#: tframe_rulerandomize.groupbox_insertwhere.caption
+msgctxt "TFRAME_RULERANDOMIZE.GROUPBOX_INSERTWHERE.CAPTION"
+msgid "Insert where:"
+msgstr "எங்கே சேர்க்க வேண்டும்:"
+
+#: tframe_rulerandomize.label_length.caption
+msgctxt "TFRAME_RULERANDOMIZE.LABEL_LENGTH.CAPTION"
+msgid "Length of random sequence:"
+msgstr "சீரற்ற காட்சியின் நீளம்:"
+
+#: tframe_rulerandomize.radiobutton_position.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_POSITION.CAPTION"
+msgid "Position:"
+msgstr "நிலை:"
+
+#: tframe_rulerandomize.radiobutton_prefix.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_PREFIX.CAPTION"
+msgid "Prefix"
+msgstr "முன்னுரை"
+
+#: tframe_rulerandomize.radiobutton_replacecurrentname.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
+msgid "Replace current name"
+msgstr "தற்போதைய பெயரை மாற்றவும்"
+
+#: tframe_rulerandomize.radiobutton_suffix.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_SUFFIX.CAPTION"
+msgid "Suffix"
+msgstr "சுபி"
+
+#: tframe_rulerearrange.cb_righttoleft.caption
+msgctxt "TFRAME_RULEREARRANGE.CB_RIGHTTOLEFT.CAPTION"
+msgid "Right-to-left"
+msgstr "வலது-இடது"
+
+#: tframe_rulerearrange.cb_skipextension.caption
+msgctxt "TFRAME_RULEREARRANGE.CB_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "நீட்டிப்பு தவிர்"
+
+#: tframe_rulerearrange.label1.caption
+msgid "Split using:"
+msgstr "பயன்படுத்திப் பிரித்தல்:"
+
+#: tframe_rulerearrange.label2.caption
+msgid "New pattern:"
+msgstr "புதிய முறை:"
+
+#: tframe_rulerearrange.label3.caption
+msgid "Hint: Use $1..$N to reference delimited parts in the new pattern, $-1..$-N to reference from the end, $0 for the original name."
+msgstr "குறிப்பு: $1 ஐ பயன்படுத்தவும். புதிய வடிவத்தில் குறிப்பிடப்பட்ட பகுதிகள், $-1 .. $-N முடிவிலிருந்து குறிப்புக்கு $ அசல் பெயருக்கு $0 ஐ பயன்படுத்தவும்."
+
+#: tframe_rulerearrange.rb_usingdelimiters.caption
+msgid "Delimiters"
+msgstr "டிலிமிட்டர்ஸ்"
+
+#: tframe_rulerearrange.rb_usingexactpatternofdelimiters.caption
+msgid "Exact pattern of delimiters"
+msgstr "சரியாக வரையப்பட்ட மாதிரி"
+
+#: tframe_rulerearrange.rb_usingpositions.caption
+msgid "Positions"
+msgstr "நிலைகள்"
+
+#: tframe_rulerearrange.sb_addseparator.hint
+msgctxt "tframe_rulerearrange.sb_addseparator.hint"
+msgid "Separate multiple items"
+msgstr "பல உருப்படிகளை பிரிக்கவும்"
+
+#: tframe_rulerearrange.sb_insertmetatag.hint
+msgctxt "TFRAME_RULEREARRANGE.SB_INSERTMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "மெட்டா டேக் செருகவும் (Ctrl+Ins)"
+
+#: tframe_rulereformatdate.checkbox_adjusttime.caption
+msgid "Adjust time by:"
+msgstr ""
+
+#: tframe_rulereformatdate.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREFORMATDATE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "நீட்டிப்பு தவிர்"
+
+#: tframe_rulereformatdate.checkbox_usecustomlongmonths.caption
+msgid "Use custom long months:"
+msgstr "விருப்ப நீண்ட மாதங்களைப் பயன்படுத்துக:"
+
+#: tframe_rulereformatdate.checkbox_usecustomshortmonths.caption
+msgid "Use custom short months:"
+msgstr "தனிப்பயன் குறுகிய மாதங்களைப் பயன்படுத்தவும்:"
+
+#: tframe_rulereformatdate.checkbox_wholewordsonly.caption
+msgid "Match as whole words only"
+msgstr "முழு வார்த்தைகளோடு மட்டும் போட்டி"
+
+#: tframe_rulereformatdate.label_inputformats.caption
+msgid "Find date/time formats:"
+msgstr "தேதி / நேர வடிவங்களைக் கண்டறிதல்:"
+
+#: tframe_rulereformatdate.label_outputformat.caption
+msgid "Convert to date/time format:"
+msgstr "தேதி / நேரம் வடிவமைப்பில் மாற்றவும்:"
+
+#: tframe_rulereformatdate.menuitem_addseparator.caption
+msgctxt "TFRAME_RULEREFORMATDATE.MENUITEM_ADDSEPARATOR.CAPTION"
+msgid "Separate multiple items"
+msgstr "பல உருப்படிகளை பிரிக்கவும்"
+
+#: tframe_rulereformatdate.menuitem_datetimeformathelp.caption
+msgid "Date/time format reference (online)"
+msgstr "தேதி / நேர வடிவமைப்பு குறிப்பு (ஆன்லைன்)"
+
+#: tframe_ruleregex.checkbox_casesensitive.caption
+msgid "Case-sensitive"
+msgstr "வழக்கு-உணர்திறன்"
+
+#: tframe_ruleregex.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREGEX.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "நீட்டிப்பு தவிர்"
+
+#: tframe_ruleregex.label1.caption
+msgid "Hint: Use $1..$9 to reference subexpressions."
+msgstr "குறிப்பு: $1 பயன்படுத்துக. $9 துணை உபப் பதிவுகள்."
+
+#: tframe_ruleregex.label4.caption
+msgid "Expression:"
+msgstr "எக்ஸ்பிரஷன்:"
+
+#: tframe_ruleregex.label5.caption
+msgctxt "tframe_ruleregex.label5.caption"
+msgid "Replace:"
+msgstr "மாற்றவும்:"
+
+#: tframe_ruleregex.sb_insertexpression.hint
+msgid "Insert expression (Ctrl+Ins)"
+msgstr "செருகும் வெளிப்பாடு (Ctrl+Ins)"
+
+#: tframe_ruleregex.speedbutton_help.caption
+msgctxt "TFRAME_RULEREGEX.SPEEDBUTTON_HELP.CAPTION"
+msgid "Help"
+msgstr "உதவி"
+
+#: tframe_ruleregex.speedbutton_help.hint
+msgctxt "TFRAME_RULEREGEX.SPEEDBUTTON_HELP.HINT"
+msgid "Online Help (F1)"
+msgstr "ஆன்லைன் உதவி (F1)"
+
+#: tframe_ruleremove.checkbox_casesensitive.caption
+msgctxt "tframe_ruleremove.checkbox_casesensitive.caption"
+msgid "Case sensitive"
+msgstr "கேஸ் முக்கியம்"
+
+#: tframe_ruleremove.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREMOVE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "நீட்டிப்பு தவிர்"
+
+#: tframe_ruleremove.checkbox_usewildcards.caption
+msgid "Interpret symbols '?', '*', '[', ']' as wildcards?"
+msgstr "குறியீடுகளை விளக்குவது? ',' * ',' [','] 'வைல்டு கார்டுகளாக?"
+
+#: tframe_ruleremove.checkbox_wholewordsonly.caption
+msgctxt "TFRAME_RULEREMOVE.CHECKBOX_WHOLEWORDSONLY.CAPTION"
+msgid "Whole words only"
+msgstr "முழு வார்த்தைகள் மட்டுமே"
+
+#: tframe_ruleremove.label_removeoccurances.caption
+msgctxt "tframe_ruleremove.label_removeoccurances.caption"
+msgid "Occurrences:"
+msgstr "நிகழ்வுகள்:"
+
+#: tframe_ruleremove.label_removewhat.caption
+msgid "Remove:"
+msgstr "நீக்கு:"
+
+#: tframe_ruleremove.radiobutton_removeall.caption
+msgctxt "tframe_ruleremove.radiobutton_removeall.caption"
+msgid "All"
+msgstr "அனைத்து"
+
+#: tframe_ruleremove.radiobutton_removefirst.caption
+msgctxt "tframe_ruleremove.radiobutton_removefirst.caption"
+msgid "First"
+msgstr "முதல்"
+
+#: tframe_ruleremove.radiobutton_removelast.caption
+msgctxt "tframe_ruleremove.radiobutton_removelast.caption"
+msgid "Last"
+msgstr "கடைசி"
+
+#: tframe_ruleremove.speedbutton_removeaddseparator.hint
+msgctxt "TFRAME_RULEREMOVE.SPEEDBUTTON_REMOVEADDSEPARATOR.HINT"
+msgid "Separate multiple items"
+msgstr "பல உருப்படிகளை பிரிக்கவும்"
+
+#: tframe_rulereplace.checkbox_casesensitive.caption
+msgctxt "TFRAME_RULEREPLACE.CHECKBOX_CASESENSITIVE.CAPTION"
+msgid "Case sensitive"
+msgstr "கேஸ் முக்கியம்"
+
+#: tframe_rulereplace.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEREPLACE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "நீட்டிப்பு தவிர்"
+
+#: tframe_rulereplace.checkbox_usewildcards.caption
+msgid "Interpret '?', '*', '[', ']' as wildcards and '$n' as backreferences?"
+msgstr "வினைச்சொல் '?', '*', '[', ']' வைல்டு கார்டுகளாகவும், '$ n' backreferences எனவும்?"
+
+#: tframe_rulereplace.checkbox_wholewordsonly.caption
+msgctxt "tframe_rulereplace.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "முழு வார்த்தைகள் மட்டுமே"
+
+#: tframe_rulereplace.label_replaceoccurances.caption
+msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEOCCURANCES.CAPTION"
+msgid "Occurrences:"
+msgstr "நிகழ்வுகள்:"
+
+#: tframe_rulereplace.label_replacewhat.caption
+msgid "Find:"
+msgstr "கண்டுபிடி:"
+
+#: tframe_rulereplace.label_replacewith.caption
+msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEWITH.CAPTION"
+msgid "Replace:"
+msgstr "மாற்றவும்:"
+
+#: tframe_rulereplace.radiobutton_replaceall.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACEALL.CAPTION"
+msgid "All"
+msgstr "அனைத்து"
+
+#: tframe_rulereplace.radiobutton_replacefirst.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACEFIRST.CAPTION"
+msgid "First"
+msgstr "முதல்"
+
+#: tframe_rulereplace.radiobutton_replacelast.caption
+msgctxt "TFRAME_RULEREPLACE.RADIOBUTTON_REPLACELAST.CAPTION"
+msgid "Last"
+msgstr "கடைசி"
+
+#: tframe_rulereplace.speedbutton_replaceaddseparator.hint
+msgctxt "TFRAME_RULEREPLACE.SPEEDBUTTON_REPLACEADDSEPARATOR.HINT"
+msgid "Separate multiple items"
+msgstr "பல உருப்படிகளை பிரிக்கவும்"
+
+#: tframe_rulereplace.speedbutton_replacewithmetatag.hint
+msgctxt "TFRAME_RULEREPLACE.SPEEDBUTTON_REPLACEWITHMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "மெட்டா டேக் செருக (Ctrl + Ins)"
+
+#: tframe_ruleserialize.cb_resetevery.caption
+msgid "Reset every:"
+msgstr "ஒவ்வொன்றும் மீட்டமை:"
+
+#: tframe_ruleserialize.checkbox_resetiffilenamechanges.caption
+msgid "Reset if file name changes"
+msgstr "கோப்பு பெயரை மாற்றினால் மீட்டமைக்க"
+
+#: tframe_ruleserialize.checkbox_resetiffolderchanges.caption
+msgid "Reset if folder changes"
+msgstr "கோப்புறையை மாற்றுகிறது என்றால் மீட்டமை"
+
+#: tframe_ruleserialize.checkbox_serializepadtolength.caption
+msgid "Pad with zeros to length:"
+msgstr "பூஜ்ஜியங்களை நீளத்துடன் இணைக்க:"
+
+#: tframe_ruleserialize.checkbox_skipextension.caption
+msgctxt "TFRAME_RULESERIALIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "நீட்டிப்பு தவிர்"
+
+#: tframe_ruleserialize.gb_insertwhere.caption
+msgctxt "tframe_ruleserialize.gb_insertwhere.caption"
+msgid "Insert where:"
+msgstr "எங்கே சேர்க்க வேண்டும்:"
+
+#: tframe_ruleserialize.label_customnumberingsymbols.caption
+msgid "Custom numbering symbols:"
+msgstr "தனிபயன் எண் குறியீடுகள்:"
+
+#: tframe_ruleserialize.label_indexstarts.caption
+msgid "Index starts:"
+msgstr "குறியீட்டு தொடங்குகிறது:"
+
+#: tframe_ruleserialize.label_numberingsystem.caption
+msgctxt "TFRAME_RULESERIALIZE.LABEL_NUMBERINGSYSTEM.CAPTION"
+msgid "Numbering system:"
+msgstr "எண்முறை அமைப்பு:"
+
+#: tframe_ruleserialize.label_repeat.caption
+msgid "Repeat:"
+msgstr "திரும்பவும்:"
+
+#: tframe_ruleserialize.label_step.caption
+msgid "Step:"
+msgstr "படி:"
+
+#: tframe_ruleserialize.radiobutton_replacecurrentname.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
+msgid "Replace current name"
+msgstr "தற்போதைய பெயரை மாற்றவும்"
+
+#: tframe_ruleserialize.radiobutton_serializeposition.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPOSITION.CAPTION"
+msgid "Position:"
+msgstr "நிலை:"
+
+#: tframe_ruleserialize.radiobutton_serializeprefix.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPREFIX.CAPTION"
+msgid "Prefix"
+msgstr "முன்னுரை"
+
+#: tframe_ruleserialize.radiobutton_serializesuffix.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZESUFFIX.CAPTION"
+msgid "Suffix"
+msgstr "சுபி"
+
+#: tframe_rulestrip.cb_stripallexceptselected.caption
+msgid "Strip all characters except selected"
+msgstr "தேர்ந்தெடுத்த அனைத்து எழுத்துக்களையும் சொடுக்கி"
+
+#: tframe_rulestrip.cb_stripenglishletters.caption
+msgid "English:"
+msgstr "ஆங்கிலம்:"
+
+#: tframe_rulestrip.checkbox_casesensitive.caption
+msgctxt "TFRAME_RULESTRIP.CHECKBOX_CASESENSITIVE.CAPTION"
+msgid "Case sensitive"
+msgstr "கேஸ் முக்கியம்"
+
+#: tframe_rulestrip.checkbox_stripbrackets.caption
+msgid "Brackets:"
+msgstr "பிராக்கெட்டுகள்:"
+
+#: tframe_rulestrip.checkbox_stripdigits.caption
+msgctxt "tframe_rulestrip.checkbox_stripdigits.caption"
+msgid "Digits:"
+msgstr "இலக்கங்கள்:"
+
+#: tframe_rulestrip.checkbox_stripskipextension.caption
+msgctxt "TFRAME_RULESTRIP.CHECKBOX_STRIPSKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "நீட்டிப்பு தவிர்"
+
+#: tframe_rulestrip.checkbox_stripsymbols.caption
+msgid "Symbols:"
+msgstr "சின்னங்கள்:"
+
+#: tframe_rulestrip.checkbox_stripuserdefined.caption
+msgctxt "tframe_rulestrip.checkbox_stripuserdefined.caption"
+msgid "User defined:"
+msgstr "பயனர் வரையறுக்கப்பட்ட:"
+
+#: tframe_rulestrip.rb_whereeverywhere.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHEREEVERYWHERE.CAPTION"
+msgid "Everywhere"
+msgstr "எல்லா இடங்களிலும்"
+
+#: tframe_rulestrip.rb_whereleading.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHERELEADING.CAPTION"
+msgid "Leading"
+msgstr "முன்னணி"
+
+#: tframe_rulestrip.rb_wheretrailing.caption
+msgctxt "TFRAME_RULESTRIP.RB_WHERETRAILING.CAPTION"
+msgid "Trailing"
+msgstr "பின்னணி"
+
+#: tframe_ruletranslit.bitbtn_translits.caption
+msgid "Alphabet"
+msgstr "அகரவரிசை"
+
+#: tframe_ruletranslit.checkbox_adjustcase.caption
+msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_ADJUSTCASE.CAPTION"
+msgid "Auto case adjustment"
+msgstr "தானியங்கு வழக்கு சரிசெய்தல்"
+
+#: tframe_ruletranslit.checkbox_skipextension.caption
+msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "நீட்டிப்பு தவிர்"
+
+#: tframe_ruletranslit.label2.caption
+msgid "Direction:"
+msgstr "திசை:"
+
+#: tframe_ruletranslit.label3.caption
+msgid "Hint:"
+msgstr "குறிப்பு:"
+
+#: tframe_ruletranslit.label_hinttext.caption
+msgid "Alphabet is a set of couples represented by letters and separated with an equal sign; they stand for translation of non-english characters to their english representation."
+msgstr "எழுத்துக்கள் எழுத்துகளால் குறிப்பிடப்படும் ஜோடிகளின் தொகுப்பாகும், சமமான அடையாளத்துடன் பிரிக்கப்படுகின்றன, ஆங்கில இலக்கண எழுத்துகளின் மொழிபெயர்ப்புக்கு அவர்கள் ஆங்கில பிரதிநிதித்துவத்திற்கு நிற்கின்றன."
+
+#: tframe_ruletranslit.radiobutton_directionbackward.caption
+msgid "Backward"
+msgstr "பின்புறம்"
+
+#: tframe_ruletranslit.radiobutton_directionforward.caption
+msgid "Forward"
+msgstr "முன்னோக்கு"
+
+#: tframe_ruleuserinput.cb_skipextension.caption
+msgctxt "TFRAME_RULEUSERINPUT.CB_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr "நீட்டிப்பு தவிர்"
+
+#: tframe_ruleuserinput.label1.caption
+msgid "Type your new filenames here (one per line):"
+msgstr "இங்கே உங்கள் புதிய கோப்பு பெயர்களை டைப் செய்யுங்கள் (ஒன்றுக்கு ஒரு வரி):"
+
+#: tframe_ruleuserinput.menuitem_load.caption
+msgid "Load from Text File"
+msgstr "உரை கோப்பில் இருந்து ஏற்றவும்"
+
+#: tframe_ruleuserinput.menuitem_paste.caption
+msgid "Paste from Clipboard"
+msgstr "கிளிப்போர்டிலிருந்து ஒட்டு"
+
+#: tframe_ruleuserinput.rb_insertafter.caption
+msgid "Insert after the current name"
+msgstr "தற்போதைய பெயரைச் செருகவும்"
+
+#: tframe_ruleuserinput.rb_insertinfront.caption
+msgid "Insert in front of the current name"
+msgstr "தற்போதைய பெயருடன் செருகவும்"
+
+#: tframe_ruleuserinput.rb_replace.caption
+msgid "Replace the current name"
+msgstr "தற்போதைய பெயரை மாற்றவும்"
+
+#: tframe_ruleuserinput.sb_options.caption
+msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
+msgid "Options"
+msgstr "விருப்பங்கள்"
+
+#: ufileutils.ssizebytes
+msgctxt "ufileutils.ssizebytes"
+msgid "bytes"
+msgstr "பைட்டுகள்"
+
+#: ufileutils.ssizegigabyte
+msgctxt "ufileutils.ssizegigabyte"
+msgid "GB"
+msgstr "ஜிபி"
+
+#: ufileutils.ssizekilobyte
+msgctxt "ufileutils.ssizekilobyte"
+msgid "KB"
+msgstr "கிலோபைட்"
+
+#: ufileutils.ssizemegabyte
+msgctxt "ufileutils.ssizemegabyte"
+msgid "MB"
+msgstr "மெகாபைட்"
+
+#: ufileutils.ssizeterabyte
+msgctxt "ufileutils.ssizeterabyte"
+msgid "TB"
+msgstr "டெராபைட்"
+
+#: umetatags.s_metatag_audio_duration
+msgid "Duration of an Audio file"
+msgstr "ஒரு ஆடியோ கோப்பின் காலம்"
+
+#: umetatags.s_metatag_audio_durationmins
+msgid "Duration of an Audio file in minutes"
+msgstr "ஆடியோ கோப்பின் காலம் நிமிடங்களில்"
+
+#: umetatags.s_metatag_audio_durationsecs
+msgid "Duration of an Audio file in seconds"
+msgstr "ஆடியோ கோப்பின் காலம் வினாடிகளில்"
+
+#: umetatags.s_metatag_avi_duration
+msgid "AVI Duration in H:M:S format"
+msgstr "H:M:S வடிவம்"
+
+#: umetatags.s_metatag_avi_durationmins
+msgid "AVI Duration in Minutes"
+msgstr "AVI காலம் நிமிடங்களில்"
+
+#: umetatags.s_metatag_avi_durationsecs
+msgid "AVI Duration in Seconds"
+msgstr "AVI காலம் வினாடிகளில்"
+
+#: umetatags.s_metatag_avi_framespersecond
+msgid "AVI Frames per Second"
+msgstr "ஏவிஐ ஃபிரேம்ஸ் பார் செகண்ட்"
+
+#: umetatags.s_metatag_avi_height
+msgid "AVI Height in Pixels"
+msgstr "பிக்சல்களில் ஏவி உயரம்"
+
+#: umetatags.s_metatag_avi_totalframes
+msgid "AVI Total amount of Frames"
+msgstr "ஏவிஐ மொத்த அளவு ஃப்ரேம்ஸ்"
+
+#: umetatags.s_metatag_avi_videocodec
+msgid "AVI Video Codec"
+msgstr "ஏவிஐ வீடியோ கோடெக்"
+
+#: umetatags.s_metatag_avi_width
+msgid "AVI Width in Pixels"
+msgstr "பிக்சல்களில் AVI அகலம்"
+
+#: umetatags.s_metatag_avi_widthandheight
+msgid "AVI Dimensions in WxH format"
+msgstr "WXH வடிவத்தில் AVI பரிமாணங்கள்"
+
+#: umetatags.s_metatag_binarysign_description
+msgid "Binary File Information: Description"
+msgstr "பைனரி கோப்பு தகவல்: விளக்கம்"
+
+#: umetatags.s_metatag_binarysign_extension
+msgid "Binary File Signature: Extension"
+msgstr "பைனரி கோப்பு கையொப்பம்: நீட்டிப்பு"
+
+#: umetatags.s_metatag_date_now
+msgid "Current Date"
+msgstr "தற்போதிய தேதி"
+
+#: umetatags.s_metatag_document_author
+msgid "Summary Information: Author"
+msgstr "சுருக்கம் தகவல்: ஆசிரியர்"
+
+#: umetatags.s_metatag_document_pagecount
+msgid "Summary Information: Number of Pages"
+msgstr "சுருக்கம் தகவல்: பக்கங்களின் எண்ணிக்கை"
+
+#: umetatags.s_metatag_document_subject
+msgid "Summary Information: Subject"
+msgstr "சுருக்கம் தகவல்: தலைப்பு"
+
+#: umetatags.s_metatag_document_title
+msgid "Summary Information: Title"
+msgstr "சுருக்கம் தகவல்: தலைப்பு"
+
+#: umetatags.s_metatag_email_datesent
+msgid "Email date sent in local time zone"
+msgstr "உள்ளூர் நேர மண்டலத்தில் அனுப்பப்பட்ட மின்னஞ்சல் தேதி"
+
+#: umetatags.s_metatag_email_datesentoriginal
+msgid "Email date sent in original time zone"
+msgstr "அசல் நேர மண்டலத்தில் அனுப்பப்பட்ட மின்னஞ்சல் தேதி"
+
+#: umetatags.s_metatag_email_datesentutc
+msgid "Email date sent in UTC time zone"
+msgstr "யுடிசி டைம் மண்டலத்தில் அனுப்பப்பட்ட மின்னஞ்சல் தேதி"
+
+#: umetatags.s_metatag_email_sender
+msgid "Email sender"
+msgstr "மின்னஞ்சல் அனுப்புநர்"
+
+#: umetatags.s_metatag_email_subject
+msgid "Email subject"
+msgstr "மின்னஞ்சல் தலைப்பு"
+
+#: umetatags.s_metatag_exif_date
+msgid "EXIF Original Date"
+msgstr "EXIF அசல் தேதி"
+
+#: umetatags.s_metatag_exif_description
+msgid "EXIF Image Description"
+msgstr "EXIF பட விளக்கம்"
+
+#: umetatags.s_metatag_exif_make
+msgid "EXIF Camera Make"
+msgstr "EXIF கேமரா மேக்"
+
+#: umetatags.s_metatag_exif_model
+msgid "EXIF Camera Model"
+msgstr "EXIF கேமரா மாதிரி"
+
+#: umetatags.s_metatag_file_basename
+msgid "Base name of the file"
+msgstr "கோப்பின் அடிப்படை பெயர்"
+
+#: umetatags.s_metatag_file_datecreated
+msgid "File created date"
+msgstr "கோப்பு உருவாக்கிய தேதி"
+
+#: umetatags.s_metatag_file_datemodified
+msgid "File last modified date"
+msgstr "கடைசி மாற்றம் செய்யப்பட்ட தேதி"
+
+#: umetatags.s_metatag_file_dosname
+msgid "Short name in the 8.3 format"
+msgstr "8.3 வடிவமைப்பில் குறுகிய பெயர்"
+
+#: umetatags.s_metatag_file_extension
+msgid "Extension of the file"
+msgstr "கோப்பு நீட்டிப்பு"
+
+#: umetatags.s_metatag_file_filename
+msgid "Full name of the file"
+msgstr "கோப்பின் முழு பெயர்"
+
+#: umetatags.s_metatag_file_filepath
+msgid "Full path of the file"
+msgstr "கோப்பின் முழு பாதை"
+
+#: umetatags.s_metatag_file_foldername
+msgid "Name of the parent folder"
+msgstr "பெற்றோர் பெயரின் பெயர்"
+
+#: umetatags.s_metatag_file_folderpath
+msgid "Full path of the parent folder"
+msgstr ""
+
+#: umetatags.s_metatag_file_size
+msgid "Size of file"
+msgstr "கோப்பு அளவு"
+
+#: umetatags.s_metatag_file_sizebytes
+msgid "Size of file in bytes"
+msgstr "பைட்டுகளில் கோப்பு அளவு"
+
+#: umetatags.s_metatag_file_sizegb
+msgid "Size of file in GB"
+msgstr "GB இல் உள்ள கோப்பு அளவு"
+
+#: umetatags.s_metatag_file_sizekb
+msgid "Size of file in KB"
+msgstr "KB இல் கோப்பு அளவு"
+
+#: umetatags.s_metatag_file_sizemb
+msgid "Size of file in MB"
+msgstr "MB இல் கோப்பு அளவு"
+
+#: umetatags.s_metatag_flac_album
+msgid "FLAC Album"
+msgstr "FLAC ஆல்பம்"
+
+#: umetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr "FLAC ஆல்பம் கலைஞர்"
+
+#: umetatags.s_metatag_flac_artist
+msgid "FLAC Artist"
+msgstr "FLAC கலைஞர்"
+
+#: umetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr "FLAC டிஸ்க் எண்"
+
+#: umetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
+msgstr "FLAC மொத்த டிஸ்க்குகள்"
+
+#: umetatags.s_metatag_flac_genre
+msgid "FLAC Genre"
+msgstr "FLAC வகை"
+
+#: umetatags.s_metatag_flac_title
+msgid "FLAC Title"
+msgstr "FLAC தலைப்பு"
+
+#: umetatags.s_metatag_flac_trackno
+msgid "FLAC Track Number"
+msgstr "FLAC ட்ராக் எண்"
+
+#: umetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
+msgstr "FLAC மொத்த டிராக்குகள்"
+
+#: umetatags.s_metatag_flac_year
+msgid "FLAC Year"
+msgstr "FLAC வருடம்"
+
+#: umetatags.s_metatag_hash_crc32
+msgid "CRC32 Checksum of a file"
+msgstr "கோப்பு ஒரு CRC32 செக்சம்"
+
+#: umetatags.s_metatag_hash_md5
+msgid "MD5 Hash of a file"
+msgstr "ஒரு கோப்பு MD5 ஹாஷ்"
+
+#: umetatags.s_metatag_hash_sha1
+msgid "SHA1 Hash of a file"
+msgstr "கோப்பு ஒரு SHA1 ஹேஷ்"
+
+#: umetatags.s_metatag_hash_sha256
+msgid "SHA256 Hash of a file"
+msgstr "ஒரு கோப்பு SHA256 வளைவு"
+
+#: umetatags.s_metatag_hash_sha512
+msgid "SHA512 Hash of a file"
+msgstr "கோப்பு ஒரு SHA512 ஹேஷ்"
+
+#: umetatags.s_metatag_html_title
+msgid "Title tag extracted from an HTML file"
+msgstr "HTML கோப்பிலிருந்து தலைப்பு குறிச்சொல் எடுக்கப்பட்டது"
+
+#: umetatags.s_metatag_image_aspectratio
+msgid "Aspect Ratio of an image"
+msgstr "ஒரு உருவத்தின் விகிதம்"
+
+#: umetatags.s_metatag_image_height
+msgid "Height of an image in pixels"
+msgstr "பிக்சல்களில் படத்தின் உயரம்"
+
+#: umetatags.s_metatag_image_pixels
+msgid "Amount of pixels in the image"
+msgstr "படத்தில் பிக்சல்கள் அளவு"
+
+#: umetatags.s_metatag_image_width
+msgid "Width of an image in pixels"
+msgstr "பிக்சல்களில் ஒரு படத்தின் அகலம்"
+
+#: umetatags.s_metatag_image_widthandheight
+msgid "Width and Height of an image in pixels"
+msgstr "பிக்சல்களில் ஒரு படத்தின் அகலம் மற்றும் உயரம்"
+
+#: umetatags.s_metatag_iptc_caption
+msgid "IPTC Image Caption"
+msgstr "ஐபிடிசி பட தலைப்பு"
+
+#: umetatags.s_metatag_iptc_city
+msgid "IPTC City"
+msgstr "ஐபிடிசி சிட்டி"
+
+#: umetatags.s_metatag_iptc_headline
+msgid "IPTC Image Headline"
+msgstr "ஐபிடிசி பட தலைப்பு"
+
+#: umetatags.s_metatag_iptc_location
+msgid "IPTC Location Name"
+msgstr "ஐபிடிசி இருப்பிடம் பெயர்"
+
+#: umetatags.s_metatag_iptc_objectname
+msgid "IPTC Object Name"
+msgstr "ஐபிடிசி பொருள் பெயர்"
+
+#: umetatags.s_metatag_mp3_album
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr "எம்பி3 ஆல்பம்"
+
+#: umetatags.s_metatag_mp3_albumartist
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr "எம்பி3 ஆல்பம் கலைஞர்"
+
+#: umetatags.s_metatag_mp3_artist
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr "எம்பி3 கலைஞர்"
+
+#: umetatags.s_metatag_mp3_discno
+msgid "MP3 Disc Number"
+msgstr "எம்பி3 டிஸ்க் எண்"
+
+#: umetatags.s_metatag_mp3_disctotal
+msgid "MP3 Total Discs"
+msgstr "எம்பி3 மொத்த டிஸ்க்குகள்"
+
+#: umetatags.s_metatag_mp3_genre
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr "எம்பி3 வகை"
+
+#: umetatags.s_metatag_mp3_title
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr "எம்பி3 தலைப்பு"
+
+#: umetatags.s_metatag_mp3_trackno
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr "எம்பி3 டிராக் எண்"
+
+#: umetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr "எம்பி3 மொத்த டிராக்ஸ்"
+
+#: umetatags.s_metatag_mp3_year
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
+msgstr "எம்பி3 வருடம்"
+
+#: umetatags.s_metatag_outlook_body
+msgid "Outlook Message: Body Text"
+msgstr "அவுட்லுக் செய்தி: தகவல் உரை"
+
+#: umetatags.s_metatag_outlook_dateheader
+msgid "Outlook Message: Sent date from email header in local time zone"
+msgstr "அவுட்லுக் செய்தி: உள்ளூர் நேர மண்டலத்தில் மின்னஞ்சல் தலைப்பிலிருந்து அனுப்பப்பட்ட தேதி"
+
+#: umetatags.s_metatag_outlook_dateheaderoriginal
+msgid "Outlook Message: Sent date from email header in original time zone"
+msgstr "அவுட்லுக் செய்தி: அசல் நேர மண்டலத்தில் மின்னஞ்சல் தலைப்பிலிருந்து அனுப்பப்பட்ட தேதி"
+
+#: umetatags.s_metatag_outlook_dateheaderutc
+msgid "Outlook Message: Sent date from email header in UTC time zone"
+msgstr "அவுட்லுக் செய்தி: UTC நேர மண்டலத்தில் மின்னஞ்சல் தலைப்பிலிருந்து அனுப்பப்பட்ட தேதி"
+
+#: umetatags.s_metatag_outlook_datesent
+msgid "Outlook Message: Sent date in local time zone"
+msgstr "அவுட்லுக் செய்தி: உள்ளூர் நேர மண்டலத்தில் அனுப்பப்பட்ட தேதி"
+
+#: umetatags.s_metatag_outlook_datesentutc
+msgid "Outlook Message: Sent date in UTC time zone"
+msgstr "அவுட்லுக் செய்தி: UTC நேர மண்டலத்தில் அனுப்பப்பட்ட தேதி"
+
+#: umetatags.s_metatag_outlook_messageid
+msgctxt "umetatags.s_metatag_outlook_messageid"
+msgid "Outlook Message: ID"
+msgstr "அவுட்லுக் செய்தி: ஐடி"
+
+#: umetatags.s_metatag_outlook_sender
+msgid "Outlook Message: Sender"
+msgstr "அவுட்லுக் செய்தி: அனுப்புநர்"
+
+#: umetatags.s_metatag_outlook_subject
+msgid "Outlook Message: Subject"
+msgstr "அவுட்லுக் செய்தி: தலைப்பு"
+
+#: umetatags.s_metatag_tiff_date
+msgid "TIFF Date"
+msgstr "டிஃப்ஃப் தேதி"
+
+#: umetatags.s_metatag_tiff_description
+msgid "TIFF Description"
+msgstr "டிஃப்ஃப் விளக்கம்"
+
+#: umetatags.s_metatag_tiff_make
+msgid "TIFF Make"
+msgstr "டிஃப்ஃப் மேக்"
+
+#: umetatags.s_metatag_tiff_model
+msgid "TIFF Model"
+msgstr "டிஃப்ஃப் மாதிரி"
+
+#: umetatags.s_metatag_torrent_announce
+msgid "Torrent: Announce URL"
+msgstr "டொரண்ட்: அறிவிப்பு URL"
+
+#: umetatags.s_metatag_torrent_comment
+msgid "Torrent: Comment"
+msgstr "டொரண்ட்: கருத்து"
+
+#: umetatags.s_metatag_torrent_countfiles
+msgid "Torrent: Number of files"
+msgstr "டொரண்ட்: கோப்புகளின் எண்ணிக்கை"
+
+#: umetatags.s_metatag_torrent_creationdatelocal
+msgid "Torrent: Creation date in local time zone"
+msgstr "டொரண்ட்: உள்ளூர் நேரம் மண்டலத்தில் உருவாக்கம் தேதி"
+
+#: umetatags.s_metatag_torrent_creationdateutc
+msgid "Torrent: Creation date in UTC time zone"
+msgstr "டொரண்ட்: யுடிசி டைம் மண்டலத்தில் உருவாக்கம் தேதி"
+
+#: umetatags.s_metatag_torrent_hash
+msgid "Torrent: Hash"
+msgstr "டொரண்ட்: ஹாஷ்"
+
+#: umetatags.s_metatag_torrent_name
+msgid "Torrent: Name"
+msgstr "டொரண்ட்: பெயர்"
+
+#: umetatags.s_metatag_torrent_publisher
+msgid "Torrent: Publisher"
+msgstr "டொரண்ட்: வெளியீட்டாளர்"
+
+#: umetatags.s_metatag_torrent_totalsize
+msgid "Torrent: Total size"
+msgstr "டோரண்ட்: மொத்த அளவு"
+
+#: umetatags.s_metatag_torrent_totalsizebytes
+msgid "Torrent: Total size in bytes"
+msgstr "டொரண்ட்: மொத்த அளவு பைட்டுகள்"
+
+#: umetatags.s_metatag_torrent_totalsizegb
+msgid "Torrent: Total size in GB"
+msgstr "டொரண்ட்: GB இல் மொத்த அளவு"
+
+#: umetatags.s_metatag_torrent_totalsizekb
+msgid "Torrent: Total size in KB"
+msgstr "டொரண்ட்: மொத்த அளவு KB இல்"
+
+#: umetatags.s_metatag_torrent_totalsizemb
+msgid "Torrent: Total size in MB"
+msgstr "டொரண்ட்: MB இல் மொத்த அளவு"
+
+#: umetatags.s_metatag_versioninfo_comments
+msgid "Version Information: Comments"
+msgstr "பதிப்பு தகவல்: கருத்துரைகள்"
+
+#: umetatags.s_metatag_versioninfo_company
+msgid "Version Information: Company"
+msgstr "பதிப்புத் தகவல்: நிறுவனம்"
+
+#: umetatags.s_metatag_versioninfo_copyright
+msgid "Version Information: Copyright"
+msgstr "பதிப்பு தகவல்: பதிப்புரிமை"
+
+#: umetatags.s_metatag_versioninfo_description
+msgid "Version Information: Description"
+msgstr "பதிப்பு தகவல்: விளக்கம்"
+
+#: umetatags.s_metatag_versioninfo_fileversion
+msgid "Version Information: File Version"
+msgstr "பதிப்பு தகவல்: கோப்பு பதிப்பு"
+
+#: umetatags.s_metatag_versioninfo_product
+msgid "Version Information: Product"
+msgstr "பதிப்பு தகவல்: தயாரிப்பு"
+
+#: umetatags.s_metatag_versioninfo_productversion
+msgid "Version Information: Product Version"
+msgstr "பதிப்புத் தகவல்: தயாரிப்பு பதிப்பு"
+
+#: umetatags.s_metatag_wma_album
+msgid "WMA Album"
+msgstr "WMA ஆல்பம்"
+
+#: umetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr "WMA ஆல்பம் கலைஞர்"
+
+#: umetatags.s_metatag_wma_artist
+msgid "WMA Artist"
+msgstr "WMA கலைஞர்"
+
+#: umetatags.s_metatag_wma_discno
+msgid "WMA Disc Number"
+msgstr "WMA டிஸ்க் எண்"
+
+#: umetatags.s_metatag_wma_disctotal
+msgid "WMA Total Discs"
+msgstr "WMA மொத்த டிஸ்க்ஸ்"
+
+#: umetatags.s_metatag_wma_genre
+msgid "WMA Genre"
+msgstr "WMA வகை"
+
+#: umetatags.s_metatag_wma_title
+msgid "WMA Title"
+msgstr "WMA தலைப்பு"
+
+#: umetatags.s_metatag_wma_trackno
+msgid "WMA Track Number"
+msgstr "WMA டிராக் எண்"
+
+#: umetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
+msgstr "WMA மொத்த டிராக்ஸ்"
+
+#: umetatags.s_metatag_wma_year
+msgid "WMA Year"
+msgstr "WMA ஆண்டு"
+
+#: unumeralsystems.nsc_customalphabetic
+msgid "Custom alphabetic"
+msgstr "தனிப்பயன் அகரவரிசை"
+
+#: unumeralsystems.nsc_customnumeric
+msgid "Custom numeric"
+msgstr "தனிப்பயன் எண்"
+
+#: unumeralsystems.nsc_decimaldigits
+msgid "Decimal digits"
+msgstr "இலக்கண இலக்கங்கள்"
+
+#: unumeralsystems.nsc_englishletters
+msgid "English letters"
+msgstr "ஆங்கிலம் எழுத்துகள்"
+
+#: unumeralsystems.nsc_romannumerals
+msgid "Roman numerals"
+msgstr "ரோமன் எண்கள்"
+
+#: unumeralsystems.nsc_simplifiedchinese
+msgid "Simplified Chinese"
+msgstr "எளிய சீன"
+
+#: upascalscript.spscompile
+msgid "Pascal Script Compile"
+msgstr "பாஸ்கல் ஸ்கிரிப்ட் தொகுப்பி"
+
+#: upascalscript.spsexception
+msgid "Exception"
+msgstr "விதிவிலக்கு"
+
+#: upascalscript.spsexecute
+msgid "Pascal Script Execute"
+msgstr "பாஸ்கல் உரையாக்கம் நிர்வாகி"
+
+#: upascalscript.spsincludedfilenotfound
+msgid "Included file not found: %s"
+msgstr "சேர்க்கப்பட்ட கோப்பு காணப்படவில்லை: %s"
+
+#: upascalscript.spsline
+msgid "Line"
+msgstr "வரி"
+
+#: upascalscript.spsunknowncompileerror
+msgid "Unknown error (check units and libraries)"
+msgstr "தெரியாத பிழை (சோதனை அலகுகள் மற்றும் நூலகங்கள்)"
+
+#: upresets.spresetfilenotfound
+msgid "Preset file not found:"
+msgstr "முன்னமைக்கப்பட்ட கோப்பு காணப்படவில்லை:"
+
+#: upresets.spresetloadfailed
+msgid "Failed to load a preset."
+msgstr "முன்னமைவை ஏற்றுவதில் தோல்வி."
+
+#: upresets.spresetsavefailed
+msgid "Failed to save a preset."
+msgstr "முன்னமைக்கப்பட்டதைச் சேமிக்க முடியவில்லை."
+
+#: uregistration.s_cannot_create_license_dir
+msgid "Not able to create a directory for a license file."
+msgstr "உரிமம் கோப்பிற்கான ஒரு அடைவை உருவாக்க முடியவில்லை."
+
+#: uregistration.s_contact_email
+msgid "Contact email"
+msgstr "தொடர்பு மின்னஞ்சல்"
+
+#: uregistration.s_contact_name
+msgid "Contact name"
+msgstr "தொடர்பு பெயர்"
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr "கோப்பை நீக்குவதில் தோல்வி:"
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr "உரிம தரவை ஏற்றுவதில் தோல்வி:"
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr "உரிம தரவை காப்பாற்ற முடியவில்லை:"
+
+#: uregistration.s_issue_date
+msgid "Issue date"
+msgstr "வெளியீட்டுதேதி"
+
+#: uregistration.s_license
+msgid "License"
+msgstr "உரிமம்"
+
+#: uregistration.s_licensed_to
+msgid "Licensed to"
+msgstr "உரிமம் பெற்றது"
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr "உரிமம் கறுப்புப் பட்டியலில் உள்ளது."
+
+#: uregistration.s_license_expiry
+msgid "License expiry"
+msgstr "உரிமம் காலாவதியாகும்"
+
+#: uregistration.s_license_has_expired
+msgid "License has expired."
+msgstr "உரிமம் காலாவதியானது."
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr "உரிமம் தவறானது!"
+
+#: uregistration.s_license_load_failed
+msgid "Failed to load the license."
+msgstr "உரிமத்தை ஏற்றுவதில் தோல்வி."
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr "தயாரிப்புகளை செயல்படுத்துவதற்கு நீங்கள் உரிமம் புதுப்பிக்க வேண்டும்."
+
+#: uregistration.s_license_remove_failed
+msgid "Failed to remove the license."
+msgstr "உரிமத்தை அகற்றுவதில் தோல்வி."
+
+#: uregistration.s_license_remove_ok
+msgid "License has been removed."
+msgstr "உரிமம் நீக்கப்பட்டுவிட்டது."
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr "உங்கள் உரிமம் மேம்படுத்தப்பட்ட காலத்திற்கு வெளியே உள்ளது."
+
+#: uregistration.s_number_of_computers
+msgid "Number of computers"
+msgstr "கணினிகளின் எண்ணிக்கை"
+
+#: uregistration.s_registration_error
+msgid "Registration code is invalid."
+msgstr "பதிவு குறியீடு தவறானது."
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr "பதிவு கோப்பு காணப்படவில்லை."
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr "பதிவுக் கோப்பு வாசிக்க முடியவில்லை."
+
+#: uregistration.s_registration_ok
+msgid "Registration has been successful!"
+msgstr "பதிவு வெற்றிகரமாக!"
+
+#: uregistration.s_upgrade_expiry
+msgid "Upgrade expiry"
+msgstr "மேம்படுத்தல் காலாவதி"
+
+#: urenfiles.srenstatusok
+msgctxt "urenfiles.srenstatusok"
+msgid "OK"
+msgstr "சரி"
+
+#: urenfiles.svalidationduplicated
+msgid "Duplicate in the list"
+msgstr "பட்டியலில் உள்ள நகல்"
+
+#: urenfiles.svalidationexceeds
+msgid "New path exceeds the length limit"
+msgstr "புதிய பாதை நீள வரம்பை மீறுகிறது"
+
+#: urenfiles.svalidationexists
+msgid "Destination file already exists"
+msgstr "இலக்கு கோப்பு ஏற்கனவே உள்ளது"
+
+#: urenfiles.svalidationinvalid
+msgid "Contains invalid characters"
+msgstr "தவறான எழுத்துகள் உள்ளன"
+
+#: urenfiles.svalidationmovedparent
+msgid "Parent path changed earlier in the list"
+msgstr "முந்தைய பட்டியலில் பெற்றோர் பாதை மாற்றப்பட்டது"
+
+#: urulesex.s_rules_addtextpaddingtolength
+msgid "Add text padding to length %s with \"%s\" characters"
+msgstr "எழுத்துகளுடன் %s நீளத்தை \"%s\" உடன் நீட்டிக்கவும்"
+
+#: urulesex.s_rules_addzeropaddingtolength
+msgid "Add zero padding to length %s"
+msgstr "பூஜ்யம் திணிப்பை நீளம் %s ஆக சேர்க்கவும்"
+
+#: urulesex.s_rules_adjusttimebynumdays
+msgid "Adjust time by %d days"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynumhours
+msgid "Adjust time by %d hours"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynummilliseconds
+msgid "Adjust time by %d milliseconds"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynumminutes
+msgid "Adjust time by %d minutes"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynummonths
+msgid "Adjust time by %d months"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynumseconds
+msgid "Adjust time by %d seconds"
+msgstr ""
+
+#: urulesex.s_rules_adjusttimebynumyears
+msgid "Adjust time by %d years"
+msgstr ""
+
+#: urulesex.s_rules_after
+msgid "after"
+msgstr "பின்னர்"
+
+#: urulesex.s_rules_all
+msgid "all"
+msgstr "அனைத்து"
+
+#: urulesex.s_rules_all_characters_except
+msgid "all characters except"
+msgstr "தவிர அனைத்து எழுத்துகளும்"
+
+#: urulesex.s_rules_all_lower_case
+msgid "All lower case"
+msgstr "அனைத்துக் குறைந்த வழக்கு"
+
+#: urulesex.s_rules_all_upper_case
+msgid "All upper case"
+msgstr "அனைத்து மேல் வழக்கு"
+
+#: urulesex.s_rules_and_pad_to_length
+msgid "and pad to length"
+msgstr "நீளம் மற்றும் திண்டுக்கு நீளம்"
+
+#: urulesex.s_rules_append
+msgid "append"
+msgstr "சேர்"
+
+#: urulesex.s_rules_append_new_extension
+msgid "Append new extension"
+msgstr "புதிய நீட்டிப்பு சேர்"
+
+#: urulesex.s_rules_as_prefix
+msgid "as Prefix"
+msgstr "முன்னிணைப்பாக"
+
+#: urulesex.s_rules_as_suffix
+msgid "as Suffix"
+msgstr "சஃபிக்ஸ்"
+
+#: urulesex.s_rules_at_position
+msgid "at Position"
+msgstr "நிலையில்"
+
+#: urulesex.s_rules_autocaseadjustment
+msgctxt "urulesex.s_rules_autocaseadjustment"
+msgid "Auto case adjustment"
+msgstr "கார் வழக்கு சரிசெய்தல்"
+
+#: urulesex.s_rules_before
+msgid "before"
+msgstr "முன்"
+
+#: urulesex.s_rules_cannoteditruleconfiguration
+msgid "Cannot edit rule configuration."
+msgstr "ஆட்சி அமைப்பு திருத்த முடியாது."
+
+#: urulesex.s_rules_capitalize_and_preserve
+msgid "Capitalize and preserve"
+msgstr "மூலதனம் மற்றும் பாதுகாத்தல்"
+
+#: urulesex.s_rules_capitalize_every_word
+msgid "Capitalize every word"
+msgstr "ஒவ்வொரு வார்த்தையும் மூலதனமாக்கு"
+
+#: urulesex.s_rules_case_sensitive
+msgid "case sensitive"
+msgstr "வழக்கு உணர்திறன்"
+
+#: urulesex.s_rules_change_extension_to
+msgid "Change extension to"
+msgstr "நீட்டிப்பை மாற்று"
+
+#: urulesex.s_rules_characters
+msgid "characters"
+msgstr "எழுத்துக்கள்"
+
+#: urulesex.s_rules_converttovaluefromvalue
+msgid "Convert to %s from %s"
+msgstr "%s இலிருந்து %sக்கு மாற்றவும்"
+
+#: urulesex.s_rules_customlongmonths
+msgid "Custom long months"
+msgstr "வழக்கமான நீண்ட மாதங்கள்"
+
+#: urulesex.s_rules_customshortmonths
+msgid "Custom short months"
+msgstr "விருப்ப குறுகிய மாதங்கள்"
+
+#: urulesex.s_rules_delete
+msgctxt "myrulesex.s_rules_delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#: urulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr "தற்போதைய பெயரை நீக்கு"
+
+#: urulesex.s_rules_delimiters
+msgid "delimiters"
+msgstr "வரம்பிடுகள்"
+
+#: urulesex.s_rules_detect_using_binary_signature
+msgid "Detect using binary signature"
+msgstr "பைனரி கையொப்பத்தை பயன்படுத்துவதை கண்டறி"
+
+#: urulesex.s_rules_everywhere
+msgid "everywhere"
+msgstr "எல்லா இடங்களிலும்"
+
+#: urulesex.s_rules_exact_pattern_of_delimiters
+msgid "exact pattern of delimiters"
+msgstr "துல்லியமாக்கப்பட்ட துல்லியமான முறை"
+
+#: urulesex.s_rules_extension_lower_case
+msgid "Extension lower case"
+msgstr "நீட்டிப்பு குறைந்த வழக்கு"
+
+#: urulesex.s_rules_extension_upper_case
+msgid "Extension upper case"
+msgstr "நீட்டிப்பு மேல் வழக்கு"
+
+#: urulesex.s_rules_files
+msgid "files"
+msgstr "கோப்புகள்"
+
+#: urulesex.s_rules_files_to
+msgid "file(s) to"
+msgstr "கோப்பு(கள்)"
+
+#: urulesex.s_rules_files_with
+msgid "file(s) with"
+msgstr "உடன் கோப்பு(கள்)"
+
+#: urulesex.s_rules_first
+msgid "first"
+msgstr "முதல்"
+
+#: urulesex.s_rules_first_letter_capital
+msgctxt "myrulesex.s_rules_first_letter_capital"
+msgid "First letter capital"
+msgstr "முதல் எழுத்து மூலதனம்"
+
+#: urulesex.s_rules_fix_spaces
+msgid "Fix spaces"
+msgstr "இடைவெளிகளை சரி"
+
+#: urulesex.s_rules_force_case_fragments
+msgid "Force case fragments"
+msgstr "கட்டளைத் துண்டு துண்டுகள்"
+
+#: urulesex.s_rules_from_delimiter
+msgid "from Delimiter"
+msgstr "டெலிமிட்டர்"
+
+#: urulesex.s_rules_from_position
+msgid "from Position"
+msgstr "நிலை இருந்து"
+
+#: urulesex.s_rules_insert
+msgctxt "myrulesex.s_rules_insert"
+msgid "Insert"
+msgstr "சேர்க்கும்"
+
+#: urulesex.s_rules_insert_space_in_front_of_capitals
+msgid "Insert space in front of capitals"
+msgstr "தலைநகரங்களுக்கு முன்னால் இடைவெளியை செருகவும்"
+
+#: urulesex.s_rules_invert_case
+msgid "Invert case"
+msgstr "மாற்று வழி"
+
+#: urulesex.s_rules_last
+msgid "last"
+msgstr "கடைசி"
+
+#: urulesex.s_rules_leading
+msgctxt "myrulesex.s_rules_leading"
+msgid "leading"
+msgstr "முன்னணி"
+
+#: urulesex.s_rules_leave_delimiter
+msgid "leave delimiter"
+msgstr "டெலிமிட்டர் விடு"
+
+#: urulesex.s_rules_leftside
+msgid "Left side"
+msgstr "இடது பக்கம்"
+
+#: urulesex.s_rules_new_names_are_not_defined
+msgid "new names are not defined"
+msgstr "புதிய பெயர்கள் வரையறுக்கப்படவில்லை"
+
+#: urulesex.s_rules_new_pattern
+msgid "New pattern"
+msgstr "புதிய முறை"
+
+#: urulesex.s_rules_normalize_spaces
+msgid "Normalize spaces"
+msgstr "இடைவெளிகளை இயல்பாக்கு"
+
+#: urulesex.s_rules_parts
+msgid "parts"
+msgstr "பாகங்கள்"
+
+#: urulesex.s_rules_positions
+msgid "positions"
+msgstr "நிலைகள்"
+
+#: urulesex.s_rules_prefix_names_of
+msgid "Prefix names of"
+msgstr "முன்னுரை பெயர்கள்"
+
+#: urulesex.s_rules_prepare_for_sharepoint
+msgid "Prepare for SharePoint"
+msgstr "ஷேர்பாயிண்ட் தயாராகுங்கள்"
+
+#: urulesex.s_rules_randomwithlengthusingcharacters
+msgctxt "urulesex.s_rules_randomwithlengthusingcharacters"
+msgid "Random with length %s using characters \"%s\""
+msgstr "\"%s\" கேரக்டர்களை பயன்படுத்தி நீளம் %s உடன் சீரற்ற"
+
+#: urulesex.s_rules_remove
+msgctxt "myrulesex.s_rules_remove"
+msgid "Remove"
+msgstr "அகற்று"
+
+#: urulesex.s_rules_removezeropadding
+msgctxt "urulesex.s_rules_removezeropadding"
+msgid "Remove zero padding"
+msgstr "பூஜ்ஜியத்தை நீக்கவும்"
+
+#: urulesex.s_rules_remove_extension
+msgid "Remove extension"
+msgstr "நீட்டிப்பை நீக்கு"
+
+#: urulesex.s_rules_repeat
+msgid "repeat"
+msgstr "மீண்டும்"
+
+#: urulesex.s_rules_replace
+msgctxt "myrulesex.s_rules_replace"
+msgid "Replace"
+msgstr "மாற்றவும்"
+
+#: urulesex.s_rules_replace_expression
+msgid "Replace expression"
+msgstr "வெளிப்பாடு மாற்றவும்"
+
+#: urulesex.s_rules_replace_with_spaces
+msgid "Replace with spaces"
+msgstr "இடங்களுடன் இடமாற்று"
+
+#: urulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr "தற்போதைய பெயர் பதிலாக"
+
+#: urulesex.s_rules_reset_index_every
+msgid "reset index every"
+msgstr "ஒவ்வொரு குறியீடும் மீட்டமைக்க"
+
+#: urulesex.s_rules_reset_index_if_file_name_changes
+msgid "reset index if file name changes"
+msgstr "கோப்பு பெயரை மாற்றினால் குறியீட்டு மீட்டமைக்க"
+
+#: urulesex.s_rules_reset_index_if_folder_changes
+msgid "reset index if folder changes"
+msgstr "அடைவை மாற்றினால் குறியீட்டு மீட்டமைக்க"
+
+#: urulesex.s_rules_rightside
+msgid "Right side"
+msgstr "வலது பக்க"
+
+#: urulesex.s_rules_right_to_left
+msgid "right-to-left"
+msgstr "வலது-இடது"
+
+#: urulesex.s_rules_serialize_incremental_from
+msgid "Incremental from"
+msgstr "இருந்து அதிகரிப்பு"
+
+#: urulesex.s_rules_serialize_random_with_length
+msgid "Random with length"
+msgstr "நீளம் கொண்ட ரேண்டம்"
+
+#: urulesex.s_rules_set_names_of
+msgid "Set names of"
+msgstr "பெயர்களை அமை"
+
+#: urulesex.s_rules_skipextension
+msgctxt "urulesex.s_rules_skipextension"
+msgid "Skip extension"
+msgstr "நீட்டிப்பு தவிர்"
+
+#: urulesex.s_rules_skip_extension
+msgid "skip extension"
+msgstr "நீட்டிப்பை தவிர்க்கவும்"
+
+#: urulesex.s_rules_skip_versions
+msgid "skip versions"
+msgstr "பதிப்புகளை தவிர்க்கவும்"
+
+#: urulesex.s_rules_split_by
+msgid "Split by"
+msgstr "மூலம் பிரித்தல்"
+
+#: urulesex.s_rules_step
+msgid "step"
+msgstr "படி"
+
+#: urulesex.s_rules_strip
+msgctxt "myrulesex.s_rules_strip"
+msgid "Strip"
+msgstr "துண்டு"
+
+#: urulesex.s_rules_strip_out_contents_of_brackets
+msgid "Strip out contents of brackets"
+msgstr "அடைப்புக்குறிக்குள் உள்ளடக்கங்களை அப்புறப்படுத்துங்கள்"
+
+#: urulesex.s_rules_strip_unicode_marks
+msgid "Strip unicode marks"
+msgstr ""
+
+#: urulesex.s_rules_suffix_names_of
+msgid "Suffix names of"
+msgstr "பின்னொட்டு பெயர்கள்"
+
+#: urulesex.s_rules_trailing
+msgctxt "myrulesex.s_rules_trailing"
+msgid "trailing"
+msgstr "முன்னிலை"
+
+#: urulesex.s_rules_transliterate
+msgid "Transliterate"
+msgstr "மொழிபெயர்ப்பாளர்"
+
+#: urulesex.s_rules_try_unique
+msgid "try unique"
+msgstr "தனிப்பட்ட முயற்சி"
+
+#: urulesex.s_rules_until_count_reaches
+msgid "until Count reaches"
+msgstr "எண்ணும் வரை"
+
+#: urulesex.s_rules_until_delimiter
+msgid "until Delimiter"
+msgstr "டெலிமிட்டர் வரை"
+
+#: urulesex.s_rules_until_the_end
+msgid "until the End"
+msgstr "இறுதி வரை"
+
+#: urulesex.s_rules_usingcustomnumeralsymbols
+msgid "using \"%s\" system with \"%s\" symbols"
+msgstr "\"%s\" குறியீடுகளை \"%s\" பயன்படுத்தி"
+
+#: urulesex.s_rules_usingnamednumeralsystem
+msgid "using \"%s\" system"
+msgstr "\"%s \"முறைமையைப் பயன்படுத்துதல்"
+
+#: urulesex.s_rules_using_wildcards
+msgid "using wildcards"
+msgstr "வைல்கார்டுகளைப் பயன்படுத்தி"
+
+#: urulesex.s_rules_warndeprecatedrandomserialize
+msgid "Rule configuration uses deprecated random serialization, please use a separate dedicated rule instead."
+msgstr "விதி கட்டமைப்பானது நீக்கப்பட்ட சீரற்ற வரிசைமுறையைப் பயன்படுத்துகிறது, அதற்குப் பதிலாக தனித்துவமான விதிமுறைகளைப் பயன்படுத்தவும்."
+
+#: urulesex.s_rules_wholewordsonly
+msgctxt "urulesex.s_rules_wholewordsonly"
+msgid "Whole words only"
+msgstr "முழு வார்த்தைகள் மட்டுமே"
+
+#: urulesex.s_rules_whole_words
+msgid "whole words"
+msgstr "முழு வார்த்தைகள்"
+
+#: urulesex.s_rules_with
+msgid "with"
+msgstr "உடன்"
+
+#: ustrings.msg_addfoldernotexist
+msgid ""
+"Selected folder does not exist!\n"
+"\n"
+"%s\n"
+msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட அடைவு இல்லை! \n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_addmetatagconfirm
+msgid ""
+"Meta tags are currently disabled.\n"
+"\n"
+"Do you want to enable them?\n"
+msgstr ""
+"மெட்டா குறிச்சொற்கள் தற்போது முடக்கப்பட்டுள்ளன. \n"
+"\n"
+"நீங்கள் அவற்றை இயக்க வேண்டுமா? \n"
+
+#: ustrings.msg_ask_open_quick_guide
+msgid "Would you like to open a Quick Guide?"
+msgstr "நீங்கள் ஒரு விரைவு வழிகாட்டி திறக்க விரும்புகிறீர்களா?"
+
+#: ustrings.msg_browsefoldersstatus
+msgid "Folders: %d scanned, %d selected."
+msgstr "கோப்புறைகள்:%d ஸ்கேன் செய்யப்பட்டது,%d தேர்ந்தெடுக்கப்பட்டது."
+
+#: ustrings.msg_browsegotofoldercaption
+msgctxt "mystrings.msg_browsegotofoldercaption"
+msgid "Go To Folder"
+msgstr "அடைவுக்குச் செல்"
+
+#: ustrings.msg_browsegotofolderprompt
+msgid "Enter a full path to the folder that you want to go to:"
+msgstr "நீங்கள் செல்ல விரும்பும் கோப்புறையில் முழு பாதையை உள்ளிடவும்:"
+
+#: ustrings.msg_changeworkingdirfailed
+msgid "Failed to change current working directory."
+msgstr "தற்போதைய வேலை கோப்பகத்தை மாற்றுவதில் தோல்வி."
+
+#: ustrings.msg_copyandcutfilesprompt
+msgid ""
+"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
+"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
+"\n"
+"Are you sure you want to proceed?\n"
+msgstr ""
+"கோப்புகளை நகலெடுக்கும் மற்றும் வெட்டுவதற்கான செயல்பாடு பின்னர் தேர்ந்தெடுக்கப்பட்ட கோப்புகளை கிளிப்போர்டில் சேர்ப்பிக்கும். \n"
+"குறிப்பு: எல்லா கோப்புகளும் ஒரே அடைவில் ஒரே நேரத்தில் அடைக்கப்பட்டு, அவை எங்கே ஆரம்பத்தில் இருந்தன! \n"
+"\n"
+"நீங்கள் தொடர விரும்புகிறீர்களா? \n"
+
+#: ustrings.msg_datetimeinvalidformat
+msgid "INVALID FORMAT"
+msgstr "வரவிருக்கும் வடிவம்"
+
+#: ustrings.msg_editrulecommentcaption
+msgid "Rule Comment"
+msgstr "விதி கருத்துரை"
+
+#: ustrings.msg_editrulecommentprompt
+msgid "Enter a comment for the rule:"
+msgstr "விதிக்கு ஒரு கருத்துரையை உள்ளிடுக:"
+
+#: ustrings.msg_fileexistsoverwriteprompt
+msgid ""
+"File already exists!\n"
+"Overwrite it?\n"
+msgstr ""
+"கோப்பு ஏற்கனவே உள்ளது! \n"
+"இது மேலெழுதும்? \n"
+
+#: ustrings.msg_filescountinfo
+msgid ""
+"Total: %d\n"
+"Marked: %d\n"
+"Selected: %d\n"
+msgstr ""
+"மொத்தம்:%d \n"
+"குறிக்கப்பட்டது:%d \n"
+"தேர்ந்தெடுத்தது:%d \n"
+
+#: ustrings.msg_fixcollidewarninglimit
+msgid ""
+"Do you want to fix conflicting new names for %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"%s கோப்புகளுக்கு முரண்பாடான புதிய பெயர்களை சரிசெய்ய வேண்டுமா? \n"
+"\n"
+"இந்த செயல்பாடு பல நிமிடங்கள் ஆகலாம் ... \n"
+
+#: ustrings.msg_gotolinecaption
+msgid "Go To Line"
+msgstr "வரிக்கு செல்"
+
+#: ustrings.msg_gotolineprompt
+msgid "Enter the line number:"
+msgstr "வரி எண் உள்ளிடவும்:"
+
+#: ustrings.msg_hinterrorcolumn
+msgid "Hint: You can check the details by enabling the \"Error\" column."
+msgstr "குறிப்பு:\" \"பிழை \" நெடுவரிசையை செயல்படுத்துவதன் மூலம் விவரங்களை நீங்கள் சரிபார்க்கலாம்."
+
+#: ustrings.msg_launching_first_time
+msgid "You are launching ReNamer for the first time."
+msgstr "முதல் முறையாக மறுபெயர்பாளரை ஆரம்பிக்கிறீர்கள்."
+
+#: ustrings.msg_loadnewnamesresult
+msgid "%d new filename(s) out of %d in the list were changed!"
+msgstr "%d புதிய கோப்புப்பெயர்(கள்) பட்டியலில் %d வெளியேற்றப்பட்டது!"
+
+#: ustrings.msg_nothingtorename
+msgid "Nothing to rename!"
+msgstr "மறுபெயரிட எதுவுமில்லை!"
+
+#: ustrings.msg_operationfailedduetoerror
+msgid "Operation failed due to an error:"
+msgstr "ஒரு பிழை காரணமாக இயக்கமானது தோல்வியடைந்தது:"
+
+#: ustrings.msg_overwritefilewithnewname
+msgid ""
+"Original Path: %s\n"
+"New Path: %s\n"
+"\n"
+"New Name is already taken by another file, delete that file permanently?\n"
+msgstr ""
+"அசல் பாதை:%s \n"
+"புதிய பாதை:%s \n"
+"\n"
+"புதிய பெயர் ஏற்கெனவே வேறொரு கோப்பில் எடுத்துக் கொள்ளப்பட்டு, நிரந்தரமாக அந்த கோப்பை நீக்க வேண்டுமா? \n"
+
+#: ustrings.msg_pascalscriptcompiledsuccesfully
+msgid "Compiled successfully!"
+msgstr "வெற்றிகரமாக தொகுக்கப்பட்டன!"
+
+#: ustrings.msg_pascalscriptnoscripts
+msgid "No Saved Scripts were found!"
+msgstr "சேமிக்கப்படாத ஸ்கிரிப்டுகள் கண்டுபிடிக்கப்படவில்லை!"
+
+#: ustrings.msg_pascalscriptsaveinvalid
+msgctxt "mystrings.msg_pascalscriptsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "தவறான பெயர்!"
+
+#: ustrings.msg_pascalscriptsavetext
+msgid "Enter a name for a script:"
+msgstr "உரையாக்கதிற்கான பெயரை உள்ளிடுக:"
+
+#: ustrings.msg_pascalscriptsavetitle
+msgid "Save Script"
+msgstr "உரையாக்கம் சேமி"
+
+#: ustrings.msg_presetsmanagerdeletepresetprompt
+msgid "Delete \"%s\" preset?"
+msgstr "முன்அமைப்பு \"%s\" நீக்கு?"
+
+#: ustrings.msg_presetsmanagereditwarning
+msgid ""
+"You are about to edit Preset file(s) manualy!\n"
+"If you are not sure in what you're doing - press Cancel.\n"
+"\n"
+"Proceed with this action?\n"
+msgstr ""
+"முன்னமைக்கப்பட்ட கோப்பு(கள்) கையேட்டை நீங்கள் தொகுக்கப் போகிறீர்கள்! \n"
+"நீங்கள் என்ன செய்கிறீர்கள் என்பதை உறுதியாக தெரியாவிட்டால் - ரத்துசெய் அழுத்தவும். \n"
+"\n"
+"இந்த செயலை தொடரலாமா? \n"
+
+#: ustrings.msg_presetsmanagerfailedcopy
+msgid "Could not copy the \"%s\" preset!"
+msgstr "முன்னமைக்கப்பட்ட \"%s \"ஐ நகலெடுக்க முடியவில்லை!"
+
+#: ustrings.msg_presetsmanagerfaileddelete
+msgid "Could not delete the \"%s\" preset!"
+msgstr "முன்னுரிமை \"%s \"ஐ நீக்க முடியவில்லை!"
+
+#: ustrings.msg_presetsmanagerfailedrename
+msgid "Could not rename the \"%s\" preset!"
+msgstr "\"%s \" முன்னுரிமையை மறுபெயரிட முடியவில்லை!"
+
+#: ustrings.msg_presetsmanagernewnamequerytext
+msgid "New Name:"
+msgstr "புதிய பெயர்:"
+
+#: ustrings.msg_presetsmanagernewnamequerytitle
+msgid "Rename Preset"
+msgstr "முன்அமைப்பு மறுபெயரிடு"
+
+#: ustrings.msg_previewexception
+msgid ""
+"Preview process has been terminated due to a critical error:\n"
+"\n"
+"%s\n"
+msgstr ""
+"ஒரு சிக்கலான பிழை காரணமாக முன்னோட்டம் செயல்முறை நிறுத்தப்பட்டது: \n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_renamefailedfiles
+msgid "%d file(s) failed to rename!"
+msgstr "%d கோப்பு(கள்) மறுபெயரிட தோல்வி!"
+
+#: ustrings.msg_renamenewnamesareempty
+msgid ""
+"All New Names are empty!\n"
+"\n"
+"Hint: Configure the Rules and click Preview button.\n"
+msgstr ""
+"அனைத்து புதிய பெயர்களும் காலியாக உள்ளன! \n"
+"\n"
+"குறிப்பு: விதிகள் கட்டமைக்கவும் மற்றும் முன்னோட்டம் பொத்தானைக் கிளிக் செய்யவும். \n"
+
+#: ustrings.msg_renameskippedunchangedfiles
+msgid "%d file(s) skipped because unchanged."
+msgstr "%d கோப்பு(கள்) மாறவில்லை, ஏனெனில் மாறவில்லை."
+
+#: ustrings.msg_renameskippedunmarkedfiles
+msgid "%d file(s) skipped because unmarked."
+msgstr "%d கோப்பு(கள்) குறிக்கப்படாததால் தவிர்க்கப்பட்டன."
+
+#: ustrings.msg_renamesuccessfulfiles
+msgid "%d file(s) successfully renamed."
+msgstr "%d கோப்பு(கள்) வெற்றிகரமாக மறுபெயரிடப்பட்டது."
+
+#: ustrings.msg_rulecasedescription
+msgid "Use this rule to change the case of the filename."
+msgstr "கோப்புப்பெயரின் வழக்கை மாற்ற இந்த விதி பயன்படுத்தவும்."
+
+#: ustrings.msg_rulecleanupdescription
+msgid "Use this rule to clean up the filename."
+msgstr "கோப்புப்பெயரை சுத்தம் செய்ய இந்த விதி பயன்படுத்தவும்."
+
+#: ustrings.msg_ruledeletedescription
+msgid "Use this rule to delete text from the filename."
+msgstr "கோப்புப்பெயரிலிருந்து உரையை நீக்க இந்த விதி பயன்படுத்தவும்."
+
+#: ustrings.msg_ruleextensiondescription
+msgid "Use this rule to change extension of the file."
+msgstr "கோப்பின் நீட்டிப்பை மாற்ற இந்த விதி பயன்படுத்தவும்."
+
+#: ustrings.msg_ruleinsertdescription
+msgid "Use this rule to insert text into the filename."
+msgstr "உரைப் பெட்டியில் உரையை நுழைக்க இந்த விதி பயன்படுத்தவும்."
+
+#: ustrings.msg_rulepaddingdescription
+msgid "Use this rule to add or remove padding in number sequences."
+msgstr "வரிசை வரிசைகளில் திணிப்புகளை சேர்க்க அல்லது நீக்குவதற்கு இந்த விதி பயன்படுத்தவும்."
+
+#: ustrings.msg_rulepascalscriptdescription
+msgid "Use this rule to script a user defined manipulations with filename."
+msgstr "இந்த விதிமுறையை ஒரு பயனீட்டாளர் வரையறுத்தலை ஸ்கிரிப்டில் எழுதவும்."
+
+#: ustrings.msg_rulerandomizedescription
+msgid "Use this rule to insert random sequences of characters into the filename."
+msgstr "கோப்புகளின் பெயரில் சீரற்ற காட்சிகளை சேர்க்க இந்த விதி பயன்படுத்தவும்."
+
+#: ustrings.msg_rulerearrangedescription
+msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
+msgstr "இந்த விதிமுறையை கோப்புப்பெயரின் பகுதிகளை பிரித்து அவற்றை ஒரு புதிய வடிவத்தில் மறுசீரமைக்கவும்."
+
+#: ustrings.msg_rulereformatdatedescription
+msgid "Use this rule to change format of date/time values in the filename."
+msgstr "கோப்பு பெயரில் தேதி / நேரம் மதிப்புகள் வடிவமைப்பை மாற்ற இந்த விதி பயன்படுத்தவும்."
+
+#: ustrings.msg_ruleregexdescription
+msgid "Use this rule to replace text in the filename using regular expressions."
+msgstr "வழக்கமான சொற்களஞ்சியங்களைப் பயன்படுத்தி கோப்புப் பெயரில் உரையை மாற்ற இந்த விதி பயன்படுத்தவும்."
+
+#: ustrings.msg_ruleremovedescription
+msgid "Use this rule to remove text from the filename."
+msgstr "கோப்புப்பெயரிலிருந்து உரையை அகற்ற இந்த விதி பயன்படுத்தவும்."
+
+#: ustrings.msg_rulereplacedescription
+msgid "Use this rule to replace text in the filename."
+msgstr "உரைப் படிவத்தில் உரைக்கு பதிலாக இந்த விதி பயன்படுத்தவும்."
+
+#: ustrings.msg_ruleserializedescription
+msgid "Use this rule to serialize the filename (add incremental numbers)."
+msgstr "கோப்புப் பெயரை வரிசைப்படுத்த (விதிவிலக்கான எண்களைச் சேர்க்க) இந்த விதி பயன்படுத்தவும்."
+
+#: ustrings.msg_rulestripdescription
+msgid "Use this rule to strip sets of characters from the filename."
+msgstr "கோப்புப்பெயரிலிருந்து எழுத்துக்களின் தொகுப்பை அகற்றுவதற்கு இந்த விதி பயன்படுத்தவும்."
+
+#: ustrings.msg_ruletranslitdescription
+msgid "Use this rule to transliterate letters in the filename from one language into another."
+msgstr "ஒரு மொழியிலிருந்து இன்னொரு மொழியிலிருந்து கோப்புப்பெயரில் எழுத்துக்களை மொழிபெயர்ப்பதற்கு இந்த விதி பயன்படுத்தவும்."
+
+#: ustrings.msg_ruleuserinputdescription
+msgid "Use this rule to assign names of files to the lines of text."
+msgstr "உரைகளின் பெயர்களுக்கு கோப்புகளின் பெயர்களை ஒதுக்க இந்த விதி பயன்படுத்தவும்."
+
+#: ustrings.msg_selectfolder
+msgid "Please select a folder:"
+msgstr "ஒரு கோப்புறையைத் தேர்ந்தெடுக்கவும்:"
+
+#: ustrings.msg_shellactionwarninglimit
+msgid "Are you sure you want to execute shell action on %d files?"
+msgstr "%d கோப்புகளில் ஷெல் செயலை இயக்க விரும்புகிறீர்களா?"
+
+#: ustrings.msg_shell_execute_error
+msgid ""
+"Could not open the following file:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+msgstr ""
+"பின்வரும் கோப்பை திறக்க முடியவில்லை: \n"
+"\n"
+"%s\n"
+"\n"
+"பிழை:%s (%d).\n"
+
+#: ustrings.msg_translitsaveinvalid
+msgctxt "mystrings.msg_translitsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "தவறான பெயர்!"
+
+#: ustrings.msg_translitsavetext
+msgid "Enter a name for a translit:"
+msgstr "ஒலிபெயர்ப்பு சேமிக்க பெயர் உள்ளீடு:"
+
+#: ustrings.msg_translitsavetitle
+msgid "Save Translit"
+msgstr "ஒலிபெயர்ப்பு சேமி"
+
+#: ustrings.msg_undoconfirmfiles
+msgid ""
+"Are you sure you want to undo renaming operation for %d file(s)?\n"
+"\n"
+"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
+msgstr ""
+"%d கோப்பு (கள்) க்கான மறுபெயர் இயக்கத்தை நீங்கள் நிச்சயமாக நீக்க வேண்டுமா? \n"
+"\n"
+"குறிப்பு: \" பழைய பாதை \"நெடுவரிசை செயல்படுத்துவதன் மூலம் நீங்கள் பாதைகளைச் செயல்தவிர்க்கலாம். \n"
+
+#: ustrings.msg_undoempty
+msgid "Nothing to undo!"
+msgstr "செயலிழக்க எதுவும் இல்லை!"
+
+#: ustrings.msg_undoresult
+msgid ""
+"Undo operation results:\n"
+"\n"
+"%d out of %d file(s) restored successfully!\n"
+msgstr ""
+"செயல்பாடு முடிவுகளை செயல்தவிர்: \n"
+"\n"
+"%d கோப்பு (கள்) இல் %d வெற்றிகரமாக மீட்டமைக்கப்பட்டது! \n"
+
+#: ustrings.msg_uninstallapplicationisrunning
+msgid ""
+"Seems that ReNamer is currently running.\n"
+"Please close it, before continuing...\n"
+msgstr ""
+"மறுபெயர்பாளர் தற்போது இயங்குகிறது என்று தெரிகிறது. \n"
+"தொடர முன், அதை மூடுக ... \n"
+
+#: ustrings.msg_validatedduplicatedfound
+msgid "%d of which have a duplicate in the list."
+msgstr "%d இதில் பட்டியலில் ஒரு பிரதி உள்ளது."
+
+#: ustrings.msg_validatedexceededfound
+#, fuzzy
+#| msgid "%d of which exceed MAX_PATH limitation."
+msgid "%d of which exceed max path length limitation."
+msgstr "MAX_PATH வரம்பை மீறும் %d."
+
+#: ustrings.msg_validatedexistingfound
+msgid "%d of which conflict with an existing file."
+msgstr "%d இது ஏற்கனவே இருக்கும் கோப்புடன் முரண்படுகிறது."
+
+#: ustrings.msg_validatedinvalidfound
+msgid "%d of which contain invalid characters."
+msgstr "%d இன் தவறான எழுத்துகள் கொண்டிருக்கும்."
+
+#: ustrings.msg_validatedmovedparentfound
+msgid "%d of which have a parent path changed earlier in the list."
+msgstr "முன்னதாக பட்டியலில் உள்ள பெற்றோர் பாதையை மாற்றப்பட்ட %d."
+
+#: ustrings.msg_validatedsuccessfuly
+msgid "Successfully validated!"
+msgstr "வெற்றிகரமாக சரிபார்க்கப்பட்டது!"
+
+#: ustrings.msg_validatewarninglimit
+msgid ""
+"Do you want to validate %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"%s கோப்புகள் சரிபார்க்க வேண்டுமா? \n"
+"\n"
+"இந்த செயல்பாடு பல நிமிடங்கள் ஆகலாம் ... \n"
+
+#: ustrings.msg_validationissuesdetected
+msgid "Validation has failed due to issues with %d file(s)."
+msgstr "%d கோப்பு (கள்) இல் சிக்கல் காரணமாக சரிபார்த்தல் தோல்வியடைந்தது."
+
+#: ustrings.name_addrule
+msgctxt "mystrings.name_addrule"
+msgid "Add Rule"
+msgstr "விதி சேர்"
+
+#: ustrings.name_addrulestext
+msgctxt "mystrings.name_addrulestext"
+msgid "Click here to add a rule"
+msgstr "ஒரு விதி சேர்க்க இங்கே கிளிக் செய்க"
+
+#: ustrings.name_addtorenamer
+msgid "Add to ReNamer"
+msgstr "மறுபெயர்பாளரில் சேர்"
+
+#: ustrings.name_analyzetextcursor
+msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
+msgstr "வரி =%d, நிலை =%d, வலது =%d, தேர்வு =%d"
+
+#: ustrings.name_browsescripts
+msgid "Browse Scripts..."
+msgstr "ஸ்கிரிப்ட்களை உலாவுக ..."
+
+#: ustrings.name_browsetranslits
+msgid "Browse Translits..."
+msgstr "மொழிபெயர்ப்பை உலாவும் ..."
+
+#: ustrings.name_cancelsorting
+msgctxt "mystrings.name_cancelsorting"
+msgid "Cancel Sorting"
+msgstr "வரிசைப்படுத்தலை ரத்துசெய்"
+
+#: ustrings.name_dragfilestext
+msgctxt "mystrings.name_dragfilestext"
+msgid "Drag your files here"
+msgstr "இங்கே உங்கள் கோப்புகளை இழுக்கவும்"
+
+#: ustrings.name_editrule
+msgctxt "mystrings.name_editrule"
+msgid "Edit Rule"
+msgstr "திருத்து விதி"
+
+#: ustrings.name_filescounter
+msgid "%s files"
+msgstr "%s கோப்புகள்"
+
+#: ustrings.name_filescounterwithsize
+msgid "%s files (%s)"
+msgstr "%s கோப்புகள் (%s)"
+
+#: ustrings.name_filters
+msgctxt "mystrings.name_filters"
+msgid "Filters"
+msgstr "வடிப்பான்கள்"
+
+#: ustrings.name_folderscounter
+msgid "%s folders"
+msgstr ""
+
+#: ustrings.name_loadwithpreset
+msgctxt "mystrings.name_loadwithpreset"
+msgid "Load with Preset"
+msgstr "முன்னமைவுடன் ஏற்றவும்"
+
+#: ustrings.name_markbymaskcaption
+msgctxt "mystrings.name_markbymaskcaption"
+msgid "Mark by Mask"
+msgstr "முகமூடி மார்க்"
+
+#: ustrings.name_markbymaskprompt
+msgctxt "mystrings.name_markbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"பல முகமூடிகள் அரைக்கால்களால் பிரிக்கப்படுகின்றன உதாரணமாக: * .jpg;*.doc\n"
+"\n"
+"முகமூடிகள்: \n"
+
+#: ustrings.name_overwrite
+msgid "Overwrite"
+msgstr "மேலெழுது"
+
+#: ustrings.name_rename
+msgctxt "mystrings.name_rename"
+msgid "Rename"
+msgstr "மறுபெயரிடு"
+
+#: ustrings.name_renamewithpreset
+msgctxt "mystrings.name_renamewithpreset"
+msgid "Rename with Preset"
+msgstr "முன்அமைப்புடன் மறுபெயரிடு"
+
+#: ustrings.name_rule_case
+msgid "Case"
+msgstr "வழக்கு"
+
+#: ustrings.name_rule_cleanup
+msgid "Clean Up"
+msgstr "சுத்தம் செய்"
+
+#: ustrings.name_rule_delete
+msgctxt "mystrings.name_rule_delete"
+msgid "Delete"
+msgstr "நீக்கு"
+
+#: ustrings.name_rule_extension
+msgctxt "mystrings.name_rule_extension"
+msgid "Extension"
+msgstr "நீட்டிப்பு"
+
+#: ustrings.name_rule_insert
+msgctxt "mystrings.name_rule_insert"
+msgid "Insert"
+msgstr "நுழைக்கவும்"
+
+#: ustrings.name_rule_padding
+msgid "Padding"
+msgstr "திணிப்பு"
+
+#: ustrings.name_rule_pascalscript
+msgid "Pascal Script"
+msgstr "பாஸ்கல் உரையாக்கம்"
+
+#: ustrings.name_rule_randomize
+msgid "Randomize"
+msgstr "வரிசையின்றி"
+
+#: ustrings.name_rule_rearrange
+msgid "Rearrange"
+msgstr "மறுசீரமைக்க"
+
+#: ustrings.name_rule_reformatdate
+msgid "Reformat Date"
+msgstr "தேதி மறுவடிவம்"
+
+#: ustrings.name_rule_regex
+msgid "Regular Expressions"
+msgstr "வழக்கமான கோவைகள்"
+
+#: ustrings.name_rule_remove
+msgctxt "mystrings.name_rule_remove"
+msgid "Remove"
+msgstr "நீக்கு"
+
+#: ustrings.name_rule_replace
+msgctxt "mystrings.name_rule_replace"
+msgid "Replace"
+msgstr "மாற்று"
+
+#: ustrings.name_rule_serialize
+msgid "Serialize"
+msgstr "வரிசையாக்கு"
+
+#: ustrings.name_rule_strip
+msgctxt "mystrings.name_rule_strip"
+msgid "Strip"
+msgstr "உரி"
+
+#: ustrings.name_rule_translit
+msgid "Translit"
+msgstr "ஒலிபெயர்ப்பு"
+
+#: ustrings.name_rule_userinput
+msgid "User Input"
+msgstr "பயனர் உள்ளீடு"
+
+#: ustrings.name_saverule
+msgid "Save Rule"
+msgstr "சேமிக்கும் விதி"
+
+#: ustrings.name_savescript
+msgid "Save Script..."
+msgstr "உரையாடல் சேமி..."
+
+#: ustrings.name_savetranslit
+msgid "Save Translit..."
+msgstr "ஒலிபெயர்ப்பு சேமி..."
+
+#: ustrings.name_selectbyextensioncaption
+msgctxt "mystrings.name_selectbyextensioncaption"
+msgid "Select by Extension"
+msgstr "நீட்டிப்பு மூலம் தேர்வு"
+
+#: ustrings.name_selectbyextensionprompt
+msgid ""
+"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
+"\n"
+"Extensions (without dots):\n"
+msgstr ""
+"அரைப்புள்ளிகளால் பல நீட்டிப்புகளை பிரிக்கலாம். உதாரணமாக: jpg;doc\n"
+"நீட்டிப்புகள் (புள்ளியில்லாமல்):\n"
+
+#: ustrings.name_selectbyfilenamelengthcaption
+msgid "Select by Filename Length"
+msgstr "கோப்புபெயர் அளவு மூலம் தேர்வு"
+
+#: ustrings.name_selectbyfilenamelengthprompt
+msgid "More than N characters:"
+msgstr "Nக்கும் மேற்பட்ட எழுத்துகள்:"
+
+#: ustrings.name_selectbymaskcaption
+msgctxt "mystrings.name_selectbymaskcaption"
+msgid "Select by Mask"
+msgstr "முகமூடி மூலம் தேர்வு"
+
+#: ustrings.name_selectbymaskprompt
+msgctxt "mystrings.name_selectbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"பல முகமூடிகளை காற்ப்புள்ளி மூலம் பிரிக்கலம். உதாரணம்: *.jpg;*.doc\n"
+"\n"
+"முகமூடிகள்:\n"
+
+#: ustrings.name_undo
+msgid "Undo"
+msgstr "செயல்தவிர்"
+
+#: ustrings.name_undofiles
+msgid "Undo %d file(s)"
+msgstr "%d கோப்பு(கள்) செயல்தவிர்"
+
+#: ustrings.sdatetimedays
+msgctxt "ustrings.sdatetimedays"
+msgid "Days"
+msgstr ""
+
+#: ustrings.sdatetimehours
+msgctxt "ustrings.sdatetimehours"
+msgid "Hours"
+msgstr ""
+
+#: ustrings.sdatetimemilliseconds
+msgctxt "ustrings.sdatetimemilliseconds"
+msgid "Milliseconds"
+msgstr ""
+
+#: ustrings.sdatetimeminutes
+msgctxt "ustrings.sdatetimeminutes"
+msgid "Minutes"
+msgstr ""
+
+#: ustrings.sdatetimemonths
+msgctxt "ustrings.sdatetimemonths"
+msgid "Months"
+msgstr ""
+
+#: ustrings.sdatetimeseconds
+msgctxt "ustrings.sdatetimeseconds"
+msgid "Seconds"
+msgstr ""
+
+#: ustrings.sdatetimeyears
+msgctxt "ustrings.sdatetimeyears"
+msgid "Years"
+msgstr ""
+
+#: ustrings.sfiltersallfiles
+msgid "All files"
+msgstr "அனைத்து கோப்புகள்"
+
+#: ustrings.sfiltersanyfile
+msgid "Any file"
+msgstr "எந்த ஒரு கோப்பு"
+
+#: ustrings.sfiltersarchives
+msgid "Archives"
+msgstr "காப்பகங்கள்"
+
+#: ustrings.sfiltersbatchfile
+msgid "Batch file"
+msgstr "தொகுதி கோப்பு"
+
+#: ustrings.sfilterscommaseparated
+msgid "comma separated"
+msgstr "காற்புள்ளி பிரிக்கபட்டவை"
+
+#: ustrings.sfiltersdocuments
+msgid "Documents"
+msgstr "ஆவண்ங்கள்"
+
+#: ustrings.sfiltersmusic
+msgid "Music"
+msgstr "இசை"
+
+#: ustrings.sfilterspictures
+msgid "Pictures"
+msgstr "படங்கள்"
+
+#: ustrings.sfiltersplaylist
+msgid "Play list"
+msgstr "இயக்கப்பட்டியல்"
+
+#: ustrings.sfilterspresets
+msgctxt "ustrings.sfilterspresets"
+msgid "Presets"
+msgstr "முன்அமைப்புகள்"
+
+#: ustrings.sfilterstabseparated
+msgid "tab separated"
+msgstr "தாவல்லால் பிரிக்கப்பட்டவை"
+
+#: ustrings.sfilterstextfiles
+msgid "Text files"
+msgstr "உரை கோப்புகள்"
+
+#: ustrings.sfilterstextlist
+msgid "Text list"
+msgstr "உரை பட்டியல்"
+

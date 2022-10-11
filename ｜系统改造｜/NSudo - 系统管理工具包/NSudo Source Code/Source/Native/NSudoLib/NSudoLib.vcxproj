@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{074549F9-9197-41FE-A8ED-8BFA2A0E2549}</ProjectGuid>
+    <RootNamespace>NSudoLib</RootNamespace>
+    <MileProjectType>StaticLibrary</MileProjectType>
+  </PropertyGroup>
+  <Import Project="..\Mile.Project.VisualStudio\Mile.Project.Cpp.props" />
+  <Import Project="..\Mile.Project.VisualStudio\Mile.Project.Cpp.VC-LTL.props" />
+  <ImportGroup Label="PropertySheets">
+    <Import Project="..\Mile\Mile.props" />
+  </ImportGroup>
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <PreprocessorDefinitions>NSUDOAPI_USING_STATIC_LIBRARY;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="M2.Base.cpp" />
+    <ClCompile Include="NSudoAPI.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="M2.Base.h" />
+    <ClInclude Include="NSudoAPI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="NSudoLib.props" />
+  </ItemGroup>
+  <Import Project="..\Mile.Project.VisualStudio\Mile.Project.Cpp.targets" />
+</Project>

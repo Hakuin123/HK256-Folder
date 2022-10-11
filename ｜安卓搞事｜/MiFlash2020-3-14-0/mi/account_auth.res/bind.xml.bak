@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window size="820,420" mininfo="820,420" maxinfo="820,420" caption="0,0,0,33">
+  <Include source="style.xml"/>
+  <VerticalLayout name="bg" bkimage="file='imgs/bg.png' corner='1,33,1,1'" childalign="center" childpadding="9">
+    <HorizontalLayout height="33">
+      <Container width="20" height="13" bkimage="file='icon.png'" padding="8,10,0,0"/>
+      <Label name="app_title_lbl" text="IDS_28" font="14" padding="7,0,0,0"/>
+    </HorizontalLayout>
+    <Label name="error_msg_label" text="" height="30" align="center" textcolor="#ff0000" padding="0,8,0,0"/>
+    <VerticalLayout width="770" childalign="center" childpadding="9">
+      <HorizontalLayout height="31">
+        <Label text="IDS_38" width="197" height="31" textcolor="#000000"/>
+        <MEdit name="pc_alias_name" height="31" placestring="IDS_39" placetextcolor="#8d8d8d" tooltip="IDS_39" bordercolor="#FF4EA0D1" bordersize="1"/>
+      </HorizontalLayout>
+      <HorizontalLayout height="31">
+        <Label text="IDS_40" width="197" height="31" textcolor="#000000"/>
+        <MEdit name="shop_address" height="31" placestring="IDS_41" tooltip="IDS_41" placetextcolor="#8d8d8d" bordercolor="#FF4EA0D1" bordersize="1"/>
+      </HorizontalLayout>
+      <HorizontalLayout height="31">
+        <Label text="IDS_42" width="197" height="31" textcolor="#000000"/>
+        <MEdit name="shop_phone" height="31" placestring="IDS_43" tooltip="IDS_43" placetextcolor="#8d8d8d" bordercolor="#FF4EA0D1" bordersize="1"/>
+      </HorizontalLayout>
+      <HorizontalLayout height="31">
+        <Label text="IDS_44" width="197" height="31" textcolor="#000000"/>
+        <MEdit name="shop_boss_name" height="31" placestring="IDS_45" tooltip="IDS_45" placetextcolor="#8d8d8d" bordercolor="#FF4EA0D1" bordersize="1"/>
+      </HorizontalLayout>
+      <HorizontalLayout height="31">
+        <Label text="IDS_46" width="197" height="31" textcolor="#000000"/>
+        <MEdit name="boss_id" height="31" placestring="IDS_47" tooltip="IDS_47" placetextcolor="#8d8d8d" bordercolor="#FF4EA0D1" bordersize="1"/>
+      </HorizontalLayout>
+      <HorizontalLayout height="31">
+        <Label text="IDS_48" width="197" height="31" textcolor="#000000"/>
+        <MEdit name="apply_note" height="31" placestring="IDS_49" tooltip="IDS_49" placetextcolor="#8d8d8d" bordercolor="#FF4EA0D1" bordersize="1"/>
+      </HorizontalLayout>
+      <HorizontalLayout height="52" width="450" padding="0,16,0,0">
+        <Button name="cancel_btn" width="180" font="14" text="IDS_50"
+                normalimage="file='btns/common_btn.png' source='0,0,142,42' corner='10,10,10,10'"
+                hotimage="file='btns/common_btn.png' source='142,0,284,42' corner='10,10,10,10'"
+                pushedimage="file='btns/common_btn.png' source='284,0,426,42' corner='10,10,10,10'"/>
+        <Button name="bind_btn" width="180" font="14" text="IDS_51" padding="90,0,0,0"
+                normalimage="file='btns/common_btn.png' source='0,0,142,42' corner='10,10,10,10'"
+                hotimage="file='btns/common_btn.png' source='142,0,284,42' corner='10,10,10,10'"
+                pushedimage="file='btns/common_btn.png' source='284,0,426,42' corner='10,10,10,10'"/>
+      </HorizontalLayout>
+    </VerticalLayout>
+  </VerticalLayout>
+</Window>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window size="560,400" mininfo="560,400" maxinfo="560,400" caption="0,0,0,33">
+  <Include source="style.xml" />
+  <VerticalLayout name="bg" bkimage="file='imgs/bg.png' corner='1,33,1,1'" childalign="center">
+    <Include source="topbar.xml"/>
+    <Include source="mi_login_ui.xml"/>
+    <Include source="check.xml"/>
+  </VerticalLayout>
+</Window>

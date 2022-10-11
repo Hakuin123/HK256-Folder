@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    
+    <Authors>M2-Team</Authors>
+    <Company>M2-Team</Company>
+    <Copyright>© M2-Team and Contributors. All rights reserved.</Copyright>
+    <Version>8.0.1</Version>
+    <Product>NSudo</Product>
+    <Description>NSudo Shared Library .Net Wrapper</Description>
+
+    <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>

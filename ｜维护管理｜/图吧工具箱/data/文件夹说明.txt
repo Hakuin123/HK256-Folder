@@ -1,0 +1,7 @@
+用于存放硬件信息数据库，可删除，删除后部分硬件仅显示ID或标识。
+
+
+彩蛋 (显示各大显卡厂戏称，例如打人硕、凄惨红、难保石、拒保嘉等等)：
+Graphicscard.edb改名为Graphicscard.bak
+然后Graphicscard2.edb改名为Graphicscard.edb
+重启工具箱
