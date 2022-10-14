@@ -10,7 +10,9 @@
 所有资源仅供学习交流，严禁用于商业用途。
 请遵循相应资源的版权许可证（如有）。
 ```
+[一键下载整个文件夹](https://github.com/Hakuin123/HK256-Folder/archive/refs/heads/main.zip)
 
+注：这些内容未必是对应软件的最新版本。若有版本低于正式版本，请[提交Issue](https://github.com/Hakuin123/HK256-Folder/issues/new)与我们反馈更新
 ---
 
 ## ｜安卓搞事｜
