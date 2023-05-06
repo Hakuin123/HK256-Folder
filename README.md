@@ -78,10 +78,9 @@
 - 【高危文件】
   - 【文件备份】（去扩展名）
     - 42.zip
-    - HEU_KMS_Activator_v25.0.0.exe
     - MEMZ.exe
   - [42.zip](https://unforgettable.dk) - 压缩包炸弹示例文件（解压密码：42）
-  - MEMZ.exe
+  - [MEMZ.exe]()
 - [冰点密码查看器](https://www.52pojie.cn/thread-1177299-1-1.html)
 - [ToDesk_Setup.exe](https://www.todesk.com/download.html)（[未降画质旧版](https://dl.todesk.com/irrigation/ToDesk_4.2.9.exe)） - 远程控制软件
 - VMware15 密钥生成器.exe
@@ -91,3 +90,4 @@
 ## ｜资源管理｜
 - [Everything-1.4.1.1017.x86](https://www.voidtools.com/zh-cn)
 - [ReNamer-7.3](https://www.den4b.com/products/renamer)
+- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html)
