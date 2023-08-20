@@ -31,6 +31,7 @@
 > Windows 8 及以上版本自带 ADB 驱动，请确定只有自己电脑无法识别设备后再安装驱动，否则多个 ADB 驱动可能导致设备连接异常。
 
 ## ｜实用外挂｜
+- [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg)（[汉化版](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)） - 基于 Clash 和 Electron 的 Windows/macOS/Linux GUI
 - [迅雷PC精简版](https://www.baidu.com/s?ie=UTF-8&wd=%E8%BF%85%E9%9B%B7PC%E7%B2%BE%E7%AE%80%E7%89%88)（未找到官方出处） - 精简版迅雷
 - [P C L 高 速 下 崽 器](https://github.com/Hex-Dragon/PCL2) - 你还真别说，PCL支持自定义多线程下载任务，最高支持256线程
 - [FastCopy](https://fastcopy.jp) - 声称是“Windows上最快的复制/备份软件”
