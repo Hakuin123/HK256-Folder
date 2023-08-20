@@ -13,7 +13,7 @@
 所有资源仅供学习交流，严禁用于商业用途。请遵循相应资源的版权许可证（如有）。
 ```
 
-[一键下载白熊文件夹（.zip）](https://github.com/Hakuin123/HK256-Folder/releases/download/latest/HK256-Folder.zip)[^Tips]
+[一键下载白熊文件夹（.zip）](https://github.com/Hakuin123/HK256-Folder/releases/latest/download/HK256-Folder.zip)[^Tips]
 
 [^Tips]: 这些内容未必是对应软件的最新版本，可[提交Issue](https://github.com/Hakuin123/HK256-Folder/issues/new)提醒我们更新
 
