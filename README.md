@@ -30,9 +30,10 @@
 
 > Windows 8 及以上版本自带 ADB 驱动，请确定只有自己电脑无法识别设备后再安装驱动，否则多个 ADB 驱动可能导致设备连接异常。
 
-## ｜收藏吃灰｜
-- [USB速率表.xlsx](https://www.jamcz.com/tutorial/usbspeed) - 便捷查询不同 USB 版本的理论传输速率
-- [保密文件夹1.0.exe](https://www.jamcz.com/sfolder) - 由 [@晨钟酱Official](https://space.bilibili.com/251013709) 开发的利用Windows文件夹名称bug开发的创建保密文件夹工具
+## ｜实用外挂｜
+- [迅雷PC精简版](https://www.baidu.com/s?ie=UTF-8&wd=%E8%BF%85%E9%9B%B7PC%E7%B2%BE%E7%AE%80%E7%89%88)（未找到官方出处） - 精简版迅雷
+- [P C L 高 速 下 崽 器](https://github.com/Hex-Dragon/PCL2) - 你还真别说，PCL支持自定义多线程下载任务，最高支持256线程
+- [FastCopy](https://fastcopy.jp) - 声称是“Windows上最快的复制/备份软件”
 
 ## ｜玩转Win11｜
 - [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - 适用于 Windows 10/11 的通用 MCT 封装脚本
@@ -78,10 +79,6 @@
 - [NSudo](https://m2team.org)（[GitHub链接](https://github.com/M2Team/NSudo)） - Windows 进程提权运行工具
 - [Windows管理工具](https://docs.microsoft.com/zh-cn/windows/client-management/administrative-tools-in-windows-10) - 控制面板提取：Control Panel\System and Security\Administrative Tools
 
-## ｜下载外挂｜
-- [迅雷PC精简版](https://www.baidu.com/s?ie=UTF-8&wd=%E8%BF%85%E9%9B%B7PC%E7%B2%BE%E7%AE%80%E7%89%88)（未找到官方出处） - 精简版迅雷
-- [P C L 高 速 下 崽 器](https://github.com/Hex-Dragon/PCL2) - 你还真别说，PCL支持自定义多线程下载任务，最高支持256线程
-
 ## ｜整活神器｜
 > *请确保你知道你在做什么！仅供系统管理员学习研究使用，禁止用于非法用途，白熊文件夹不承担任何责任*
 - 【高危文件】
@@ -91,8 +88,9 @@
   - VMware15 密钥生成器.exe - 懂的都懂
 - [冰点密码查看器（吾爱破解转载）](https://www.52pojie.cn/thread-1177299-1-1.html) - 冰点还原密码查看工具
 - [ToDesk_Setup.exe](https://www.todesk.com/download.html)（[未降画质旧版](https://dl.todesk.com/irrigation/ToDesk_4.2.9.exe)） - 远程控制软件
+- [保密文件夹](https://www.jamcz.com/sfolder) - 由 [@晨钟酱Official](https://space.bilibili.com/251013709) 开发的利用Windows文件夹名称bug开发的创建保密文件夹工具
 - [滑动以关闭电脑](file:///C:/Windows/System32/SlideToShutDown.exe) - SlideToShutDown
-- [拖堂终结者3.0.xml](https://github.com/Hakuin123/DelayKiller) - 借助 Windows 任务计划程序下课时防止拖堂
+- [拖堂终结者.xml](https://github.com/Hakuin123/DelayKiller) - 借助 Windows 任务计划程序下课时防止拖堂
 
 ## ｜资源管理｜
 - [Everything](https://www.voidtools.com) - NTFS格式磁盘文件搜索工具
