@@ -68,6 +68,7 @@
 - [Geek Uninstaller](https://geekuninstaller.com) - Windows 软件卸载工具
 - [Windows 常用蓝屏代码说明.mhtml](https://consumer.huawei.com/cn/support/content/zh-cn15760035)（[原页面](https://consumer.huawei.com/cn/support/content/zh-cn00696456)已失效） - ~~听名字就知道是什么~~
 - [计算机蓝屏怎么办？_华为官网](https://consumer.huawei.com/cn/support/content/zh-cn15801837) - 华为提供的 Windows 蓝屏解决方案
+- [蓝屏诊断分析工具](https://tools.lenovo.com.cn/exeTools/detail/id/252/rid/546204.html) - 联想出品的蓝屏诊断分析工具
 
 ## ｜系统改造｜
 - [DiskGenius](https://www.diskgenius.cn) - 磁盘数据恢复及分区管理软件
