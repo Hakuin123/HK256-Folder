@@ -19,39 +19,43 @@
 ---
 
 ## ｜安卓搞事｜
-- [搞机工具箱](https://jamcz.com/gjgjx)
-- [鸿蒙工具箱](https://pan.lanzoux.com/u/氢氧化苯)
+- [搞机工具箱](https://jamcz.com/gjgjx) - 由 [@晨钟酱Official](https://space.bilibili.com/251013709) 开发的利用 ADB 控制手机的玩机工具
+- [鸿蒙工具箱](https://pan.lanzoux.com/u/氢氧化苯) - 由 [@一只靓仔琦](https://space.bilibili.com/430813939) 开发的利用 ADB 专为兼容 AOSP 的 HarmonyOS 设备使用的玩机工具
 - [投屏控制器](https://jamcz.com/wirecast)
-- [MiFlash2020-3-14-0](https://xiaomirom.com/download-xiaomi-flash-tool-miflash)（含注意事项）
-- [ADBDriverInstaller.exe](http://adbdriver.com)
+- [Android SDK 平台工具](https://developer.android.google.cn/studio/releases/platform-tools?hl=zh-cn) - Android 官方 ADB&Fastboot 工具
+- [Google USB 驱动程序](https://developer.android.google.cn/studio/run/win-usb) - Google 官方 USB 驱动
+- [MiFlash](https://xiaomirom.com/download-xiaomi-flash-tool-miflash) - 小米刷机工具，同时可辅助安装 ADB&Fastboot 驱动
+- [ADBDriverInstaller.exe](http://adbdriver.com) - 安装 ADB&Fastboot 驱动
+
+> Windows 8 及以上版本自带 ADB 驱动，请确定只有自己电脑无法识别设备后再安装驱动，否则多个 ADB 驱动可能导致设备连接异常。
 
 ## ｜收藏吃灰｜
-- [钉钉内网穿透（全平台）](https://github.com/open-dingtalk/dingtalk-pierced-client)
-- [Ghelper-v2.6.2.crx](https://ghelper.net)
-- [USB速率表.xlsx](https://www.jamcz.com/tutorial/usbspeed/)
-- [保密文件夹1.0.exe](https://www.jamcz.com/sfolder)
+- [USB速率表.xlsx](https://www.jamcz.com/tutorial/usbspeed) - 便捷查询不同 USB 版本的理论传输速率
+- [保密文件夹1.0.exe](https://www.jamcz.com/sfolder) - 由 [@晨钟酱Official](https://space.bilibili.com/251013709) 开发的利用Windows文件夹名称bug开发的创建保密文件夹工具
 
 ## ｜玩转Win11｜
-- [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat)
-- [ViVeTool_GUI](https://github.com/PeterStrick/ViVeTool-GUI)
+- [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - 适用于 Windows 10/11 的通用 MCT 封装脚本
+- [ViVeTool_GUI](https://github.com/PeterStrick/ViVeTool-GUI) - 基于 [ViVeTool](https://github.com/thebookisclosed/ViVe) 的 Windows Insider 版本中的新隐藏功能控制 GUI 工具
 - WSA子系统安装教程&资源
+  - Microsoft.UI.Xaml.2.8_x64.Appx
+  - Microsoft.VCLibs.Appx
+  > 安装WSA：访问 https://store.rg-adguard.net ，选择`ProductId`,输入`9P3395VX91NR`，下载`Microsoft.UI.Xaml.2.8_x64.Appx` `Microsoft.VCLibs.Appx` `MicrosoftCorporationII.WindowsSubsystemForAndroid_XXXX.msixbundle`字样的文件，以管理员身份启动PowerShell，分别输入`Add-AppxPackage  <上述三个文件的路径，可直接拖入文件以生成路径>`即可（注意优先安装前两个）。
 - [WSA子系统助手_V1.0](https://www.jamcz.com/subassist)
-- AppraiserRes.dll（Win10 LTSC提取，偷梁换柱win11的iso文件）
-- [OfflineInsiderEnroll【汉化by白隐Hakuin】](https://github.com/Hakuin123/offlineinsiderenroll-zh-hans)
-- [解除微软账户和本地账户绑定【by白隐Hakuin】](https://github.com/Hakuin123/Unbind-MS-Acct-From-LocalAcct)
-- [跳过动态更新时的TPM检查](https://github.com/AveYo/MediaCreationTool.bat/blob/main/bypass11/Skip_TPM_Check_on_Dynamic_Update.cmd)
+- AppraiserRes.dll - 提取自Win10 LTSC的ISO镜像文件，偷梁换柱Win11的ISO文件以绕过Win11安装程序硬件限制
+- [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenrolls) - 在未使用 Microsoft 帐户登录的计算机上访问 Windows Insider
+- [Unbind-MS-Acct【by白隐Hakuin】](https://github.com/Hakuin123/Unbind-MS-Acct) - Win10/11 解除微软帐户与本地帐户绑定
+- [跳过动态更新时的TPM检查](https://github.com/AveYo/MediaCreationTool.bat/blob/main/bypass11/Skip_TPM_Check_on_Dynamic_Update.cmd) - 一劳永逸跳过Windows Update更新时的硬件检查
 
 ## ｜网盘工具｜
-- [伪PanDownload](https://www.lanzoux.com/iecFO07cx3ij)
-- 阿里云盘变本地硬盘
-- 百度网盘迁移阿里网盘工具
+- [Alist](https://alist.nn.ci) - 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs
+- [RaiDrive](https://www.raidrive.com) - 在文件资源管理器中挂载云存储、NAS 作为驱动器
 
 ## ｜维护管理｜
-- [360系统急救箱](https://weishi.360.cn/jijiuxiang)
-  - 360compkill32
-  - 360compkill64
-  - [SuperKillerWinPE32](https://down.360safe.com/SuperKillerWinPE.zip)
-  - [SuperKillerWinPE64](https://down.360safe.com/SuperKillerWinPE64.zip)
+- [360系统急救箱](https://weishi.360.cn/jijiuxiang) - 查杀电脑恶性病毒
+  - 32位版（360compkill32）
+  - 64位版（360compkill64）
+  - [WinPE 32位版](https://down.360safe.com/SuperKillerWinPE.zip)
+  - [WinPE 64位版](https://down.360safe.com/SuperKillerWinPE64.zip)
 - [Mem Reduct](https://www.henrypp.org/product/memreduct)
 - [SoftCnKiller2.70](https://free.lanzoux.com/b0cpu1guf)
 - [屏蔽flash广告方法（FF新推荐）](https://free.lanzoux.com/iazw2yd)
